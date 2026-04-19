@@ -1,0 +1,38 @@
+name: Update Local News Feed
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch latest local news
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit updated news feed
+        run: |
+          if git diff --quiet -- assets/data/news.json assets/data/news.js; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/data/news.json assets/data/news.js
+          git commit -m "chore(news): refresh local news feed"
+          git push
