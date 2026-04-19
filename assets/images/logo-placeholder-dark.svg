@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Strong Towns Indianapolis placeholder logo dark mode</title>
+  <desc id="desc">Dark mode placeholder logo block for the Strong Towns Indianapolis header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#192022" />
+      <stop offset="100%" stop-color="#1f2d31" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)" />
+  <rect x="26" y="26" width="1148" height="268" rx="20" fill="none" stroke="#3a4a4f" stroke-width="4" stroke-dasharray="12 10" />
+  <text x="600" y="138" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="44" font-weight="700" fill="#b7e2c7">
+    STRONG TOWNS INDIANAPOLIS
+  </text>
+  <text x="600" y="198" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" fill="#a5c9ff">
+    Logo Placeholder
+  </text>
+</svg>
