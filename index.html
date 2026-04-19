@@ -417,6 +417,50 @@ FUTURE IDEAS
       gap: 0.4rem;
     }
 
+    .map-detail-toolbar {
+      position: absolute;
+      top: 0.9rem;
+      right: 0.9rem;
+      z-index: 3;
+    }
+
+    .map-detail-close {
+      width: 2rem;
+      height: 2rem;
+      border: 1px solid var(--border-subtle);
+      border-radius: 999px;
+      background: var(--card-bg);
+      color: var(--muted-text);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 2;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .map-detail-heading {
+      padding-right: 2.6rem;
+    }
+
+    .map-detail-close:hover {
+      background: var(--legend-pill-bg);
+      color: var(--text-main);
+    }
+
+    body.dark-mode .map-detail-close {
+      background: #1f2526;
+      border-color: #31393b;
+    }
+
+    body.dark-mode .map-detail-close:hover {
+      background: #2b3335;
+    }
+
     .map-detail-panel::before {
       content: "";
       position: absolute;
@@ -462,6 +506,47 @@ FUTURE IDEAS
       font-size: 0.9rem;
     }
 
+    .map-detail-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      margin-top: 0.75rem;
+    }
+
+    .map-detail-action-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      flex: 1 1 0;
+      min-width: 0;
+      gap: 0.4rem;
+      padding: 0.65rem 0.95rem;
+      border-radius: 10px;
+      border: 1px solid #d0d5cd;
+      background: #ffffff;
+      color: #3D7E5A;
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-decoration: none;
+      cursor: pointer;
+      transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+    }
+
+    .map-detail-action-btn:hover {
+      background: #f5faf6;
+      text-decoration: none;
+    }
+
+    body.dark-mode .map-detail-action-btn {
+      background: #1f2526;
+      border-color: #31393b;
+      color: #7BD9A0;
+    }
+
+    body.dark-mode .map-detail-action-btn:hover {
+      background: #2b3335;
+    }
+
     .map-detail-empty {
       font-size: 0.9rem;
       color: var(--muted-text);
@@ -473,11 +558,30 @@ FUTURE IDEAS
       }
 
       .map-detail-panel {
-        order: -1;
-        position: static;
+        order: 1;
+        position: relative;
         width: auto;
         max-height: none;
         overflow: visible;
+        margin-top: 0.6rem;
+      }
+
+      .map-detail-panel.map-detail-panel--anim {
+        animation: none;
+      }
+
+      .map-detail-toolbar {
+        top: 0.8rem;
+        right: 0.8rem;
+      }
+
+      .map-detail-actions {
+        gap: 0.55rem;
+      }
+
+      .map-detail-action-btn {
+        flex: 1 1 0;
+        min-width: 0;
       }
     }
 
@@ -842,6 +946,7 @@ FUTURE IDEAS
       align-items: center;
       gap: 0.55rem;
       padding: 0.7rem 0.85rem;
+      min-height: 46px;
       border-radius: 14px;
       border: 1px solid var(--border-subtle);
       background: var(--upcoming-pill-bg);
@@ -885,6 +990,7 @@ FUTURE IDEAS
       display: inline-flex;
       align-items: center;
       gap: 0.45rem;
+      white-space: nowrap;
     }
 
     .project-filter-btn:hover {
@@ -1162,6 +1268,10 @@ FUTURE IDEAS
       list-style: none;
       padding: 0;
       margin: .4rem 0 0;
+    }
+
+    .link-list li + li {
+      margin-top: .55rem;
     }
 
     .link-tag {
@@ -1612,13 +1722,33 @@ FUTURE IDEAS
       margin-left: -19px;
       margin-top: -19px;
       border-radius: 50%;
-      text-align: center;
-      background-clip: padding-box;
-      line-height: 36px;
-      font-size: 13px;
-      font-weight: 600;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 4px;
       box-shadow: 0 3px 8px rgba(0,0,0,0.25);
       border: 1px solid rgba(0,0,0,0.12);
+    }
+
+    .marker-cluster span {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(255,255,255,0.92);
+      color: var(--text-main);
+      font-size: 13px;
+      font-weight: 700;
+      line-height: 1;
+      box-shadow: inset 0 0 0 1px rgba(0,0,0,0.06);
+    }
+
+    body.dark-mode .marker-cluster span {
+      background: rgba(24, 28, 29, 0.9);
+      color: var(--text-main);
+      box-shadow: inset 0 0 0 1px rgba(255,255,255,0.06);
     }
 
     /* Contact quick form */
@@ -1644,6 +1774,188 @@ FUTURE IDEAS
     @media (max-width: 720px) {
       .contact-quick-grid {
         grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      main {
+        padding: 1rem 0.9rem 0;
+      }
+
+      section {
+        margin-bottom: 1.5rem;
+        padding: 1.2rem 1rem;
+        border-radius: 14px;
+      }
+
+      .header-inner {
+        padding: 1.5rem 0.9rem 1rem;
+      }
+
+      .about-layout {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+      }
+
+      .about-layout h1 {
+        font-size: 1.45rem;
+      }
+
+      .about-image {
+        display: none;
+      }
+
+      .bench-count-badge {
+        width: 100%;
+        justify-content: center;
+        text-align: center;
+        flex-wrap: wrap;
+      }
+
+      .project-browser-toolbar {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .view-toggle {
+        align-self: flex-start;
+      }
+
+      .project-search-shell {
+        flex: 0 0 auto;
+        width: 100%;
+        padding: 0.55rem 0.75rem;
+        min-height: 42px;
+      }
+
+      .project-filter-row,
+      .news-filter-row {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        padding-bottom: 0.2rem;
+        scrollbar-width: thin;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .project-filter-row::-webkit-scrollbar,
+      .news-filter-row::-webkit-scrollbar {
+        height: 6px;
+      }
+
+      .map-wrapper,
+      #map {
+        min-height: 360px;
+        height: 360px;
+      }
+
+      .map-detail-panel {
+        padding: 1rem;
+      }
+
+      .cta-row {
+        flex-direction: column;
+      }
+
+      .primary-btn,
+      .secondary-btn {
+        width: 100%;
+        justify-content: center;
+      }
+
+      .upcoming-title {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.3rem;
+      }
+
+      .news-card {
+        padding: 0.75rem 0.8rem;
+      }
+
+      .news-header {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 0.55rem;
+      }
+
+      .news-thumb {
+        width: 72px;
+        height: 56px;
+      }
+    }
+
+    @media (max-width: 520px) {
+      body {
+        font-size: 15px;
+      }
+
+      .mode-toggle-wrapper {
+        top: 0.65rem;
+        right: 0.65rem;
+      }
+
+      #modeToggle {
+        padding: 0.42rem 0.6rem;
+        font-size: 1.25rem;
+      }
+
+      h2 {
+        font-size: 1.15rem;
+      }
+
+      .about-layout h1 {
+        font-size: 1.3rem;
+      }
+
+      .map-controls {
+        top: 10px;
+        right: 10px;
+        gap: 6px;
+      }
+
+      .map-btn {
+        width: 34px;
+        height: 34px;
+      }
+
+      .map-search-panel {
+        top: 52px;
+      }
+
+      .map-wrapper,
+      #map {
+        min-height: 300px;
+        height: 300px;
+      }
+
+      .project-card {
+        padding: 0.72rem 0.8rem;
+      }
+
+      .project-card-title {
+        font-size: 0.92rem;
+      }
+
+      .project-card-meta {
+        font-size: 0.7rem;
+      }
+
+      .project-card-copy {
+        font-size: 0.78rem;
+      }
+
+      .project-icon-link {
+        width: 1.6rem;
+        height: 1.6rem;
+      }
+
+      .link-tag {
+        display: inline-flex;
+        margin-left: 0;
+        margin-top: 0.28rem;
+      }
+
+      .contact-quick-form {
+        padding: 0.9rem 0.9rem 1rem;
       }
     }
 
@@ -1829,7 +2141,7 @@ FUTURE IDEAS
 
           </div>
 
-          <aside id="mapDetailPanel" class="map-detail-panel">
+          <aside id="mapDetailPanel" class="map-detail-panel" hidden>
             <div class="map-detail-empty">
               <h3 class="map-detail-title">Project details</h3>
               <p>Select a project from the map or list to see details and how to help.</p>
@@ -1849,7 +2161,7 @@ FUTURE IDEAS
           data-contact-reason="Suggest a local project"
         >
           <i class="fa-solid fa-location-dot"></i>
-          <span>Suggest a project</span>
+          <span>Add a project</span>
         </a>
 
         <a
@@ -1858,7 +2170,7 @@ FUTURE IDEAS
           data-contact-reason="Update or report an issue on a listed project"
         >
           <i class="fa-solid fa-screwdriver-wrench"></i>
-          <span>Send an update</span>
+          <span>Share an update</span>
         </a>
       </div>
     </section>
@@ -1916,7 +2228,7 @@ FUTURE IDEAS
         <li>Local sponsors for supplies, signage, and safety support</li>
       </ul>
       <p>
-        Use the contact form below and choose “Join / support a project” so we can connect
+        Use the contact form below and choose “Volunteer / support a project” so we can connect
         you with an active project team.
       </p>
 
@@ -1927,7 +2239,7 @@ FUTURE IDEAS
           data-contact-reason="Join / support a project"
         >
           <i class="fa-solid fa-hand-holding-heart"></i>
-          <span>Join a project</span>
+          <span>Support a project</span>
         </a>
 
         <a
@@ -1936,7 +2248,7 @@ FUTURE IDEAS
           data-contact-reason="General question or comment"
         >
           <i class="fa-solid fa-comments"></i>
-          <span>Discuss other ways to help</span>
+          <span>Ask about other ways to help</span>
         </a>
       </div>
     </section>
@@ -2001,52 +2313,52 @@ FUTURE IDEAS
     </section>
 
     <section id="contact">
-      <h2>Suggest a project, share an update, or get involved.</h2>
+      <h2>Help improve the project map or get involved.</h2>
 
       <div id="reportContext" class="report-context" hidden>
         <i id="reportContextIcon" class="fa-solid fa-screwdriver-wrench"></i>
-        <span class="report-context-label">REPORTING AN ISSUE</span>
+        <span class="report-context-label">PROJECT MAP MESSAGE</span>
         <span id="reportContextText" class="report-context-text">Project</span>
       </div>
 
-      <p>This single form handles everything:</p>
+      <p>Use this form to send project leads, map corrections, updates, and ways you want to help.</p>
 
       <ul style="margin:.4rem 0 1rem; padding-left:1.1rem;">
-        <li><b>Suggest a new local project</b></li>
-        <li><b>Share updates on listed projects</b></li>
-        <li><b>Join an active project team</b></li>
+        <li><b>Add a local project to the map</b></li>
+        <li><b>Share updates or corrections about a mapped project</b></li>
+        <li><b>Volunteer, partner, or support a project team</b></li>
       </ul>
 
       <form id="contactQuickForm" class="contact-quick-form">
         <div class="contact-quick-grid">
           <div class="field">
-            <label for="qcReason">What are you reaching out about?</label>
+            <label for="qcReason">What would you like to do?</label>
             <select id="qcReason" name="qcReason" required>
               <option value="">Select one…</option>
-              <option value="Suggest a local project">Suggest a new local project</option>
-              <option value="Update or report an issue on a listed project">Share an update / issue</option>
-              <option value="Join / support a project">Join / support a project</option>
-              <option value="General question or comment">General comment or question</option>
+              <option value="Suggest a local project">Add a project to the map</option>
+              <option value="Update or report an issue on a listed project">Share an update or correction</option>
+              <option value="Join / support a project">Volunteer / support a project</option>
+              <option value="General question or comment">Ask a question about the project map</option>
             </select>
           </div>
 
           <div class="field">
-            <label for="qcProjectRef">Project name or location (if you know it)</label>
+            <label for="qcProjectRef">Project name, location, or map link (if you have it)</label>
             <input
               type="text"
               id="qcProjectRef"
               name="qcProjectRef"
-              placeholder="Cross streets, address, or project ID"
+              placeholder="Project name, cross streets, address, or neighborhood"
             />
           </div>
         </div>
 
         <button type="submit" class="primary-btn contact-submit-btn">
           <i class="fa-solid fa-paper-plane"></i>
-          <span>Open full form</span>
+          <span>Open contact form</span>
         </button>
         <p class="muted contact-hint">
-          We’ll open the Google Form with this info pre-filled so you can add details &amp; submit.
+          We’ll open the full contact form with this info pre-filled so you can finish filling it out and send it our way.
         </p>
       </form>
     </section>
@@ -2262,11 +2574,15 @@ FUTURE IDEAS
     updateLogoForMode();
   })();
 
+  const MIN_MAP_ZOOM = 10;
+  const MAX_MAP_ZOOM = 18;
   const TARGET_MARKER_ZOOM = 18;
   const MARKER_OFFSET_Y = -30;
   const DESKTOP_PANEL_BREAKPOINT = 901;
 
   map = L.map("map", {
+    minZoom: MIN_MAP_ZOOM,
+    maxZoom: MAX_MAP_ZOOM,
     zoomAnimation: true,
     markerZoomAnimation: true,
     fadeAnimation: true,
@@ -2666,12 +2982,7 @@ FUTURE IDEAS
     if (!mapDetailPanel) return;
 
     if (!html) {
-      mapDetailPanel.innerHTML = `
-        <div class="map-detail-empty">
-          <h3 class="map-detail-title">Project details</h3>
-          <p>Select a project from the map or list to see status, details, and how to help.</p>
-        </div>
-      `;
+      mapDetailPanel.hidden = true;
 
       if (mapLayoutEl) {
         mapLayoutEl.classList.remove("has-selection");
@@ -2680,7 +2991,20 @@ FUTURE IDEAS
       return;
     }
 
-    mapDetailPanel.innerHTML = html;
+    mapDetailPanel.hidden = false;
+    mapDetailPanel.innerHTML = `
+      <div class="map-detail-toolbar">
+        <button
+          type="button"
+          class="map-detail-close"
+          aria-label="Close project details"
+          title="Close"
+        >
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      ${html}
+    `;
 
     if (mapLayoutEl) {
       mapLayoutEl.classList.add("has-selection");
@@ -2849,35 +3173,69 @@ FUTURE IDEAS
     return map.unproject(L.point(point.x, point.y - MARKER_OFFSET_Y), zoom);
   }
 
+  function getClusterBackground(cluster) {
+    const categoryCounts = new Map();
+
+    cluster.getAllChildMarkers().forEach((marker) => {
+      const categoryKey = marker.options.categoryKey || "other";
+      const current = categoryCounts.get(categoryKey) || {
+        count: 0,
+        color: marker.options.categoryColor || "var(--trail-gray)",
+      };
+      current.count += 1;
+      categoryCounts.set(categoryKey, current);
+    });
+
+    const categories = Array.from(categoryCounts.values()).sort((a, b) => b.count - a.count);
+    if (!categories.length) return "var(--trail-gray)";
+    if (categories.length === 1) return categories[0].color;
+
+    const total = categories.reduce((sum, item) => sum + item.count, 0);
+    const featherWindow = 2.8;
+    let currentStop = 0;
+    const visibleCategories = categories.slice(0, 4);
+    const gradientStops = [];
+
+    visibleCategories.forEach((item, index) => {
+      const nextColor = visibleCategories[(index + 1) % visibleCategories.length].color;
+      const sliceSize =
+        index === visibleCategories.length - 1
+          ? 100 - currentStop
+          : (item.count / total) * 100;
+      const nextStop = currentStop + sliceSize;
+      const feather =
+        sliceSize > featherWindow * 2.5
+          ? featherWindow
+          : Math.max(0.45, sliceSize * 0.28);
+      const solidEnd = Math.max(currentStop, nextStop - feather);
+      const blendEnd = Math.min(100, nextStop + feather);
+
+      if (index === 0) {
+        gradientStops.push(`${item.color} ${currentStop}%`);
+      }
+
+      gradientStops.push(`${item.color} ${solidEnd}%`);
+      gradientStops.push(`${nextColor} ${blendEnd}%`);
+      currentStop = nextStop;
+    });
+
+    if (currentStop < 100) {
+      gradientStops.push(`var(--trail-gray) 100%`);
+    }
+
+    return `conic-gradient(${gradientStops.join(", ")})`;
+  }
+
   function createClusterGroup() {
     return L.markerClusterGroup({
       showCoverageOnHover: false,
       spiderfyOnMaxZoom: true,
-      disableClusteringAtZoom: 17,
+      disableClusteringAtZoom: MAX_MAP_ZOOM,
       iconCreateFunction(cluster) {
         const count = cluster.getChildCount();
-        const categoryCounts = new Map();
-
-        cluster.getAllChildMarkers().forEach((marker) => {
-          const categoryKey = marker.options.categoryKey || "other";
-          const current = categoryCounts.get(categoryKey) || {
-            count: 0,
-            color: marker.options.categoryColor || "var(--trail-gray)",
-            textColor: marker.options.categoryTextColor || "#243029",
-          };
-          current.count += 1;
-          categoryCounts.set(categoryKey, current);
-        });
-
-        const dominantCategory = Array.from(categoryCounts.values()).sort((a, b) => b.count - a.count)[0] || {
-          color: "var(--trail-gray)",
-          textColor: "#243029",
-        };
 
         return L.divIcon({
-          html:
-            `<div style="background:${dominantCategory.color};color:${dominantCategory.textColor};">` +
-            "<span>" + count + "</span></div>",
+          html: `<div style="background:${getClusterBackground(cluster)};"><span>${count}</span></div>`,
           className: "marker-cluster marker-cluster-generic",
           iconSize: L.point(40, 40),
         });
@@ -3326,6 +3684,7 @@ FUTURE IDEAS
       if (!btn) return;
 
       currentProjectFilter = btn.getAttribute("data-project-filter") || "all";
+      clearSelectionAndPanel();
       renderProjectViews({ fitMap: currentProjectView === "map" });
     });
   }
@@ -3336,6 +3695,7 @@ FUTURE IDEAS
       if (!btn) return;
 
       currentProjectFilter = btn.getAttribute("data-filter") || "all";
+      clearSelectionAndPanel();
       renderProjectViews({ fitMap: true });
     });
   }
@@ -3361,7 +3721,7 @@ FUTURE IDEAS
             fillOpacity: 0.9,
           }).addTo(map);
 
-          const zoom = Math.max(map.getZoom(), 15);
+          const zoom = Math.min(MAX_MAP_ZOOM, Math.max(map.getZoom(), 15));
           map.flyTo([latitude, longitude], zoom, {
             duration: 0.6,
           });
@@ -3522,7 +3882,7 @@ FUTURE IDEAS
         fillOpacity: 0.9,
       }).addTo(map);
 
-      const zoom = Math.max(map.getZoom(), 15);
+      const zoom = Math.min(MAX_MAP_ZOOM, Math.max(map.getZoom(), 15));
       map.flyTo([lat, lng], zoom, { duration: 0.6 });
 
       closeSearch();
@@ -3577,24 +3937,14 @@ FUTURE IDEAS
 
         mappedCount += 1;
 
-        let popupButtonLabel = "Share update";
-        let popupButtonIcon = "fa-screwdriver-wrench";
-
-        if (statusKey === "needs-support" || statusKey === "coming-soon") {
-          popupButtonLabel = "Join / support";
-          popupButtonIcon = "fa-hand-holding-heart";
-        } else if (statusKey === "proposed") {
-          popupButtonLabel = "I support this";
-          popupButtonIcon = "fa-hand-pointer";
-        } else if (statusKey === "completed") {
-          popupButtonLabel = "Share a result";
-          popupButtonIcon = "fa-bullhorn";
-        }
+        const learnMoreUrl = organizerUrl || newsUrl || "";
 
         const panelHtml = `
           <div class="map-detail-inner">
-            <h3 class="map-detail-title">${escapeHtml(projectName)}</h3>
-            <div class="map-detail-status">${escapeHtml(statusLabel)}</div>
+            <div class="map-detail-heading">
+              <h3 class="map-detail-title">${escapeHtml(projectName)}</h3>
+              <div class="map-detail-status">${escapeHtml(statusLabel)}</div>
+            </div>
             <p class="map-detail-body">
               <strong>Category:</strong> ${escapeHtml(categoryInfo.label)}
               · <strong>Type:</strong> ${escapeHtml(projectType)}
@@ -3605,41 +3955,34 @@ FUTURE IDEAS
             ${upvotes !== null ? `<p class="map-detail-body"><strong>Community support:</strong> ${upvotes}</p>` : ""}
             ${howToHelp ? `<p class="map-detail-body"><strong>How to help:</strong> ${escapeHtml(howToHelp)}</p>` : ""}
             ${
-              organizerUrl || newsUrl
-                ? `<p class="map-detail-body">
-                    ${organizerUrl ? `<a href="${escapeHtml(organizerUrl)}" target="_blank" rel="noopener">Organizer page</a>` : ""}
-                    ${organizerUrl && newsUrl ? " · " : ""}
-                    ${newsUrl ? `<a href="${escapeHtml(newsUrl)}" target="_blank" rel="noopener">Latest update</a>` : ""}
-                  </p>`
-                : ""
-            }
-            ${
               projectPhotoUrl
                 ? `<img src="${escapeHtml(projectPhotoUrl)}"
                      alt="${escapeHtml(projectName)}"
                      style="width:100%;border-radius:10px;margin-top:.6rem;">`
                 : ""
             }
-            <div style="margin-top:.6rem;">
+            <div class="map-detail-actions">
+              ${
+                learnMoreUrl
+                  ? `<a
+                      href="${escapeHtml(learnMoreUrl)}"
+                      target="_blank"
+                      rel="noopener"
+                      class="map-detail-action-btn"
+                    >
+                      <i class="fa-solid fa-link"></i>
+                      <span>Learn More</span>
+                    </a>`
+                  : ""
+              }
               <button type="button"
-                class="popup-report-link"
+                class="popup-report-link map-detail-action-btn"
                 data-project-id="${escapeHtml(projectId)}"
                 data-project-name="${escapeHtml(projectName)}"
                 data-project-status="${escapeHtml(statusKey)}"
-                style="
-                  display:inline-flex;
-                  align-items:center;
-                  gap:.3rem;
-                  padding:.4rem .85rem;
-                  border-radius:10px;
-                  background:white;
-                  border:1px solid #d0d5cd;
-                  font-size:.8rem;
-                  font-weight:600;
-                  color:#3D7E5A;
-                  cursor:pointer;
-                ">
-                <i class="fa-solid ${popupButtonIcon}"></i> ${escapeHtml(popupButtonLabel)}
+              >
+                <i class="fa-solid fa-bullhorn"></i>
+                <span>Share or Support This Project</span>
               </button>
             </div>
           </div>
@@ -3819,6 +4162,13 @@ FUTURE IDEAS
 
   // Global click handler for popup buttons + CTAs
   document.addEventListener("click", (event) => {
+    const detailCloseBtn = event.target.closest(".map-detail-close");
+    if (detailCloseBtn) {
+      event.preventDefault();
+      clearSelectionAndPanel();
+      return;
+    }
+
     const mapLinkBtn = event.target.closest("[data-project-map-link]");
     if (mapLinkBtn) {
       event.preventDefault();
@@ -3842,17 +4192,17 @@ FUTURE IDEAS
       const labelEl = document.querySelector(".report-context-label");
       const iconEl = document.getElementById("reportContextIcon");
 
-      let contextLabel = "REPORTING AN ISSUE";
+      let contextLabel = "SHARING A PROJECT UPDATE";
       let iconClass = "fa-solid fa-screwdriver-wrench";
 
       if (statusKey === "needs-support" || statusKey === "coming-soon") {
-        contextLabel = "HELPING SUPPORT";
+        contextLabel = "SUPPORTING THIS PROJECT";
         iconClass = "fa-solid fa-hand-holding-heart";
       } else if (statusKey === "proposed") {
-        contextLabel = "GIVING ENDORSEMENT FOR";
+        contextLabel = "ADDING TO THE MAP";
         iconClass = "fa-solid fa-hand-pointer";
       } else if (statusKey === "completed") {
-        contextLabel = "SHARING RESULTS FOR";
+        contextLabel = "SHARING A PROJECT UPDATE";
         iconClass = "fa-solid fa-bullhorn";
       }
 
@@ -3871,8 +4221,6 @@ FUTURE IDEAS
         reasonText = "Join / support a project";
       } else if (statusKey === "proposed") {
         reasonText = "Suggest a local project";
-      } else if (statusKey === "completed") {
-        reasonText = "General question or comment";
       }
 
       const projectRef = id || name;
@@ -3915,25 +4263,25 @@ FUTURE IDEAS
 
       switch (reasonText) {
         case "Suggest a local project":
-          contextLabel = "SUGGESTING A NEW PROJECT";
+          contextLabel = "ADDING A PROJECT TO THE MAP";
           iconClass = "fa-solid fa-location-dot";
           contextValue = "";
           break;
 
         case "Update or report an issue on a listed project":
-          contextLabel = "REPORTING AN ISSUE";
+          contextLabel = "SHARING A PROJECT UPDATE";
           iconClass = "fa-solid fa-screwdriver-wrench";
           contextValue = "";
           break;
 
         case "Join / support a project":
-          contextLabel = "JOINING A PROJECT";
+          contextLabel = "SUPPORTING A PROJECT";
           iconClass = "fa-solid fa-hand-holding-heart";
           contextValue = "♥";
           break;
 
         case "General question or comment":
-          contextLabel = "GENERAL COMMENTS OR QUESTIONS";
+          contextLabel = "PROJECT MAP QUESTION";
           iconClass = "fa-solid fa-comments";
           contextValue = "";
           break;
