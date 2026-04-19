@@ -635,7 +635,7 @@ FUTURE IDEAS
       border-radius: 50%;
     }
 
-    .legend-item[data-status="all"] .legend-swatch {
+    .legend-item[data-filter="all"] .legend-swatch {
       display: none;
     }
 
@@ -799,6 +799,310 @@ FUTURE IDEAS
       }
     }
 
+    .project-browser-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      margin-top: 1rem;
+    }
+
+    .view-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      padding: 0.25rem;
+      border-radius: 999px;
+      background: var(--upcoming-pill-bg);
+      border: 1px solid var(--border-subtle);
+    }
+
+    .view-toggle-btn {
+      border: none;
+      background: transparent;
+      color: var(--muted-text);
+      border-radius: 999px;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.84rem;
+      font-weight: 600;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.18s ease, color 0.18s ease;
+    }
+
+    .view-toggle-btn.active {
+      background: var(--card-bg);
+      color: var(--text-main);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .project-search-shell {
+      flex: 1 1 280px;
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.7rem 0.85rem;
+      border-radius: 14px;
+      border: 1px solid var(--border-subtle);
+      background: var(--upcoming-pill-bg);
+      color: var(--muted-text);
+    }
+
+    .project-search-shell i {
+      color: var(--muted-text);
+    }
+
+    .project-search-input {
+      width: 100%;
+      border: none;
+      background: transparent;
+      font: inherit;
+      color: var(--text-main);
+      outline: none;
+    }
+
+    .project-search-input::placeholder {
+      color: var(--muted-text);
+    }
+
+    .project-filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.55rem;
+      margin-top: 0.9rem;
+    }
+
+    .project-filter-btn {
+      border: 1px solid var(--border-subtle);
+      background: var(--secondary-btn-bg);
+      color: var(--text-main);
+      border-radius: 999px;
+      padding: 0.42rem 0.78rem;
+      font-size: 0.8rem;
+      font-family: inherit;
+      cursor: pointer;
+      transition: background 0.18s ease, color 0.18s ease, border-color 0.18s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+    }
+
+    .project-filter-btn:hover {
+      background: var(--legend-pill-bg);
+    }
+
+    .project-filter-btn.active {
+      background: var(--bench-green);
+      color: #fff;
+      border-color: rgba(0, 0, 0, 0.08);
+    }
+
+    body.dark-mode .project-filter-btn {
+      background: #1f2526;
+      border-color: #31393b;
+    }
+
+    body.dark-mode .project-filter-btn:hover {
+      background: #2b3335;
+    }
+
+    body.dark-mode .project-filter-btn.active {
+      background: #ffffff;
+      color: #000000;
+      border-color: #00000022;
+    }
+
+    .project-filter-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: currentColor;
+      opacity: 0.75;
+    }
+
+    .project-filter-btn[data-project-filter="all"] .project-filter-dot {
+      display: none;
+    }
+
+    .project-results-summary {
+      margin-top: 0.7rem;
+      font-size: 0.84rem;
+      color: var(--muted-text);
+    }
+
+    .project-view[hidden] {
+      display: none !important;
+    }
+
+    .project-list {
+      margin-top: 1rem;
+      display: flex;
+      flex-direction: column;
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      overflow: hidden;
+      background: var(--upcoming-pill-bg);
+    }
+
+    .project-card {
+      padding: 0.8rem 0.95rem;
+      background: transparent;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 0.65rem;
+      align-items: start;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+
+    .project-card:last-child {
+      border-bottom: none;
+    }
+
+    .project-card-top {
+      display: flex;
+      align-items: start;
+      gap: 0.55rem;
+    }
+
+    .project-card-main {
+      min-width: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 0.45rem;
+    }
+
+    .project-card-title {
+      margin: 0;
+      font-family: "Manrope";
+      font-size: 0.97rem;
+      line-height: 1.25;
+    }
+
+    .project-card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      align-items: center;
+      font-size: 0.74rem;
+      color: var(--muted-text);
+      margin-top: 0.2rem;
+    }
+
+    .project-card-copy {
+      margin: 0;
+      font-size: 0.82rem;
+      color: var(--muted-text);
+    }
+
+    .project-card-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      align-items: center;
+      justify-content: center;
+      align-self: stretch;
+      border-left: 1px solid var(--border-subtle);
+      padding-left: 0.7rem;
+    }
+
+    .project-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      border-radius: 999px;
+      padding: 0.12rem 0.46rem;
+      border: 1px solid var(--border-subtle);
+      background: var(--card-bg);
+      color: var(--muted-text);
+      font-size: 0.69rem;
+      letter-spacing: 0.02em;
+    }
+
+    .project-status-chip--completed {
+      background: rgba(123, 205, 155, 0.16);
+      color: #225A35;
+    }
+
+    .project-status-chip--in-progress {
+      background: rgba(143, 186, 214, 0.18);
+      color: #25455A;
+    }
+
+    .project-status-chip--proposed {
+      background: rgba(232, 217, 133, 0.2);
+      color: #665B1F;
+    }
+
+    .project-status-chip--needs-support {
+      background: rgba(224, 138, 138, 0.18);
+      color: #702E2E;
+    }
+
+    .project-status-chip--coming-soon {
+      background: rgba(185, 167, 223, 0.2);
+      color: #3D2F68;
+    }
+
+    body.dark-mode .project-chip {
+      background: #1b2021;
+      border-color: #31393b;
+    }
+
+    .project-empty {
+      margin-top: 1rem;
+      border-radius: 14px;
+      padding: 1rem;
+      border: 1px solid var(--border-subtle);
+      background: var(--upcoming-pill-bg);
+      color: var(--muted-text);
+      font-size: 0.88rem;
+    }
+
+    .project-map-link-btn {
+      border: none;
+      background: none;
+      padding: 0;
+      font: inherit;
+      color: var(--indy-blue);
+      cursor: pointer;
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      line-height: 1;
+    }
+
+    .project-map-link-btn:hover {
+      text-decoration: underline;
+    }
+
+    .project-icon-link {
+      width: 1.4rem;
+      height: 1.4rem;
+      border-radius: 999px;
+      text-decoration: none;
+    }
+
+    .project-icon-link:hover {
+      text-decoration: none;
+      background: rgba(64, 110, 135, 0.08);
+    }
+
+    @media (max-width: 640px) {
+      .project-card {
+        grid-template-columns: 1fr;
+      }
+
+      .project-card-actions {
+        flex-direction: row;
+        justify-content: flex-start;
+        border-left: none;
+        border-top: 1px solid var(--border-subtle);
+        padding-left: 0;
+        padding-top: 0.55rem;
+      }
+    }
+
     .cta-row {
       display: flex;
       gap: .75rem;
@@ -850,7 +1154,7 @@ FUTURE IDEAS
 
     .links-layout {
       display: grid;
-      grid-template-columns: 1fr 1fr;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
       gap: 1.8rem;
     }
 
@@ -1211,6 +1515,7 @@ FUTURE IDEAS
       width: 26px;
       height: 32px;
       transform-origin: 50% 50%;
+      color: var(--marker-color, var(--trail-gray));
     }
 
     .bench-marker-inner {
@@ -1223,6 +1528,7 @@ FUTURE IDEAS
       border-radius: 50%;
       box-shadow: 0 1px 2px rgba(0,0,0,0.25);
       border: 1px solid rgba(0,0,0,0.25);
+      background: var(--marker-color, var(--trail-gray));
     }
 
     /* Status colors (dot) */
@@ -1282,6 +1588,8 @@ FUTURE IDEAS
       height: 26px;
       transform: translate(-50%, -50%);
       border-radius: 50%;
+      background: var(--marker-color, currentColor);
+      opacity: 0.2;
     }
 
     .bench-marker--selected::after {
@@ -1310,36 +1618,7 @@ FUTURE IDEAS
       font-size: 13px;
       font-weight: 600;
       box-shadow: 0 3px 8px rgba(0,0,0,0.25);
-      color: #ffffff;
-    }
-
-    .marker-cluster-completed div {
-      background: var(--pastel-installed);
-      color: #225A35;
-    }
-    .marker-cluster-in-progress div {
-      background: var(--pastel-requested);
-      color: #25455A;
-    }
-    .marker-cluster-proposed div {
-      background: var(--pastel-needs);
-      color: #665B1F;
-    }
-    .marker-cluster-needs-support div {
-      background: var(--pastel-missing);
-      color: #702E2E;
-    }
-    .marker-cluster-coming-soon div {
-      background: var(--pastel-coming);
-      color: #3D2F68;
-    }
-
-    body.dark-mode .marker-cluster-completed div,
-    body.dark-mode .marker-cluster-in-progress div,
-    body.dark-mode .marker-cluster-proposed div,
-    body.dark-mode .marker-cluster-needs-support div,
-    body.dark-mode .marker-cluster-coming-soon div {
-      border-color: #000000;
+      border: 1px solid rgba(0,0,0,0.12);
     }
 
     /* Contact quick form */
@@ -1470,80 +1749,97 @@ FUTURE IDEAS
 
     <section id="map-section">
       <h2>Find local projects near you.</h2>
-      <p>Tap a project marker to see details and how to participate.</p>
+      <p>Use the toggle to explore projects on the map or as a searchable list, then jump between both views.</p>
 
-      <div class="map-layout">
-        <div class="map-wrapper">
-          <div id="map-loading" class="map-loading">Loading projects...</div>
-          <div id="map"></div>
-
-          <div class="map-controls">
-            <button
-              id="map-locate-btn"
-              class="map-btn"
-              type="button"
-              aria-label="Locate me"
-              title="Locate me">
-              <i class="fa-solid fa-location-crosshairs"></i>
-            </button>
-            <button
-              id="map-search-toggle"
-              class="map-btn"
-              type="button"
-              aria-label="Search for a place"
-              title="Search for a place">
-              <i class="fa-solid fa-magnifying-glass"></i>
-            </button>
-          </div>
-
-          <div id="map-search-panel" class="map-search-panel">
-            <div class="map-search-inner">
-              <input
-                type="text"
-                id="map-search-input"
-                placeholder="Search address or place…"
-                autocomplete="off"
-              />
-              <ul id="map-search-results" class="map-search-results">
-                <li class="map-search-empty">Type an address or place to search.</li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="legend">
-            <button class="legend-item active" data-status="all">
-              <span class="legend-swatch all"></span>
-              All
-            </button>
-            <button class="legend-item" data-status="completed">
-              <span class="legend-swatch completed"></span>
-              Completed
-            </button>
-            <button class="legend-item" data-status="coming-soon">
-              <span class="legend-swatch coming-soon"></span>
-              Coming Soon
-            </button>
-            <button class="legend-item" data-status="in-progress">
-              <span class="legend-swatch in-progress"></span>
-              In Progress
-            </button>
-            <button class="legend-item" data-status="proposed">
-              <span class="legend-swatch proposed"></span>
-              Proposed
-            </button>
-            <button class="legend-item" data-status="needs-support">
-              <span class="legend-swatch needs-support"></span>
-              Needs Support
-            </button>
-          </div>
+      <div class="project-browser-toolbar">
+        <div class="view-toggle" role="tablist" aria-label="Project view">
+          <button
+            id="projectViewMapBtn"
+            class="view-toggle-btn active"
+            type="button"
+            data-project-view="map"
+            aria-pressed="true"
+          >
+            Map
+          </button>
+          <button
+            id="projectViewListBtn"
+            class="view-toggle-btn"
+            type="button"
+            data-project-view="list"
+            aria-pressed="false"
+          >
+            List
+          </button>
         </div>
 
-        <aside id="mapDetailPanel" class="map-detail-panel">
-          <div class="map-detail-empty">
-            <h3 class="map-detail-title">Project details</h3>
-            <p>Tap a marker on the map to see status, details, and how to help.</p>
+        <label class="project-search-shell" for="projectSearchInput">
+          <i class="fa-solid fa-magnifying-glass"></i>
+          <input
+            id="projectSearchInput"
+            class="project-search-input"
+            type="text"
+            placeholder="Search by project, neighborhood, type, or status…"
+            autocomplete="off"
+          />
+        </label>
+      </div>
+
+      <div id="projectFilterRow" class="project-filter-row" aria-label="Filter mapped projects"></div>
+      <div id="projectResultsSummary" class="project-results-summary" aria-live="polite"></div>
+
+      <div id="projectMapView" class="project-view">
+        <div class="map-layout">
+          <div class="map-wrapper">
+            <div id="map-loading" class="map-loading">Loading projects...</div>
+            <div id="map"></div>
+
+            <div class="map-controls">
+              <button
+                id="map-locate-btn"
+                class="map-btn"
+                type="button"
+                aria-label="Locate me"
+                title="Locate me">
+                <i class="fa-solid fa-location-crosshairs"></i>
+              </button>
+              <button
+                id="map-search-toggle"
+                class="map-btn"
+                type="button"
+                aria-label="Search for a place"
+                title="Search for a place">
+                <i class="fa-solid fa-magnifying-glass"></i>
+              </button>
+            </div>
+
+            <div id="map-search-panel" class="map-search-panel">
+              <div class="map-search-inner">
+                <input
+                  type="text"
+                  id="map-search-input"
+                  placeholder="Search address or place…"
+                  autocomplete="off"
+                />
+                <ul id="map-search-results" class="map-search-results">
+                  <li class="map-search-empty">Type an address or place to search.</li>
+                </ul>
+              </div>
+            </div>
+
           </div>
-        </aside>
+
+          <aside id="mapDetailPanel" class="map-detail-panel">
+            <div class="map-detail-empty">
+              <h3 class="map-detail-title">Project details</h3>
+              <p>Select a project from the map or list to see details and how to help.</p>
+            </div>
+          </aside>
+        </div>
+      </div>
+
+      <div id="projectListView" class="project-view" hidden>
+        <div id="projectList" class="project-list" aria-live="polite"></div>
       </div>
 
       <div class="cta-row">
@@ -1570,7 +1866,7 @@ FUTURE IDEAS
     <section id="upcoming">
       <h2>Project pipeline.</h2>
       <p class="muted">
-        Community projects in motion that are organizing now and need visibility.
+        Projects in motion right now: active builds, organizing efforts, and places that need backup.
       </p>
 
       <div id="upcoming-loading" class="upcoming-loading">
@@ -1676,6 +1972,28 @@ FUTURE IDEAS
             <li>
               <a href="https://strongtowns.org">Strong Towns</a>
               <span class="link-tag">Urbanism</span>
+            </li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Project links</h3>
+          <ul class="link-list">
+            <li>
+              <a href="https://16xmonon.org">16×Monon Neighborhood Alliance</a>
+              <span class="link-tag">Safe Streets</span>
+            </li>
+            <li>
+              <a href="https://www.indygo.net/blue-line/">IndyGo Blue Line</a>
+              <span class="link-tag">Transit</span>
+            </li>
+            <li>
+              <a href="https://indympo.gov/plans-initiatives/vz-toolkit/">Indy Vision Zero</a>
+              <span class="link-tag">Safety</span>
+            </li>
+            <li>
+              <a href="https://www.kibi.org/program/project-greenspace/">Project GreenSpace</a>
+              <span class="link-tag">Greening</span>
             </li>
           </ul>
         </div>
@@ -1979,12 +2297,93 @@ FUTURE IDEAS
   const upcomingListEl = document.querySelector(".upcoming-list");
   const upcomingLoadingEl = document.getElementById("upcoming-loading");
   const mapLayoutEl = document.querySelector(".map-layout");
+  const projectMapViewEl = document.getElementById("projectMapView");
+  const projectListViewEl = document.getElementById("projectListView");
+  const projectListEl = document.getElementById("projectList");
+  const projectFilterRowEl = document.getElementById("projectFilterRow");
+  const projectResultsSummaryEl = document.getElementById("projectResultsSummary");
+  const projectSearchInputEl = document.getElementById("projectSearchInput");
+  const projectViewMapBtnEl = document.getElementById("projectViewMapBtn");
+  const projectViewListBtnEl = document.getElementById("projectViewListBtn");
+  const mapLegendEl = document.getElementById("mapLegend");
   const newsFeedEl = document.getElementById("newsFeed");
   const newsFiltersEl = document.getElementById("newsFilters");
   const newsPaginationEl = document.getElementById("newsPagination");
   const newsPageInfoEl = document.getElementById("newsPageInfo");
   const newsPrevBtnEl = document.getElementById("newsPrevBtn");
   const newsNextBtnEl = document.getElementById("newsNextBtn");
+
+  const PROJECT_STATUS_ORDER = {
+    "in-progress": 0,
+    "needs-support": 1,
+    "coming-soon": 2,
+    proposed: 3,
+    completed: 4,
+  };
+
+  const PROJECT_CATEGORY_DEFINITIONS = [
+    {
+      key: "trails-paths",
+      label: "Trails + Paths",
+      color: "var(--bench-green)",
+      textColor: "#123322",
+      keywords: ["trail", "greenway", "towpath", "path"],
+    },
+    {
+      key: "little-libraries-sharing",
+      label: "Little Libraries + Sharing",
+      color: "var(--clay-accent)",
+      textColor: "#ffffff",
+      keywords: ["book sharing", "book share", "little free library", "seed library", "library"],
+    },
+    {
+      key: "gardens-food-growing",
+      label: "Gardens + Food Growing",
+      color: "var(--sunbeam)",
+      textColor: "#4d4110",
+      keywords: ["community garden", "urban farm", "food justice", "food access", "garden"],
+    },
+    {
+      key: "mutual-aid-pantries",
+      label: "Mutual Aid + Pantries",
+      color: "var(--missing-red)",
+      textColor: "#ffffff",
+      keywords: ["pantry", "fridge", "mutual aid", "maternal support"],
+    },
+    {
+      key: "safe-streets-mobility",
+      label: "Safe Streets + Mobility",
+      color: "var(--indy-blue)",
+      textColor: "#ffffff",
+      keywords: ["safe streets", "bike advocacy", "walking / biking / transit", "vision zero", "street"],
+    },
+    {
+      key: "transit-brt",
+      label: "Transit + BRT",
+      color: "var(--pastel-requested)",
+      textColor: "#1f4259",
+      keywords: ["bus rapid transit", "brt", "transit"],
+    },
+    {
+      key: "public-space-parks",
+      label: "Public Space + Parks",
+      color: "var(--pastel-installed)",
+      textColor: "#1f4d2e",
+      keywords: ["public space", "civic plaza", "greenspace", "park"],
+    },
+    {
+      key: "housing-organizing",
+      label: "Housing + Organizing",
+      color: "var(--pastel-coming)",
+      textColor: "#35245d",
+      keywords: ["affordable housing", "neighborhood leadership", "community organizing", "resource hub"],
+    },
+  ];
+
+  const PROJECT_CATEGORY_ORDER = PROJECT_CATEGORY_DEFINITIONS.reduce((acc, item, index) => {
+    acc[item.key] = index;
+    return acc;
+  }, {});
 
   const NEWS_FILTER_LABELS = {
     urbanism: "Urbanism",
@@ -2270,7 +2669,7 @@ FUTURE IDEAS
       mapDetailPanel.innerHTML = `
         <div class="map-detail-empty">
           <h3 class="map-detail-title">Project details</h3>
-          <p>Tap a marker on the map to see status, details, and how to help.</p>
+          <p>Select a project from the map or list to see status, details, and how to help.</p>
         </div>
       `;
 
@@ -2330,17 +2729,91 @@ FUTURE IDEAS
     }, 450);
   })();
 
-  const allMarkers = [];
-  const markersByStatus = {
-    completed: [],
-    "coming-soon": [],
-    "in-progress": [],
-    proposed: [],
-    "needs-support": [],
-  };
+  function escapeHtml(value) {
+    return String(value ?? "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
 
+  function normalizeSearchText(value) {
+    return String(value || "")
+      .trim()
+      .toLowerCase()
+      .replace(/\s+/g, " ");
+  }
+
+  function slugify(value) {
+    return normalizeSearchText(value)
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "") || "other";
+  }
+
+  function normalizeStatus(statusRaw) {
+    const s = normalizeSearchText(statusRaw);
+    if (!s) return "proposed";
+
+    if (s.startsWith("coming soon")) return "coming-soon";
+    if (s === "installed" || s === "completed" || s === "complete" || s === "done") return "completed";
+    if (s === "requested" || s === "proposed" || s === "planned" || s === "idea") return "proposed";
+    if (s === "in progress" || s === "in-progress" || s === "active" || s === "underway") return "in-progress";
+    if (
+      s === "needs support" ||
+      s === "needs-support" ||
+      s === "needs volunteers" ||
+      s === "needs-volunteers" ||
+      s === "needs repairs" ||
+      s === "needs-repairs" ||
+      s === "missing"
+    ) return "needs-support";
+
+    return "proposed";
+  }
+
+  function formatStatusLabel(statusKey) {
+    const labels = {
+      completed: "Completed",
+      "in-progress": "In Progress",
+      proposed: "Proposed",
+      "needs-support": "Needs Support",
+      "coming-soon": "Coming Soon",
+    };
+
+    return labels[statusKey] || "Proposed";
+  }
+
+  function getProjectCategoryInfo(projectType) {
+    const normalizedType = normalizeSearchText(projectType);
+    for (const definition of PROJECT_CATEGORY_DEFINITIONS) {
+      if (definition.keywords.some((keyword) => normalizedType.includes(keyword))) {
+        return definition;
+      }
+    }
+
+    return {
+      key: slugify(projectType),
+      label: projectType || "Other",
+      color: "var(--trail-gray)",
+      textColor: "#243029",
+    };
+  }
+
+  function getProjectSortValue(project) {
+    const statusRank = PROJECT_STATUS_ORDER[project.statusKey] ?? 99;
+    return `${String(statusRank).padStart(2, "0")}-${normalizeSearchText(project.projectName)}`;
+  }
+
+  const projectRecords = [];
   const markersById = {};
+  const projectsById = {};
+  let projectFilterOptions = [];
   let suppressNextHashFocus = false;
+
+  let currentProjectFilter = "all";
+  let currentProjectSearch = "";
+  let currentProjectView = "map";
 
   let userLocationMarker = null;
   let searchLocationMarker = null;
@@ -2376,29 +2849,44 @@ FUTURE IDEAS
     return map.unproject(L.point(point.x, point.y - MARKER_OFFSET_Y), zoom);
   }
 
-  function createClusterGroup(statusKey) {
+  function createClusterGroup() {
     return L.markerClusterGroup({
       showCoverageOnHover: false,
       spiderfyOnMaxZoom: true,
       disableClusteringAtZoom: 17,
       iconCreateFunction(cluster) {
         const count = cluster.getChildCount();
+        const categoryCounts = new Map();
+
+        cluster.getAllChildMarkers().forEach((marker) => {
+          const categoryKey = marker.options.categoryKey || "other";
+          const current = categoryCounts.get(categoryKey) || {
+            count: 0,
+            color: marker.options.categoryColor || "var(--trail-gray)",
+            textColor: marker.options.categoryTextColor || "#243029",
+          };
+          current.count += 1;
+          categoryCounts.set(categoryKey, current);
+        });
+
+        const dominantCategory = Array.from(categoryCounts.values()).sort((a, b) => b.count - a.count)[0] || {
+          color: "var(--trail-gray)",
+          textColor: "#243029",
+        };
+
         return L.divIcon({
-          html: "<div><span>" + count + "</span></div>",
-          className: "marker-cluster marker-cluster-" + statusKey,
+          html:
+            `<div style="background:${dominantCategory.color};color:${dominantCategory.textColor};">` +
+            "<span>" + count + "</span></div>",
+          className: "marker-cluster marker-cluster-generic",
           iconSize: L.point(40, 40),
         });
       },
     });
   }
 
-  const clusterGroups = {
-    completed: createClusterGroup("completed"),
-    "coming-soon": createClusterGroup("coming-soon"),
-    "in-progress": createClusterGroup("in-progress"),
-    proposed: createClusterGroup("proposed"),
-    "needs-support": createClusterGroup("needs-support"),
-  };
+  const visibleClusterGroup = createClusterGroup();
+  map.addLayer(visibleClusterGroup);
 
   function fitMapToMarkers(markersArray) {
     if (!markersArray.length) {
@@ -2413,14 +2901,15 @@ FUTURE IDEAS
       map.flyTo(latlng, TARGET_MARKER_ZOOM, {
         duration: 0.6,
       });
-    } else {
-      const group = L.featureGroup(markersArray);
-      const bounds = group.getBounds().pad(0.15);
-
-      map.flyToBounds(bounds, {
-        duration: 0.6,
-      });
+      return;
     }
+
+    const group = L.featureGroup(markersArray);
+    const bounds = group.getBounds().pad(0.15);
+
+    map.flyToBounds(bounds, {
+      duration: 0.6,
+    });
   }
 
   function scrollToMapSection() {
@@ -2430,51 +2919,268 @@ FUTURE IDEAS
     }
   }
 
-  function focusProjectById(projectId) {
+  function syncProjectViewButtons() {
+    const isMapView = currentProjectView === "map";
+
+    if (projectViewMapBtnEl) {
+      projectViewMapBtnEl.classList.toggle("active", isMapView);
+      projectViewMapBtnEl.setAttribute("aria-pressed", isMapView ? "true" : "false");
+    }
+
+    if (projectViewListBtnEl) {
+      projectViewListBtnEl.classList.toggle("active", !isMapView);
+      projectViewListBtnEl.setAttribute("aria-pressed", !isMapView ? "true" : "false");
+    }
+
+    if (projectMapViewEl) {
+      projectMapViewEl.hidden = !isMapView;
+    }
+
+    if (projectListViewEl) {
+      projectListViewEl.hidden = isMapView;
+    }
+  }
+
+  function renderProjectFilterControls() {
+    if (projectFilterRowEl) {
+      projectFilterRowEl.innerHTML = projectFilterOptions
+        .map((filter) => `
+          <button
+            type="button"
+            class="project-filter-btn${filter.key === currentProjectFilter ? " active" : ""}"
+            data-project-filter="${escapeHtml(filter.key)}"
+          >
+            <span class="project-filter-dot" style="color:${filter.color};"></span>
+            ${escapeHtml(filter.label)}
+          </button>
+        `)
+        .join("");
+    }
+
+    if (mapLegendEl) {
+      mapLegendEl.innerHTML = projectFilterOptions
+        .map((filter) => `
+          <button
+            type="button"
+            class="legend-item${filter.key === currentProjectFilter ? " active" : ""}"
+            data-filter="${escapeHtml(filter.key)}"
+          >
+            <span class="legend-swatch" style="background:${filter.color};"></span>
+            ${escapeHtml(filter.label)}
+          </button>
+        `)
+        .join("");
+    }
+  }
+
+  function matchesProjectSearch(project, query) {
+    const normalizedQuery = normalizeSearchText(query);
+    if (!normalizedQuery) return true;
+    return project.searchText.includes(normalizedQuery);
+  }
+
+  function getVisibleProjects() {
+    return projectRecords
+      .filter((project) => {
+        if (currentProjectFilter !== "all" && project.categoryKey !== currentProjectFilter) {
+          return false;
+        }
+        return matchesProjectSearch(project, currentProjectSearch);
+      })
+      .slice()
+      .sort((a, b) => getProjectSortValue(a).localeCompare(getProjectSortValue(b)));
+  }
+
+  function getVisibleMarkers(visibleProjects = getVisibleProjects()) {
+    return visibleProjects.map((project) => project.marker);
+  }
+
+  function renderProjectResultsSummary(visibleProjects) {
+    if (!projectResultsSummaryEl) return;
+
+    const totalProjects = projectRecords.length;
+    if (!totalProjects) {
+      projectResultsSummaryEl.textContent = "No mapped projects yet.";
+      return;
+    }
+
+    const activeFilterLabel =
+      currentProjectFilter === "all"
+        ? "all categories"
+        : (projectFilterOptions.find((filter) => filter.key === currentProjectFilter)?.label || "this category");
+
+    const searchSuffix = currentProjectSearch
+      ? ` matching "${currentProjectSearch.trim()}"`
+      : "";
+
+    projectResultsSummaryEl.textContent =
+      `Showing ${visibleProjects.length} of ${totalProjects} mapped projects in ${activeFilterLabel}${searchSuffix}.`;
+  }
+
+  function renderProjectList(visibleProjects) {
+    if (!projectListEl) return;
+
+    if (!visibleProjects.length) {
+      projectListEl.innerHTML = `
+        <div class="project-empty">
+          No projects match this search yet. Try another category or clear the search box.
+        </div>
+      `;
+      return;
+    }
+
+    projectListEl.innerHTML = visibleProjects
+      .map((project) => {
+        const organizerLink = project.organizerUrl
+          ? `<a
+              class="project-map-link-btn project-icon-link"
+              href="${escapeHtml(project.organizerUrl)}"
+              target="_blank"
+              rel="noopener"
+              aria-label="Open organizer page for ${escapeHtml(project.projectName)}"
+              title="Organizer page"
+            ><i class="fa-solid fa-link"></i></a>`
+          : "";
+
+        return `
+          <article class="project-card">
+            <div class="project-card-main">
+              <div class="project-card-top">
+                <div>
+                  <h3 class="project-card-title">${escapeHtml(project.projectName)}</h3>
+                  <div class="project-card-meta">
+                    <span class="project-chip project-status-chip--${escapeHtml(project.statusKey)}">${escapeHtml(project.statusLabel)}</span>
+                    <span class="project-chip">${escapeHtml(project.categoryLabel)}</span>
+                    <span>${escapeHtml(project.projectType)}</span>
+                    ${project.neighborhood ? `<span>${escapeHtml(project.neighborhood)}</span>` : ""}
+                  </div>
+                </div>
+              </div>
+              ${project.description ? `<p class="project-card-copy">${escapeHtml(project.description)}</p>` : ""}
+            </div>
+            <div class="project-card-actions">
+              <button
+                type="button"
+                class="project-map-link-btn project-icon-link"
+                data-project-map-link="${escapeHtml(project.projectId)}"
+                aria-label="Show ${escapeHtml(project.projectName)} on the map"
+                title="Show on map"
+              >
+                <i class="fa-solid fa-map-location-dot"></i>
+              </button>
+              ${organizerLink}
+            </div>
+          </article>
+        `;
+      })
+      .join("");
+  }
+
+  function renderProjectMap(visibleProjects, { fitMap = currentProjectView === "map" } = {}) {
+    const visibleMarkers = getVisibleMarkers(visibleProjects);
+
+    visibleClusterGroup.clearLayers();
+    if (visibleMarkers.length) {
+      visibleClusterGroup.addLayers(visibleMarkers);
+    }
+
+    if (currentSelectedMarker && !visibleMarkers.includes(currentSelectedMarker)) {
+      clearSelectionAndPanel();
+    } else if (currentSelectedMarker) {
+      highlightMarker(currentSelectedMarker);
+    }
+
+    if (fitMap) {
+      fitMapToMarkers(visibleMarkers);
+    }
+  }
+
+  function renderProjectViews(options = {}) {
+    const visibleProjects = getVisibleProjects();
+    renderProjectFilterControls();
+    renderProjectResultsSummary(visibleProjects);
+    renderProjectList(visibleProjects);
+    renderProjectMap(visibleProjects, options);
+  }
+
+  function setProjectView(view) {
+    currentProjectView = view === "list" ? "list" : "map";
+    syncProjectViewButtons();
+
+    if (currentProjectView === "map") {
+      window.requestAnimationFrame(() => {
+        map.invalidateSize();
+        const visibleMarkers = getVisibleMarkers();
+        if (currentSelectedMarker && visibleMarkers.includes(currentSelectedMarker)) {
+          const latlng = currentSelectedMarker.getLatLng();
+          const zoom = lastFocusedZoom || Math.max(map.getZoom(), TARGET_MARKER_ZOOM);
+          map.setView(getFocusedViewLatLng(latlng, zoom), zoom, { animate: false });
+        } else {
+          fitMapToMarkers(visibleMarkers);
+        }
+      });
+    }
+  }
+
+  function ensureProjectVisible(project) {
+    let needsRerender = false;
+
+    if (currentProjectFilter !== "all" && currentProjectFilter !== project.categoryKey) {
+      currentProjectFilter = project.categoryKey;
+      needsRerender = true;
+    }
+
+    if (currentProjectSearch && !matchesProjectSearch(project, currentProjectSearch)) {
+      currentProjectSearch = "";
+      if (projectSearchInputEl) {
+        projectSearchInputEl.value = "";
+      }
+      needsRerender = true;
+    }
+
+    if (needsRerender) {
+      renderProjectViews({ fitMap: currentProjectView === "map" });
+    }
+  }
+
+  function focusProjectById(projectId, options = {}) {
+    const { switchToMap = false, updateHash = true } = options;
     if (!projectId) return;
 
     const normalizedId = String(projectId).trim();
+    const project = projectsById[normalizedId];
     const marker = markersById[normalizedId];
-    if (!marker) {
+
+    if (!project || !marker) {
       console.warn("No marker found for ID:", normalizedId);
       return;
     }
 
-    highlightMarker(marker);
+    ensureProjectVisible(project);
 
-    Object.values(clusterGroups).forEach((group) => {
-      if (!map.hasLayer(group)) {
-        map.addLayer(group);
-      }
-    });
-
-    const filterButtons = document.querySelectorAll(".legend .legend-item");
-    filterButtons.forEach((b) => b.classList.remove("active"));
-    const allButton = document.querySelector('.legend .legend-item[data-status="all"]');
-    if (allButton) allButton.classList.add("active");
+    if (switchToMap) {
+      setProjectView("map");
+    }
 
     const latlng = marker.getLatLng();
-    const targetZoom = TARGET_MARKER_ZOOM;
-    const statusKey = marker.options.statusKey;
-    const group = clusterGroups[statusKey];
+    const targetZoom = Math.max(map.getZoom(), TARGET_MARKER_ZOOM);
 
     lastFocusedLatLng = latlng;
     lastFocusedZoom = targetZoom;
 
     const doFlyAndOpen = () => {
-      if (marker._panelHtml) {
-        setDetailPanelContent(marker._panelHtml);
-      }
-
+      highlightMarker(marker);
+      setDetailPanelContent(project.panelHtml);
       map.flyTo(getFocusedViewLatLng(latlng, targetZoom), targetZoom, {
         duration: 0.6,
       });
     };
 
-    if (group && group.zoomToShowLayer) {
-      group.zoomToShowLayer(marker, doFlyAndOpen);
-    } else {
-      doFlyAndOpen();
+    visibleClusterGroup.zoomToShowLayer(marker, doFlyAndOpen);
+
+    if (updateHash && project.projectId) {
+      suppressNextHashFocus = true;
+      window.location.hash = project.projectId;
     }
 
     scrollToMapSection();
@@ -2483,17 +3189,9 @@ FUTURE IDEAS
   const sheetUrl =
     "https://script.google.com/macros/s/AKfycbwJSPvpEN_bYd4cOlAHOkMVhm7Ol7ZSRSWfOV9v8OKceFy0CmW3ZYcwq89ZUhiAygtR/exec";
 
-  function getIconForStatus(statusKey) {
-    let statusClass = "bench-marker--proposed";
-
-    if (statusKey === "completed") statusClass = "bench-marker--completed";
-    if (statusKey === "in-progress") statusClass = "bench-marker--in-progress";
-    if (statusKey === "proposed") statusClass = "bench-marker--proposed";
-    if (statusKey === "needs-support") statusClass = "bench-marker--needs-support";
-    if (statusKey === "coming-soon") statusClass = "bench-marker--coming-soon";
-
+  function getIconForCategory() {
     return L.divIcon({
-      className: `bench-marker ${statusClass}`,
+      className: "bench-marker",
       html: '<div class="bench-marker-inner"></div>',
       iconSize: [26, 32],
       iconAnchor: [13, 28],
@@ -2538,167 +3236,303 @@ FUTURE IDEAS
       });
   }
 
-  function normalizeStatus(statusRaw) {
-    const s = (statusRaw || "").toString().trim().toLowerCase();
-    if (!s) return "proposed";
-
-    if (s.startsWith("coming soon")) return "coming-soon";
-    if (s === "installed" || s === "completed" || s === "complete" || s === "done") return "completed";
-    if (s === "requested" || s === "proposed" || s === "planned" || s === "idea") return "proposed";
-    if (s === "in progress" || s === "in-progress" || s === "active" || s === "underway") return "in-progress";
-    if (
-      s === "needs support" ||
-      s === "needs-support" ||
-      s === "needs volunteers" ||
-      s === "needs-volunteers" ||
-      s === "needs repairs" ||
-      s === "needs-repairs" ||
-      s === "missing"
-    ) return "needs-support";
-
-    return "proposed";
-  }
-
-  function formatStatusLabel(statusKey) {
-    const labels = {
-      completed: "Completed",
-      "in-progress": "In Progress",
-      proposed: "Proposed",
-      "needs-support": "Needs Support",
-      "coming-soon": "Coming Soon",
-    };
-
-    return labels[statusKey] || "Proposed";
-  }
-
-  const STAGE_RANK = {
-    "pilot-deployment": 4,
-    "materials-and-permits": 3,
-    "partner-alignment": 2,
-    "community-momentum": 1,
-  };
-
-  function getUpcomingStage(statusRaw) {
-    const raw = (statusRaw || "").toString().trim();
-    const lower = raw.toLowerCase();
-
-    let stageText = raw;
-    const match = lower.match(/coming\s*soon\s*:\s*(.+)/);
-    if (match && match[1]) {
-      stageText = match[1].trim();
-    }
-
-    const stageLower = stageText.toLowerCase();
-
-    if (stageLower.includes("pilot") || stageLower.includes("deployment")) {
-      return { stageKey: "pilot-deployment", stageLabel: "Pilot deployment" };
-    }
-    if (stageLower.includes("materials") || stageLower.includes("permit")) {
-      return { stageKey: "materials-and-permits", stageLabel: "Materials + permits" };
-    }
-    if (stageLower.includes("partner") || stageLower.includes("coordination")) {
-      return { stageKey: "partner-alignment", stageLabel: "Partner alignment" };
-    }
-    if (stageLower.includes("momentum") || stageLower.includes("organizing") || stageLower.includes("planning")) {
-      return { stageKey: "community-momentum", stageLabel: "Community momentum" };
-    }
-
-    return {
-      stageKey: "community-momentum",
-      stageLabel: stageText || "Community momentum",
-    };
-  }
-
-  function getUpcomingPill(project) {
-    const key = project.stageKey || "community-momentum";
-
-    switch (key) {
-      case "pilot-deployment":
-        return {
-          label: project.stageLabel || "Pilot deployment",
-          dotColor: "var(--bench-green)",
-        };
-      case "materials-and-permits":
-        return {
-          label: project.stageLabel || "Materials + permits",
-          dotColor: "var(--indy-blue)",
-        };
-      case "partner-alignment":
-        return {
-          label: project.stageLabel || "Partner alignment",
-          dotColor: "var(--missing-red)",
-        };
-      case "community-momentum":
+  function getPipelinePillClass(statusKey) {
+    switch (statusKey) {
+      case "in-progress":
+        return "upcoming-pill--production";
+      case "needs-support":
+        return "upcoming-pill--materials";
+      case "coming-soon":
+        return "upcoming-pill--install";
+      case "proposed":
       default:
-        return {
-          label: project.stageLabel || "Community momentum",
-          dotColor: "var(--sunbeam)",
-        };
+        return "upcoming-pill--planning";
     }
   }
 
-  function renderUpcomingList(comingSoonProjects) {
+  function renderPipelineList(projects) {
     if (!upcomingListEl) return;
 
     if (upcomingLoadingEl) {
       upcomingLoadingEl.hidden = true;
     }
 
-    upcomingListEl.innerHTML = "";
+    const activeProjects = projects
+      .filter((project) => project.statusKey !== "completed")
+      .slice()
+      .sort((a, b) => getProjectSortValue(a).localeCompare(getProjectSortValue(b)));
 
-    if (!comingSoonProjects.length) {
+    if (!activeProjects.length) {
       upcomingListEl.innerHTML = `
         <li class="upcoming-item">
-          <div class="upcoming-title">No upcoming projects yet.</div>
+          <div class="upcoming-title">No active pipeline items yet.</div>
           <div class="upcoming-meta">
-            <span>Know a strong local idea? Use the contact form below.</span>
+            <span>As new projects move into organizing or build mode, they will show up here.</span>
           </div>
         </li>
       `;
       return;
     }
 
-    const sorted = [...comingSoonProjects].sort((a, b) => {
-      const rankA = STAGE_RANK[a.stageKey] || 0;
-      const rankB = STAGE_RANK[b.stageKey] || 0;
-      return rankB - rankA;
-    });
-
-    const fragments = [];
-
-    sorted.forEach((project) => {
-      const pill = getUpcomingPill(project);
-      const description = project.description || "";
-      const idLink = project.projectId ? `#${project.projectId}` : "";
-      const linkHtml = project.projectId
-        ? `<a class="upcoming-link" href="${idLink}">View on map</a>`
-        : "";
-
-      fragments.push(`
+    upcomingListEl.innerHTML = activeProjects
+      .map((project) => `
         <li class="upcoming-item">
           <div class="upcoming-title">
-            <span>${project.projectName}</span>
-            ${linkHtml}
+            <span>${escapeHtml(project.projectName)}</span>
+            <button
+              type="button"
+              class="upcoming-link project-map-link-btn"
+              data-project-map-link="${escapeHtml(project.projectId)}"
+            >
+              Show on map
+            </button>
           </div>
           <div class="upcoming-meta">
-            <span class="upcoming-pill">
-              <span class="upcoming-dot" style="background: ${pill.dotColor};"></span>
-              ${pill.label}
+            <span class="upcoming-pill ${getPipelinePillClass(project.statusKey)}">
+              <span class="upcoming-dot"></span>
+              ${escapeHtml(project.statusLabel)}
             </span>
-            ${description ? `<span>${description}</span>` : ""}
+            <span>${escapeHtml(project.categoryLabel)}</span>
+            ${project.stageText ? `<span>${escapeHtml(project.stageText)}</span>` : ""}
           </div>
+          ${project.description ? `<div class="muted">${escapeHtml(project.description)}</div>` : ""}
         </li>
-      `);
+      `)
+      .join("");
+  }
+
+  if (projectViewMapBtnEl) {
+    projectViewMapBtnEl.addEventListener("click", () => {
+      setProjectView("map");
+    });
+  }
+
+  if (projectViewListBtnEl) {
+    projectViewListBtnEl.addEventListener("click", () => {
+      setProjectView("list");
+    });
+  }
+
+  if (projectSearchInputEl) {
+    projectSearchInputEl.addEventListener("input", (event) => {
+      currentProjectSearch = event.target.value || "";
+      renderProjectViews({ fitMap: currentProjectView === "map" });
+    });
+  }
+
+  if (projectFilterRowEl) {
+    projectFilterRowEl.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-project-filter]");
+      if (!btn) return;
+
+      currentProjectFilter = btn.getAttribute("data-project-filter") || "all";
+      renderProjectViews({ fitMap: currentProjectView === "map" });
+    });
+  }
+
+  if (mapLegendEl) {
+    mapLegendEl.addEventListener("click", (event) => {
+      const btn = event.target.closest("[data-filter]");
+      if (!btn) return;
+
+      currentProjectFilter = btn.getAttribute("data-filter") || "all";
+      renderProjectViews({ fitMap: true });
+    });
+  }
+
+  const locateBtn = document.getElementById("map-locate-btn");
+  if (locateBtn && "geolocation" in navigator) {
+    locateBtn.addEventListener("click", () => {
+      locateBtn.disabled = true;
+
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          const { latitude, longitude } = pos.coords;
+
+          if (userLocationMarker) {
+            map.removeLayer(userLocationMarker);
+          }
+
+          userLocationMarker = L.circleMarker([latitude, longitude], {
+            radius: 8,
+            weight: 2,
+            color: "#406E87",
+            fillColor: "#BFD9ED",
+            fillOpacity: 0.9,
+          }).addTo(map);
+
+          const zoom = Math.max(map.getZoom(), 15);
+          map.flyTo([latitude, longitude], zoom, {
+            duration: 0.6,
+          });
+
+          locateBtn.disabled = false;
+        },
+        (err) => {
+          console.warn("Geolocation error:", err);
+          alert("Could not get your location. Please check browser permissions.");
+          locateBtn.disabled = false;
+        },
+        {
+          enableHighAccuracy: true,
+          timeout: 10000,
+          maximumAge: 30000,
+        }
+      );
+    });
+  } else if (locateBtn) {
+    locateBtn.disabled = true;
+    locateBtn.title = "Geolocation is not supported in this browser.";
+  }
+
+  const searchToggleBtn = document.getElementById("map-search-toggle");
+  const searchPanel = document.getElementById("map-search-panel");
+  const searchInput = document.getElementById("map-search-input");
+  const searchResults = document.getElementById("map-search-results");
+
+  function openSearch() {
+    if (!searchPanel) return;
+    searchPanel.classList.add("open");
+    if (searchInput) {
+      searchInput.focus();
+    }
+  }
+
+  function closeSearch() {
+    if (!searchPanel) return;
+    searchPanel.classList.remove("open");
+  }
+
+  if (searchToggleBtn) {
+    searchToggleBtn.addEventListener("click", () => {
+      if (!searchPanel) return;
+      const isOpen = searchPanel.classList.contains("open");
+      if (isOpen) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+  }
+
+  function renderSearchEmpty(message) {
+    if (!searchResults) return;
+    searchResults.innerHTML =
+      `<li class="map-search-empty">${message}</li>`;
+  }
+
+  function performSearch(query) {
+    if (!searchResults) return;
+    const trimmed = query.trim();
+    if (!trimmed) {
+      renderSearchEmpty("Type an address or place to search.");
+      return;
+    }
+
+    renderSearchEmpty("Searching…");
+
+    const url =
+      MAPTILER_GEOCODE_URL +
+      encodeURIComponent(trimmed) +
+      ".json?key=" +
+      encodeURIComponent(MAPTILER_KEY) +
+      "&language=en&limit=5&country=us&types=address,place,poi";
+
+    fetch(url)
+      .then((r) => r.json())
+      .then((res) => {
+        const features = res && Array.isArray(res.features) ? res.features : [];
+        if (!features.length) {
+          renderSearchEmpty("No results found.");
+          return;
+        }
+
+        const itemsHtml = features
+          .map((f) => {
+            const center = f.center || f.geometry?.coordinates || [];
+            const lon = center[0];
+            const lat = center[1];
+            if (typeof lon !== "number" || typeof lat !== "number") return "";
+
+            const title = f.text || f.place_name || "Location";
+            const subtitle = f.place_name || "";
+
+            return `
+              <li
+                data-lat="${lat}"
+                data-lng="${lon}"
+              >
+                <span class="map-search-result-title">${escapeHtml(title)}</span>
+                <span class="map-search-result-sub">${escapeHtml(subtitle)}</span>
+              </li>
+            `;
+          })
+          .filter(Boolean)
+          .join("");
+
+        if (!itemsHtml) {
+          renderSearchEmpty("No results found.");
+          return;
+        }
+
+        searchResults.innerHTML = itemsHtml;
+      })
+      .catch((err) => {
+        console.error("Geocoding error:", err);
+        renderSearchEmpty("Could not search right now. Try again.");
+      });
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener("input", (e) => {
+      const value = e.target.value || "";
+      if (searchDebounceTimer) {
+        clearTimeout(searchDebounceTimer);
+      }
+      searchDebounceTimer = setTimeout(() => {
+        performSearch(value);
+      }, 350);
     });
 
-    upcomingListEl.innerHTML = fragments.join("");
+    searchInput.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        closeSearch();
+      }
+    });
+  }
+
+  if (searchResults) {
+    searchResults.addEventListener("click", (e) => {
+      const li = e.target.closest("li[data-lat][data-lng]");
+      if (!li) return;
+
+      const lat = parseFloat(li.dataset.lat);
+      const lng = parseFloat(li.dataset.lng);
+      if (isNaN(lat) || isNaN(lng)) return;
+
+      if (searchLocationMarker) {
+        map.removeLayer(searchLocationMarker);
+      }
+
+      searchLocationMarker = L.circleMarker([lat, lng], {
+        radius: 7,
+        weight: 2,
+        color: "#406E87",
+        fillColor: "#BFD9ED",
+        fillOpacity: 0.9,
+      }).addTo(map);
+
+      const zoom = Math.max(map.getZoom(), 15);
+      map.flyTo([lat, lng], zoom, { duration: 0.6 });
+
+      closeSearch();
+    });
   }
 
   loadProjectData()
     .then(({ data }) => {
-      const validMarkers = [];
-      const comingSoonProjects = [];
       let mappedCount = 0;
+      const filterCounts = new Map();
 
       data.forEach((project) => {
         const rawLat = project.LAT ?? project.lat ?? project.Lat ?? project.latitude;
@@ -2714,40 +3548,34 @@ FUTURE IDEAS
 
         const statusRaw = (project.STATUS || project.status || "").toString();
         const statusKey = normalizeStatus(statusRaw);
+        const statusLabel = statusRaw || formatStatusLabel(statusKey);
 
-        const projectIdRaw = project.ID || project.id || "";
-        const projectId = String(projectIdRaw).trim();
-        const projectName = project.NAME || project.name || "Urbanism Project";
-        const description = project.DESCRIPTION || project.description || "";
-        const projectType = project.TYPE || project.type || "Urbanism project";
-        const neighborhood = project.NEIGHBORHOOD || project.neighborhood || "";
-        const howToHelp = project.HOW_TO_HELP || project.how_to_help || "";
-        const organizerUrl = project.ORGANIZER_URL || project.organizer_url || "";
-        const newsUrl = project.NEWS_URL || project.news_url || "";
-        const projectPhotoUrlRaw = project.PHOTO_URL || project.photo_url || "";
+        const projectId = String(project.ID || project.id || "").trim();
+        const projectName = String(project.NAME || project.name || "Urbanism Project").trim();
+        const description = String(project.DESCRIPTION || project.description || "").trim();
+        const projectType = String(project.TYPE || project.type || "Urbanism project").trim();
+        const neighborhood = String(project.NEIGHBORHOOD || project.neighborhood || "").trim();
+        const howToHelp = String(project.HOW_TO_HELP || project.how_to_help || "").trim();
+        const organizerUrl = String(project.ORGANIZER_URL || project.organizer_url || "").trim();
+        const newsUrl = String(project.NEWS_URL || project.news_url || "").trim();
+        const stageText = String(project.STAGE || project.stage || "").trim();
+        const projectPhotoUrlRaw = String(project.PHOTO_URL || project.photo_url || "").trim();
         const projectPhotoUrl =
           /placehold\.co/i.test(projectPhotoUrlRaw) ? "" : projectPhotoUrlRaw;
         const upvoteRaw =
           project.UPVOTES ?? project.VOTES ?? project.upvotes ?? project.votes ?? "";
         const parsedUpvotes = parseInt(upvoteRaw, 10);
         const upvotes = Number.isFinite(parsedUpvotes) ? Math.max(parsedUpvotes, 0) : null;
-        const statusLabel = statusRaw || formatStatusLabel(statusKey);
+        const categoryInfo = getProjectCategoryInfo(projectType);
+
+        filterCounts.set(categoryInfo.key, {
+          key: categoryInfo.key,
+          label: categoryInfo.label,
+          color: categoryInfo.color,
+          count: (filterCounts.get(categoryInfo.key)?.count || 0) + 1,
+        });
 
         mappedCount += 1;
-
-        if (statusKey === "coming-soon") {
-          const stageSource = project.STAGE || project.stage || statusRaw;
-          const stageInfo = getUpcomingStage(stageSource);
-
-          comingSoonProjects.push({
-            projectId,
-            projectName,
-            statusRaw,
-            description,
-            stageKey: stageInfo.stageKey,
-            stageLabel: stageInfo.stageLabel,
-          });
-        }
 
         let popupButtonLabel = "Share update";
         let popupButtonIcon = "fa-screwdriver-wrench";
@@ -2764,78 +3592,103 @@ FUTURE IDEAS
         }
 
         const panelHtml = `
-        <div class="map-detail-inner">
-          <h3 class="map-detail-title">${projectName}</h3>
-          <div class="map-detail-status">${statusLabel}</div>
-          <p class="map-detail-body">
-            <strong>Type:</strong> ${projectType}${neighborhood ? ` · <strong>Neighborhood:</strong> ${neighborhood}` : ""}
-          </p>
-          ${
-            description
-              ? `<p class="map-detail-body">${description}</p>`
-              : ""
-          }
-          ${
-            upvotes !== null
-              ? `<p class="map-detail-body"><strong>Community support:</strong> ${upvotes}</p>`
-              : ""
-          }
-          ${
-            howToHelp
-              ? `<p class="map-detail-body"><strong>How to help:</strong> ${howToHelp}</p>`
-              : ""
-          }
-          ${
-            organizerUrl || newsUrl
-              ? `<p class="map-detail-body">
-                  ${organizerUrl ? `<a href="${organizerUrl}" target="_blank" rel="noopener">Organizer page</a>` : ""}
-                  ${organizerUrl && newsUrl ? " · " : ""}
-                  ${newsUrl ? `<a href="${newsUrl}" target="_blank" rel="noopener">Latest update</a>` : ""}
-                </p>`
-              : ""
-          }
-          ${
-            projectPhotoUrl
-              ? `<img src="${projectPhotoUrl}"
-                   alt="${projectName}"
-                   style="width:100%;border-radius:10px;margin-top:.6rem;">`
-              : ""
-          }
-          <div style="margin-top:.6rem;">
-            <button type="button"
-              class="popup-report-link"
-              data-project-id="${projectId}"
-              data-project-name="${projectName}"
-              data-project-status="${statusKey}"
-              style="
-                display:inline-flex;
-                align-items:center;
-                gap:.3rem;
-                padding:.4rem .85rem;
-                border-radius:10px;
-                background:white;
-                border:1px solid #d0d5cd;
-                font-size:.8rem;
-                font-weight:600;
-                color:#3D7E5A;
-                cursor:pointer;
-              ">
-              <i class="fa-solid ${popupButtonIcon}"></i> ${popupButtonLabel}
-            </button>
+          <div class="map-detail-inner">
+            <h3 class="map-detail-title">${escapeHtml(projectName)}</h3>
+            <div class="map-detail-status">${escapeHtml(statusLabel)}</div>
+            <p class="map-detail-body">
+              <strong>Category:</strong> ${escapeHtml(categoryInfo.label)}
+              · <strong>Type:</strong> ${escapeHtml(projectType)}
+              ${neighborhood ? ` · <strong>Neighborhood:</strong> ${escapeHtml(neighborhood)}` : ""}
+            </p>
+            ${description ? `<p class="map-detail-body">${escapeHtml(description)}</p>` : ""}
+            ${stageText ? `<p class="map-detail-body"><strong>Stage:</strong> ${escapeHtml(stageText)}</p>` : ""}
+            ${upvotes !== null ? `<p class="map-detail-body"><strong>Community support:</strong> ${upvotes}</p>` : ""}
+            ${howToHelp ? `<p class="map-detail-body"><strong>How to help:</strong> ${escapeHtml(howToHelp)}</p>` : ""}
+            ${
+              organizerUrl || newsUrl
+                ? `<p class="map-detail-body">
+                    ${organizerUrl ? `<a href="${escapeHtml(organizerUrl)}" target="_blank" rel="noopener">Organizer page</a>` : ""}
+                    ${organizerUrl && newsUrl ? " · " : ""}
+                    ${newsUrl ? `<a href="${escapeHtml(newsUrl)}" target="_blank" rel="noopener">Latest update</a>` : ""}
+                  </p>`
+                : ""
+            }
+            ${
+              projectPhotoUrl
+                ? `<img src="${escapeHtml(projectPhotoUrl)}"
+                     alt="${escapeHtml(projectName)}"
+                     style="width:100%;border-radius:10px;margin-top:.6rem;">`
+                : ""
+            }
+            <div style="margin-top:.6rem;">
+              <button type="button"
+                class="popup-report-link"
+                data-project-id="${escapeHtml(projectId)}"
+                data-project-name="${escapeHtml(projectName)}"
+                data-project-status="${escapeHtml(statusKey)}"
+                style="
+                  display:inline-flex;
+                  align-items:center;
+                  gap:.3rem;
+                  padding:.4rem .85rem;
+                  border-radius:10px;
+                  background:white;
+                  border:1px solid #d0d5cd;
+                  font-size:.8rem;
+                  font-weight:600;
+                  color:#3D7E5A;
+                  cursor:pointer;
+                ">
+                <i class="fa-solid ${popupButtonIcon}"></i> ${escapeHtml(popupButtonLabel)}
+              </button>
+            </div>
           </div>
-        </div>
-      `;
+        `;
 
         const marker = L.marker([lat, lng], {
-          icon: getIconForStatus(statusKey),
+          icon: getIconForCategory(),
         });
         marker.options.statusKey = statusKey;
         marker.options.projectId = projectId;
-        marker._panelHtml = panelHtml;
+        marker.options.categoryKey = categoryInfo.key;
+        marker.options.categoryColor = categoryInfo.color;
+        marker.options.categoryTextColor = categoryInfo.textColor || "#243029";
 
-        if (projectId) {
-          markersById[projectId] = marker;
-        }
+        marker.on("add", () => {
+          if (!marker._icon) return;
+          marker._icon.style.setProperty("--marker-color", categoryInfo.color);
+          marker._icon.style.color = categoryInfo.color;
+        });
+
+        const projectRecord = {
+          projectId,
+          projectName,
+          description,
+          projectType,
+          neighborhood,
+          howToHelp,
+          organizerUrl,
+          newsUrl,
+          stageText,
+          projectPhotoUrl,
+          upvotes,
+          statusKey,
+          statusLabel,
+          categoryKey: categoryInfo.key,
+          categoryLabel: categoryInfo.label,
+          categoryColor: categoryInfo.color,
+          marker,
+          panelHtml,
+          searchText: normalizeSearchText([
+            projectName,
+            description,
+            projectType,
+            neighborhood,
+            statusLabel,
+            categoryInfo.label,
+            stageText,
+          ].join(" ")),
+        };
 
         marker.on("click", (e) => {
           lastFocusedLatLng = e.latlng;
@@ -2845,57 +3698,44 @@ FUTURE IDEAS
           lastFocusedZoom = targetZoom;
 
           highlightMarker(marker);
-
-          setDetailPanelContent(marker._panelHtml || "");
+          setDetailPanelContent(projectRecord.panelHtml);
 
           map.flyTo(getFocusedViewLatLng(e.latlng, targetZoom), targetZoom, {
             duration: 0.4,
           });
 
-          if (marker.options.projectId) {
+          if (projectId) {
             suppressNextHashFocus = true;
-            window.location.hash = marker.options.projectId;
+            window.location.hash = projectId;
           }
         });
 
-        allMarkers.push(marker);
+        projectRecords.push(projectRecord);
 
-        if (markersByStatus[statusKey]) {
-          markersByStatus[statusKey].push(marker);
+        if (projectId) {
+          markersById[projectId] = marker;
+          projectsById[projectId] = projectRecord;
         }
-
-        if (clusterGroups[statusKey]) {
-          clusterGroups[statusKey].addLayer(marker);
-        } else {
-          clusterGroups["proposed"].addLayer(marker);
-        }
-
-        validMarkers.push(marker);
       });
+
+      projectFilterOptions = [
+        { key: "all", label: "All", color: "var(--trail-gray)" },
+        ...Array.from(filterCounts.values()).sort((a, b) => {
+          const orderA = PROJECT_CATEGORY_ORDER[a.key] ?? 999;
+          const orderB = PROJECT_CATEGORY_ORDER[b.key] ?? 999;
+          if (orderA !== orderB) return orderA - orderB;
+          return a.label.localeCompare(b.label);
+        }),
+      ];
 
       const countEl = document.querySelector(".bench-count-text");
       if (countEl) {
         countEl.textContent = `Projects mapped: ${mappedCount} and growing`;
       }
 
-      Object.values(clusterGroups).forEach((group) => {
-        map.addLayer(group);
-      });
-
-      const legendButtons = document.querySelectorAll(".legend .legend-item");
-      legendButtons.forEach((btn) => {
-        const status = btn.dataset.status;
-        if (!status || status === "all") return;
-
-        const list = markersByStatus[status];
-        if (!list || list.length === 0) {
-          btn.style.display = "none";
-        } else {
-          btn.style.display = "";
-        }
-      });
-
-      fitMapToMarkers(validMarkers);
+      renderProjectViews({ fitMap: true });
+      renderPipelineList(projectRecords);
+      syncProjectViewButtons();
 
       const MIN_LOADER_MS = 600;
 
@@ -2919,244 +3759,9 @@ FUTURE IDEAS
         hideMapLoader();
       }
 
-      renderUpcomingList(comingSoonProjects);
-
-      const filterButtons = document.querySelectorAll(".legend .legend-item");
-
-      filterButtons.forEach((btn) => {
-        btn.addEventListener("click", () => {
-          const status = btn.dataset.status;
-
-          // Clear any selected marker + collapse panel when changing filters
-          clearSelectionAndPanel();
-
-          filterButtons.forEach((b) => b.classList.remove("active"));
-          btn.classList.add("active");
-
-          Object.values(clusterGroups).forEach((group) => {
-            map.removeLayer(group);
-          });
-
-          let markersToShow = [];
-
-          if (status === "all") {
-            Object.values(clusterGroups).forEach((group) => {
-              map.addLayer(group);
-            });
-            markersToShow = allMarkers;
-          } else if (clusterGroups[status]) {
-            map.addLayer(clusterGroups[status]);
-            markersToShow = markersByStatus[status] || [];
-          }
-
-          fitMapToMarkers(markersToShow);
-        });
-      });
-
       const initialHash = window.location.hash.replace(/^#/, "").trim();
       if (initialHash) {
-        focusProjectById(initialHash);
-      }
-
-      window.addEventListener("hashchange", () => {
-        const id = window.location.hash.replace(/^#/, "").trim();
-        if (!id) return;
-
-        if (suppressNextHashFocus) {
-          suppressNextHashFocus = false;
-          return;
-        }
-
-        focusProjectById(id);
-      });
-
-      const locateBtn = document.getElementById("map-locate-btn");
-      if (locateBtn && "geolocation" in navigator) {
-        locateBtn.addEventListener("click", () => {
-          locateBtn.disabled = true;
-
-          navigator.geolocation.getCurrentPosition(
-            (pos) => {
-              const { latitude, longitude } = pos.coords;
-
-              if (userLocationMarker) {
-                map.removeLayer(userLocationMarker);
-              }
-
-              userLocationMarker = L.circleMarker([latitude, longitude], {
-                radius: 8,
-                weight: 2,
-                color: "#406E87",
-                fillColor: "#BFD9ED",
-                fillOpacity: 0.9,
-              }).addTo(map);
-
-              const zoom = Math.max(map.getZoom(), 15);
-              map.flyTo([latitude, longitude], zoom, {
-                duration: 0.6,
-              });
-
-              locateBtn.disabled = false;
-            },
-            (err) => {
-              console.warn("Geolocation error:", err);
-              alert("Could not get your location. Please check browser permissions.");
-              locateBtn.disabled = false;
-            },
-            {
-              enableHighAccuracy: true,
-              timeout: 10000,
-              maximumAge: 30000,
-            }
-          );
-        });
-      } else if (locateBtn) {
-        locateBtn.disabled = true;
-        locateBtn.title = "Geolocation is not supported in this browser.";
-      }
-
-      const searchToggleBtn = document.getElementById("map-search-toggle");
-      const searchPanel = document.getElementById("map-search-panel");
-      const searchInput = document.getElementById("map-search-input");
-      const searchResults = document.getElementById("map-search-results");
-
-      function openSearch() {
-        if (!searchPanel) return;
-        searchPanel.classList.add("open");
-        if (searchInput) {
-          searchInput.focus();
-        }
-      }
-
-      function closeSearch() {
-        if (!searchPanel) return;
-        searchPanel.classList.remove("open");
-      }
-
-      if (searchToggleBtn) {
-        searchToggleBtn.addEventListener("click", () => {
-          if (!searchPanel) return;
-          const isOpen = searchPanel.classList.contains("open");
-          if (isOpen) {
-            closeSearch();
-          } else {
-            openSearch();
-          }
-        });
-      }
-
-      function renderSearchEmpty(message) {
-        if (!searchResults) return;
-        searchResults.innerHTML =
-          `<li class="map-search-empty">${message}</li>`;
-      }
-
-      function performSearch(query) {
-        if (!searchResults) return;
-        const trimmed = query.trim();
-        if (!trimmed) {
-          renderSearchEmpty("Type an address or place to search.");
-          return;
-        }
-
-        renderSearchEmpty("Searching…");
-
-        const url =
-          MAPTILER_GEOCODE_URL +
-          encodeURIComponent(trimmed) +
-          ".json?key=" +
-          encodeURIComponent(MAPTILER_KEY) +
-          "&language=en&limit=5&country=us&types=address,place,poi";
-
-        fetch(url)
-          .then((r) => r.json())
-          .then((res) => {
-            const features = res && Array.isArray(res.features) ? res.features : [];
-            if (!features.length) {
-              renderSearchEmpty("No results found.");
-              return;
-            }
-
-            const itemsHtml = features
-              .map((f) => {
-                const center = f.center || f.geometry?.coordinates || [];
-                const lon = center[0];
-                const lat = center[1];
-                if (typeof lon !== "number" || typeof lat !== "number") return "";
-
-                const title = f.text || f.place_name || "Location";
-                const subtitle = f.place_name || "";
-
-                return `
-                  <li
-                    data-lat="${lat}"
-                    data-lng="${lon}"
-                  >
-                    <span class="map-search-result-title">${title}</span>
-                    <span class="map-search-result-sub">${subtitle}</span>
-                  </li>
-                `;
-              })
-              .filter(Boolean)
-              .join("");
-
-            if (!itemsHtml) {
-              renderSearchEmpty("No results found.");
-              return;
-            }
-
-            searchResults.innerHTML = itemsHtml;
-          })
-          .catch((err) => {
-            console.error("Geocoding error:", err);
-            renderSearchEmpty("Could not search right now. Try again.");
-          });
-      }
-
-      if (searchInput) {
-        searchInput.addEventListener("input", (e) => {
-          const value = e.target.value || "";
-          if (searchDebounceTimer) {
-            clearTimeout(searchDebounceTimer);
-          }
-          searchDebounceTimer = setTimeout(() => {
-            performSearch(value);
-          }, 350);
-        });
-
-        searchInput.addEventListener("keydown", (e) => {
-          if (e.key === "Escape") {
-            closeSearch();
-          }
-        });
-      }
-
-      if (searchResults) {
-        searchResults.addEventListener("click", (e) => {
-          const li = e.target.closest("li[data-lat][data-lng]");
-          if (!li) return;
-
-          const lat = parseFloat(li.dataset.lat);
-          const lng = parseFloat(li.dataset.lng);
-          if (isNaN(lat) || isNaN(lng)) return;
-
-          if (searchLocationMarker) {
-            map.removeLayer(searchLocationMarker);
-          }
-
-          searchLocationMarker = L.circleMarker([lat, lng], {
-            radius: 7,
-            weight: 2,
-            color: "#406E87",
-            fillColor: "#BFD9ED",
-            fillOpacity: 0.9,
-          }).addTo(map);
-
-          const zoom = Math.max(map.getZoom(), 15);
-          map.flyTo([lat, lng], zoom, { duration: 0.6 });
-
-          closeSearch();
-        });
+        focusProjectById(initialHash, { switchToMap: true, updateHash: false });
       }
     })
     .catch((err) => {
@@ -3166,16 +3771,28 @@ FUTURE IDEAS
         mapLoadingEl.style.opacity = "1";
         mapLoadingEl.hidden = false;
         mapLoadingEl.innerHTML =
-          '<span class="map-loading-text">Could not load upcoming projects</span>';
+          '<span class="map-loading-text">Could not load project data</span>';
       }
       if (loadingDotsInterval) {
         clearInterval(loadingDotsInterval);
       }
 
       if (upcomingLoadingEl) {
-        upcomingLoadingEl.textContent = "Could not load upcoming projects.";
+        upcomingLoadingEl.textContent = "Could not load project pipeline.";
       }
     });
+
+  window.addEventListener("hashchange", () => {
+    const id = window.location.hash.replace(/^#/, "").trim();
+    if (!id) return;
+
+    if (suppressNextHashFocus) {
+      suppressNextHashFocus = false;
+      return;
+    }
+
+    focusProjectById(id, { switchToMap: true, updateHash: false });
+  });
 
   // Quick contact form submit → open prefilled Google Form
   const quickForm = document.getElementById("contactQuickForm");
@@ -3202,6 +3819,16 @@ FUTURE IDEAS
 
   // Global click handler for popup buttons + CTAs
   document.addEventListener("click", (event) => {
+    const mapLinkBtn = event.target.closest("[data-project-map-link]");
+    if (mapLinkBtn) {
+      event.preventDefault();
+      const projectId = mapLinkBtn.getAttribute("data-project-map-link") || "";
+      if (projectId) {
+        focusProjectById(projectId, { switchToMap: true, updateHash: true });
+      }
+      return;
+    }
+
     const popupBtn = event.target.closest(".popup-report-link");
     if (popupBtn) {
       event.preventDefault();
