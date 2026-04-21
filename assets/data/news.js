@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-learn-about-property-taxes-changes-at-this-free-workshop-2026-04-21",
+    "title": "Learn about property taxes changes at this free workshop",
+    "source": "Mirror Indy",
+    "date": "2026-04-21",
+    "summary": "Learn about property taxes at a free workshop from Edna Martin Christian Center and Martindale Brightwood Community Development Corp.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/pexels-asphotograpy-101808-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/property-taxes-martindale-brightwood-indianapolis-free-workshop"
+  },
+  {
     "id": "wfyi-decatur-township-residents-sue-to-block-4b-data-center-2026-04-20",
     "title": "Decatur Township residents sue to block $4B data center",
     "source": "WFYI",
@@ -59,19 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/EXP-5-things-to-see-at-CAMi_MG07.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/new-art-museum-cami-garfield-park-exhibits"
-  },
-  {
-    "id": "mirror-indy-lawrence-mayor-talks-public-safety-city-finances-and-health-initiatives-2026-04-17",
-    "title": "Lawrence mayor talks public safety, city finances and health initiatives",
-    "source": "Mirror Indy",
-    "date": "2026-04-17",
-    "summary": "Lawrence Mayor Deb Whitfield wants to make housing more affordable. She believes that better housing accommodations correlate with a healthier life. Whitfield poses for a portrait on March 12, 2026, at her office in the City of Lawrence Government Center in...",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260312_LAWRENCE-HOUSING_BP_04.jpg?fit=780%2C523&ssl=1",
-    "url": "https://mirrorindy.org/lawrence-mayor-deb-whitfield-sate-of-the-city-2026-public-safety-infrastructure-health"
   },
   {
     "id": "wfyi-old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed-2026-04-14",
