@@ -1,5 +1,54 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-decatur-township-residents-sue-to-block-4b-data-center-2026-04-20",
+    "title": "Decatur Township residents sue to block $4B data center",
+    "source": "WFYI",
+    "date": "2026-04-20",
+    "summary": "Decatur Township residents are asking a Marion County court to overturn approval of a $4 billion Sabey data center, arguing the developer used a variance to bypass a full council vote.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/27/10/4f3e13864b12ae1d4e841cbd4e61/decatur-township-protest-022626-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
+  },
+  {
+    "id": "mirror-indy-twg-residents-share-complaints-concerns-about-housing-2026-04-20",
+    "title": "TWG residents share complaints, concerns about housing",
+    "source": "Mirror Indy",
+    "date": "2026-04-20",
+    "summary": "This brief is adapted from notes taken by Documenter Paige Scott, who covered the TWG Residents Town Hall in March. 📝 Read more about what happened .",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/Indy-Documenters-illustrations_CH03.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/documenters-twg-residents-town-hall"
+  },
+  {
+    "id": "mirror-indy-earth-day-2026-10-headlines-to-check-out-2026-04-20",
+    "title": "Earth Day 2026: 10 headlines to check out",
+    "source": "Mirror Indy",
+    "date": "2026-04-20",
+    "summary": "Grayhead coneflowers and black-eyed susans grows in the City of Lawrence Butterfly and Pollinator Habitat on July 16, 2025, at Lee Road Park.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/20250716_LAWRENCE-NATIVE-PLANTS_BP_03-scaled.jpg?fit=780%2C502&ssl=1",
+    "url": "https://mirrorindy.org/earth-day-stories-environment-health-science-indianapolis-plants"
+  },
+  {
+    "id": "mirror-indy-indygo-s-music-in-transit-web-series-to-feature-live-performances-for-8th-season-2026-04-20",
+    "title": "IndyGo’s Music in Transit web series to feature live performances for 8th season",
+    "source": "Mirror Indy",
+    "date": "2026-04-20",
+    "summary": "People board IndyGo buses on Monday, Feb. 19, 2024, at the Julia M. Carson Transit Center in downtown Indianapolis.",
+    "categories": [
+      "mobility",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/indygo-julia-m-carson-transit-center_JRW010.jpg?fit=780%2C500&ssl=1",
+    "url": "https://mirrorindy.org/indygos-music-in-transit-web-series-to-feature-live-performances-for-8th-season"
+  },
+  {
     "id": "mirror-indy-5-things-to-do-at-indy-s-new-contemporary-art-museum-2026-04-17",
     "title": "5 things to do at Indy’s new contemporary art museum",
     "source": "Mirror Indy",
@@ -25,45 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/lawrence-mayor-deb-whitfield-sate-of-the-city-2026-public-safety-infrastructure-health"
   },
   {
-    "id": "mirror-indy-how-gary-lost-a-5-billion-jackson-family-theme-park-deal-2026-04-17",
-    "title": "How Gary lost a $5 billion Jackson Family theme park deal",
-    "source": "Mirror Indy",
-    "date": "2026-04-17",
-    "summary": "Katherine Jackson, left in yellow, mother of the late singer Michael Jackson, looks on after unveiling a monument to her son in front of the Jackson family home on Friday, June 25, 2010, in Gary, Ind.",
-    "categories": [
-      "public-space",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/AP100625039043-scaled.jpg?fit=780%2C737&ssl=1",
-    "url": "https://mirrorindy.org/how-gary-lost-a-5-billion-jackson-family-theme-park-deal"
-  },
-  {
-    "id": "mirror-indy-southeast-neighborhood-development-gears-up-for-weeklong-fundraiser-2026-04-17",
-    "title": "Southeast Neighborhood Development gears up for weeklong fundraiser",
-    "source": "Mirror Indy",
-    "date": "2026-04-17",
-    "summary": "The Lady Spray fountain Oct. 14, 2025, in the heart of Fountain Square.",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/HISTORY-OF-FOUNTAIN-SQUARE-FOUNTAINS_JRW010.jpg?fit=780%2C564&ssl=1",
-    "url": "https://mirrorindy.org/southeast-neighborhood-development-fountain-square-twin-aire-fundraiser"
-  },
-  {
-    "id": "mirror-indy-going-green-in-the-grove-returns-on-april-25-for-arbor-day-2026-04-17",
-    "title": "Going Green in the Grove returns on April 25 for Arbor Day",
-    "source": "Mirror Indy",
-    "date": "2026-04-17",
-    "summary": "The 11th annual Going Green in the Grove returns April 25, hosted by the Hornet Park Community Center and the Beech Grove Greenscape Commission.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/BEECH-GROVE-ARBOR-DAY_01.jpg?fit=780%2C557&ssl=1",
-    "url": "https://mirrorindy.org/hornet-park-community-center-beech-grove-indianapolis-arbor-day-going-green-grove"
-  },
-  {
     "id": "wfyi-old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed-2026-04-14",
     "title": "Old City Hall will have to wait for redevelopment after current project killed",
     "source": "WFYI",
@@ -74,19 +84,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/74/d3/32c743164e1387f7e40a207c5b33/old-city-hall-nyttend-wikimedia-commons.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-14/old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed"
-  },
-  {
-    "id": "wfyi-westsiders-grill-dpw-director-on-16th-street-bridge-repair-plans-2026-04-09",
-    "title": "Westsiders grill DPW director on 16th Street Bridge repair plans",
-    "source": "WFYI",
-    "date": "2026-04-09",
-    "summary": "Public Works director Todd Wilson answered questions at a community meeting April 7.",
-    "categories": [
-      "mobility",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/92/6a/1c63592a47d6bdb154709cc45f32/dpw-todd-wilson-jenna-watson-mirror-indy.png",
-    "url": "https://www.wfyi.org/wfyi-news/2026-04-09/westsiders-grill-dpw-director-on-16th-street-bridge-repair-plans"
   },
   {
     "id": "indy-parks-mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canter-2026-03-23",
