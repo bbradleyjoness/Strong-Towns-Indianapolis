@@ -1,5 +1,56 @@
 [
   {
+    "id": "wfyi-aes-indiana-customers-told-regulators-their-stacks-of-utility-bills-don-t-add-up-2026-04-21",
+    "title": "AES Indiana customers told regulators their stacks of utility bills don't add up",
+    "source": "WFYI",
+    "date": "2026-04-21",
+    "summary": "Indianapolis residents aired complaints about billing spikes, metering problems and data center costs at an Indiana Utility Regulatory Commission listening session at Ivy Tech Community College.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/d6/be/df71a2664c4fb38fc6d440b1cc47/iurc-listening-042026-indy-zc.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-04-21/indianapolis-utility-regulators-aes-indiana-billing-town-hall"
+  },
+  {
+    "id": "mirror-indy-anti-data-center-advocates-take-their-battle-to-court-2026-04-21",
+    "title": "Anti-data center advocates take their battle to court",
+    "source": "Mirror Indy",
+    "date": "2026-04-21",
+    "summary": "Linda Hutchinson (front right) and other residents from Decatur Township protest against the Sabey Data Centers proposal before the Metropolitan Development Commission’s Hearing Examiner meeting on Feb. 26, 2026, at the City-County Building in Indianapolis.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260226_SABEY-MDC-HEARING_BP_11.jpg?fit=780%2C494&ssl=1",
+    "url": "https://mirrorindy.org/decatur-township-civic-council-sabey-data-center-judicial-review-metropolitan-development-commission"
+  },
+  {
+    "id": "mirror-indy-indy-library-resumes-wi-fi-hotspot-program-2026-04-21",
+    "title": "Indy library resumes Wi-Fi hotspot program",
+    "source": "Mirror Indy",
+    "date": "2026-04-21",
+    "summary": "A router from the Indianapolis Public Library’s free Wi-Fi hotspot lending program, which has been temporarily suspended, photographed at Mirror Indy on Nov. 12, 2025.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/11/DAY-LIBRARY-WIFI-HOTSPOT-PROGRAM.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indy-public-library-wifi-hotspot-program-returns-after-suspension-federal-cuts-resources"
+  },
+  {
+    "id": "mirror-indy-indiana-to-resume-child-care-vouchers-after-15-month-freeze-2026-04-21",
+    "title": "Indiana to resume child care vouchers after 15-month freeze",
+    "source": "Mirror Indy",
+    "date": "2026-04-21",
+    "summary": "Republican Gov. Mike Braun announced additional funding for Child Care and Development Funds on Tuesday in order to add around 14,000 children to the program that provides subsidies to families, for a total enrollment of around 57,000.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Indiana-flag_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indiana-to-resume-child-care-vouchers-after-15-month-freeze"
+  },
+  {
     "id": "mirror-indy-learn-about-property-taxes-changes-at-this-free-workshop-2026-04-21",
     "title": "Learn about property taxes changes at this free workshop",
     "source": "Mirror Indy",
@@ -22,55 +73,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/27/10/4f3e13864b12ae1d4e841cbd4e61/decatur-township-protest-022626-fa.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
-  },
-  {
-    "id": "mirror-indy-twg-residents-share-complaints-concerns-about-housing-2026-04-20",
-    "title": "TWG residents share complaints, concerns about housing",
-    "source": "Mirror Indy",
-    "date": "2026-04-20",
-    "summary": "This brief is adapted from notes taken by Documenter Paige Scott, who covered the TWG Residents Town Hall in March. 📝 Read more about what happened .",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/Indy-Documenters-illustrations_CH03.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/documenters-twg-residents-town-hall"
-  },
-  {
-    "id": "mirror-indy-earth-day-2026-10-headlines-to-check-out-2026-04-20",
-    "title": "Earth Day 2026: 10 headlines to check out",
-    "source": "Mirror Indy",
-    "date": "2026-04-20",
-    "summary": "Grayhead coneflowers and black-eyed susans grows in the City of Lawrence Butterfly and Pollinator Habitat on July 16, 2025, at Lee Road Park.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/20250716_LAWRENCE-NATIVE-PLANTS_BP_03-scaled.jpg?fit=780%2C502&ssl=1",
-    "url": "https://mirrorindy.org/earth-day-stories-environment-health-science-indianapolis-plants"
-  },
-  {
-    "id": "mirror-indy-indygo-s-music-in-transit-web-series-to-feature-live-performances-for-8th-season-2026-04-20",
-    "title": "IndyGo’s Music in Transit web series to feature live performances for 8th season",
-    "source": "Mirror Indy",
-    "date": "2026-04-20",
-    "summary": "People board IndyGo buses on Monday, Feb. 19, 2024, at the Julia M. Carson Transit Center in downtown Indianapolis.",
-    "categories": [
-      "mobility",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/indygo-julia-m-carson-transit-center_JRW010.jpg?fit=780%2C500&ssl=1",
-    "url": "https://mirrorindy.org/indygos-music-in-transit-web-series-to-feature-live-performances-for-8th-season"
-  },
-  {
-    "id": "mirror-indy-5-things-to-do-at-indy-s-new-contemporary-art-museum-2026-04-17",
-    "title": "5 things to do at Indy’s new contemporary art museum",
-    "source": "Mirror Indy",
-    "date": "2026-04-17",
-    "summary": "The Chicken Chapel of Love on the grounds of the Contemporary Art Museum of Indianapolis, or CAMi, seen April 15, 2026, in Garfield Park.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/EXP-5-things-to-see-at-CAMi_MG07.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/new-art-museum-cami-garfield-park-exhibits"
   },
   {
     "id": "wfyi-old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed-2026-04-14",
