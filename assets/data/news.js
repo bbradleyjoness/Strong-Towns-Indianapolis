@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-proposes-data-center-zoning-rules-but-critics-say-protections-fall--2026-04-23",
+    "title": "Indianapolis proposes data center zoning rules, but critics say protections fall short",
+    "source": "WFYI",
+    "date": "2026-04-23",
+    "summary": "Indianapolis proposed its first data center zoning rules, capping noise and requiring utility checks, but critics say the draft doesn't go far enough to protect neighborhoods.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ef/f3/c696eed844aebdedd5f5327beedb/data-cente-rserver-rack-unsplash.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-04-23/indianapolis-data-center-zoning-rules-proposal"
+  },
+  {
     "id": "wfyi-aes-indiana-customers-told-regulators-their-stacks-of-utility-bills-don-t-add-up-2026-04-21",
     "title": "AES Indiana customers told regulators their stacks of utility bills don't add up",
     "source": "WFYI",
