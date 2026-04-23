@@ -26,31 +26,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/decatur-township-civic-council-sabey-data-center-judicial-review-metropolitan-development-commission"
   },
   {
-    "id": "mirror-indy-indy-library-resumes-wi-fi-hotspot-program-2026-04-21",
-    "title": "Indy library resumes Wi-Fi hotspot program",
-    "source": "Mirror Indy",
-    "date": "2026-04-21",
-    "summary": "A router from the Indianapolis Public Library’s free Wi-Fi hotspot lending program, which has been temporarily suspended, photographed at Mirror Indy on Nov. 12, 2025.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/11/DAY-LIBRARY-WIFI-HOTSPOT-PROGRAM.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indy-public-library-wifi-hotspot-program-returns-after-suspension-federal-cuts-resources"
-  },
-  {
-    "id": "mirror-indy-indiana-to-resume-child-care-vouchers-after-15-month-freeze-2026-04-21",
-    "title": "Indiana to resume child care vouchers after 15-month freeze",
-    "source": "Mirror Indy",
-    "date": "2026-04-21",
-    "summary": "Republican Gov. Mike Braun announced additional funding for Child Care and Development Funds on Tuesday in order to add around 14,000 children to the program that provides subsidies to families, for a total enrollment of around 57,000.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Indiana-flag_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-to-resume-child-care-vouchers-after-15-month-freeze"
-  },
-  {
     "id": "wfyi-decatur-township-residents-sue-to-block-4b-data-center-2026-04-20",
     "title": "Decatur Township residents sue to block $4B data center",
     "source": "WFYI",
