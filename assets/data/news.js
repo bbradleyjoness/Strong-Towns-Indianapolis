@@ -12,6 +12,43 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-04-23/indianapolis-data-center-zoning-rules-proposal"
   },
   {
+    "id": "mirror-indy-learn-more-about-the-city-s-plan-to-regulate-data-centers-2026-04-23",
+    "title": "Learn more about the city’s plan to regulate data centers",
+    "source": "Mirror Indy",
+    "date": "2026-04-23",
+    "summary": "The virtual meetings, which are free and open to the public, will provide an overview of the city’s proposed regulations for future data center developments.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/ENT-HEALTH-AND-ENVIRONMENTAL-CONCERNS_2.jpeg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-data-center-city-regulations-community-forums"
+  },
+  {
+    "id": "mirror-indy-pick-up-one-of-our-election-zines-to-learn-about-the-primary-election-2026-04-23",
+    "title": "Pick up one of our election zines to learn about the primary election",
+    "source": "Mirror Indy",
+    "date": "2026-04-23",
+    "summary": "Free voting zines provided at a Mirror Indy Chat N Chew April 21, 2026, at the Julia M Carson Government Center in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Chat-N-Chew_-Elections_06-scaled.jpg?fit=780%2C557&ssl=1",
+    "url": "https://mirrorindy.org/indiana-primary-election-2026-zines"
+  },
+  {
+    "id": "mirror-indy-i-hate-how-we-get-categorized-indy-woman-reflects-on-4-years-of-homelessness-2026-04-23",
+    "title": "‘I hate how we get categorized’: Indy woman reflects on 4 years of homelessness",
+    "source": "Mirror Indy",
+    "date": "2026-04-23",
+    "summary": "Kristina Brown, 34, stands alongside her belongings in a wagon April 21, 2026, on the east side of Indianapolis. Brown has been homeless for more than four years.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/20260421_kristina-brown_tf-1-scaled.jpg?fit=780%2C522&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-homeless-woman-reflects-4-years-tent"
+  },
+  {
     "id": "wfyi-aes-indiana-customers-told-regulators-their-stacks-of-utility-bills-don-t-add-up-2026-04-21",
     "title": "AES Indiana customers told regulators their stacks of utility bills don't add up",
     "source": "WFYI",
@@ -23,19 +60,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/d6/be/df71a2664c4fb38fc6d440b1cc47/iurc-listening-042026-indy-zc.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-21/indianapolis-utility-regulators-aes-indiana-billing-town-hall"
-  },
-  {
-    "id": "mirror-indy-anti-data-center-advocates-take-their-battle-to-court-2026-04-21",
-    "title": "Anti-data center advocates take their battle to court",
-    "source": "Mirror Indy",
-    "date": "2026-04-21",
-    "summary": "Linda Hutchinson (front right) and other residents from Decatur Township protest against the Sabey Data Centers proposal before the Metropolitan Development Commission’s Hearing Examiner meeting on Feb. 26, 2026, at the City-County Building in Indianapolis.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260226_SABEY-MDC-HEARING_BP_11.jpg?fit=780%2C494&ssl=1",
-    "url": "https://mirrorindy.org/decatur-township-civic-council-sabey-data-center-judicial-review-metropolitan-development-commission"
   },
   {
     "id": "wfyi-decatur-township-residents-sue-to-block-4b-data-center-2026-04-20",
