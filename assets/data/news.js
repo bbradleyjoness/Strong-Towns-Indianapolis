@@ -109,17 +109,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/mayor-hogsett-councilor-robinson-and-indy-parks-break-ground-on-wish-park-renovation"
-  },
-  {
-    "id": "indy-parks-mayor-hogsett-indy-parks-highlight-summer-job-opportunities-2026-03-11",
-    "title": "Mayor Hogsett, Indy Parks Highlight Summer Job Opportunities",
-    "source": "Indy Parks",
-    "date": "2026-03-11",
-    "summary": "INDIANAPOLIS – Today, Mayor Joe Hogsett joined Indy Parks Director Brittany Crone and Indy Parks staff to highlight up to 400 summer jobs available at parks across the city. Available positions include lifeguards, pool managers, camp counselors, food program...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/mayor-hogsett-indy-parks-highlight-summer-job-opportunities-3"
   }
 ];
