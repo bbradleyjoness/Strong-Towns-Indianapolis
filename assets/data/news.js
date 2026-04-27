@@ -74,18 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
   },
   {
-    "id": "wfyi-old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed-2026-04-14",
-    "title": "Old City Hall will have to wait for redevelopment after current project killed",
-    "source": "WFYI",
-    "date": "2026-04-14",
-    "summary": "The most recent project to overhaul the historic site will not move forward because of funding issues.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/74/d3/32c743164e1387f7e40a207c5b33/old-city-hall-nyttend-wikimedia-commons.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-04-14/old-city-hall-will-have-to-wait-for-redevelopment-after-current-project-killed"
-  },
-  {
     "id": "indy-parks-mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canter-2026-03-23",
     "title": "Mayor Hogsett, Council Vice President Barth, and Indy Parks Break Ground on Canterbury Park Improvements",
     "source": "Indy Parks",
