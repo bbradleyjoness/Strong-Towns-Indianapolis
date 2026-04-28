@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-audit-reveals-shocking-findings-at-office-of-public-health-and-safety-2026-04-27",
+    "title": "Audit reveals ‘shocking’ findings at Office of Public Health and Safety",
+    "source": "Mirror Indy",
+    "date": "2026-04-27",
+    "summary": "A generic view of the City-County Building in Indianapolis. Supporters gather during a rally organized by the group Save Ransburg YMCA outside the City-County Building on March 12, 2026, in Indianapolis. Community members and advocates called on city leaders...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/260312_YMCA-Rally_DM011-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-office-public-health-safety-ophs-audit-contracts"
+  },
+  {
+    "id": "mirror-indy-the-city-s-new-bigger-animal-shelter-will-open-may-11-2026-04-27",
+    "title": "The city’s new, bigger animal shelter will open May 11",
+    "source": "Mirror Indy",
+    "date": "2026-04-27",
+    "summary": "A dog named Dozer sniffs the camera during a walk Sept. 5, 2024, at Indianapolis Animal Care Services&#8217; shelter on Harding Street.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/09/09052024_IACS_NP11.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-animal-care-services-new-shelter-adoption-events"
+  },
+  {
     "id": "wfyi-indianapolis-proposes-data-center-zoning-rules-but-critics-say-protections-fall--2026-04-23",
     "title": "Indianapolis proposes data center zoning rules, but critics say protections fall short",
     "source": "WFYI",
@@ -23,30 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/ENT-HEALTH-AND-ENVIRONMENTAL-CONCERNS_2.jpeg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-data-center-city-regulations-community-forums"
-  },
-  {
-    "id": "mirror-indy-pick-up-one-of-our-election-zines-to-learn-about-the-primary-election-2026-04-23",
-    "title": "Pick up one of our election zines to learn about the primary election",
-    "source": "Mirror Indy",
-    "date": "2026-04-23",
-    "summary": "Free voting zines provided at a Mirror Indy Chat N Chew April 21, 2026, at the Julia M Carson Government Center in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Chat-N-Chew_-Elections_06-scaled.jpg?fit=780%2C557&ssl=1",
-    "url": "https://mirrorindy.org/indiana-primary-election-2026-zines"
-  },
-  {
-    "id": "mirror-indy-i-hate-how-we-get-categorized-indy-woman-reflects-on-4-years-of-homelessness-2026-04-23",
-    "title": "‘I hate how we get categorized’: Indy woman reflects on 4 years of homelessness",
-    "source": "Mirror Indy",
-    "date": "2026-04-23",
-    "summary": "Kristina Brown, 34, stands alongside her belongings in a wagon April 21, 2026, on the east side of Indianapolis. Brown has been homeless for more than four years.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/20260421_kristina-brown_tf-1-scaled.jpg?fit=780%2C522&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-woman-reflects-4-years-tent"
   },
   {
     "id": "wfyi-aes-indiana-customers-told-regulators-their-stacks-of-utility-bills-don-t-add-up-2026-04-21",
