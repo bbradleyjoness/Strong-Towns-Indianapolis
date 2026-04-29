@@ -1,5 +1,54 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
+    "title": "Indianapolis public health office mismanaged oversight of most contracts, audit finds",
+    "source": "WFYI",
+    "date": "2026-04-28",
+    "summary": "An audit of the Indianapolis Office of Public Health and Safety found six high-risk problems, including missing documentation on most contracts and conflicts of interest involving staff.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/5c/16/6d4404164152ad68b01e25be484a/city-county-building-angle-1.png",
+    "url": "https://www.wfyi.org/wfyi-news/2026-04-28/indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-finds"
+  },
+  {
+    "id": "mirror-indy-herbalism-and-food-new-art-show-explores-passed-down-knowledge-2026-04-28",
+    "title": "Herbalism and food: New art show explores passed-down knowledge",
+    "source": "Mirror Indy",
+    "date": "2026-04-28",
+    "summary": "Sheila Clemente-Zoto, 22, knew she was an artist ever since she was a little girl. Growing up in the Garden City neighborhood on the west side of Indianapolis, she made traditional shakira jewelry with her artisan father. She developed a passion for making...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Sheila_ClementeZoto_LaTierraTambienRecuerda_2026.jpeg?fit=780%2C525&ssl=1",
+    "url": "https://mirrorindy.org/sheila-clemente-zoto-aurora-photo-center-art-show-herron-school"
+  },
+  {
+    "id": "mirror-indy-design-a-mural-for-indiana-fever-s-new-sports-performance-center-2026-04-28",
+    "title": "Design a mural for Indiana Fever’s new sports performance center",
+    "source": "Mirror Indy",
+    "date": "2026-04-28",
+    "summary": "The 21-by-10-feet mural would be painted inside the parking garage where the players park. It would be completed in early 2027, ahead of the facility’s opening.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Hollering_MirrorIllustration_NBAWeekend-scaled.jpg?fit=780%2C613&ssl=1",
+    "url": "https://mirrorindy.org/new-mural-applications-indiana-fever-sports-performance-center-2026-grant"
+  },
+  {
+    "id": "mirror-indy-eastside-data-center-developer-faces-questions-about-project-2026-04-28",
+    "title": "Eastside data center developer faces questions about project",
+    "source": "Mirror Indy",
+    "date": "2026-04-28",
+    "summary": "Taylor O’Neal, an Irvington resident, reacts while addressing representatives of the proposed DC BLOX data center during a forum in Warren Township, April 27, 2026, at Downey Avenue Christian Church in Indianapolis. The forum, hosted by City-County Councilor...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260427_DAY-DATA-CENTER-FORUM_DM040-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/irvington-data-center-dc-blox-forum-indianapolis-eastside"
+  },
+  {
     "id": "mirror-indy-audit-reveals-shocking-findings-at-office-of-public-health-and-safety-2026-04-27",
     "title": "Audit reveals ‘shocking’ findings at Office of Public Health and Safety",
     "source": "Mirror Indy",
@@ -12,18 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-office-public-health-safety-ophs-audit-contracts"
   },
   {
-    "id": "mirror-indy-the-city-s-new-bigger-animal-shelter-will-open-may-11-2026-04-27",
-    "title": "The city’s new, bigger animal shelter will open May 11",
-    "source": "Mirror Indy",
-    "date": "2026-04-27",
-    "summary": "A dog named Dozer sniffs the camera during a walk Sept. 5, 2024, at Indianapolis Animal Care Services&#8217; shelter on Harding Street.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/09/09052024_IACS_NP11.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-animal-care-services-new-shelter-adoption-events"
-  },
-  {
     "id": "wfyi-indianapolis-proposes-data-center-zoning-rules-but-critics-say-protections-fall--2026-04-23",
     "title": "Indianapolis proposes data center zoning rules, but critics say protections fall short",
     "source": "WFYI",
@@ -34,19 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ef/f3/c696eed844aebdedd5f5327beedb/data-cente-rserver-rack-unsplash.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-23/indianapolis-data-center-zoning-rules-proposal"
-  },
-  {
-    "id": "mirror-indy-learn-more-about-the-city-s-plan-to-regulate-data-centers-2026-04-23",
-    "title": "Learn more about the city’s plan to regulate data centers",
-    "source": "Mirror Indy",
-    "date": "2026-04-23",
-    "summary": "The virtual meetings, which are free and open to the public, will provide an overview of the city’s proposed regulations for future data center developments.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/ENT-HEALTH-AND-ENVIRONMENTAL-CONCERNS_2.jpeg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-data-center-city-regulations-community-forums"
   },
   {
     "id": "wfyi-aes-indiana-customers-told-regulators-their-stacks-of-utility-bills-don-t-add-up-2026-04-21",
