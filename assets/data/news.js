@@ -1,5 +1,53 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-how-ivy-tech-indy-is-building-community-through-intramural-sports-2026-04-30",
+    "title": "How Ivy Tech Indy is building community through intramural sports",
+    "source": "Mirror Indy",
+    "date": "2026-04-30",
+    "summary": "Timara McCree reacts to a play she made in the outfield. Ivy Tech Indianapolis students gathered to participate in an intramural kickball tournament, April 25, 2026, at Tab Recreation.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/IVY-TECH-INTRAMURALS_DM001.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/ivy-tech-indianapolis-student-coalition-organized-recreation-exercise-2026"
+  },
+  {
+    "id": "mirror-indy-stringtown-neighborhood-drama-fuels-debate-about-planned-apartments-2026-04-29",
+    "title": "Stringtown ‘neighborhood drama’ fuels debate about planned apartments",
+    "source": "Mirror Indy",
+    "date": "2026-04-29",
+    "summary": "Debate over development in Stringtown was rekindled during a heated public hearing for a planned apartment project in the westside neighborhood.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/Stringtown-development_SA004.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/low-income-apartments-planned-westside-indianapolis-stringtown"
+  },
+  {
+    "id": "mirror-indy-this-institution-provides-free-groceries-to-franklin-township-residents-2026-04-29",
+    "title": "This institution provides free groceries to Franklin Township residents",
+    "source": "Mirror Indy",
+    "date": "2026-04-29",
+    "summary": "Julie Drake helps her father at God&#8217;s Bounty food pantry on April 23, 2026, at God&#8217;s Bounty pantry in Wanamaker.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260423_DAY-GODS-BOUNTY_RS_03.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/gods-bounty-southside-franklin-township-food-pantry-wanamaker"
+  },
+  {
+    "id": "mirror-indy-get-free-mental-health-first-aid-training-and-a-50-gift-card-2026-04-29",
+    "title": "Get free mental health first aid training — and a $50 gift card",
+    "source": "Mirror Indy",
+    "date": "2026-04-29",
+    "summary": "Pathway Resource Center , a local nonprofit, is hosting two sessions: one from 6-8 p.m. on Thursday, May 14, and a second from 10 a.m. to 12:30 p.m. on Saturday, May 16. Participants must attend both events at 10119 John Marshall Dr. to be eligible for the...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Suicide3.png?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-free-mental-health-first-aid-training-pathways-resource-center"
+  },
+  {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
     "title": "Indianapolis public health office mismanaged oversight of most contracts, audit finds",
     "source": "WFYI",
@@ -22,43 +70,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Sheila_ClementeZoto_LaTierraTambienRecuerda_2026.jpeg?fit=780%2C525&ssl=1",
     "url": "https://mirrorindy.org/sheila-clemente-zoto-aurora-photo-center-art-show-herron-school"
-  },
-  {
-    "id": "mirror-indy-design-a-mural-for-indiana-fever-s-new-sports-performance-center-2026-04-28",
-    "title": "Design a mural for Indiana Fever’s new sports performance center",
-    "source": "Mirror Indy",
-    "date": "2026-04-28",
-    "summary": "The 21-by-10-feet mural would be painted inside the parking garage where the players park. It would be completed in early 2027, ahead of the facility’s opening.",
-    "categories": [
-      "community-action",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Hollering_MirrorIllustration_NBAWeekend-scaled.jpg?fit=780%2C613&ssl=1",
-    "url": "https://mirrorindy.org/new-mural-applications-indiana-fever-sports-performance-center-2026-grant"
-  },
-  {
-    "id": "mirror-indy-eastside-data-center-developer-faces-questions-about-project-2026-04-28",
-    "title": "Eastside data center developer faces questions about project",
-    "source": "Mirror Indy",
-    "date": "2026-04-28",
-    "summary": "Taylor O’Neal, an Irvington resident, reacts while addressing representatives of the proposed DC BLOX data center during a forum in Warren Township, April 27, 2026, at Downey Avenue Christian Church in Indianapolis. The forum, hosted by City-County Councilor...",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260427_DAY-DATA-CENTER-FORUM_DM040-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/irvington-data-center-dc-blox-forum-indianapolis-eastside"
-  },
-  {
-    "id": "mirror-indy-audit-reveals-shocking-findings-at-office-of-public-health-and-safety-2026-04-27",
-    "title": "Audit reveals ‘shocking’ findings at Office of Public Health and Safety",
-    "source": "Mirror Indy",
-    "date": "2026-04-27",
-    "summary": "A generic view of the City-County Building in Indianapolis. Supporters gather during a rally organized by the group Save Ransburg YMCA outside the City-County Building on March 12, 2026, in Indianapolis. Community members and advocates called on city leaders...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/260312_YMCA-Rally_DM011-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-office-public-health-safety-ophs-audit-contracts"
   },
   {
     "id": "wfyi-indianapolis-proposes-data-center-zoning-rules-but-critics-say-protections-fall--2026-04-23",
