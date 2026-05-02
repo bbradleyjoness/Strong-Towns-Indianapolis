@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-eagle-creek-park-won-t-be-site-of-leap-water-discharge-2026-05-01",
+    "title": "Eagle Creek Park won’t be site of LEAP water discharge",
+    "source": "Mirror Indy",
+    "date": "2026-05-01",
+    "summary": "A bird stands by rocks exposed by the Eagle Creek Reservoir&#8217;s low water levels Nov. 24, 2025.",
+    "categories": [
+      "public-space",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/11/112425_EagleCreek_ES04-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/eagle-creek-park-leap-district-water-discharge-point-site"
+  },
+  {
+    "id": "mirror-indy-how-to-get-involved-in-indy-s-homelessness-program-2026-05-01",
+    "title": "How to get involved in Indy’s homelessness program",
+    "source": "Mirror Indy",
+    "date": "2026-05-01",
+    "summary": "Original: Jason Sargent, who is currently homeless and often sleeps at Wheeler Mission, said the effects of Senate Bill 285 would be “horrible.” The bill would make it a crime to camp, sleep, or shelter on public property. Sargent poses for a portrait Feb. 2,...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/ENT-SB-285_CRIMINALIZING-HOMELESSNESS_JRW003.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-homelessness-program-trainings-gima-streets-to-home"
+  },
+  {
+    "id": "mirror-indy-see-art-by-central-american-artists-at-cuentos-del-centro-2026-05-01",
+    "title": "See art by Central American artists at ‘Cuentos del Centro’",
+    "source": "Mirror Indy",
+    "date": "2026-05-01",
+    "summary": "Artist Andie Arana Gomez thinks the cultures of the Central American region need a little more appreciation, so she organized an art show.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/LaMezcla_Leyda-Melgar.jpg?fit=762%2C550&ssl=1",
+    "url": "https://mirrorindy.org/cuentos-del-centro-indianapolis-public-library-central-america-art-show"
+  },
+  {
     "id": "mirror-indy-lawrence-international-festival-celebrates-the-city-s-diversity-2026-05-01",
     "title": "Lawrence International Festival celebrates the city’s diversity",
     "source": "Mirror Indy",
@@ -60,18 +97,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/gods-bounty-southside-franklin-township-food-pantry-wanamaker"
   },
   {
-    "id": "mirror-indy-get-free-mental-health-first-aid-training-and-a-50-gift-card-2026-04-29",
-    "title": "Get free mental health first aid training — and a $50 gift card",
-    "source": "Mirror Indy",
-    "date": "2026-04-29",
-    "summary": "Pathway Resource Center , a local nonprofit, is hosting two sessions: one from 6-8 p.m. on Thursday, May 14, and a second from 10 a.m. to 12:30 p.m. on Saturday, May 16. Participants must attend both events at 10119 John Marshall Dr. to be eligible for the...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Suicide3.png?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-free-mental-health-first-aid-training-pathways-resource-center"
-  },
-  {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
     "title": "Indianapolis public health office mismanaged oversight of most contracts, audit finds",
     "source": "WFYI",
@@ -107,18 +132,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/d6/be/df71a2664c4fb38fc6d440b1cc47/iurc-listening-042026-indy-zc.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-21/indianapolis-utility-regulators-aes-indiana-billing-town-hall"
-  },
-  {
-    "id": "wfyi-decatur-township-residents-sue-to-block-4b-data-center-2026-04-20",
-    "title": "Decatur Township residents sue to block $4B data center",
-    "source": "WFYI",
-    "date": "2026-04-20",
-    "summary": "Decatur Township residents are asking a Marion County court to overturn approval of a $4 billion Sabey data center, arguing the developer used a variance to bypass a full council vote.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/27/10/4f3e13864b12ae1d4e841cbd4e61/decatur-township-protest-022626-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-04-20/decatur-township-residents-sue-to-block-sabey-data-center"
   },
   {
     "id": "indy-parks-mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canter-2026-03-23",
