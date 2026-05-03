@@ -132,17 +132,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canterbury-park-improvements"
-  },
-  {
-    "id": "indy-parks-mayor-hogsett-councilor-robinson-and-indy-parks-break-ground-on-wish-park-renova-2026-03-19",
-    "title": "Mayor Hogsett, Councilor Robinson, and Indy Parks Break Ground on WISH Park Renovation",
-    "source": "Indy Parks",
-    "date": "2026-03-19",
-    "summary": "INDIANAPOLIS – Today, Mayor Hogsett, City-County Councilor Leroy Robinson, and Indy Parks broke ground on the renovation of WISH Park. The project was initially funded for a new playground through the Lilly Endowment Grant to Indy Parks and expanded with $1...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/mayor-hogsett-councilor-robinson-and-indy-parks-break-ground-on-wish-park-renovation"
   }
 ];
