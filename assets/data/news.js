@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-get-a-free-car-seats-at-may-19-indianapolis-safety-clinic-2026-05-04",
+    "title": "Get a free car seats at May 19 Indianapolis safety clinic",
+    "source": "Mirror Indy",
+    "date": "2026-05-04",
+    "summary": "The IU School of Medicine is partnering with Ivy Tech and manufacturers to provide free replacements for damaged, expired or unsafe car seats. Pregnant people in the third trimester are also eligible for a free car seat while supplies last.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/AdobeStock_221678386-scaled.jpeg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-free-car-seats-safety-clinicius-school-of-medicine"
+  },
+  {
     "id": "mirror-indy-eagle-creek-park-won-t-be-site-of-leap-water-discharge-2026-05-01",
     "title": "Eagle Creek Park won’t be site of LEAP water discharge",
     "source": "Mirror Indy",
@@ -71,30 +83,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/IVY-TECH-INTRAMURALS_DM001.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/ivy-tech-indianapolis-student-coalition-organized-recreation-exercise-2026"
-  },
-  {
-    "id": "mirror-indy-stringtown-neighborhood-drama-fuels-debate-about-planned-apartments-2026-04-29",
-    "title": "Stringtown ‘neighborhood drama’ fuels debate about planned apartments",
-    "source": "Mirror Indy",
-    "date": "2026-04-29",
-    "summary": "Debate over development in Stringtown was rekindled during a heated public hearing for a planned apartment project in the westside neighborhood.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/Stringtown-development_SA004.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/low-income-apartments-planned-westside-indianapolis-stringtown"
-  },
-  {
-    "id": "mirror-indy-this-institution-provides-free-groceries-to-franklin-township-residents-2026-04-29",
-    "title": "This institution provides free groceries to Franklin Township residents",
-    "source": "Mirror Indy",
-    "date": "2026-04-29",
-    "summary": "Julie Drake helps her father at God&#8217;s Bounty food pantry on April 23, 2026, at God&#8217;s Bounty pantry in Wanamaker.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260423_DAY-GODS-BOUNTY_RS_03.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/gods-bounty-southside-franklin-township-food-pantry-wanamaker"
   },
   {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
