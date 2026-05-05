@@ -26,8 +26,8 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/documenters-citizens-police-complaint-board-april-2026-trevion-taylor"
   },
   {
-    "id": "mirror-indy-get-a-free-car-seats-at-may-19-indianapolis-safety-clinic-2026-05-04",
-    "title": "Get a free car seats at May 19 Indianapolis safety clinic",
+    "id": "mirror-indy-get-a-free-car-seat-at-may-19-indianapolis-safety-clinic-2026-05-04",
+    "title": "Get a free car seat at May 19 Indianapolis safety clinic",
     "source": "Mirror Indy",
     "date": "2026-05-04",
     "summary": "The IU School of Medicine is partnering with Ivy Tech and manufacturers to provide free replacements for damaged, expired or unsafe car seats. Pregnant people in the third trimester are also eligible for a free car seat while supplies last.",
@@ -85,18 +85,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/03/DOGE-Federal-Buildings_NP03.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/lawrence-east-side-international-festival-free-event"
-  },
-  {
-    "id": "mirror-indy-indy-area-drivers-go-full-throttle-at-this-westside-race-track-2026-04-30",
-    "title": "Indy-area drivers go full throttle at this westside race track",
-    "source": "Mirror Indy",
-    "date": "2026-04-30",
-    "summary": "Drag racers perform a burnout before racing during a Wild Wednesday event on April 22, 2026, at Lucas Oil Indianapolis Raceway Park in Indianapolis. The burnouts help clean the vehicle&#8217;s rear tires, creating maximum traction.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/20260422_WILD-WEDNESDAY_BP_28.jpg?fit=780%2C486&ssl=1",
-    "url": "https://mirrorindy.org/westside-drag-race-wild-wednesdays-lucas-oil-indianapolis-raceway-park"
   },
   {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
