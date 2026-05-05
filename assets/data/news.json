@@ -1,5 +1,31 @@
 [
   {
+    "id": "wfyi-indianapolis-council-approves-data-center-for-martindale-brightwood-2026-05-05",
+    "title": "Indianapolis council approves data center for Martindale-Brightwood",
+    "source": "WFYI",
+    "date": "2026-05-05",
+    "summary": "The Indianapolis City-County Council approved a rezoning request for a Metrobloks data center in Martindale-Brightwood where residents have opposed the project over pollution and quality-of-life concerns.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/cb/d7/92ae3e764bc998bade6f792c6511/iccc-metrobloks-vote-may4-26-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood"
+  },
+  {
+    "id": "mirror-indy-parents-of-teenage-driver-seek-justice-after-traffic-stop-2026-05-04",
+    "title": "Parents of teenage driver seek justice after traffic stop",
+    "source": "Mirror Indy",
+    "date": "2026-05-04",
+    "summary": "A public meeting of the Citizens’ Police Complaint Board is held May 13, 2024, at the Indianapolis Public Library’s Haughville branch.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/0513-citizens-police-complaint-board_JRW004.jpg?fit=780%2C469&ssl=1",
+    "url": "https://mirrorindy.org/documenters-citizens-police-complaint-board-april-2026-trevion-taylor"
+  },
+  {
     "id": "mirror-indy-get-a-free-car-seats-at-may-19-indianapolis-safety-clinic-2026-05-04",
     "title": "Get a free car seats at May 19 Indianapolis safety clinic",
     "source": "Mirror Indy",
@@ -53,7 +79,7 @@
     "title": "Lawrence International Festival celebrates the city’s diversity",
     "source": "Mirror Indy",
     "date": "2026-05-01",
-    "summary": "The festival is noon to 4 p.m. May 9 at the Lawrence Civic Plaza, 5710 Lawrence Village Pkwy.",
+    "summary": "The festival is noon to 4 p.m. May 9 at the Lawrence Civic Plaza, 5710 Lawrence Village Parkway.",
     "categories": [
       "public-space"
     ],
@@ -73,18 +99,6 @@
     "url": "https://mirrorindy.org/westside-drag-race-wild-wednesdays-lucas-oil-indianapolis-raceway-park"
   },
   {
-    "id": "mirror-indy-how-ivy-tech-indy-is-building-community-through-intramural-sports-2026-04-30",
-    "title": "How Ivy Tech Indy is building community through intramural sports",
-    "source": "Mirror Indy",
-    "date": "2026-04-30",
-    "summary": "Timara McCree reacts to a play she made in the outfield. Ivy Tech Indianapolis students gathered to participate in an intramural kickball tournament, April 25, 2026, at Tab Recreation.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/IVY-TECH-INTRAMURALS_DM001.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/ivy-tech-indianapolis-student-coalition-organized-recreation-exercise-2026"
-  },
-  {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
     "title": "Indianapolis public health office mismanaged oversight of most contracts, audit finds",
     "source": "WFYI",
@@ -95,18 +109,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/5c/16/6d4404164152ad68b01e25be484a/city-county-building-angle-1.png",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-28/indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-finds"
-  },
-  {
-    "id": "wfyi-indianapolis-proposes-data-center-zoning-rules-but-critics-say-protections-fall--2026-04-23",
-    "title": "Indianapolis proposes data center zoning rules, but critics say protections fall short",
-    "source": "WFYI",
-    "date": "2026-04-23",
-    "summary": "Indianapolis proposed its first data center zoning rules, capping noise and requiring utility checks, but critics say the draft doesn't go far enough to protect neighborhoods.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ef/f3/c696eed844aebdedd5f5327beedb/data-cente-rserver-rack-unsplash.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-04-23/indianapolis-data-center-zoning-rules-proposal"
   },
   {
     "id": "indy-parks-mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canter-2026-03-23",
