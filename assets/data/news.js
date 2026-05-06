@@ -1,16 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "wfyi-indianapolis-council-approves-data-center-for-martindale-brightwood-2026-05-05",
+    "id": "mirror-indy-indianapolis-council-approves-data-center-for-martindale-brightwood-2026-05-05",
     "title": "Indianapolis council approves data center for Martindale-Brightwood",
-    "source": "WFYI",
+    "source": "Mirror Indy",
     "date": "2026-05-05",
-    "summary": "The Indianapolis City-County Council approved a rezoning request for a Metrobloks data center in Martindale-Brightwood where residents have opposed the project over pollution and quality-of-life concerns.",
+    "summary": "Residents opposed to a proposed data center in Martindale-Brightwood attend a City-County Council meeting Monday, May 4, 2026 where the council approved Metrobloks&#8217; rezoning request.",
     "categories": [
       "urbanism",
       "community-action"
     ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/cb/d7/92ae3e764bc998bade6f792c6511/iccc-metrobloks-vote-may4-26-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-04/metrobloks-data-center-gets-final-approval-for-martindale-brightwood"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Metrobloks-City-County-Council_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-council-approves-data-center-for-martindale-brightwood"
+  },
+  {
+    "id": "mirror-indy-lawrence-warren-incumbents-trail-competitors-in-race-for-trustee-nomination-2026-05-05",
+    "title": "Lawrence, Warren incumbents trail competitors in race for trustee nomination",
+    "source": "Mirror Indy",
+    "date": "2026-05-05",
+    "summary": "From left, Pike Township trustee candidate Claudette Peterson, Center Township Constable Kenneth Allen, Lawrence Township trustee candidate Lisa Chavis and Pike Township trustee candidate Annette Johnson.",
+    "categories": [
+      "public-space",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/ELX-trustees.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indiana-elections-2026-indianapolis-marion-county-township-trustees-constables-results"
   },
   {
     "id": "mirror-indy-parents-of-teenage-driver-seek-justice-after-traffic-stop-2026-05-04",
@@ -24,67 +37,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/0513-citizens-police-complaint-board_JRW004.jpg?fit=780%2C469&ssl=1",
     "url": "https://mirrorindy.org/documenters-citizens-police-complaint-board-april-2026-trevion-taylor"
-  },
-  {
-    "id": "mirror-indy-get-a-free-car-seat-at-may-19-indianapolis-safety-clinic-2026-05-04",
-    "title": "Get a free car seat at May 19 Indianapolis safety clinic",
-    "source": "Mirror Indy",
-    "date": "2026-05-04",
-    "summary": "The IU School of Medicine is partnering with Ivy Tech and manufacturers to provide free replacements for damaged, expired or unsafe car seats. Pregnant people in the third trimester are also eligible for a free car seat while supplies last.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/AdobeStock_221678386-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-free-car-seats-safety-clinicius-school-of-medicine"
-  },
-  {
-    "id": "mirror-indy-eagle-creek-park-won-t-be-site-of-leap-water-discharge-2026-05-01",
-    "title": "Eagle Creek Park won’t be site of LEAP water discharge",
-    "source": "Mirror Indy",
-    "date": "2026-05-01",
-    "summary": "A bird stands by rocks exposed by the Eagle Creek Reservoir&#8217;s low water levels Nov. 24, 2025.",
-    "categories": [
-      "public-space",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/11/112425_EagleCreek_ES04-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/eagle-creek-park-leap-district-water-discharge-point-site"
-  },
-  {
-    "id": "mirror-indy-how-to-get-involved-in-indy-s-homelessness-program-2026-05-01",
-    "title": "How to get involved in Indy’s homelessness program",
-    "source": "Mirror Indy",
-    "date": "2026-05-01",
-    "summary": "Original: Jason Sargent, who is currently homeless and often sleeps at Wheeler Mission, said the effects of Senate Bill 285 would be “horrible.” The bill would make it a crime to camp, sleep, or shelter on public property. Sargent poses for a portrait Feb. 2,...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/ENT-SB-285_CRIMINALIZING-HOMELESSNESS_JRW003.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homelessness-program-trainings-gima-streets-to-home"
-  },
-  {
-    "id": "mirror-indy-see-art-by-central-american-artists-at-cuentos-del-centro-2026-05-01",
-    "title": "See art by Central American artists at ‘Cuentos del Centro’",
-    "source": "Mirror Indy",
-    "date": "2026-05-01",
-    "summary": "Artist Andie Arana Gomez thinks the cultures of the Central American region need a little more appreciation, so she organized an art show.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/LaMezcla_Leyda-Melgar.jpg?fit=762%2C550&ssl=1",
-    "url": "https://mirrorindy.org/cuentos-del-centro-indianapolis-public-library-central-america-art-show"
-  },
-  {
-    "id": "mirror-indy-lawrence-international-festival-celebrates-the-city-s-diversity-2026-05-01",
-    "title": "Lawrence International Festival celebrates the city’s diversity",
-    "source": "Mirror Indy",
-    "date": "2026-05-01",
-    "summary": "The festival is noon to 4 p.m. May 9 at the Lawrence Civic Plaza, 5710 Lawrence Village Parkway.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/03/DOGE-Federal-Buildings_NP03.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/lawrence-east-side-international-festival-free-event"
   },
   {
     "id": "wfyi-indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-f-2026-04-28",
