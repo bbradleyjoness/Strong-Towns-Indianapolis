@@ -60,18 +60,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/5c/16/6d4404164152ad68b01e25be484a/city-county-building-angle-1.png",
     "url": "https://www.wfyi.org/wfyi-news/2026-04-28/indianapolis-public-health-office-mismanaged-oversight-of-most-contracts-audit-finds"
-  },
-  {
-    "id": "indy-parks-mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canter-2026-03-23",
-    "title": "Mayor Hogsett, Council Vice President Barth, and Indy Parks Break Ground on Canterbury Park Improvements",
-    "source": "Indy Parks",
-    "date": "2026-03-23",
-    "summary": "INDIANAPOLIS – Today, Mayor Hogsett, City-County Council Vice President John Barth, and Indy Parks broke ground on improvements to Canterbury Park. The park was identified for improvements by Councilor Barth and local residents as part of the $1 million...",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/mayor-hogsett-council-vice-president-barth-and-indy-parks-break-ground-on-canterbury-park-improvements"
   }
 ];
