@@ -52,19 +52,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-downtown-apartments-twg-upgrades-property-tax-break"
   },
   {
-    "id": "mirror-indy-bean-creek-neighbors-are-slowing-traffic-near-garfield-park-2026-05-07",
-    "title": "Bean Creek neighbors are slowing traffic near Garfield Park",
-    "source": "Mirror Indy",
-    "date": "2026-05-07",
-    "summary": "A crossing guard who identified herself as &#8220;Miss Storm&#8221; provides safe crossing for those on the way to school on a rainy morning at Emma Donnan Elementary &#038; Middle School on Friday, May 1, 2026 in Indianpolis. MIss Storm has been a crossing...",
-    "categories": [
-      "public-space",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260501-DAY-Southside-Tactical-Urbanism-RS-02-scaled.jpg?fit=780%2C521&ssl=1",
-    "url": "https://mirrorindy.org/southside-united-indianapolis-trails-bean-creek-tactical-urbanism-east-troy-avenue"
-  },
-  {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
     "title": "Indy Parks Announces the Start of the 2026 Free Concert Series",
     "source": "Indy Parks",
