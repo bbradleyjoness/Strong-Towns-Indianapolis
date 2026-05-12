@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-martindale-brightwood-residents-take-data-center-fight-to-court-citing-environme-2026-05-12",
+    "title": "Martindale-Brightwood residents take data center fight to court, citing environmental racism",
+    "source": "WFYI",
+    "date": "2026-05-12",
+    "summary": "The Hoosier Environmental Council and Martindale-Brightwood residents are asking a Marion County court to block Metrobloks planned data center.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/e9/22/ccf8d075407787459d0cb7db2e9e/metrobloks-protest-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-12/martindale-brightwood-data-center-court-challenge"
+  },
+  {
+    "id": "mirror-indy-indygo-route-changes-coming-in-june-2026-05-12",
+    "title": "IndyGo route changes coming in June",
+    "source": "Mirror Indy",
+    "date": "2026-05-12",
+    "summary": "An IndyGo bus passes in front of a Purple Line stop at the intersection of East 38th Street and North Franklin Road on Oct. 1, 2024.",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/purple_line_tf-5-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indygo-indianapolis-bus-route-changes-june-red-line-june-2026"
+  },
+  {
     "id": "wfyi-want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter-2026-05-11",
     "title": "Want to adopt a pet? Indianapolis opens new animal shelter",
     "source": "WFYI",
@@ -60,19 +84,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DPW_tactical-urbanism03.jpg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-department-public-works-tactical-urbanism-quick-build-program"
-  },
-  {
-    "id": "mirror-indy-want-to-volunteer-use-this-website-to-find-opportunities-2026-05-08",
-    "title": "Want to volunteer? Use this website to find opportunities.",
-    "source": "Mirror Indy",
-    "date": "2026-05-08",
-    "summary": "Volunteer Carter Elder, 17, picks an order in the stock room at God&#8217;s Bounty pantry on April 23, 2026, in Franklin Township. Elder volunteers with his grandmother, Sherry Elder, who is on the board of directors of the pantry.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260423_DAY-GODS-BOUNTY_RS_11.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/united-way-central-indiana-indianapolis-volunteer-opportunities-new-website"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
