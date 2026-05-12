@@ -1,5 +1,41 @@
 [
   {
+    "id": "wfyi-want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter-2026-05-11",
+    "title": "Want to adopt a pet? Indianapolis opens new animal shelter",
+    "source": "WFYI",
+    "date": "2026-05-11",
+    "summary": "The new Indianapolis animal shelter is open and double the size of the previous facility.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ba/55/c5d6e9584740b0cddb72145bf8f2/indianapolis-animal-care-services.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-11/want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter"
+  },
+  {
+    "id": "mirror-indy-trade-plants-at-this-free-fort-ben-library-event-2026-05-11",
+    "title": "Trade plants at this free Fort Ben library event",
+    "source": "Mirror Indy",
+    "date": "2026-05-11",
+    "summary": "The event is from 10:30 a.m. to 2 p.m. May 16. Attendees can bring plant cuttings, seedlings or seeds to exchange with others.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/PXL_20241122_174145125-scaled.jpg?fit=780%2C587&ssl=1",
+    "url": "https://mirrorindy.org/fort-ben-library-lawrence-free-plant-exchange-seeds-may-2026"
+  },
+  {
+    "id": "mirror-indy-martindale-brightwood-residents-share-stories-at-library-art-event-2026-05-11",
+    "title": "Martindale Brightwood residents share stories at library art event",
+    "source": "Mirror Indy",
+    "date": "2026-05-11",
+    "summary": "A sign welcoming people into the Martindale Brightwood community, pictured Oct. 8, 2025, on Dr. Andrew J. Brown Avenue in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251008_MARTINDALE-HISTORIC-DISTRICT_BP_05-scaled.jpg?fit=780%2C533&ssl=1",
+    "url": "https://mirrorindy.org/martindale-brightwood-indianapolis-public-library-free-art-workshop-harrison-center"
+  },
+  {
     "id": "mirror-indy-martindale-brightwood-neighbors-file-lawsuit-over-data-center-approval-2026-05-08",
     "title": "Martindale Brightwood neighbors file lawsuit over data center approval",
     "source": "Mirror Indy",
@@ -37,19 +73,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260423_DAY-GODS-BOUNTY_RS_11.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/united-way-central-indiana-indianapolis-volunteer-opportunities-new-website"
-  },
-  {
-    "id": "mirror-indy-twg-approved-for-tax-break-to-make-upgrades-at-downtown-apartments-2026-05-08",
-    "title": "TWG approved for tax break to make upgrades at downtown apartments",
-    "source": "Mirror Indy",
-    "date": "2026-05-08",
-    "summary": "This story originated from notes taken by Documenters Kelli Jack-Kelly and Mark McLean, who covered the April 13 meeting of the Metropolitan and Economic Development Committee. 📝 Read more about what happened .",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260507_TWG-SUBSIDY_tf2-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-downtown-apartments-twg-upgrades-property-tax-break"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
