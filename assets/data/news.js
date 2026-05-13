@@ -12,6 +12,31 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-05-12/martindale-brightwood-data-center-court-challenge"
   },
   {
+    "id": "mirror-indy-eastsiders-get-another-chance-to-hear-about-a-proposed-data-center-2026-05-12",
+    "title": "Eastsiders get another chance to hear about a proposed data center",
+    "source": "Mirror Indy",
+    "date": "2026-05-12",
+    "summary": "The site where a Georgia-based company, DC Blox, wants to build a data center, seen April 8, 2026. The $2 billion project would be near South Kitley Avenue and the Pennsy Trail, which is the site of a former Ford factory that has since become Thunderbird...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/EXP-EAST-SIDE-DATA-CENTER_MG01-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/warren-township-irvington-data-center-east-side-indianapolis-dc-blox-community-meeting"
+  },
+  {
+    "id": "mirror-indy-indianapolis-public-schools-cuts-17m-from-central-office-announces-layoffs-2026-05-12",
+    "title": "Indianapolis Public Schools cuts $17M from central office, announces layoffs",
+    "source": "Mirror Indy",
+    "date": "2026-05-12",
+    "summary": "Indianapolis Public Schools announced its second round of cuts this year on May 11, 2026, bringing the total workforce reduction to 87 employees, including 36 teachers and 23 other school-based staff eliminated in March.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/my-ips-sign-weddle_WFYI.jpg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-schools-cuts-17m-from-central-office-announces-layoffs"
+  },
+  {
     "id": "mirror-indy-indygo-route-changes-coming-in-june-2026-05-12",
     "title": "IndyGo route changes coming in June",
     "source": "Mirror Indy",
@@ -58,32 +83,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251008_MARTINDALE-HISTORIC-DISTRICT_BP_05-scaled.jpg?fit=780%2C533&ssl=1",
     "url": "https://mirrorindy.org/martindale-brightwood-indianapolis-public-library-free-art-workshop-harrison-center"
-  },
-  {
-    "id": "mirror-indy-martindale-brightwood-neighbors-file-lawsuit-over-data-center-approval-2026-05-08",
-    "title": "Martindale Brightwood neighbors file lawsuit over data center approval",
-    "source": "Mirror Indy",
-    "date": "2026-05-08",
-    "summary": "Cierra Johnson from Protect Martindale-Brightwood and One Voice Martindale Brightwood speaks in opposition to the Metrobloks data center during the Metropolitan Development Commission’s Hearing Examiner meeting on Feb. 12, 2026, at the City-County Building in...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260212_HEARING-EXAMINER-VOTE-FOR-MBW-DATA-CENTER_BP_08.jpg?fit=780%2C497&ssl=1",
-    "url": "https://mirrorindy.org/martindale-brightwood-metrobloks-data-center-judicial-review-east-indianapolis-metropolitan-developmen-commission"
-  },
-  {
-    "id": "mirror-indy-new-program-will-speed-up-traffic-calming-improvements-2026-05-08",
-    "title": "New program will speed up traffic calming improvements",
-    "source": "Mirror Indy",
-    "date": "2026-05-08",
-    "summary": "A temporary tactical urbanism project installed on 10th Street in 2025 extends the curb and utilizes bollards in the Chatham Arch neighborhood.",
-    "categories": [
-      "urbanism",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DPW_tactical-urbanism03.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-department-public-works-tactical-urbanism-quick-build-program"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
