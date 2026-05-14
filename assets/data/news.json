@@ -1,5 +1,42 @@
 [
   {
+    "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
+    "title": "Here's how $48M will be spent on road and trail projects around Indianapolis",
+    "source": "WFYI",
+    "date": "2026-05-13",
+    "summary": "Indianapolis officials announced how they plan to use over $48 million on nine projects to improve the city's roads and pathways.",
+    "categories": [
+      "public-space",
+      "mobility"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/dc/34/e77fbcc9454fb844006522a3f713/infrastructure-drew-daudelin-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-13/heres-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis"
+  },
+  {
+    "id": "mirror-indy-wanted-but-too-sick-to-live-a-couple-s-impossible-choice-2026-05-13",
+    "title": "‘Wanted, but too sick to live’: A couple’s impossible choice",
+    "source": "Mirror Indy",
+    "date": "2026-05-13",
+    "summary": "Ann (right) and her husband pose for a portrait on May 11, 2026, at Fort Harrison State Park in Lawrence. After the couple was informed that their child would have a limited chance of surviving several days past being born with no kidneys, they made the...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260511_ANONYMOUS-PORTRAIT_BP_10.jpg?fit=780%2C500&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-abortion-ban-exception-triploidy-lethal-fetal-anomaly-illinois-clinic"
+  },
+  {
+    "id": "mirror-indy-far-eastsiders-can-find-locally-grown-food-at-new-urban-farm-2026-05-13",
+    "title": "Far Eastsiders can find locally grown food at new urban farm",
+    "source": "Mirror Indy",
+    "date": "2026-05-13",
+    "summary": "Farm co-owners David Johnson (left), Miles Mason (middle), and AJ Jamal have their portrait taken in a forested area on the farm May 11, 2026, on the Far Eastside of Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-EASTSIDE-FARM_TS06.jpg?fit=780%2C551&ssl=1",
+    "url": "https://mirrorindy.org/far-eastside-indianapolis-urban-black-owned-farm-rooted-legacy-bodi-buzz"
+  },
+  {
     "id": "wfyi-martindale-brightwood-residents-take-data-center-fight-to-court-citing-environme-2026-05-12",
     "title": "Martindale-Brightwood residents take data center fight to court, citing environmental racism",
     "source": "WFYI",
@@ -37,18 +74,6 @@
     "url": "https://mirrorindy.org/indianapolis-public-schools-cuts-17m-from-central-office-announces-layoffs"
   },
   {
-    "id": "mirror-indy-indygo-route-changes-coming-in-june-2026-05-12",
-    "title": "IndyGo route changes coming in June",
-    "source": "Mirror Indy",
-    "date": "2026-05-12",
-    "summary": "An IndyGo bus passes in front of a Purple Line stop at the intersection of East 38th Street and North Franklin Road on Oct. 1, 2024.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/purple_line_tf-5-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indygo-indianapolis-bus-route-changes-june-red-line-june-2026"
-  },
-  {
     "id": "wfyi-want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter-2026-05-11",
     "title": "Want to adopt a pet? Indianapolis opens new animal shelter",
     "source": "WFYI",
@@ -59,18 +84,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ba/55/c5d6e9584740b0cddb72145bf8f2/indianapolis-animal-care-services.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-11/want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter"
-  },
-  {
-    "id": "mirror-indy-trade-plants-at-this-free-fort-ben-library-event-2026-05-11",
-    "title": "Trade plants at this free Fort Ben library event",
-    "source": "Mirror Indy",
-    "date": "2026-05-11",
-    "summary": "The event is from 10:30 a.m. to 2 p.m. May 16. Attendees can bring plant cuttings, seedlings or seeds to exchange with others.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/PXL_20241122_174145125-scaled.jpg?fit=780%2C587&ssl=1",
-    "url": "https://mirrorindy.org/fort-ben-library-lawrence-free-plant-exchange-seeds-may-2026"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
