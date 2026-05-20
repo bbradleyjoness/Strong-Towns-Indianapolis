@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time-2026-05-19",
+    "title": "Indianapolis takes a step toward food justice — one micro-grant at a time",
+    "source": "WFYI",
+    "date": "2026-05-19",
+    "summary": "A new initiative aimed at strengthening Indianapolis’ local food system is investing directly in the farmers, growers and food retailers already working to feed neighborhoods across the city.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/c3/78/ea057f564aa1818e8e59976f8e90/download-1.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-19/indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time"
+  },
+  {
+    "id": "mirror-indy-eastern-star-church-closes-on-martin-university-property-2026-05-19",
+    "title": "Eastern Star Church closes on Martin University property",
+    "source": "Mirror Indy",
+    "date": "2026-05-19",
+    "summary": "Eastern Star Church has officially closed on its purchase of the former Martin University, located northeast of downtown Indianapolis.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Martin-University_WRTV.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/eastern-star-church-closes-on-martin-university-property"
+  },
+  {
     "id": "mirror-indy-here-s-how-indy-plans-to-regulate-data-centers-2026-05-18",
     "title": "Here’s how Indy plans to regulate data centers",
     "source": "Mirror Indy",
@@ -23,43 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/AdobeStock_198035043-scaled.jpeg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/marion-county-public-health-department-2025-community-health-assessment-presentation-uindy"
-  },
-  {
-    "id": "mirror-indy-beech-grove-is-strong-mayor-says-in-state-of-the-city-2026-05-15",
-    "title": "Beech Grove ‘is strong’ mayor says in State of the City",
-    "source": "Mirror Indy",
-    "date": "2026-05-15",
-    "summary": "Beech Grove Mayor Jim Coffman speaks during his State of the City address at Hornet Park Community Center in Beech Grove on May 14, 2026.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/051426_BEECHGROVESTATEOFCITY_AR_401-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-mayor-jim-coffman-new-development-infrastructure-state-of-the-city-2026"
-  },
-  {
-    "id": "mirror-indy-share-your-ideas-about-the-future-of-avondale-meadows-park-2026-05-15",
-    "title": "Share your ideas about the future of Avondale Meadows Park",
-    "source": "Mirror Indy",
-    "date": "2026-05-15",
-    "summary": "An Indy Parks sign at Riverside Park Feb. 4, 2025.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/Indyparks2-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indy-parks-community-open-house-avondale-meadows-indianapolis"
-  },
-  {
-    "id": "mirror-indy-westside-residents-work-to-build-art-campus-along-michigan-road-2026-05-14",
-    "title": "Westside residents work to build art campus along Michigan Road",
-    "source": "Mirror Indy",
-    "date": "2026-05-14",
-    "summary": "Teresa Reynolds (left), a member of the campus board, and Kerry Michael Manders pose for a portrait May 7, 2026, outside the plot of land where the Crooked Creek Cultural Campus is set to be built near Michigan Road in Indianapolis. The Crooked Creek Cultural...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260507_Crooked-Creek-Cultural-Campus_BP_06.jpg?fit=780%2C513&ssl=1",
-    "url": "https://mirrorindy.org/westside-crooked-creek-cultural-campus-arts-michigan-road"
   },
   {
     "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
