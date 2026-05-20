@@ -37,18 +37,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-data-centers-regulations-moratorium"
   },
   {
-    "id": "mirror-indy-learn-more-about-top-health-issues-in-marion-county-2026-05-18",
-    "title": "Learn more about top health issues in Marion County",
-    "source": "Mirror Indy",
-    "date": "2026-05-18",
-    "summary": "The Marion County Public Health Department will share findings from a 2025 community health assessment , which surveyed over 4,500 residents. Key health concerns across the county include mental health, access to healthcare, housing, trauma and injury...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/AdobeStock_198035043-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/marion-county-public-health-department-2025-community-health-assessment-presentation-uindy"
-  },
-  {
     "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
     "title": "Here's how $48M will be spent on road and trail projects around Indianapolis",
     "source": "WFYI",
