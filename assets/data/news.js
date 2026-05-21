@@ -1,5 +1,44 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
+    "title": "Indianapolis church buys Martin University property, plans for community center and affordable housing",
+    "source": "WFYI",
+    "date": "2026-05-20",
+    "summary": "Eastern Star Church closed on a deal to acquire the real estate portfolio of Martin University, which closed abruptly earlier this year.",
+    "categories": [
+      "urbanism",
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/44/74/1ac39dfc4206a8720c021cfc56d3/martin-university-eric-weddle-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-20/indianapolis-church-buys-martin-university-property-plans-for-community-center-and-affordable-housing"
+  },
+  {
+    "id": "mirror-indy-free-concerts-for-everyone-all-summer-and-beyond-2026-05-20",
+    "title": "Free concerts for everyone, all summer and beyond",
+    "source": "Mirror Indy",
+    "date": "2026-05-20",
+    "summary": "There’s no shortage of live music to check out this summer in Indianapolis. With this list, we highlight all the shows that are absolutely free and open to the public.",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/06/image002-1.jpg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/free-concerts-indianapolis-live-music-things-to-do"
+  },
+  {
+    "id": "mirror-indy-an-ips-employee-became-a-homeowner-with-help-from-this-program-2026-05-20",
+    "title": "An IPS employee became a homeowner with help from this program",
+    "source": "Mirror Indy",
+    "date": "2026-05-20",
+    "summary": "Indianapolis Public Schools employee Ashley Beverly poses for a portrait at her home on May 20, 2026. Beverly bought her house with some help through Indianapolis Neighborhood Housing Partnership.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/052026_EnvironmentalPortrait063-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/ips-indianapolis-public-schools-housing-partnership-homeownership-inhp-habitat-for-humanity"
+  },
+  {
     "id": "wfyi-indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time-2026-05-19",
     "title": "Indianapolis takes a step toward food justice — one micro-grant at a time",
     "source": "WFYI",
@@ -22,19 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Martin-University_WRTV.jpeg?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/eastern-star-church-closes-on-martin-university-property"
-  },
-  {
-    "id": "mirror-indy-here-s-how-indy-plans-to-regulate-data-centers-2026-05-18",
-    "title": "Here’s how Indy plans to regulate data centers",
-    "source": "Mirror Indy",
-    "date": "2026-05-18",
-    "summary": "Posters with the proposed Sabey Data Centers site in Decatur Township are displayed before the Metropolitan Development Commission meeting on March 18, 2026, at the City-County Building in Indianapolis in support of the Sabey Data Centers proposal. The...",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260318_SABEY-MDC-DECISION_BP_01.jpg?fit=780%2C502&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-data-centers-regulations-moratorium"
   },
   {
     "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
