@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-academy-award-winning-actor-brendan-fraser-to-serve-as-indianapolis-500-s-honora-2026-05-21",
+    "title": "Academy Award winning actor Brendan Fraser to serve as Indianapolis 500’s honorary starter",
+    "source": "Mirror Indy",
+    "date": "2026-05-21",
+    "summary": "Brendan Fraser poses for photographers upon arrival at the premiere of the film &#8220;Rental Family&#8221; during the London film festival in London, Oct. 16, 2025.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/AP26135623125909.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/academy-award-winning-actor-brendan-fraser-to-serve-as-indianapolis-500s-honorary-starter"
+  },
+  {
     "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
     "title": "Indianapolis church buys Martin University property, plans for community center and affordable housing",
     "source": "WFYI",
@@ -49,18 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/c3/78/ea057f564aa1818e8e59976f8e90/download-1.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-19/indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time"
-  },
-  {
-    "id": "mirror-indy-eastern-star-church-closes-on-martin-university-property-2026-05-19",
-    "title": "Eastern Star Church closes on Martin University property",
-    "source": "Mirror Indy",
-    "date": "2026-05-19",
-    "summary": "Eastern Star Church has officially closed on its purchase of the former Martin University, located northeast of downtown Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Martin-University_WRTV.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/eastern-star-church-closes-on-martin-university-property"
   },
   {
     "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
