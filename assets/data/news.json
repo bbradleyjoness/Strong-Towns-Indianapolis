@@ -1,5 +1,18 @@
 [
   {
+    "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
+    "title": "Residents push back on a $2 billion data center proposal on Indy's east side",
+    "source": "WFYI",
+    "date": "2026-05-22",
+    "summary": "Residents of Warren Township in Indianapolis expressed deep skepticism about a proposed $2 billion data center campus even as the developer pitched itself as a community partner.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/65/48/fef00d3a4cdab061179a7fa8fc6e/dcblox-260521-david-armistead-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-22/dc-blox-data-center-indianapolis-warren-township-residents"
+  },
+  {
     "id": "mirror-indy-low-income-apartment-building-approved-for-stringtown-2026-05-21",
     "title": "Low-income apartment building approved for Stringtown",
     "source": "Mirror Indy",
@@ -122,18 +135,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/e9/22/ccf8d075407787459d0cb7db2e9e/metrobloks-protest-fa.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-12/martindale-brightwood-data-center-court-challenge"
-  },
-  {
-    "id": "wfyi-want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter-2026-05-11",
-    "title": "Want to adopt a pet? Indianapolis opens new animal shelter",
-    "source": "WFYI",
-    "date": "2026-05-11",
-    "summary": "The new Indianapolis animal shelter is open and double the size of the previous facility.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ba/55/c5d6e9584740b0cddb72145bf8f2/indianapolis-animal-care-services.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-11/want-to-adopt-a-pet-indianapolis-opens-new-animal-shelter"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
