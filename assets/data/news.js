@@ -1,16 +1,52 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
-    "title": "Residents push back on a $2 billion data center proposal on Indy's east side",
-    "source": "WFYI",
+    "id": "mirror-indy-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
+    "title": "Residents push back on a $2 billion data center proposal on Indy’s east side",
+    "source": "Mirror Indy",
     "date": "2026-05-22",
-    "summary": "Residents of Warren Township in Indianapolis expressed deep skepticism about a proposed $2 billion data center campus even as the developer pitched itself as a community partner.",
+    "summary": "David Armistead, senior vice president of sales for DC Blox, speaks to residents at a Warren Township community meeting Thursday, May 21, 2026 about the company&#8217;s proposed $2 billion data center campus on Indianapolis&#8217;s east side.",
     "categories": [
       "urbanism",
       "community-action"
     ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/65/48/fef00d3a4cdab061179a7fa8fc6e/dcblox-260521-david-armistead-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-22/dc-blox-data-center-indianapolis-warren-township-residents"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/David-Armistead-DC-Blox_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/residents-push-back-on-a-2-billion-data-center-proposal-on-indys-east-side"
+  },
+  {
+    "id": "mirror-indy-east-10th-street-s-future-where-people-have-a-good-time-2026-05-22",
+    "title": "East 10th Street’s future: Where ‘people have a good time’",
+    "source": "Mirror Indy",
+    "date": "2026-05-22",
+    "summary": "We were at a town hall May 21 to talk about what we’d like to see as part of a big project to turn our stretch of East 10th Street into a cultural district. People came from the surrounding neighborhoods: Little Flower, Emerson Heights and Grace Tuxedo Park.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-10TH-STREET-CULTURAL-DISTRICT_JRW02.jpg?fit=780%2C534&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-10th-street-cultural-district-town-hall-traffic-project-art"
+  },
+  {
+    "id": "mirror-indy-watch-a-free-movie-outside-in-lawrence-this-summer-2026-05-22",
+    "title": "Watch a free movie outside in Lawrence this summer",
+    "source": "Mirror Indy",
+    "date": "2026-05-22",
+    "summary": "In partnership with Heartland Film, the city will host two free movie nights at the Fort Ben Cultural Campus, 8950 Otis Ave .",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/08/iStock-1318278635-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/lawrence-free-movie-night-east-side-summer-event-fort-ben-cultural-campus"
+  },
+  {
+    "id": "indy-parks-indy-parks-announces-pool-and-splash-pad-openings-2026-05-22",
+    "title": "Indy Parks Announces Pool and Splash Pad Openings",
+    "source": "Indy Parks",
+    "date": "2026-05-22",
+    "summary": "INDIANAPOLIS – Today, Indy Parks is announcing that five pools are expected to be open on Memorial Day Weekend, with nine more scheduled to open on May 30. The following pools are open for Memorial Day Weekend, pending weather, and will operate 11-6pm on...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/indy-parks-announces-pool-and-splash-pad-openings-2"
   },
   {
     "id": "mirror-indy-low-income-apartment-building-approved-for-stringtown-2026-05-21",
@@ -62,18 +98,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/beech-grove-indiana-summer-music-concert-sarah-bolton-park-2026"
   },
   {
-    "id": "mirror-indy-academy-award-winning-actor-brendan-fraser-to-serve-as-indianapolis-500-s-honora-2026-05-21",
-    "title": "Academy Award winning actor Brendan Fraser to serve as Indianapolis 500’s honorary starter",
-    "source": "Mirror Indy",
-    "date": "2026-05-21",
-    "summary": "Brendan Fraser poses for photographers upon arrival at the premiere of the film &#8220;Rental Family&#8221; during the London film festival in London, Oct. 16, 2025.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/AP26135623125909.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/academy-award-winning-actor-brendan-fraser-to-serve-as-indianapolis-500s-honorary-starter"
-  },
-  {
     "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
     "title": "Indianapolis church buys Martin University property, plans for community center and affordable housing",
     "source": "WFYI",
@@ -85,19 +109,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/44/74/1ac39dfc4206a8720c021cfc56d3/martin-university-eric-weddle-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-20/indianapolis-church-buys-martin-university-property-plans-for-community-center-and-affordable-housing"
-  },
-  {
-    "id": "mirror-indy-free-concerts-for-everyone-all-summer-and-beyond-2026-05-20",
-    "title": "Free concerts for everyone, all summer and beyond",
-    "source": "Mirror Indy",
-    "date": "2026-05-20",
-    "summary": "There’s no shortage of live music to check out this summer in Indianapolis. With this list, we highlight all the shows that are absolutely free and open to the public.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/06/image002-1.jpg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/free-concerts-indianapolis-live-music-things-to-do"
   },
   {
     "id": "wfyi-indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time-2026-05-19",
@@ -123,18 +134,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/dc/34/e77fbcc9454fb844006522a3f713/infrastructure-drew-daudelin-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-13/heres-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis"
-  },
-  {
-    "id": "wfyi-martindale-brightwood-residents-take-data-center-fight-to-court-citing-environme-2026-05-12",
-    "title": "Martindale-Brightwood residents take data center fight to court, citing environmental racism",
-    "source": "WFYI",
-    "date": "2026-05-12",
-    "summary": "The Hoosier Environmental Council and Martindale-Brightwood residents are asking a Marion County court to block Metrobloks planned data center.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/e9/22/ccf8d075407787459d0cb7db2e9e/metrobloks-protest-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-12/martindale-brightwood-data-center-court-challenge"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
