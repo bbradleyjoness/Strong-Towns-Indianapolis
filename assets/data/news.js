@@ -86,18 +86,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-development-southside-birding-wildlife"
   },
   {
-    "id": "mirror-indy-beech-grove-s-free-summer-concert-series-returns-may-28-2026-05-21",
-    "title": "Beech Grove’s free summer concert series returns May 28",
-    "source": "Mirror Indy",
-    "date": "2026-05-21",
-    "summary": "Residents gather at Sarah T. Bolton Park for Beech Grove’s 2025 summer concert series.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/SARAH-T.-BOLTON-PARK-CONCERT_01.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-indiana-summer-music-concert-sarah-bolton-park-2026"
-  },
-  {
     "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
     "title": "Indianapolis church buys Martin University property, plans for community center and affordable housing",
     "source": "WFYI",
@@ -121,19 +109,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/c3/78/ea057f564aa1818e8e59976f8e90/download-1.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-19/indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time"
-  },
-  {
-    "id": "wfyi-here-s-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis-2026-05-13",
-    "title": "Here's how $48M will be spent on road and trail projects around Indianapolis",
-    "source": "WFYI",
-    "date": "2026-05-13",
-    "summary": "Indianapolis officials announced how they plan to use over $48 million on nine projects to improve the city's roads and pathways.",
-    "categories": [
-      "public-space",
-      "mobility"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/dc/34/e77fbcc9454fb844006522a3f713/infrastructure-drew-daudelin-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-13/heres-how-48m-will-be-spent-on-road-and-trail-projects-around-indianapolis"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
