@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-need-help-with-groceries-while-kids-are-home-for-summer-break-2026-05-26",
+    "title": "Need help with groceries while kids are home for summer break?",
+    "source": "Mirror Indy",
+    "date": "2026-05-26",
+    "summary": "Mid-North Food Pantry will open on Saturdays in June and July to provide additional support for students and their caretakers. The pantry is open Monday, Wednesday and Friday year round.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260521_MID-NORTH-FOOD-PANTRY-2_provided.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/midnorth-food-pantry-northside-indianapolis-saturday-hours-summer-2026"
+  },
+  {
     "id": "mirror-indy-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
     "title": "Residents push back on a $2 billion data center proposal on Indy’s east side",
     "source": "Mirror Indy",
@@ -60,30 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260521_stringtown-decision_tf-1-scaled.jpg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-low-income-apartments-approved-annex-group-stringtown"
-  },
-  {
-    "id": "mirror-indy-martindale-brightwood-library-celebrates-125-years-2026-05-21",
-    "title": "Martindale Brightwood library celebrates 125 years",
-    "source": "Mirror Indy",
-    "date": "2026-05-21",
-    "summary": "The community is invited to a celebration from 2-4:30 p.m. May 30 at the Martindale Brightwood library, 2434 N. Sherman Drive.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/martindale-brightwood-branch-entrance-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/martindale-brightwood-indianapolis-public-library-celebration-east-side"
-  },
-  {
-    "id": "mirror-indy-southsiders-fight-to-protect-wildlife-near-pleasant-run-creek-again-2026-05-21",
-    "title": "Southsiders fight to protect wildlife near Pleasant Run Creek — again",
-    "source": "Mirror Indy",
-    "date": "2026-05-21",
-    "summary": "Robin Heldman poses for a portrait outside the Pleasant Run Creek Watershed on May 19, 2026, on the south side of Indianapolis. Heldman is working to protect the land from a proposed development. “I start to tear up just thinking about this being gone,”...",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_02.jpg?fit=780%2C506&ssl=1",
-    "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-development-southside-birding-wildlife"
   },
   {
     "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
