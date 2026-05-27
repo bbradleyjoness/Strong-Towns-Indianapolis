@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-find-the-most-affordable-hospital-prices-in-indiana-2026-05-26",
+    "title": "Find the most affordable hospital prices in Indiana",
+    "source": "Mirror Indy",
+    "date": "2026-05-26",
+    "summary": "Indiana has some of the highest hospital prices in the nation. So before your next visit or procedure, check out the state’s new price transparency tool .",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/EXP-HOSPITAL-PRICE-TRANSPARENCY-TOOL_STOCK-scaled.jpeg?fit=780%2C521&ssl=1",
+    "url": "https://mirrorindy.org/indiana-health-prices-hospital-transparency-tool-mike-braun-insurance-claims"
+  },
+  {
     "id": "mirror-indy-need-help-with-groceries-while-kids-are-home-for-summer-break-2026-05-26",
     "title": "Need help with groceries while kids are home for summer break?",
     "source": "Mirror Indy",
@@ -12,17 +24,17 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/midnorth-food-pantry-northside-indianapolis-saturday-hours-summer-2026"
   },
   {
-    "id": "mirror-indy-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
-    "title": "Residents push back on a $2 billion data center proposal on Indy’s east side",
-    "source": "Mirror Indy",
+    "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
+    "title": "Residents push back on a $2 billion data center proposal on Indy's east side",
+    "source": "WFYI",
     "date": "2026-05-22",
-    "summary": "David Armistead, senior vice president of sales for DC Blox, speaks to residents at a Warren Township community meeting Thursday, May 21, 2026 about the company&#8217;s proposed $2 billion data center campus on Indianapolis&#8217;s east side.",
+    "summary": "Residents of Warren Township in Indianapolis expressed deep skepticism about a proposed $2 billion data center campus even as the developer pitched itself as a community partner.",
     "categories": [
       "urbanism",
       "community-action"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/David-Armistead-DC-Blox_WFYI.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/residents-push-back-on-a-2-billion-data-center-proposal-on-indys-east-side"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/65/48/fef00d3a4cdab061179a7fa8fc6e/dcblox-260521-david-armistead-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-22/dc-blox-data-center-indianapolis-warren-township-residents"
   },
   {
     "id": "mirror-indy-east-10th-street-s-future-where-people-have-a-good-time-2026-05-22",
@@ -59,19 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-pool-and-splash-pad-openings-2"
-  },
-  {
-    "id": "mirror-indy-low-income-apartment-building-approved-for-stringtown-2026-05-21",
-    "title": "Low-income apartment building approved for Stringtown",
-    "source": "Mirror Indy",
-    "date": "2026-05-21",
-    "summary": "A vacant home in Stringtown on the west side of Indianapolis is seen May 21, 2026. A developer plans to build an apartment complex on the site.",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260521_stringtown-decision_tf-1-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-low-income-apartments-approved-annex-group-stringtown"
   },
   {
     "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
