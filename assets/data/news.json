@@ -1,5 +1,18 @@
 [
   {
+    "id": "mirror-indy-see-an-orange-public-hearing-sign-in-your-neighborhood-2026-05-27",
+    "title": "See an orange public hearing sign in your neighborhood?",
+    "source": "Mirror Indy",
+    "date": "2026-05-27",
+    "summary": "Picture this: You’re walking through your neighborhood and see that empty lot has a bright orange sign poking out from the overgrown grass.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Redevelopment-signs-1.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-hearing-sign-guide"
+  },
+  {
     "id": "mirror-indy-find-the-most-affordable-hospital-prices-in-indiana-2026-05-26",
     "title": "Find the most affordable hospital prices in Indiana",
     "source": "Mirror Indy",
@@ -10,18 +23,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/EXP-HOSPITAL-PRICE-TRANSPARENCY-TOOL_STOCK-scaled.jpeg?fit=780%2C521&ssl=1",
     "url": "https://mirrorindy.org/indiana-health-prices-hospital-transparency-tool-mike-braun-insurance-claims"
-  },
-  {
-    "id": "mirror-indy-need-help-with-groceries-while-kids-are-home-for-summer-break-2026-05-26",
-    "title": "Need help with groceries while kids are home for summer break?",
-    "source": "Mirror Indy",
-    "date": "2026-05-26",
-    "summary": "Mid-North Food Pantry will open on Saturdays in June and July to provide additional support for students and their caretakers. The pantry is open Monday, Wednesday and Friday year round.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260521_MID-NORTH-FOOD-PANTRY-2_provided.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/midnorth-food-pantry-northside-indianapolis-saturday-hours-summer-2026"
   },
   {
     "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
