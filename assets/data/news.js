@@ -1,28 +1,63 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-see-an-orange-public-hearing-sign-in-your-neighborhood-2026-05-27",
-    "title": "See an orange public hearing sign in your neighborhood?",
+    "id": "mirror-indy-indy-residents-gear-up-for-the-national-veteran-olympics-2026-05-28",
+    "title": "Indy residents gear up for the national ‘Veteran Olympics’",
     "source": "Mirror Indy",
-    "date": "2026-05-27",
-    "summary": "Picture this: You’re walking through your neighborhood and see that empty lot has a bright orange sign poking out from the overgrown grass.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/Redevelopment-signs-1.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-hearing-sign-guide"
-  },
-  {
-    "id": "mirror-indy-find-the-most-affordable-hospital-prices-in-indiana-2026-05-26",
-    "title": "Find the most affordable hospital prices in Indiana",
-    "source": "Mirror Indy",
-    "date": "2026-05-26",
-    "summary": "Indiana has some of the highest hospital prices in the nation. So before your next visit or procedure, check out the state’s new price transparency tool .",
+    "date": "2026-05-28",
+    "summary": "William Carpenter, a former Army service member, (left) and Vern Minton, a former Navy service member, play a round of pickleball during a practice for the National Veterans Golden Age Games, hosted through the U.S. Department of Veterans Affairs, on March...",
     "categories": [
       "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/EXP-HOSPITAL-PRICE-TRANSPARENCY-TOOL_STOCK-scaled.jpeg?fit=780%2C521&ssl=1",
-    "url": "https://mirrorindy.org/indiana-health-prices-hospital-transparency-tool-mike-braun-insurance-claims"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260319_VETERAN-OLYMPICS_BP_02.jpg?fit=780%2C581&ssl=1",
+    "url": "https://mirrorindy.org/veterans-olympics-southside-indianapolis-concord-neighborhood-center-golden-age-games"
+  },
+  {
+    "id": "mirror-indy-indianapolis-hired-hydrologist-with-leap-district-ties-2026-05-28",
+    "title": "Indianapolis hired hydrologist with LEAP district ties",
+    "source": "Mirror Indy",
+    "date": "2026-05-28",
+    "summary": "After nearly 50 years, a contract that sets the limit on how much water Citizens Energy Group can withdraw from the Eagle Creek Reservoir is set to expire.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260528_EagleCreek_BP_15.jpg?fit=780%2C532&ssl=1",
+    "url": "https://mirrorindy.org/eagle-creek-reservoir-indianapolis-water-deal-hydrologist-controversy"
+  },
+  {
+    "id": "mirror-indy-southsiders-advocate-for-a-nature-preserve-over-semi-truck-repair-shop-2026-05-28",
+    "title": "Southsiders advocate for a nature preserve over semi-truck repair shop",
+    "source": "Mirror Indy",
+    "date": "2026-05-28",
+    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_05.jpg?fit=780%2C478&ssl=1",
+    "url": "https://mirrorindy.org/franklin-township-wetland-nature-preserve-southside-pleasant-run-creek-watershed"
+  },
+  {
+    "id": "mirror-indy-i-have-a-village-new-moms-in-indy-get-free-cash-assistance-2026-05-28",
+    "title": "‘I have a village’: New moms in Indy get free cash assistance",
+    "source": "Mirror Indy",
+    "date": "2026-05-28",
+    "summary": "Amarianna Chandler, 23, holds her youngest daughter, Zamara, 5 months, while her other four kids play May 27, 2026, at Broad Ripple Park in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260527_BIRTH-FUND-FOLO_BP_07.jpg?fit=780%2C535&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-the-birth-fund-infant-maternal-mortality-rates-joe-hogsett"
+  },
+  {
+    "id": "mirror-indy-indy-kids-need-vaccines-to-go-to-school-2026-05-28",
+    "title": "Indy kids need vaccines to go to school",
+    "source": "Mirror Indy",
+    "date": "2026-05-28",
+    "summary": "If your student is finishing up pre-K, fifth grade or 11th grade, chances are they’ll need new vaccines before heading back to school in the fall.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/EXP-SCHOOL-VACCINES-scaled.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indiana-school-vaccine-requirements-immunizations-indianapolis-clinics"
   },
   {
     "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
