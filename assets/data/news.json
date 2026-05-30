@@ -1,5 +1,79 @@
 [
   {
+    "id": "wfyi-indy-parks-summer-meals-program-kicks-off-2026-05-29",
+    "title": "Indy Parks Summer Meals Program kicks off",
+    "source": "WFYI",
+    "date": "2026-05-29",
+    "summary": "Indy Parks’ summer meal program kicks off this week and the next, and will run through late July.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/02/0f/92ee07304b8190d6fd1b56f89381/kids-eating-pexels.png",
+    "url": "https://www.wfyi.org/wfyi-news/2026-05-29/indy-parks-summer-meals-program-kicks-off"
+  },
+  {
+    "id": "mirror-indy-many-fletcher-place-neighbors-prefer-greenspace-over-townhomes-2026-05-29",
+    "title": "Many Fletcher Place neighbors prefer greenspace over townhomes",
+    "source": "Mirror Indy",
+    "date": "2026-05-29",
+    "summary": "This green space shown on Wednesday, May 20, 2025 in Indianapolis looking west is the site of proposed townhomes. It is located in the Fletcher Place Historic District and is between College Avenue and East Street next to the Farm Bureau Insurance building.",
+    "categories": [
+      "urbanism",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260520_DAY_Fletcher-Place-Townhomes-RRS_16-scaled.jpg?fit=780%2C521&ssl=1",
+    "url": "https://mirrorindy.org/fletcher-place-historic-neighborhood-townhomes-buckingham-indiana-farm-bureau"
+  },
+  {
+    "id": "mirror-indy-garfield-park-conservatory-will-combine-nature-and-crafts-in-june-2026-05-29",
+    "title": "Garfield Park Conservatory will combine nature and crafts in June",
+    "source": "Mirror Indy",
+    "date": "2026-05-29",
+    "summary": "The Garfield Park Conservatory will host multiple family-friendly events throughout June . The events include plant shows, kid’s story time and Dollar Menu Night, which allows residents to harvest and eat veggies from a community garden.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/01/perry-township-Dec-2023-1344-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/garfield-park-conservatory-indianapolis-bonsai-carnivorous-plant-show-garden-storytime"
+  },
+  {
+    "id": "mirror-indy-faith-leaders-continue-to-fight-martindale-brightwood-data-center-2026-05-29",
+    "title": "Faith leaders continue to fight Martindale Brightwood data center",
+    "source": "Mirror Indy",
+    "date": "2026-05-29",
+    "summary": "Rev. Fitzhugh Lyons Jr. discusses his concerns about a data center in Martindale Brightwood outside of Galilee Missionary Baptist Church in Indianapolis May 28,2026.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/MARTINDALE-BRIGHTWOOD-CLERGY_DB-scaled.jpg?fit=780%2C584&ssl=1",
+    "url": "https://mirrorindy.org/martindale-brightwood-joe-hogsett-faith-leaders-data-center-metrobloks-east-indianapolis"
+  },
+  {
+    "id": "mirror-indy-get-your-pet-vaccinated-for-5-at-pop-up-clinic-2026-05-29",
+    "title": "Get your pet vaccinated for $5 at pop-up clinic",
+    "source": "Mirror Indy",
+    "date": "2026-05-29",
+    "summary": "The vaccine clinic will be from 10 a.m. to 1 p.m. June 6 at Frederick Douglass Park.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/IMG_4971-1-scaled.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/face-discounted-animal-vaccines-clinic-indianapolis-fredrick-douglass-park"
+  },
+  {
+    "id": "mirror-indy-indy-might-raise-vehicle-tax-to-get-road-funding-from-the-state-2026-05-29",
+    "title": "Indy might raise vehicle tax to get road funding from the state",
+    "source": "Mirror Indy",
+    "date": "2026-05-29",
+    "summary": "Vehicles traveled on West 10th Street toward Dr. Martin Luther King Jr. St. on Aug. 18, 2025, in Indianapolis.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/20250818_EPA-GHG-EFFECT-ON-INDY_BP_03-scaled.jpg?fit=780%2C530&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-city-council-vehicle-tax-increase-state-road-funding"
+  },
+  {
     "id": "mirror-indy-indy-residents-gear-up-for-the-national-veteran-olympics-2026-05-28",
     "title": "Indy residents gear up for the national ‘Veteran Olympics’",
     "source": "Mirror Indy",
@@ -10,54 +84,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260319_VETERAN-OLYMPICS_BP_02.jpg?fit=780%2C581&ssl=1",
     "url": "https://mirrorindy.org/veterans-olympics-southside-indianapolis-concord-neighborhood-center-golden-age-games"
-  },
-  {
-    "id": "mirror-indy-indianapolis-hired-hydrologist-with-leap-district-ties-2026-05-28",
-    "title": "Indianapolis hired hydrologist with LEAP district ties",
-    "source": "Mirror Indy",
-    "date": "2026-05-28",
-    "summary": "After nearly 50 years, a contract that sets the limit on how much water Citizens Energy Group can withdraw from the Eagle Creek Reservoir is set to expire.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260528_EagleCreek_BP_15.jpg?fit=780%2C532&ssl=1",
-    "url": "https://mirrorindy.org/eagle-creek-reservoir-indianapolis-water-deal-hydrologist-controversy"
-  },
-  {
-    "id": "mirror-indy-southsiders-advocate-for-a-nature-preserve-over-semi-truck-repair-shop-2026-05-28",
-    "title": "Southsiders advocate for a nature preserve over semi-truck repair shop",
-    "source": "Mirror Indy",
-    "date": "2026-05-28",
-    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_05.jpg?fit=780%2C478&ssl=1",
-    "url": "https://mirrorindy.org/franklin-township-wetland-nature-preserve-southside-pleasant-run-creek-watershed"
-  },
-  {
-    "id": "mirror-indy-i-have-a-village-new-moms-in-indy-get-free-cash-assistance-2026-05-28",
-    "title": "‘I have a village’: New moms in Indy get free cash assistance",
-    "source": "Mirror Indy",
-    "date": "2026-05-28",
-    "summary": "Amarianna Chandler, 23, holds her youngest daughter, Zamara, 5 months, while her other four kids play May 27, 2026, at Broad Ripple Park in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260527_BIRTH-FUND-FOLO_BP_07.jpg?fit=780%2C535&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-the-birth-fund-infant-maternal-mortality-rates-joe-hogsett"
-  },
-  {
-    "id": "mirror-indy-indy-kids-need-vaccines-to-go-to-school-2026-05-28",
-    "title": "Indy kids need vaccines to go to school",
-    "source": "Mirror Indy",
-    "date": "2026-05-28",
-    "summary": "If your student is finishing up pre-K, fifth grade or 11th grade, chances are they’ll need new vaccines before heading back to school in the fall.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/EXP-SCHOOL-VACCINES-scaled.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indiana-school-vaccine-requirements-immunizations-indianapolis-clinics"
   },
   {
     "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
@@ -96,18 +122,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/44/74/1ac39dfc4206a8720c021cfc56d3/martin-university-eric-weddle-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-20/indianapolis-church-buys-martin-university-property-plans-for-community-center-and-affordable-housing"
-  },
-  {
-    "id": "wfyi-indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time-2026-05-19",
-    "title": "Indianapolis takes a step toward food justice — one micro-grant at a time",
-    "source": "WFYI",
-    "date": "2026-05-19",
-    "summary": "A new initiative aimed at strengthening Indianapolis’ local food system is investing directly in the farmers, growers and food retailers already working to feed neighborhoods across the city.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/c3/78/ea057f564aa1818e8e59976f8e90/download-1.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-19/indianapolis-takes-a-step-toward-food-justice-one-micro-grant-at-a-time"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
