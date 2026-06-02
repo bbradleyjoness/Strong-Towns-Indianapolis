@@ -1,5 +1,17 @@
 [
   {
+    "id": "wfyi-indygo-is-overhauling-its-account-system-here-s-what-you-need-to-know-2026-06-02",
+    "title": "IndyGo is overhauling its account system. Here's what you need to know",
+    "source": "WFYI",
+    "date": "2026-06-02",
+    "summary": "IndyGo announced a change to its payment structure. Riders will need to make new accounts.",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/af/68/4f43aec3409bb778e2292a10963e/download.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-02/indygo-is-overhauling-its-account-system-heres-what-you-need-to-know"
+  },
+  {
     "id": "mirror-indy-councilors-undecided-on-eastside-data-center-2026-06-01",
     "title": "Councilors undecided on eastside data center",
     "source": "Mirror Indy",
@@ -88,18 +100,6 @@
     "url": "https://mirrorindy.org/face-discounted-animal-vaccines-clinic-indianapolis-fredrick-douglass-park"
   },
   {
-    "id": "mirror-indy-indy-might-raise-vehicle-tax-to-get-road-funding-from-the-state-2026-05-29",
-    "title": "Indy might raise vehicle tax to get road funding from the state",
-    "source": "Mirror Indy",
-    "date": "2026-05-29",
-    "summary": "Vehicles traveled on West 10th Street toward Dr. Martin Luther King Jr. St. on Aug. 18, 2025, in Indianapolis.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/20250818_EPA-GHG-EFFECT-ON-INDY_BP_03-scaled.jpg?fit=780%2C530&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-city-council-vehicle-tax-increase-state-road-funding"
-  },
-  {
     "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
     "title": "Residents push back on a $2 billion data center proposal on Indy's east side",
     "source": "WFYI",
@@ -123,19 +123,6 @@
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-pool-and-splash-pad-openings-2"
-  },
-  {
-    "id": "wfyi-indianapolis-church-buys-martin-university-property-plans-for-community-center-a-2026-05-20",
-    "title": "Indianapolis church buys Martin University property, plans for community center and affordable housing",
-    "source": "WFYI",
-    "date": "2026-05-20",
-    "summary": "Eastern Star Church closed on a deal to acquire the real estate portfolio of Martin University, which closed abruptly earlier this year.",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/44/74/1ac39dfc4206a8720c021cfc56d3/martin-university-eric-weddle-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-20/indianapolis-church-buys-martin-university-property-plans-for-community-center-and-affordable-housing"
   },
   {
     "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
