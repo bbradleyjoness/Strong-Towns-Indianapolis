@@ -1,5 +1,31 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-councilors-undecided-on-eastside-data-center-2026-06-01",
+    "title": "Councilors undecided on eastside data center",
+    "source": "Mirror Indy",
+    "date": "2026-06-01",
+    "summary": "Megan Lapa stands for a portrait May 28, 2026, on the Pennsy Trail near the intersection with Kitley Avenue where the proposed data center would be built.",
+    "categories": [
+      "urbanism",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-east-indianapolis-irvington-pennsy-trail-michael-paul-hart-andy-nielsen"
+  },
+  {
+    "id": "mirror-indy-have-an-eviction-on-your-record-see-if-you-can-get-it-sealed-2026-06-01",
+    "title": "Have an eviction on your record? See if you can get it sealed.",
+    "source": "Mirror Indy",
+    "date": "2026-06-01",
+    "summary": "Volunteer attorneys, paralegals and housing advocates assisted people looking to have their past eviction cases sealed Jan. 17, 2025, in Lawrence.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/01/01172025_Eviction-Sealing_14.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-eviction-sealing-clinic-indiana-interchurch-center-june-2026"
+  },
+  {
     "id": "wfyi-indy-parks-summer-meals-program-kicks-off-2026-05-29",
     "title": "Indy Parks Summer Meals Program kicks off",
     "source": "WFYI",
@@ -72,18 +98,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/20250818_EPA-GHG-EFFECT-ON-INDY_BP_03-scaled.jpg?fit=780%2C530&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-city-council-vehicle-tax-increase-state-road-funding"
-  },
-  {
-    "id": "mirror-indy-indy-residents-gear-up-for-the-national-veteran-olympics-2026-05-28",
-    "title": "Indy residents gear up for the national ‘Veteran Olympics’",
-    "source": "Mirror Indy",
-    "date": "2026-05-28",
-    "summary": "William Carpenter, a former Army service member, (left) and Vern Minton, a former Navy service member, play a round of pickleball during a practice for the National Veterans Golden Age Games, hosted through the U.S. Department of Veterans Affairs, on March...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260319_VETERAN-OLYMPICS_BP_02.jpg?fit=780%2C581&ssl=1",
-    "url": "https://mirrorindy.org/veterans-olympics-southside-indianapolis-concord-neighborhood-center-golden-age-games"
   },
   {
     "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
