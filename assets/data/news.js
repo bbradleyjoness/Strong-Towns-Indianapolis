@@ -72,18 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-06-02/indygo-is-overhauling-its-account-system-heres-what-you-need-to-know"
   },
   {
-    "id": "mirror-indy-report-80-of-eligible-low-income-children-not-served-by-state-s-subsidized-child-2026-06-02",
-    "title": "Report: 80% of eligible low-income children not served by state’s subsidized childcare programs",
-    "source": "Mirror Indy",
-    "date": "2026-06-02",
-    "summary": "Children play with blocks, cups and water at St. Mary’s Early Childhood Center in Indianapolis on Thursday, April 30, 2026.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/kids-playing_ICC.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/report-80-of-eligible-low-income-children-not-served-by-states-subsidized-childcare-programs"
-  },
-  {
     "id": "wfyi-indy-parks-summer-meals-program-kicks-off-2026-05-29",
     "title": "Indy Parks Summer Meals Program kicks off",
     "source": "WFYI",
