@@ -1,5 +1,41 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
+    "title": "Indianapolis spending package targets infrastructure, homelessness and neighborhood programs",
+    "source": "WFYI",
+    "date": "2026-06-03",
+    "summary": "The added money comes from supplemental income tax revenue distributed in the spring. Councilors worked with the mayor’s office to identify where funds should go.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/bc/0c/c8262a824338a435fe3388e3de1e/city-county-building-eric-weddle-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-03/indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborhood-programs"
+  },
+  {
+    "id": "mirror-indy-here-s-a-dozen-things-to-do-with-kids-and-teens-this-summer-2026-06-03",
+    "title": "Here’s a dozen things to do with kids and teens this summer",
+    "source": "Mirror Indy",
+    "date": "2026-06-03",
+    "summary": "From left: The playground at Tibbs Drive-in Theatre, cooking class at Aspire House, All-Star Skate Jam at Skateland, and a splash pad at Bertha Ross Park.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/TEENS-SUMMER-ACTIVITY-GUIDE.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/teens-kids-things-to-do-summer-indianapolis-2026"
+  },
+  {
+    "id": "mirror-indy-indot-announces-opening-of-new-i-465-lanes-numerous-traffic-restrictions-in-plac-2026-06-03",
+    "title": "INDOT announces opening of new I-465 lanes, numerous traffic restrictions in place",
+    "source": "Mirror Indy",
+    "date": "2026-06-03",
+    "summary": "INDOT says five miles of new travel lanes on eastbound I-465 from the White River to Fall Creek in northeast Indianapolis will open this weekend to complete a traffic switch.",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/road-closed_WISH.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/indot-announces-opening-of-new-i-465-lanes-numerous-traffic-restrictions-in-place"
+  },
+  {
     "id": "mirror-indy-check-out-central-library-s-new-spaces-for-kids-and-teens-2026-06-03",
     "title": "Check out Central Library’s new spaces for kids and teens",
     "source": "Mirror Indy",
@@ -48,31 +84,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/report-80-of-eligible-low-income-children-not-served-by-states-subsidized-childcare-programs"
   },
   {
-    "id": "mirror-indy-indygo-s-new-payment-system-will-launch-july-1-2026-06-02",
-    "title": "IndyGo’s new payment system will launch July 1",
-    "source": "Mirror Indy",
-    "date": "2026-06-02",
-    "summary": "People board IndyGo buses on Monday, Feb. 19, 2024, at the Julia M. Carson Transit Center in downtown Indianapolis.",
-    "categories": [
-      "mobility",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/indygo-julia-m-carson-transit-center_JRW010.jpg?fit=780%2C500&ssl=1",
-    "url": "https://mirrorindy.org/indygo-mykey-new-payment-system-change-indianapolis-bus-riders"
-  },
-  {
-    "id": "mirror-indy-former-reilly-tar-property-for-sale-but-what-about-the-cleanup-2026-06-02",
-    "title": "Former Reilly Tar property for sale. But what about the cleanup?",
-    "source": "Mirror Indy",
-    "date": "2026-06-02",
-    "summary": "Crews dig a trench for biosparging piping at the Reilly Tar &#038; Chemical Corp. Superfund site June 2, 2026.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/2026_Reilly_ES02-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/west-indianapolis-reilly-tar-superfund-site-cleanup-possible-sale-2026"
-  },
-  {
     "id": "wfyi-indy-parks-summer-meals-program-kicks-off-2026-05-29",
     "title": "Indy Parks Summer Meals Program kicks off",
     "source": "WFYI",
@@ -83,19 +94,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/02/0f/92ee07304b8190d6fd1b56f89381/kids-eating-pexels.png",
     "url": "https://www.wfyi.org/wfyi-news/2026-05-29/indy-parks-summer-meals-program-kicks-off"
-  },
-  {
-    "id": "wfyi-residents-push-back-on-a-2-billion-data-center-proposal-on-indy-s-east-side-2026-05-22",
-    "title": "Residents push back on a $2 billion data center proposal on Indy's east side",
-    "source": "WFYI",
-    "date": "2026-05-22",
-    "summary": "Residents of Warren Township in Indianapolis expressed deep skepticism about a proposed $2 billion data center campus even as the developer pitched itself as a community partner.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/65/48/fef00d3a4cdab061179a7fa8fc6e/dcblox-260521-david-armistead-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-22/dc-blox-data-center-indianapolis-warren-township-residents"
   },
   {
     "id": "indy-parks-indy-parks-announces-pool-and-splash-pad-openings-2026-05-22",
