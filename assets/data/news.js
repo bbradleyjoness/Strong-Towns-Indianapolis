@@ -49,18 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-06-03/indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborhood-programs"
   },
   {
-    "id": "mirror-indy-here-s-a-dozen-things-to-do-with-kids-and-teens-this-summer-2026-06-03",
-    "title": "Here’s a dozen things to do with kids and teens this summer",
-    "source": "Mirror Indy",
-    "date": "2026-06-03",
-    "summary": "From left: The playground at Tibbs Drive-in Theatre, cooking class at Aspire House, All-Star Skate Jam at Skateland, and a splash pad at Bertha Ross Park.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/TEENS-SUMMER-ACTIVITY-GUIDE.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/teens-kids-things-to-do-summer-indianapolis-2026"
-  },
-  {
     "id": "indy-parks-indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-p-2026-06-03",
     "title": "Indy Parks & The Friends of Garfield Park Announce the Reopening of the Garfield Park Sunken Garden Fountains",
     "source": "Indy Parks",
