@@ -1,5 +1,42 @@
 [
   {
+    "id": "mirror-indy-work-completed-on-3-million-restoration-of-fountains-at-garfield-park-2026-06-04",
+    "title": "Work completed on $3 million restoration of fountains at Garfield Park",
+    "source": "Mirror Indy",
+    "date": "2026-06-04",
+    "summary": "The fountains were already shooting water among newly landscaped walking paths on Wednesday afternoon at the Garfield Park Sunken Garden.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/GP_WRTV.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/work-completed-on-3-million-restoration-of-fountains-at-garfield-park"
+  },
+  {
+    "id": "mirror-indy-looking-for-a-trivia-night-check-out-these-library-events-2026-06-04",
+    "title": "Looking for a trivia night? Check out these library events.",
+    "source": "Mirror Indy",
+    "date": "2026-06-04",
+    "summary": "Central Library of the Indianapolis Public Library, located at 40 E. St. Clair Street, Indianapolis, Dec. 8, 2023.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/12/Central-Library-scaled.jpg?fit=780%2C504&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-summer-reading-program-free-trivia-games"
+  },
+  {
+    "id": "mirror-indy-volunteer-in-iu-indianapolis-urban-garden-this-summer-2026-06-04",
+    "title": "Volunteer in IU Indianapolis’ urban garden this summer",
+    "source": "Mirror Indy",
+    "date": "2026-06-04",
+    "summary": "IU Indianapolis’ Office of Sustainability is looking for volunteers to work in its urban garden this summer. Volunteer hours are Monday evenings and Friday mornings.",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/IMG_4706-scaled.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/iu-indianapolis-urban-garden-new-york-street-summer-volunteer-hours-2026"
+  },
+  {
     "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
     "title": "Indianapolis spending package targets infrastructure, homelessness and neighborhood programs",
     "source": "WFYI",
@@ -22,30 +59,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/TEENS-SUMMER-ACTIVITY-GUIDE.jpg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/teens-kids-things-to-do-summer-indianapolis-2026"
-  },
-  {
-    "id": "mirror-indy-indot-announces-opening-of-new-i-465-lanes-numerous-traffic-restrictions-in-plac-2026-06-03",
-    "title": "INDOT announces opening of new I-465 lanes, numerous traffic restrictions in place",
-    "source": "Mirror Indy",
-    "date": "2026-06-03",
-    "summary": "INDOT says five miles of new travel lanes on eastbound I-465 from the White River to Fall Creek in northeast Indianapolis will open this weekend to complete a traffic switch.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/road-closed_WISH.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/indot-announces-opening-of-new-i-465-lanes-numerous-traffic-restrictions-in-place"
-  },
-  {
-    "id": "mirror-indy-check-out-central-library-s-new-spaces-for-kids-and-teens-2026-06-03",
-    "title": "Check out Central Library’s new spaces for kids and teens",
-    "source": "Mirror Indy",
-    "date": "2026-06-03",
-    "summary": "Central Library of the Indianapolis Public Library, located at 40 E. St. Clair Street, Indianapolis, Dec. 8, 2023.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/12/Central-Library_2-scaled.jpg?fit=780%2C539&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-kid-teen-central-grand-opening-summer-2026"
   },
   {
     "id": "indy-parks-indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-p-2026-06-03",
