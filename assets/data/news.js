@@ -1,40 +1,65 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-work-completed-on-3-million-restoration-of-fountains-at-garfield-park-2026-06-04",
-    "title": "Work completed on $3 million restoration of fountains at Garfield Park",
+    "id": "mirror-indy-stroll-and-shop-on-the-monon-s-trail-sale-2026-06-05",
+    "title": "Stroll and shop on the Monon’s ‘trail sale’",
     "source": "Mirror Indy",
-    "date": "2026-06-04",
-    "summary": "The fountains were already shooting water among newly landscaped walking paths on Wednesday afternoon at the Garfield Park Sunken Garden.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/GP_WRTV.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/work-completed-on-3-million-restoration-of-fountains-at-garfield-park"
-  },
-  {
-    "id": "mirror-indy-looking-for-a-trivia-night-check-out-these-library-events-2026-06-04",
-    "title": "Looking for a trivia night? Check out these library events.",
-    "source": "Mirror Indy",
-    "date": "2026-06-04",
-    "summary": "Central Library of the Indianapolis Public Library, located at 40 E. St. Clair Street, Indianapolis, Dec. 8, 2023.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/12/Central-Library-scaled.jpg?fit=780%2C504&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-summer-reading-program-free-trivia-games"
-  },
-  {
-    "id": "mirror-indy-volunteer-in-iu-indianapolis-urban-garden-this-summer-2026-06-04",
-    "title": "Volunteer in IU Indianapolis’ urban garden this summer",
-    "source": "Mirror Indy",
-    "date": "2026-06-04",
-    "summary": "IU Indianapolis’ Office of Sustainability is looking for volunteers to work in its urban garden this summer. Volunteer hours are Monday evenings and Friday mornings.",
+    "date": "2026-06-05",
+    "summary": "A cyclist passes by the Indiana State Fairgrounds along the Monon Trail Aug. 14, 2024.",
     "categories": [
       "public-space",
-      "community-action"
+      "mobility"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/IMG_4706-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/iu-indianapolis-urban-garden-new-york-street-summer-volunteer-hours-2026"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/08/08142024_Indiana-State-Fair_24.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-monon-trail-sale-june-2026"
+  },
+  {
+    "id": "mirror-indy-community-can-share-thoughts-on-proposed-eastside-data-center-2026-06-05",
+    "title": "Community can share thoughts on proposed eastside data center",
+    "source": "Mirror Indy",
+    "date": "2026-06-05",
+    "summary": "The north-facing view of a 150-acre industrial park near the intersection of the Pennsy Trail and South Kitley Avenue in Irvington on May 31, 2026. Georgia-based developer DC Blox wants to build a data center at the site. In this image, Irvington Community...",
+    "categories": [
+      "urbanism",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV02.jpg?fit=780%2C555&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-east-side-indianapolis-pennsy-trail-public-hearing"
+  },
+  {
+    "id": "mirror-indy-community-love-fest-2026-to-kick-off-in-indianapolis-to-support-at-risk-youths-2026-06-05",
+    "title": "Community Love Fest 2026 to kick off in Indianapolis to support at-risk youths",
+    "source": "Mirror Indy",
+    "date": "2026-06-05",
+    "summary": "Founder Kurt Moore with the STR8UP Mentoring Foundation talks June 7, 2023, at Washington Park in Indianapolis about the upcoming Community Love Fest.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/COMMUNITY-LOVE-FEST-_wishtv.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/community-love-fest-2026-to-kick-off-in-indianapolis-to-support-at-risk-youths"
+  },
+  {
+    "id": "mirror-indy-she-was-living-in-hotels-with-her-kids-then-hvaf-found-her-a-home-2026-06-05",
+    "title": "She was living in hotels with her kids. Then HVAF found her a home.",
+    "source": "Mirror Indy",
+    "date": "2026-06-05",
+    "summary": "The ones about how everyone goes through hard times, and eventually she’d figure out how to get through her own struggles.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/20260527_womens-warrior-fund_tf-scaled.jpg?fit=780%2C545&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-veteran-homeless-organization-hvaf-womens-warrior-fund"
+  },
+  {
+    "id": "mirror-indy-what-different-potential-tax-increases-would-mean-for-indianapolis-schools-and-h-2026-06-05",
+    "title": "What different potential tax increases would mean for Indianapolis schools and homeowners",
+    "source": "Mirror Indy",
+    "date": "2026-06-05",
+    "summary": "Early voting started April 7 for the May 5 primary election in Indiana. The general election is Nov. 3.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Early-voting_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/schools-tax-increases-ipec-considers-for-november-election"
   },
   {
     "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
