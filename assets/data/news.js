@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-grant-funds-mental-health-training-for-indiana-librarians-2026-06-08",
+    "title": "Grant funds mental health training for Indiana librarians",
+    "source": "Mirror Indy",
+    "date": "2026-06-08",
+    "summary": "With so many art books on the shelves of the fifth floor of the Central Library, you are bound to discover something new and inspiring.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/01/PXL_20250115_213804123-scaled.jpg?fit=780%2C587&ssl=1",
+    "url": "https://mirrorindy.org/indiana-libraries-mental-health-training"
+  },
+  {
+    "id": "mirror-indy-more-hoosiers-go-uninsured-resulting-in-higher-emergency-department-usage-2026-06-08",
+    "title": "More Hoosiers go uninsured, resulting in higher emergency department usage",
+    "source": "Mirror Indy",
+    "date": "2026-06-08",
+    "summary": "Pages from the U.S. Affordable Care Act health insurance website healthcare.gov are seen on a computer screen in New York on Aug. 19, 2025.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/AP25231726149917-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/more-hoosiers-go-uninsured-resulting-in-higher-emergency-department-usage"
+  },
+  {
+    "id": "indy-parks-indy-parks-announces-youth-summer-meals-schedule-2026-06-08",
+    "title": "Indy Parks Announces Youth Summer Meals Schedule",
+    "source": "Indy Parks",
+    "date": "2026-06-08",
+    "summary": "INDIANAPOLIS – Today, Indy Parks is announcing the schedule for the Summer Servings Meal Program. The Summer Servings program is part of the Summer Food Service Program, which helps fill the summer meal gap for children who rely on the school-year meals...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
+  },
+  {
     "id": "mirror-indy-stroll-and-shop-on-the-monon-s-trail-sale-2026-06-05",
     "title": "Stroll and shop on the Monon’s ‘trail sale’",
     "source": "Mirror Indy",
@@ -36,30 +73,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/COMMUNITY-LOVE-FEST-_wishtv.jpeg?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/community-love-fest-2026-to-kick-off-in-indianapolis-to-support-at-risk-youths"
-  },
-  {
-    "id": "mirror-indy-she-was-living-in-hotels-with-her-kids-then-hvaf-found-her-a-home-2026-06-05",
-    "title": "She was living in hotels with her kids. Then HVAF found her a home.",
-    "source": "Mirror Indy",
-    "date": "2026-06-05",
-    "summary": "The ones about how everyone goes through hard times, and eventually she’d figure out how to get through her own struggles.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/20260527_womens-warrior-fund_tf-scaled.jpg?fit=780%2C545&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-veteran-homeless-organization-hvaf-womens-warrior-fund"
-  },
-  {
-    "id": "mirror-indy-what-different-potential-tax-increases-would-mean-for-indianapolis-schools-and-h-2026-06-05",
-    "title": "What different potential tax increases would mean for Indianapolis schools and homeowners",
-    "source": "Mirror Indy",
-    "date": "2026-06-05",
-    "summary": "Early voting started April 7 for the May 5 primary election in Indiana. The general election is Nov. 3.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/Early-voting_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/schools-tax-increases-ipec-considers-for-november-election"
   },
   {
     "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
