@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-make-new-crafts-and-friends-at-the-super-picnic-social-2026-06-09",
+    "title": "Make new crafts and friends at the Super Picnic Social",
+    "source": "Mirror Indy",
+    "date": "2026-06-09",
+    "summary": "The event aims to help people get outside and make new social connections. It’s spearheaded by FIND FUN INDY , an organization that helps people ages 18 or older to build new relationships in cities across the Midwest.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/GARFIELD-PARK-ART-AND-MUSIC-FESTIVAL.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/garfield-park-indianapolis-farmers-market-super-picnic-crafts-games-social-event"
+  },
+  {
     "id": "mirror-indy-grant-funds-mental-health-training-for-indiana-librarians-2026-06-08",
     "title": "Grant funds mental health training for Indiana librarians",
     "source": "Mirror Indy",
@@ -61,18 +73,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV02.jpg?fit=780%2C555&ssl=1",
     "url": "https://mirrorindy.org/dc-blox-data-center-east-side-indianapolis-pennsy-trail-public-hearing"
-  },
-  {
-    "id": "mirror-indy-community-love-fest-2026-to-kick-off-in-indianapolis-to-support-at-risk-youths-2026-06-05",
-    "title": "Community Love Fest 2026 to kick off in Indianapolis to support at-risk youths",
-    "source": "Mirror Indy",
-    "date": "2026-06-05",
-    "summary": "Founder Kurt Moore with the STR8UP Mentoring Foundation talks June 7, 2023, at Washington Park in Indianapolis about the upcoming Community Love Fest.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/COMMUNITY-LOVE-FEST-_wishtv.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/community-love-fest-2026-to-kick-off-in-indianapolis-to-support-at-risk-youths"
   },
   {
     "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
