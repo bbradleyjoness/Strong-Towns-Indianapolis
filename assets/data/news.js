@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
+    "title": "Can 'tiny home communities' stem homelessness in Indiana?",
+    "source": "WFYI",
+    "date": "2026-06-09",
+    "summary": "Sanctuary Indy broke ground on its first tiny home community, Circle City Villages in March, planned for 16 homes that share a community center and garden.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/42/da/a3f4ca1f44fbb084c36d81fc35f6/tiny-house-1-samantha-horton-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-09/can-tiny-home-communities-stem-homelessness-in-indiana"
+  },
+  {
     "id": "mirror-indy-make-new-crafts-and-friends-at-the-super-picnic-social-2026-06-09",
     "title": "Make new crafts and friends at the Super Picnic Social",
     "source": "Mirror Indy",
@@ -47,32 +60,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
-  },
-  {
-    "id": "mirror-indy-stroll-and-shop-on-the-monon-s-trail-sale-2026-06-05",
-    "title": "Stroll and shop on the Monon’s ‘trail sale’",
-    "source": "Mirror Indy",
-    "date": "2026-06-05",
-    "summary": "A cyclist passes by the Indiana State Fairgrounds along the Monon Trail Aug. 14, 2024.",
-    "categories": [
-      "public-space",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/08/08142024_Indiana-State-Fair_24.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-monon-trail-sale-june-2026"
-  },
-  {
-    "id": "mirror-indy-community-can-share-thoughts-on-proposed-eastside-data-center-2026-06-05",
-    "title": "Community can share thoughts on proposed eastside data center",
-    "source": "Mirror Indy",
-    "date": "2026-06-05",
-    "summary": "The north-facing view of a 150-acre industrial park near the intersection of the Pennsy Trail and South Kitley Avenue in Irvington on May 31, 2026. Georgia-based developer DC Blox wants to build a data center at the site. In this image, Irvington Community...",
-    "categories": [
-      "urbanism",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV02.jpg?fit=780%2C555&ssl=1",
-    "url": "https://mirrorindy.org/dc-blox-data-center-east-side-indianapolis-pennsy-trail-public-hearing"
   },
   {
     "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
