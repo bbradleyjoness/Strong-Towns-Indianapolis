@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-where-can-indy-teens-hang-out-this-summer-2026-06-11",
+    "title": "Where can Indy teens hang out this summer?",
+    "source": "Mirror Indy",
+    "date": "2026-06-11",
+    "summary": "Jayden Thruston, 14, (right) reacts after making a play in a football video game during the lock-in on March 20, 2026, at the Brightwood-Forest Manor Neighborhood Community Center in Indianapolis. The youth overnight lock-in event was designed to provide a...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260320_MBW-LOCK-IN_BP_04.jpg?fit=780%2C509&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-teens-summer-in-the-city-events-2026"
+  },
+  {
+    "id": "mirror-indy-free-hot-showers-available-at-mary-rigg-neighborhood-center-2026-06-11",
+    "title": "Free hot showers available at Mary Rigg Neighborhood Center",
+    "source": "Mirror Indy",
+    "date": "2026-06-11",
+    "summary": "The westside neighborhood center is working with homeless service provider Food 4 Souls to provide the showers, along with hygiene items and clothes. All are available on a first-come, first-served basis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/032426_ThriveBuilding_ES15-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-nonprofit-showers-mary-rigg-neighborhood-center-food-4-souls"
+  },
+  {
     "id": "mirror-indy-indy-library-s-ceo-in-line-for-265k-salary-2026-06-10",
     "title": "Indy library’s CEO in line for $265K salary",
     "source": "Mirror Indy",
