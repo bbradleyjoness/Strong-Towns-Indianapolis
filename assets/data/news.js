@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-indy-library-s-ceo-in-line-for-265k-salary-2026-06-10",
+    "title": "Indy library’s CEO in line for $265K salary",
+    "source": "Mirror Indy",
+    "date": "2026-06-10",
+    "summary": "Gregory A. Hill, Sr., CEO of The Indianapolis Public Library, presents the department’s budget to the committee for 2026. The City-County Council’s Municipal Corporations Committee met Sept. 17, 2025, at the City-County Building in Indianapolis. The agenda...",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/250917_Health-and-Hospital-Budget-hearing_DM033-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-ceo-gregory-hill-raise"
+  },
+  {
     "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
     "title": "Can 'tiny home communities' stem homelessness in Indiana?",
     "source": "WFYI",
@@ -11,18 +24,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/42/da/a3f4ca1f44fbb084c36d81fc35f6/tiny-house-1-samantha-horton-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-06-09/can-tiny-home-communities-stem-homelessness-in-indiana"
-  },
-  {
-    "id": "mirror-indy-make-new-crafts-and-friends-at-the-super-picnic-social-2026-06-09",
-    "title": "Make new crafts and friends at the Super Picnic Social",
-    "source": "Mirror Indy",
-    "date": "2026-06-09",
-    "summary": "The event aims to help people get outside and make new social connections. It’s spearheaded by FIND FUN INDY , an organization that helps people ages 18 or older to build new relationships in cities across the Midwest.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/GARFIELD-PARK-ART-AND-MUSIC-FESTIVAL.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/garfield-park-indianapolis-farmers-market-super-picnic-crafts-games-social-event"
   },
   {
     "id": "indy-parks-indy-parks-announces-youth-summer-meals-schedule-2026-06-08",
