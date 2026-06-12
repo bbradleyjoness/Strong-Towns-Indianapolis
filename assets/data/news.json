@@ -1,5 +1,31 @@
 [
   {
+    "id": "mirror-indy-eastside-data-center-campus-recommended-for-approval-2026-06-11",
+    "title": "Eastside data center campus recommended for approval",
+    "source": "Mirror Indy",
+    "date": "2026-06-11",
+    "summary": "A cyclist rides the Pennsy Trail on May 28, 2026, on the east side of Indianapolis. In the background, mounds of dirt and gravel sit on the grounds of Thunderbird Commerce Center near the trail’s intersection with Kitley Avenue. Atlanta-based DC Blox has...",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW13.jpg?fit=780%2C514&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-east-side-indianapolis-irvington-approval"
+  },
+  {
+    "id": "mirror-indy-what-indy-residents-want-in-new-eagle-creek-reservoir-water-deal-2026-06-11",
+    "title": "What Indy residents want in new Eagle Creek Reservoir water deal",
+    "source": "Mirror Indy",
+    "date": "2026-06-11",
+    "summary": "When it opened in 1972, it was the fourth-largest municipal park in the nation, with 3,900 acres of forest and 1,400 acres of water, including the Eagle Creek Reservoir.",
+    "categories": [
+      "public-space",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260528_EagleCreek_BP_07.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/eagle-creek-reservoir-indianapolis-residents-citizens-energy-new-water-deal"
+  },
+  {
     "id": "mirror-indy-where-can-indy-teens-hang-out-this-summer-2026-06-11",
     "title": "Where can Indy teens hang out this summer?",
     "source": "Mirror Indy",
@@ -96,18 +122,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/af/68/4f43aec3409bb778e2292a10963e/download.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-06-02/indygo-is-overhauling-its-account-system-heres-what-you-need-to-know"
-  },
-  {
-    "id": "wfyi-indy-parks-summer-meals-program-kicks-off-2026-05-29",
-    "title": "Indy Parks Summer Meals Program kicks off",
-    "source": "WFYI",
-    "date": "2026-05-29",
-    "summary": "Indy Parks’ summer meal program kicks off this week and the next, and will run through late July.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/02/0f/92ee07304b8190d6fd1b56f89381/kids-eating-pexels.png",
-    "url": "https://www.wfyi.org/wfyi-news/2026-05-29/indy-parks-summer-meals-program-kicks-off"
   },
   {
     "id": "indy-parks-indy-parks-announces-pool-and-splash-pad-openings-2026-05-22",
