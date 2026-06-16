@@ -1,5 +1,42 @@
 [
   {
+    "id": "mirror-indy-councilors-consider-tax-increase-to-fix-city-roads-2026-06-15",
+    "title": "Councilors consider tax increase to fix city roads",
+    "source": "Mirror Indy",
+    "date": "2026-06-15",
+    "summary": "People gather at the City-County Council&#8217;s Public Safety Committee meeting June 11, 2026 at the Pike Township Government Center. The committee introduced a proposal to amend the county’s excise and wheel taxes.",
+    "categories": [
+      "mobility",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06112026_PublicWorksCommittee0589-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-vehicle-tax-excise-increase-proposal-50-million-2026"
+  },
+  {
+    "id": "mirror-indy-help-paint-a-mural-on-the-near-east-side-2026-06-15",
+    "title": "Help paint a mural on the near east side",
+    "source": "Mirror Indy",
+    "date": "2026-06-15",
+    "summary": "John Boner Neighborhood Centers, photographed on Friday, Feb. 2, 2024, offers services including housing assistance, free tax preparation and career coaching.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/john_boner_neighborhood_centers-2-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/john-boner-neighborhood-centers-near-east-side-indianapolis-ess-mckee-community-mural"
+  },
+  {
+    "id": "mirror-indy-is-indiana-really-affordable-2026-06-15",
+    "title": "Is Indiana really affordable?",
+    "source": "Mirror Indy",
+    "date": "2026-06-15",
+    "summary": "Bobbi Sutherland, 28, drives an hour each way to work as a diesel technician in Tippecanoe County. She makes just under $30 an hour, far better pay than she could earn in the rural town where she lives with her boyfriend.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/20260603_PARKE-COUNTY-COVERED-BRIDGES_BP_08-1.jpg?fit=780%2C493&ssl=1",
+    "url": "https://mirrorindy.org/indiana-affordability-cost-of-living-wages-income"
+  },
+  {
     "id": "wfyi-indianapolis-data-center-clears-first-hurdle-despite-irvington-opposition-2026-06-12",
     "title": "Indianapolis data center clears first hurdle despite Irvington opposition",
     "source": "WFYI",
@@ -60,30 +97,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260528_EagleCreek_BP_07.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/eagle-creek-reservoir-indianapolis-residents-citizens-energy-new-water-deal"
-  },
-  {
-    "id": "mirror-indy-where-can-indy-teens-hang-out-this-summer-2026-06-11",
-    "title": "Where can Indy teens hang out this summer?",
-    "source": "Mirror Indy",
-    "date": "2026-06-11",
-    "summary": "Jayden Thruston, 14, (right) reacts after making a play in a football video game during the lock-in on March 20, 2026, at the Brightwood-Forest Manor Neighborhood Community Center in Indianapolis. The youth overnight lock-in event was designed to provide a...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260320_MBW-LOCK-IN_BP_04.jpg?fit=780%2C509&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-teens-summer-in-the-city-events-2026"
-  },
-  {
-    "id": "mirror-indy-free-hot-showers-available-at-mary-rigg-neighborhood-center-2026-06-11",
-    "title": "Free hot showers available at Mary Rigg Neighborhood Center",
-    "source": "Mirror Indy",
-    "date": "2026-06-11",
-    "summary": "The westside neighborhood center is working with homeless service provider Food 4 Souls to provide the showers, along with hygiene items and clothes. All are available on a first-come, first-served basis.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/032426_ThriveBuilding_ES15-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-nonprofit-showers-mary-rigg-neighborhood-center-food-4-souls"
   },
   {
     "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
