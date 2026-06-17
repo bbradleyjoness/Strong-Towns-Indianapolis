@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-a-guide-to-a-sunny-happy-staycation-in-indianapolis-2026-06-16",
+    "title": "A guide to a sunny, happy staycation in Indianapolis",
+    "source": "Mirror Indy",
+    "date": "2026-06-16",
+    "summary": "As a lifelong Hoosier, I know how special summertime in the Circle City can be. From outdoor concerts to beautiful nights on a patio, I certainly have my things I look forward to as well.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/Caifanes-and-Cafe-Tacvba_EH02.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/summertime-and-the-livin-is-easy-staycation-indianapolis-seth-johnson"
+  },
+  {
     "id": "mirror-indy-franklin-township-superintendent-to-discuss-district-s-financial-future-2026-06-16",
     "title": "Franklin Township superintendent to discuss district’s financial future",
     "source": "Mirror Indy",
@@ -59,43 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0b/a5/2aced794421b8a73b89b35846bae/dc-blox-data-center-map-courtesy-of-dc-blox.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-06-12/dc-blox-data-center-warren-township-approval-hearing-examiner"
-  },
-  {
-    "id": "mirror-indy-meet-the-graduate-student-nurturing-lawrence-s-urban-forest-2026-06-12",
-    "title": "Meet the graduate student nurturing Lawrence’s urban forest",
-    "source": "Mirror Indy",
-    "date": "2026-06-12",
-    "summary": "Fort Harrison State Park, one of Central Indiana’s largest hardwood forests, calls the city home. And a few years ago, Lawrence planted 5 acres of native gardens in the city’s parks to help attract pollinators.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06102026_Portraits092-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/lawrence-indiana-university-urban-forest-climate-health-environment-trees"
-  },
-  {
-    "id": "mirror-indy-indy-health-officials-raise-alarm-over-infant-sleep-tiktok-trends-2026-06-12",
-    "title": "Indy health officials raise alarm over infant sleep TikTok trends",
-    "source": "Mirror Indy",
-    "date": "2026-06-12",
-    "summary": "Have you seen the TikTok videos where moms rave about co-sleeping with their babies? Or the trend of decking out your crib with plush pillows and toys?",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/EXP-SAFE-SLEEP-adobe-stock-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-safe-sleep-tiktok-sudden-unexpected-infant-deaths-mortality"
-  },
-  {
-    "id": "mirror-indy-eastside-data-center-campus-recommended-for-approval-2026-06-11",
-    "title": "Eastside data center campus recommended for approval",
-    "source": "Mirror Indy",
-    "date": "2026-06-11",
-    "summary": "A cyclist rides the Pennsy Trail on May 28, 2026, on the east side of Indianapolis. In the background, mounds of dirt and gravel sit on the grounds of Thunderbird Commerce Center near the trail’s intersection with Kitley Avenue. Atlanta-based DC Blox has...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW13.jpg?fit=780%2C514&ssl=1",
-    "url": "https://mirrorindy.org/dc-blox-data-center-east-side-indianapolis-irvington-approval"
   },
   {
     "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
