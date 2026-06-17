@@ -49,18 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/john-boner-neighborhood-centers-near-east-side-indianapolis-ess-mckee-community-mural"
   },
   {
-    "id": "mirror-indy-is-indiana-really-affordable-2026-06-15",
-    "title": "Is Indiana really affordable?",
-    "source": "Mirror Indy",
-    "date": "2026-06-15",
-    "summary": "Bobbi Sutherland, 28, drives an hour each way to work as a diesel technician in Tippecanoe County. She makes just under $30 an hour, far better pay than she could earn in the rural town where she lives with her boyfriend.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/20260603_PARKE-COUNTY-COVERED-BRIDGES_BP_08-1.jpg?fit=780%2C493&ssl=1",
-    "url": "https://mirrorindy.org/indiana-affordability-cost-of-living-wages-income"
-  },
-  {
     "id": "wfyi-indianapolis-data-center-clears-first-hurdle-despite-irvington-opposition-2026-06-12",
     "title": "Indianapolis data center clears first hurdle despite Irvington opposition",
     "source": "WFYI",
