@@ -61,31 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/franklin-township-community-school-corporation-indianapolis-budget-chase-huotari"
   },
   {
-    "id": "wfyi-indianapolis-data-center-clears-first-hurdle-despite-irvington-opposition-2026-06-12",
-    "title": "Indianapolis data center clears first hurdle despite Irvington opposition",
-    "source": "WFYI",
-    "date": "2026-06-12",
-    "summary": "A hearing examiner recommended approving DC Blox's proposed data center campus in Warren Township, clearing the project's first official hurdle.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0b/a5/2aced794421b8a73b89b35846bae/dc-blox-data-center-map-courtesy-of-dc-blox.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-12/dc-blox-data-center-warren-township-approval-hearing-examiner"
-  },
-  {
-    "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
-    "title": "Can 'tiny home communities' stem homelessness in Indiana?",
-    "source": "WFYI",
-    "date": "2026-06-09",
-    "summary": "Sanctuary Indy broke ground on its first tiny home community, Circle City Villages in March, planned for 16 homes that share a community center and garden.",
-    "categories": [
-      "housing-care",
-      "public-space"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/42/da/a3f4ca1f44fbb084c36d81fc35f6/tiny-house-1-samantha-horton-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-09/can-tiny-home-communities-stem-homelessness-in-indiana"
-  },
-  {
     "id": "indy-parks-indy-parks-announces-youth-summer-meals-schedule-2026-06-08",
     "title": "Indy Parks Announces Youth Summer Meals Schedule",
     "source": "Indy Parks",
@@ -98,18 +73,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
   },
   {
-    "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
-    "title": "Indianapolis spending package targets infrastructure, homelessness and neighborhood programs",
-    "source": "WFYI",
-    "date": "2026-06-03",
-    "summary": "The added money comes from supplemental income tax revenue distributed in the spring. Councilors worked with the mayor’s office to identify where funds should go.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/bc/0c/c8262a824338a435fe3388e3de1e/city-county-building-eric-weddle-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-03/indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborhood-programs"
-  },
-  {
     "id": "indy-parks-indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-p-2026-06-03",
     "title": "Indy Parks & The Friends of Garfield Park Announce the Reopening of the Garfield Park Sunken Garden Fountains",
     "source": "Indy Parks",
@@ -120,18 +83,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-park-sunken-garden-fountains"
-  },
-  {
-    "id": "wfyi-indygo-is-overhauling-its-account-system-here-s-what-you-need-to-know-2026-06-02",
-    "title": "IndyGo is overhauling its account system. Here's what you need to know",
-    "source": "WFYI",
-    "date": "2026-06-02",
-    "summary": "IndyGo announced a change to its payment structure. Riders will need to make new accounts.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/af/68/4f43aec3409bb778e2292a10963e/download.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-02/indygo-is-overhauling-its-account-system-heres-what-you-need-to-know"
   },
   {
     "id": "indy-parks-indy-parks-announces-pool-and-splash-pad-openings-2026-05-22",
