@@ -1,5 +1,68 @@
 [
   {
+    "id": "wfyi-old-city-hall-needs-repairs-as-developers-consider-redevelopment-plans-again-2026-06-18",
+    "title": "Old City Hall needs repairs as developers consider redevelopment plans again",
+    "source": "WFYI",
+    "date": "2026-06-18",
+    "summary": "From debris to water damage, any new developer will have to figure in the weight of repairs for future redevelopment of Old City Hall.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/5c/b8/8fa982c5486a8289a4ae0d2f9eb0/mark-dollase-zach-bundy-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-18/old-city-hall-needs-repairs-as-developers-consider-redevelopment-plans-again"
+  },
+  {
+    "id": "mirror-indy-iu-medical-students-provide-free-healthcare-at-this-eastside-clinic-2026-06-18",
+    "title": "IU medical students provide free healthcare at this eastside clinic",
+    "source": "Mirror Indy",
+    "date": "2026-06-18",
+    "summary": "Volunteer medical providers at the IU Student Outreach Clinic. The clinic offers free healthcare services on the east side of Indianapolis.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/Student-Outreach-Cent_018-copy-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-university-student-outreach-clinic-free-healthcare-east-side-indianapolis"
+  },
+  {
+    "id": "mirror-indy-fletcher-place-residents-mobilize-against-townhome-proposal-2026-06-18",
+    "title": "Fletcher Place residents mobilize against townhome proposal",
+    "source": "Mirror Indy",
+    "date": "2026-06-18",
+    "summary": "Houses on Lord Street in the Fletcher Place Historic District shown on Wednesday, May 20, 2025 in Indianapolis are directly across from a green space where townhomes are proposed to be built.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260520_DAY_Fletcher-Place-Townhomes-RRS_17-scaled.jpg?fit=780%2C521&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-historic-fletcher-place-against-indiana-farm-bureau-townhomes"
+  },
+  {
+    "id": "mirror-indy-sabey-data-centers-files-motion-to-dismiss-residents-legal-challenge-2026-06-18",
+    "title": "Sabey Data Centers files motion to dismiss residents’ legal challenge",
+    "source": "Mirror Indy",
+    "date": "2026-06-18",
+    "summary": "Local residents from Protect Decatur Township held a protest at Camby Station on Kentucky Avenue on March 8, 2026, concerning the efforts by Seattle-based Sabey Data Centers to build a data center in Decatur Township.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/SABEY-DATA-CENTERS-DECATUR-TOWNSHIP-PROTEST_RS11.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/sabey-data-centers-files-motion-to-dismiss-residents-legal-challenge"
+  },
+  {
+    "id": "mirror-indy-why-this-indianapolis-area-district-is-changing-the-start-and-end-times-for-scho-2026-06-18",
+    "title": "Why this Indianapolis-area district is changing the start and end times for school days",
+    "source": "Mirror Indy",
+    "date": "2026-06-18",
+    "summary": "Decatur Township schools rely heavily on bus transportation for students, and pickup and dropoff times are changing for the coming school year.",
+    "categories": [
+      "urbanism",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/msd_decatur_twp_generic_bus.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/why-this-indianapolis-area-district-is-changing-the-start-and-end-times-for-school-days"
+  },
+  {
     "id": "mirror-indy-cancel-your-amazon-order-and-borrow-from-the-library-instead-2026-06-17",
     "title": "Cancel your Amazon order and borrow from the library instead",
     "source": "Mirror Indy",
@@ -37,28 +100,29 @@
     "url": "https://parks.indy.gov/indy-parks-highlights-chapel-hill-park-improvements"
   },
   {
-    "id": "mirror-indy-a-guide-to-a-sunny-happy-staycation-in-indianapolis-2026-06-16",
-    "title": "A guide to a sunny, happy staycation in Indianapolis",
-    "source": "Mirror Indy",
-    "date": "2026-06-16",
-    "summary": "As a lifelong Hoosier, I know how special summertime in the Circle City can be. From outdoor concerts to beautiful nights on a patio, I certainly have my things I look forward to as well.",
+    "id": "wfyi-indianapolis-data-center-clears-first-hurdle-despite-irvington-opposition-2026-06-12",
+    "title": "Indianapolis data center clears first hurdle despite Irvington opposition",
+    "source": "WFYI",
+    "date": "2026-06-12",
+    "summary": "A hearing examiner recommended approving DC Blox's proposed data center campus in Warren Township, clearing the project's first official hurdle.",
     "categories": [
-      "public-space"
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/Caifanes-and-Cafe-Tacvba_EH02.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/summertime-and-the-livin-is-easy-staycation-indianapolis-seth-johnson"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0b/a5/2aced794421b8a73b89b35846bae/dc-blox-data-center-map-courtesy-of-dc-blox.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-12/dc-blox-data-center-warren-township-approval-hearing-examiner"
   },
   {
-    "id": "mirror-indy-franklin-township-superintendent-to-discuss-district-s-financial-future-2026-06-16",
-    "title": "Franklin Township superintendent to discuss district’s financial future",
-    "source": "Mirror Indy",
-    "date": "2026-06-16",
-    "summary": "Huotari said he will discuss “budgetary basics” related to enrollment projections, property tax reform and other funding updates. He’s also expected to provide facility and programming updates.",
+    "id": "wfyi-can-tiny-home-communities-stem-homelessness-in-indiana-2026-06-09",
+    "title": "Can 'tiny home communities' stem homelessness in Indiana?",
+    "source": "WFYI",
+    "date": "2026-06-09",
+    "summary": "Sanctuary Indy broke ground on its first tiny home community, Circle City Villages in March, planned for 16 homes that share a community center and garden.",
     "categories": [
-      "community-action"
+      "housing-care",
+      "public-space"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/061626_Franklin-Township-Civic-League-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/franklin-township-community-school-corporation-indianapolis-budget-chase-huotari"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/42/da/a3f4ca1f44fbb084c36d81fc35f6/tiny-house-1-samantha-horton-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-09/can-tiny-home-communities-stem-homelessness-in-indiana"
   },
   {
     "id": "indy-parks-indy-parks-announces-youth-summer-meals-schedule-2026-06-08",
@@ -71,6 +135,18 @@
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
+  },
+  {
+    "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
+    "title": "Indianapolis spending package targets infrastructure, homelessness and neighborhood programs",
+    "source": "WFYI",
+    "date": "2026-06-03",
+    "summary": "The added money comes from supplemental income tax revenue distributed in the spring. Councilors worked with the mayor’s office to identify where funds should go.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/bc/0c/c8262a824338a435fe3388e3de1e/city-county-building-eric-weddle-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-03/indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborhood-programs"
   },
   {
     "id": "indy-parks-indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-p-2026-06-03",
