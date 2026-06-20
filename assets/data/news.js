@@ -171,17 +171,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-pool-and-splash-pad-openings-2"
-  },
-  {
-    "id": "indy-parks-indy-parks-announces-the-start-of-the-2026-free-concert-series-2026-05-06",
-    "title": "Indy Parks Announces the Start of the 2026 Free Concert Series",
-    "source": "Indy Parks",
-    "date": "2026-05-06",
-    "summary": "INDIANAPOLIS – Today, Indy Parks is announcing the start of the department’s 2026 Free Summer Concert Series. The first of more than 50 concerts will be held on May 12th at 6pm at Wes Montgomery Park. 19 Indy Parks across the city will host at least one...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/indy-parks-announces-the-start-of-the-2026-free-concert-series"
   }
 ];
