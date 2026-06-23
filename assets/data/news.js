@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-indy-invited-to-weigh-in-on-data-center-growth-2026-06-22",
+    "title": "Indy invited to weigh in on data center growth",
+    "source": "Mirror Indy",
+    "date": "2026-06-22",
+    "summary": "The Thunderbird Commerce Center campus, which is on a Brownfield site that used to be home to a Ford factory, sits along the Pennsy Trail near the intersection with Kitley Avenue on May 28, 2026, in Indianapolis. Atlanta-based DC Blox has proposedd building a...",
+    "categories": [
+      "urbanism",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW09.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/data-center-forum-african-american-coalition-indianapolis"
+  },
+  {
     "id": "mirror-indy-are-your-kids-missing-recess-already-2026-06-22",
     "title": "Are your kids missing recess already?",
     "source": "Mirror Indy",
@@ -87,19 +100,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-public-library-things-borrow-items-crafts-gardening-pilot-2026"
   },
   {
-    "id": "mirror-indy-former-indiana-women-s-prison-closer-to-redevelopment-2026-06-17",
-    "title": "Former Indiana Women’s Prison closer to redevelopment",
-    "source": "Mirror Indy",
-    "date": "2026-06-17",
-    "summary": "The property has been vacant since 2017 and was under the control of the Indiana Department of Administration. In 2024, the property was transferred to the city of Indianapolis .",
-    "categories": [
-      "urbanism",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/womens_prison_aw-2.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-womens-prison-near-east-side-indianapolis-redevelopment"
-  },
-  {
     "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
     "title": "Indy Parks Highlights Chapel Hill Park Improvements",
     "source": "Indy Parks",
@@ -147,18 +147,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
-  },
-  {
-    "id": "wfyi-indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborho-2026-06-03",
-    "title": "Indianapolis spending package targets infrastructure, homelessness and neighborhood programs",
-    "source": "WFYI",
-    "date": "2026-06-03",
-    "summary": "The added money comes from supplemental income tax revenue distributed in the spring. Councilors worked with the mayor’s office to identify where funds should go.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/bc/0c/c8262a824338a435fe3388e3de1e/city-county-building-eric-weddle-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-03/indianapolis-spending-package-targets-infrastructure-homelessness-and-neighborhood-programs"
   },
   {
     "id": "indy-parks-indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-p-2026-06-03",
