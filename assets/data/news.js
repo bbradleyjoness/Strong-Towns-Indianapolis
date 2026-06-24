@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-indy-library-board-approves-raise-to-265k-for-ceo-2026-06-23",
+    "title": "Indy library board approves raise to $265K for CEO",
+    "source": "Mirror Indy",
+    "date": "2026-06-23",
+    "summary": "The agenda included a proposal to reappoint Richard Wilson Jr. to the IndyGo board of directors and budget hearings for IndyGo, the Marion County Health and Hospital Corporation, and the Indianapolis Public Library.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/250917_Health-and-Hospital-Budget-hearing_DM031-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-library-ceo-gregory-hill-raise-approved"
+  },
+  {
     "id": "mirror-indy-indy-invited-to-weigh-in-on-data-center-growth-2026-06-22",
     "title": "Indy invited to weigh in on data center growth",
     "source": "Mirror Indy",
@@ -48,31 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/Student-Outreach-Cent_018-copy-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/indiana-university-student-outreach-clinic-free-healthcare-east-side-indianapolis"
-  },
-  {
-    "id": "mirror-indy-fletcher-place-residents-mobilize-against-townhome-proposal-2026-06-18",
-    "title": "Fletcher Place residents mobilize against townhome proposal",
-    "source": "Mirror Indy",
-    "date": "2026-06-18",
-    "summary": "Houses on Lord Street in the Fletcher Place Historic District shown on Wednesday, May 20, 2025 in Indianapolis are directly across from a green space where townhomes are proposed to be built.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260520_DAY_Fletcher-Place-Townhomes-RRS_17-scaled.jpg?fit=780%2C521&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-historic-fletcher-place-against-indiana-farm-bureau-townhomes"
-  },
-  {
-    "id": "mirror-indy-sabey-data-centers-files-motion-to-dismiss-residents-legal-challenge-2026-06-18",
-    "title": "Sabey Data Centers files motion to dismiss residents’ legal challenge",
-    "source": "Mirror Indy",
-    "date": "2026-06-18",
-    "summary": "Local residents from Protect Decatur Township held a protest at Camby Station on Kentucky Avenue on March 8, 2026, concerning the efforts by Seattle-based Sabey Data Centers to build a data center in Decatur Township.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/SABEY-DATA-CENTERS-DECATUR-TOWNSHIP-PROTEST_RS11.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/sabey-data-centers-files-motion-to-dismiss-residents-legal-challenge"
   },
   {
     "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
