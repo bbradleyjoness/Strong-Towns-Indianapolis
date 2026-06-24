@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-help-indy-s-unhoused-students-start-the-year-with-school-supplies-2026-06-24",
+    "title": "Help Indy’s unhoused students start the year with school supplies",
+    "source": "Mirror Indy",
+    "date": "2026-06-24",
+    "summary": "Tutors work with their students during a tutoring session on Jan. 29, 2025, at Wheeler Mission in Indianapolis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/Brightlane-learning_RC10-scaled-e1740171319673.jpg?fit=780%2C569&ssl=1",
+    "url": "https://mirrorindy.org/brightlane-learning-back-school-supply-drive-indianapolis-summer-2026"
+  },
+  {
     "id": "mirror-indy-indy-library-board-approves-raise-to-265k-for-ceo-2026-06-23",
     "title": "Indy library board approves raise to $265K for CEO",
     "source": "Mirror Indy",
@@ -13,31 +25,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-library-ceo-gregory-hill-raise-approved"
   },
   {
-    "id": "mirror-indy-indy-invited-to-weigh-in-on-data-center-growth-2026-06-22",
-    "title": "Indy invited to weigh in on data center growth",
-    "source": "Mirror Indy",
-    "date": "2026-06-22",
-    "summary": "The Thunderbird Commerce Center campus, which is on a Brownfield site that used to be home to a Ford factory, sits along the Pennsy Trail near the intersection with Kitley Avenue on May 28, 2026, in Indianapolis. Atlanta-based DC Blox has proposedd building a...",
-    "categories": [
-      "urbanism",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW09.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/data-center-forum-african-american-coalition-indianapolis"
-  },
-  {
-    "id": "mirror-indy-are-your-kids-missing-recess-already-2026-06-22",
-    "title": "Are your kids missing recess already?",
-    "source": "Mirror Indy",
-    "date": "2026-06-22",
-    "summary": "Websder Corneille supervises kids at recess May 28, 2024, at Promise Prep Elementary in Lawrence. Corneille is Haitian Creole ESL interventionist for the school.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Haitian-translator-Websder-Corneille_JRW08.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-day-play-downtown-summer-2026"
-  },
-  {
     "id": "wfyi-old-city-hall-needs-repairs-as-developers-consider-redevelopment-plans-again-2026-06-18",
     "title": "Old City Hall needs repairs as developers consider redevelopment plans again",
     "source": "WFYI",
@@ -48,19 +35,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/5c/b8/8fa982c5486a8289a4ae0d2f9eb0/mark-dollase-zach-bundy-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-06-18/old-city-hall-needs-repairs-as-developers-consider-redevelopment-plans-again"
-  },
-  {
-    "id": "mirror-indy-iu-medical-students-provide-free-healthcare-at-this-eastside-clinic-2026-06-18",
-    "title": "IU medical students provide free healthcare at this eastside clinic",
-    "source": "Mirror Indy",
-    "date": "2026-06-18",
-    "summary": "Volunteer medical providers at the IU Student Outreach Clinic. The clinic offers free healthcare services on the east side of Indianapolis.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/Student-Outreach-Cent_018-copy-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indiana-university-student-outreach-clinic-free-healthcare-east-side-indianapolis"
   },
   {
     "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
