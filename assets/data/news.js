@@ -1,5 +1,30 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-tightens-proposed-data-center-rules-after-community-feedback-2026-06-25",
+    "title": "Indianapolis tightens proposed data center rules after community feedback",
+    "source": "WFYI",
+    "date": "2026-06-25",
+    "summary": "Officials are proposing stricter zoning rules for data centers in Marion County, increasing required distances from protected areas and lowering allowable noise levels after months of public opposition.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/aa/cd/f0263a2e4e028a9f26a8f9114721/data-center-brett-sayles-pexels.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-25/indianapolis-marion-county-data-center-zoning-rules-stricter"
+  },
+  {
+    "id": "mirror-indy-hogsett-s-former-chief-of-staff-quickly-took-job-at-major-city-contractor-2026-06-25",
+    "title": "Hogsett’s former chief of staff quickly took job at major city contractor",
+    "source": "Mirror Indy",
+    "date": "2026-06-25",
+    "summary": "Dan Parker addresses board members of the Indianapolis Local Education Alliance as they meet July 23, 2025, at the City-County Building.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/PRJ-MR-CLEAN-3_010.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/american-structurepoint-dan-parker-hogsett-chief-of-staff"
+  },
+  {
     "id": "mirror-indy-mlk-center-s-new-director-accused-of-intimidation-and-union-busting-2026-06-24",
     "title": "MLK Center’s new director accused of intimidation and ‘union busting’",
     "source": "Mirror Indy",
