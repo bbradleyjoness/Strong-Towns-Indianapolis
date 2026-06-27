@@ -1,15 +1,27 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "wfyi-indianapolis-tightens-proposed-data-center-rules-after-community-feedback-2026-06-25",
-    "title": "Indianapolis tightens proposed data center rules after community feedback",
+    "id": "wfyi-concerns-persist-over-plans-for-former-women-s-prison-site-as-city-seeks-develop-2026-06-26",
+    "title": "Concerns persist over plans for former women's prison site, as city seeks developer interest",
     "source": "WFYI",
-    "date": "2026-06-25",
-    "summary": "Officials are proposing stricter zoning rules for data centers in Marion County, increasing required distances from protected areas and lowering allowable noise levels after months of public opposition.",
+    "date": "2026-06-26",
+    "summary": "Concerns over preservation are top of mind for Near Eastside neighbors as the city considers potential development ideas for the former prison site.",
     "categories": [
       "urbanism"
     ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/aa/cd/f0263a2e4e028a9f26a8f9114721/data-center-brett-sayles-pexels.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-25/indianapolis-marion-county-data-center-zoning-rules-stricter"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/a9/39/fe04999544cfbd6ac89934654a03/image.png",
+    "url": "https://www.wfyi.org/wfyi-news/2026-06-26/concerns-persist-over-plans-for-former-womens-prison-site-as-city-seeks-developer-interest"
+  },
+  {
+    "id": "mirror-indy-indianapolis-tightens-proposed-data-center-rules-after-community-feedback-2026-06-26",
+    "title": "Indianapolis tightens proposed data center rules after community feedback",
+    "source": "Mirror Indy",
+    "date": "2026-06-26",
+    "summary": "Data centers have been flocking to Indiana — largely driven by the need for large plots of land and generous tax abatements passed by the state legislature in 2019.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/pexels-photo-4508751.jpeg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-tightens-proposed-data-center-rules-after-community-feedback"
   },
   {
     "id": "mirror-indy-46-things-to-do-in-july-in-indianapolis-2026-06-25",
@@ -22,68 +34,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/12/019_2025-DIGITAL-ART-GALLERY_JANNELL-SUMMERS.jpg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/july-things-to-do-in-indianapolis-summer-events-foutain-square-downtown"
-  },
-  {
-    "id": "mirror-indy-reap-food-new-friendships-at-garfield-park-s-1-community-dinner-2026-06-25",
-    "title": "Reap food, new friendships at Garfield Park’s $1 community dinner",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "From left, Brooklyn Robinson, 30, park naturalist Leah McMichael, and Reilly Olmstead, 28, enjoy a dinner they harvested and cooked at Garfield Park Conservatory’s monthly $1 Menu Night, June 10, 2026.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DOLLAR-MENU-NIGHT-6-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/garfield-park-dollar-menu-night-blakes-garden-affordable-dinner"
-  },
-  {
-    "id": "mirror-indy-got-questions-about-your-smartphone-check-out-these-events-2026-06-25",
-    "title": "Got questions about your smartphone? Check out these events.",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "Close-up male hand using smartphone at meeting room blur bokeh background. searching data networks or chatting online. typing sending message. mockup mobile phone wireless.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/cell-phone_adobe-stock-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-free-smartphone-help-resources"
-  },
-  {
-    "id": "mirror-indy-indianapolis-extends-eagle-creek-reservoir-water-contract-2026-06-25",
-    "title": "Indianapolis extends Eagle Creek Reservoir water contract",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "Indianapolis officials are preparing to negotiate a long-term agreement with Citizens Energy Group over water management at Eagle Creek Reservoir.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/03/032525_EnriqueBirds_ES6-scaled.jpg?fit=780%2C424&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-board-approves-eagle-creek-reservoir-deal-extension-lebanon-leap"
-  },
-  {
-    "id": "mirror-indy-here-s-why-electric-bills-are-up-across-indiana-2026-06-25",
-    "title": "Here’s why electric bills are up across Indiana",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "People gather outside CenterPoint Energy Plaza on Aug. 1, 2025, to express frustration over high utility bills in July, in downtown Evansville, Ind.",
-    "categories": [
-      "community-action",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/Why-your-electric-bill-is-so-high_USAT-WIRE-scaled-1.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/heres-why-electric-bills-are-up-across-indiana"
-  },
-  {
-    "id": "mirror-indy-hogsett-s-former-chief-of-staff-quickly-took-job-at-major-city-contractor-2026-06-25",
-    "title": "Hogsett’s former chief of staff quickly took job at major city contractor",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "Dan Parker addresses board members of the Indianapolis Local Education Alliance as they meet July 23, 2025, at the City-County Building.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/PRJ-MR-CLEAN-3_010.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/american-structurepoint-dan-parker-hogsett-chief-of-staff"
   },
   {
     "id": "wfyi-indy-library-board-approves-raise-to-265k-for-ceo-2026-06-24",
