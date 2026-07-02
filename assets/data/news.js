@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-data-center-rules-proposal-clears-initial-vote-in-indianapolis-2026-07-01",
+    "title": "Data center rules proposal clears initial vote in Indianapolis",
+    "source": "WFYI",
+    "date": "2026-07-01",
+    "summary": "Indianapolis does not currently have specific regulations for data centers — which have become a controversial issue, largely due to concerns about water and energy consumption.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/f0/5d/9757e7484068a91c28e90e565b83/data-center-protesters-farrah-anderson-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-01/data-center-rules-proposal-clears-initial-vote-in-indianapolis"
+  },
+  {
     "id": "wfyi-concerns-persist-over-plans-for-former-women-s-prison-site-as-city-seeks-develop-2026-06-26",
     "title": "Concerns persist over plans for former women's prison site, as city seeks developer interest",
     "source": "WFYI",
