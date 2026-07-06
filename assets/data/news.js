@@ -37,18 +37,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-tightens-proposed-data-center-rules-after-community-feedback"
   },
   {
-    "id": "mirror-indy-46-things-to-do-in-july-in-indianapolis-2026-06-25",
-    "title": "46 things to do in July in Indianapolis",
-    "source": "Mirror Indy",
-    "date": "2026-06-25",
-    "summary": "Summer kinda crept up on us and that means there’s a festival every single weekend. Hit up Black: A Festival of Joy, Indiana Black Expo, Indy Shorts and Indy Dance Festival.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/12/019_2025-DIGITAL-ART-GALLERY_JANNELL-SUMMERS.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/july-things-to-do-in-indianapolis-summer-events-foutain-square-downtown"
-  },
-  {
     "id": "wfyi-indy-library-board-approves-raise-to-265k-for-ceo-2026-06-24",
     "title": "Indy library board approves raise to $265K for CEO",
     "source": "WFYI",
@@ -96,17 +84,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-the-friends-of-garfield-park-announce-the-reopening-of-the-garfield-park-sunken-garden-fountains"
-  },
-  {
-    "id": "indy-parks-indy-parks-announces-pool-and-splash-pad-openings-2026-05-22",
-    "title": "Indy Parks Announces Pool and Splash Pad Openings",
-    "source": "Indy Parks",
-    "date": "2026-05-22",
-    "summary": "INDIANAPOLIS – Today, Indy Parks is announcing that five pools are expected to be open on Memorial Day Weekend, with nine more scheduled to open on May 30. The following pools are open for Memorial Day Weekend, pending weather, and will operate 11-6pm on...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/indy-parks-announces-pool-and-splash-pad-openings-2"
   }
 ];
