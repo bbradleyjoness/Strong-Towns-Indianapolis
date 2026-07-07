@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-uninsured-or-need-low-cost-healthcare-use-these-indy-clinics-2026-07-06",
+    "title": "Uninsured or need low-cost healthcare? Use these Indy clinics.",
+    "source": "Mirror Indy",
+    "date": "2026-07-06",
+    "summary": "They’re called Federally Qualified Health Centers . Doctors there treat anyone who walks through the doors — regardless of their ability to pay. The centers use sliding scale fees, which are based on your income and household size. You can book an appointment...",
+    "categories": [
+      "public-space",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-FEDERALLY-QUALIFIED-HEALTH-CENTERS.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-low-cost-healthcare-federally-qualified-health-centers-eskenazi-healthnet-jane-pauley"
+  },
+  {
     "id": "wfyi-data-center-rules-proposal-clears-initial-vote-in-indianapolis-2026-07-01",
     "title": "Data center rules proposal clears initial vote in Indianapolis",
     "source": "WFYI",
@@ -35,19 +48,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/pexels-photo-4508751.jpeg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-tightens-proposed-data-center-rules-after-community-feedback"
-  },
-  {
-    "id": "wfyi-indy-library-board-approves-raise-to-265k-for-ceo-2026-06-24",
-    "title": "Indy library board approves raise to $265K for CEO",
-    "source": "WFYI",
-    "date": "2026-06-24",
-    "summary": "Indy public library CEO Gregory Hill is getting a raise to $265,000 per year. The library board approved the raise during a meeting June 22, despite about a dozen people speaking out against it during a public comment period.",
-    "categories": [
-      "community-action",
-      "public-space"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/66/8e/6847f3994f58a7a7810f52b28f80/gregory-a-hill-sr-doug-mcschooler-for-mirror-indy.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-24/indy-library-board-approves-raise-to-265k-for-ceo"
   },
   {
     "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
