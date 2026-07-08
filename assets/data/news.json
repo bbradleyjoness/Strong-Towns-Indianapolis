@@ -1,5 +1,65 @@
 [
   {
+    "id": "mirror-indy-bezos-fund-commits-10m-to-westside-park-2026-07-07",
+    "title": "Bezos fund commits $10M to westside park",
+    "source": "Mirror Indy",
+    "date": "2026-07-07",
+    "summary": "A rendering shows planned improvements to the 25-acre Rev. Mozel Sanders Park on the west side. The project is made possible by a $10 million grant from the Bezos Earth Fund.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Event-Lawn-Upper-Beach-1-scaled-1.jpg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/jeff-bezos-earth-fund-mozel-sanders-park-indianapolis"
+  },
+  {
+    "id": "mirror-indy-westside-family-moves-to-honduras-ahead-of-father-s-expected-deportation-2026-07-07",
+    "title": "Westside family moves to Honduras ahead of father’s expected deportation",
+    "source": "Mirror Indy",
+    "date": "2026-07-07",
+    "summary": "Joanna Garzes Lopez shows stress after her 4-year-old son Jacob cut his toe while playing with his brother, Macario on June 8, 2026, outside their Pike Township home. Joanna had less than a week to pack her home after learning that her husband’s appeal of his...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-PIKE-ICE-DETAINEE_SA01.jpg?fit=780%2C521&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-family-moves-honduras-ice-arrest-pike-township"
+  },
+  {
+    "id": "mirror-indy-indiana-latino-institute-to-host-indy-college-campus-visits-2026-07-07",
+    "title": "Indiana Latino Institute to host Indy college campus visits",
+    "source": "Mirror Indy",
+    "date": "2026-07-07",
+    "summary": "Indiana Latino Institute will host college visits at four Indianapolis schools in July: Marian University, IU Indianapolis, University of Indianapolis and Ivy Tech Indianapolis. At the events, students and families will be able to tour the campuses, hear from...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/06/ENT-INTL-STUDENTS-PROFILE_CN01-1-scaled.jpg?fit=780%2C553&ssl=1",
+    "url": "https://mirrorindy.org/indiana-latino-institute-indianapolis-college-campuses-marian-iu-uindy-ivy-tech"
+  },
+  {
+    "id": "mirror-indy-find-free-school-supplies-at-this-community-resource-day-2026-07-07",
+    "title": "Find free school supplies at this Community Resource Day",
+    "source": "Mirror Indy",
+    "date": "2026-07-07",
+    "summary": "Backpacks and coats hang on a rack during youth programming Feb. 16, 2026, at Concord Neighborhood Center in Indianapolis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/DAY-CONCORD-NEIGHBORHOOD-CENTER_EH01.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/marion-county-public-health-department-back-school-indianapolis-community-resource-day-summer-2026"
+  },
+  {
+    "id": "mirror-indy-hoosier-childcare-providers-slam-education-requirement-rollback-2026-07-07",
+    "title": "Hoosier childcare providers slam education requirement rollback",
+    "source": "Mirror Indy",
+    "date": "2026-07-07",
+    "summary": "Children play with blocks, cups and water during a gubernatorial visit to St. Mary’s Early Childhood Center in Indianapolis on Thursday, April 30, 2026",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/070726-st-marys-early-childhood-center_ICC.jpg?fit=780%2C586&ssl=1",
+    "url": "https://mirrorindy.org/hoosier-childcare-providers-slam-education-requirement-rollback"
+  },
+  {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
     "title": "Bezos Earth Fund commits $10 million to transform Indianapolis’ Reverend Mozel Sanders Park",
     "source": "Indy Parks",
@@ -10,19 +70,6 @@
     ],
     "thumbnail": "https://parks.indy.gov/wp-content/uploads/2026/07/BEF-Announcement.png",
     "url": "https://parks.indy.gov/bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-sanders-park"
-  },
-  {
-    "id": "mirror-indy-uninsured-or-need-low-cost-healthcare-use-these-indy-clinics-2026-07-06",
-    "title": "Uninsured or need low-cost healthcare? Use these Indy clinics.",
-    "source": "Mirror Indy",
-    "date": "2026-07-06",
-    "summary": "They’re called Federally Qualified Health Centers . Doctors there treat anyone who walks through the doors — regardless of their ability to pay. The centers use sliding scale fees, which are based on your income and household size. You can book an appointment...",
-    "categories": [
-      "public-space",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-FEDERALLY-QUALIFIED-HEALTH-CENTERS.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-low-cost-healthcare-federally-qualified-health-centers-eskenazi-healthnet-jane-pauley"
   },
   {
     "id": "wfyi-data-center-rules-proposal-clears-initial-vote-in-indianapolis-2026-07-01",
@@ -36,18 +83,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/f0/5d/9757e7484068a91c28e90e565b83/data-center-protesters-farrah-anderson-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-01/data-center-rules-proposal-clears-initial-vote-in-indianapolis"
-  },
-  {
-    "id": "wfyi-concerns-persist-over-plans-for-former-women-s-prison-site-as-city-seeks-develop-2026-06-26",
-    "title": "Concerns persist over plans for former women's prison site, as city seeks developer interest",
-    "source": "WFYI",
-    "date": "2026-06-26",
-    "summary": "Concerns over preservation are top of mind for Near Eastside neighbors as the city considers potential development ideas for the former prison site.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/a9/39/fe04999544cfbd6ac89934654a03/image.png",
-    "url": "https://www.wfyi.org/wfyi-news/2026-06-26/concerns-persist-over-plans-for-former-womens-prison-site-as-city-seeks-developer-interest"
   },
   {
     "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
