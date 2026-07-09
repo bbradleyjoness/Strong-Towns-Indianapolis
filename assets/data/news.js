@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-state-s-ratepayer-advocate-asks-regulators-to-reconsider-71m-aes-rate-hike-2026-07-09",
+    "title": "State’s ratepayer advocate asks regulators to reconsider $71M AES rate hike",
+    "source": "Mirror Indy",
+    "date": "2026-07-09",
+    "summary": "Indiana Office of Utility Consumer Counselor Abby Gray asks questions during a utility affordability hearing on March 24, 2026.",
+    "categories": [
+      "community-action",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Abby-Gray_ICC.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/states-ratepayer-advocate-asks-regulators-to-reconsider-71m-aes-rate-hike"
+  },
+  {
     "id": "mirror-indy-beech-grove-puts-a-cork-in-its-proposed-outdoor-alcohol-policy-2026-07-08",
     "title": "Beech Grove puts a cork in its proposed outdoor alcohol policy",
     "source": "Mirror Indy",
@@ -47,19 +60,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/ENT-PLANNED-PARENTHOOD-CLOSURES_JRW009.jpg?fit=780%2C531&ssl=1",
     "url": "https://mirrorindy.org/planned-parenthood-decries-block-on-indiana-medicaid-funding-despite-end-of-federal-ban"
-  },
-  {
-    "id": "mirror-indy-get-overdose-prevention-supplies-on-july-10-2026-07-08",
-    "title": "Get overdose prevention supplies on July 10",
-    "source": "Mirror Indy",
-    "date": "2026-07-08",
-    "summary": "The Garfield Park library branch will provide overdose prevention resources on Aug. 7.",
-    "categories": [
-      "public-space",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Warren-Township-Trustee_JRW020.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/overdose-prevention-supplies-garfield-park-library-event-indianapolis-marion-county"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
