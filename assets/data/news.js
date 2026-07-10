@@ -1,5 +1,55 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-data-center-developer-shrinks-east-side-project-days-before-final-vote-2026-07-09",
+    "title": "Data center developer shrinks east side project days before final vote",
+    "source": "WFYI",
+    "date": "2026-07-09",
+    "summary": "DC Blox is scaling back its proposed east side data center campus — fewer buildings and generators, a bigger buffer — just before the Metropolitan Development Commission's July 15 vote.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/62/49/ba0ad26640c99d5a67903623b9bf/no-data-center-sign-july26-fa.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-09/dc-blox-shrinks-indianapolis-east-side-data-center-proposal"
+  },
+  {
+    "id": "wfyi-city-announces-10m-investment-in-haughville-park-through-bezos-earth-fund-2026-07-09",
+    "title": "City announces $10M investment in Haughville park through Bezos Earth Fund",
+    "source": "WFYI",
+    "date": "2026-07-09",
+    "summary": "The Bezos Earth Fund is investing $10 million to pay for big changes at Reverend Mozel Sanders Park on Indianapolis' west side.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/59/4f/3451fdbe4140aaec766d1a07ef2e/reverend-mozel-sanders-park-rendering-courtesy-of-indy-parks.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-09/city-announces-10m-investment-in-haughville-park-through-bezos-earth-fund"
+  },
+  {
+    "id": "mirror-indy-how-indy-s-new-favorite-tax-break-for-affordable-housing-works-2026-07-09",
+    "title": "How Indy’s new favorite tax break for affordable housing works",
+    "source": "Mirror Indy",
+    "date": "2026-07-09",
+    "summary": "You just bought a piece of land, and you want to build an apartment complex there. And because you know there’s an affordable housing crisis, you want to make sure rents are reasonable.",
+    "categories": [
+      "housing-care",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-PILOTS_JZ01.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-affordable-housing-developers-tax-break-pilot"
+  },
+  {
+    "id": "mirror-indy-dc-blox-scales-back-eastside-data-center-plans-ahead-of-city-vote-2026-07-09",
+    "title": "DC Blox scales back eastside data center plans ahead of city vote",
+    "source": "Mirror Indy",
+    "date": "2026-07-09",
+    "summary": "Mike Clark, DC BLOX senior vice president of construction, responds to questions during a community forum on a proposed data center in Warren Township, April 27, 2026, at Downey Avenue Christian Church in Indianapolis. The forum, hosted by City-County...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260427_DAY-DATA-CENTER-FORUM_DM033-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-date-center-campus-east-side-indianapolis-irvington-warren-township"
+  },
+  {
     "id": "mirror-indy-state-s-ratepayer-advocate-asks-regulators-to-reconsider-71m-aes-rate-hike-2026-07-09",
     "title": "State’s ratepayer advocate asks regulators to reconsider $71M AES rate hike",
     "source": "Mirror Indy",
@@ -35,31 +85,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06232026_MotherLovesGarden510.jpg?fit=780%2C580&ssl=1",
     "url": "https://mirrorindy.org/summer-camp-north-west-indianapolis-urban-garden-mother-loves-garden"
-  },
-  {
-    "id": "mirror-indy-planning-to-go-to-a-job-fair-here-s-our-guide-on-how-to-prepare-2026-07-08",
-    "title": "Planning to go to a job fair? Here’s our guide on how to prepare.",
-    "source": "Mirror Indy",
-    "date": "2026-07-08",
-    "summary": "Like, what exactly is “professional clothing?” And how do you prepare to approach an employer and start chatting?",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/JOB-FAIR_BE1.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/job-fair-guide-indianapolis-tips-resources"
-  },
-  {
-    "id": "mirror-indy-planned-parenthood-decries-block-on-indiana-medicaid-funding-despite-end-of-fede-2026-07-08",
-    "title": "Planned Parenthood decries block on Indiana Medicaid funding despite end of federal ban",
-    "source": "Mirror Indy",
-    "date": "2026-07-08",
-    "summary": "Indiana’s Planned Parenthood affiliate remains cut off from state Medicaid funding even with the expiration of a federal ban on such payments to abortion providers for any healthcare services.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/ENT-PLANNED-PARENTHOOD-CLOSURES_JRW009.jpg?fit=780%2C531&ssl=1",
-    "url": "https://mirrorindy.org/planned-parenthood-decries-block-on-indiana-medicaid-funding-despite-end-of-federal-ban"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
