@@ -1,5 +1,43 @@
 [
   {
+    "id": "wfyi-indianapolis-council-president-to-ask-for-data-center-moratorium-2026-07-10",
+    "title": "Indianapolis council president to ask for data center moratorium",
+    "source": "WFYI",
+    "date": "2026-07-10",
+    "summary": "The announcement from Indianapolis City-County Council President Maggie Lewis comes after months of protests at city meetings over data centers and calls from residents to pause approvals.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/62/7d/0ffa38654a76ad6334cbd4eb260f/maggie-lewis-jill-sheridan-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-10/indianapolis-council-president-to-ask-for-data-center-moratorium"
+  },
+  {
+    "id": "mirror-indy-council-president-proposes-moratorium-on-data-centers-2026-07-10",
+    "title": "Council president proposes moratorium on data centers",
+    "source": "Mirror Indy",
+    "date": "2026-07-10",
+    "summary": "Council President and District 5 Councilor Maggie A. Lewis questions presenters during a meeting of the Public Safety and Criminal Justice Committee on May 13, 2026, at the City-County Building in Indianapolis.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260513_DAY-OPHS-AUDIT-COUNCIL_DM008.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-city-county-council-maggie-lewis"
+  },
+  {
+    "id": "mirror-indy-free-yoga-class-at-historic-meridian-park-2026-07-10",
+    "title": "Free yoga class at Historic Meridian Park",
+    "source": "Mirror Indy",
+    "date": "2026-07-10",
+    "summary": "The session is for people 18 and older, and open to all yoga experience levels. The Historic Meridian Park Neighborhood Association will host the event. Attendees should bring their own mats, water bottles and bug spray if needed. The class is from 7:30 to...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/IMG_9570.jpg?fit=780%2C775&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-historic-meridian-park-free-yoga-class-july-2026"
+  },
+  {
     "id": "wfyi-data-center-developer-shrinks-east-side-project-days-before-final-vote-2026-07-09",
     "title": "Data center developer shrinks east side project days before final vote",
     "source": "WFYI",
@@ -48,43 +86,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260427_DAY-DATA-CENTER-FORUM_DM033-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/dc-blox-date-center-campus-east-side-indianapolis-irvington-warren-township"
-  },
-  {
-    "id": "mirror-indy-state-s-ratepayer-advocate-asks-regulators-to-reconsider-71m-aes-rate-hike-2026-07-09",
-    "title": "State’s ratepayer advocate asks regulators to reconsider $71M AES rate hike",
-    "source": "Mirror Indy",
-    "date": "2026-07-09",
-    "summary": "Indiana Office of Utility Consumer Counselor Abby Gray asks questions during a utility affordability hearing on March 24, 2026.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Abby-Gray_ICC.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/states-ratepayer-advocate-asks-regulators-to-reconsider-71m-aes-rate-hike"
-  },
-  {
-    "id": "mirror-indy-beech-grove-puts-a-cork-in-its-proposed-outdoor-alcohol-policy-2026-07-08",
-    "title": "Beech Grove puts a cork in its proposed outdoor alcohol policy",
-    "source": "Mirror Indy",
-    "date": "2026-07-08",
-    "summary": "Main Street in downtown Beech Grove is pictured on the evening of Jan. 21, 2026, in Marion County.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260121_STOCK-PHOTOS-OF-DOWNTOWN-BEECH-GROVE_BP_01.jpg?fit=780%2C506&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-marion-county-indiana-outdoor-drinking-dora-policy-main-street-sarah-t-bolton-fails"
-  },
-  {
-    "id": "mirror-indy-at-mother-loves-garden-kids-get-paid-to-grow-2026-07-08",
-    "title": "At Mother Loves Garden, kids get paid to grow",
-    "source": "Mirror Indy",
-    "date": "2026-07-08",
-    "summary": "Malik Hanif, 12 carries tomato plants to the flower pots at Mother Loves Garden, a summer camp where kids are paid to learn how to garden on June 23, 2026 in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06232026_MotherLovesGarden510.jpg?fit=780%2C580&ssl=1",
-    "url": "https://mirrorindy.org/summer-camp-north-west-indianapolis-urban-garden-mother-loves-garden"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
