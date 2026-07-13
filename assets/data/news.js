@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-what-do-you-want-to-see-at-this-contaminated-site-in-riverside-2026-07-13",
+    "title": "What do you want to see at this contaminated site in Riverside?",
+    "source": "Mirror Indy",
+    "date": "2026-07-13",
+    "summary": "A draft plan for redevelopment of the Carrier Bryant site calls for a mix of housing, commercial, light industrial and public spaces. The roughly 19-acre site is a brownfield, meaning the land is contaminated .",
+    "categories": [
+      "urbanism",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260708_carrier-bryant_tf2-scaled.jpg?fit=780%2C557&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-brownfield-development-riverside-public-comment"
+  },
+  {
     "id": "wfyi-indianapolis-council-president-to-ask-for-data-center-moratorium-2026-07-10",
     "title": "Indianapolis council president to ask for data center moratorium",
     "source": "WFYI",
@@ -74,18 +87,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-PILOTS_JZ01.png?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-affordable-housing-developers-tax-break-pilot"
-  },
-  {
-    "id": "mirror-indy-dc-blox-scales-back-eastside-data-center-plans-ahead-of-city-vote-2026-07-09",
-    "title": "DC Blox scales back eastside data center plans ahead of city vote",
-    "source": "Mirror Indy",
-    "date": "2026-07-09",
-    "summary": "Mike Clark, DC BLOX senior vice president of construction, responds to questions during a community forum on a proposed data center in Warren Township, April 27, 2026, at Downey Avenue Christian Church in Indianapolis. The forum, hosted by City-County...",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/260427_DAY-DATA-CENTER-FORUM_DM033-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/dc-blox-date-center-campus-east-side-indianapolis-irvington-warren-township"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
