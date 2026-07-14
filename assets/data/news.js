@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-data-center-moratorium-advances-for-indianapolis-2026-07-14",
+    "title": "Data center moratorium advances for Indianapolis",
+    "source": "WFYI",
+    "date": "2026-07-14",
+    "summary": "An Indianapolis City-County Council committee advanced a data center moratorium through 2027 after months of community pressure, sending the measure to the full council for an Aug. 10 vote.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/a0/bc/4c58fd084d0ca7169a18ea3c916d/data-center-moratorium-protest-farrah-anderson-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis"
+  },
+  {
+    "id": "mirror-indy-local-queer-horror-film-jodi-to-premiere-at-tibbs-drive-in-2026-07-13",
+    "title": "Local queer horror film ‘Jodi’ to premiere at Tibbs Drive-In",
+    "source": "Mirror Indy",
+    "date": "2026-07-13",
+    "summary": "“Jodi” follows a video vixen, played by PEACH, who loves rock ’n’ roll, her rockstar girlfriend TJ, played by Jessie Phelps, and locking men in her torture shed. The year is 1989, a year after a trainwreck spilled toxic waste into the water supply resulting...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/HollehMoonPhoto_waiting.jpeg?fit=780%2C572&ssl=1",
+    "url": "https://mirrorindy.org/eastside-queer-horror-film-tibbs-drive-in-screening-indianapolis"
+  },
+  {
+    "id": "mirror-indy-what-kind-of-spaces-do-kids-and-teens-really-want-in-indy-2026-07-13",
+    "title": "What kind of spaces do kids and teens really want in Indy?",
+    "source": "Mirror Indy",
+    "date": "2026-07-13",
+    "summary": "A student shares her group’s imagine neighborhood design and street murals July 8, 2026, during a youth civic engagement camp led by Children’s Policy and Law Initiative at Polk Stables in Indianapolis.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-YOUTH-CIVIC-ENGAGEMENT-CAMP_JRW11.jpg?fit=780%2C509&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-teens-center-policy-law-civic-engagement-camp-summer-2026"
+  },
+  {
     "id": "mirror-indy-what-do-you-want-to-see-at-this-contaminated-site-in-riverside-2026-07-13",
     "title": "What do you want to see at this contaminated site in Riverside?",
     "source": "Mirror Indy",
@@ -39,18 +76,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-city-county-council-maggie-lewis"
   },
   {
-    "id": "mirror-indy-free-yoga-class-at-historic-meridian-park-2026-07-10",
-    "title": "Free yoga class at Historic Meridian Park",
-    "source": "Mirror Indy",
-    "date": "2026-07-10",
-    "summary": "The session is for people 18 and older, and open to all yoga experience levels. The Historic Meridian Park Neighborhood Association will host the event. Attendees should bring their own mats, water bottles and bug spray if needed. The class is from 7:30 to...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/IMG_9570.jpg?fit=780%2C775&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-historic-meridian-park-free-yoga-class-july-2026"
-  },
-  {
     "id": "wfyi-data-center-developer-shrinks-east-side-project-days-before-final-vote-2026-07-09",
     "title": "Data center developer shrinks east side project days before final vote",
     "source": "WFYI",
@@ -74,19 +99,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/59/4f/3451fdbe4140aaec766d1a07ef2e/reverend-mozel-sanders-park-rendering-courtesy-of-indy-parks.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-09/city-announces-10m-investment-in-haughville-park-through-bezos-earth-fund"
-  },
-  {
-    "id": "mirror-indy-how-indy-s-new-favorite-tax-break-for-affordable-housing-works-2026-07-09",
-    "title": "How Indy’s new favorite tax break for affordable housing works",
-    "source": "Mirror Indy",
-    "date": "2026-07-09",
-    "summary": "You just bought a piece of land, and you want to build an apartment complex there. And because you know there’s an affordable housing crisis, you want to make sure rents are reasonable.",
-    "categories": [
-      "housing-care",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-PILOTS_JZ01.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-affordable-housing-developers-tax-break-pilot"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
