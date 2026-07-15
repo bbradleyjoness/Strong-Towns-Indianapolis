@@ -13,16 +13,54 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis"
   },
   {
+    "id": "mirror-indy-donate-your-clean-reusable-water-bottles-2026-07-14",
+    "title": "Donate your clean, reusable water bottles",
+    "source": "Mirror Indy",
+    "date": "2026-07-14",
+    "summary": "Food Not Bombs member Allie talks about the activism group during a Sunday Supper at Lille Bønne Community Living Room, July 12, 2026. The community space is collecting water bottles for Indianapolis Food Not Bombs.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/260726_LILLE_BONNE_COMMUNITY_SPACE_TS_56-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/donate-water-bottles-indianapolis-food-not-bombs"
+  },
+  {
+    "id": "mirror-indy-cyclosporiasis-outbreak-28-cases-of-explosive-diarrhea-in-indianapolis-2026-07-14",
+    "title": "Cyclosporiasis outbreak: 28 cases of ‘explosive diarrhea’ in Indianapolis",
+    "source": "Mirror Indy",
+    "date": "2026-07-14",
+    "summary": "Compared to wet mount preparations, the oocysts are less perfectly round and have a wrinkled appearance due to this method of fixation. Most importantly, the staining is variable among the four oocysts.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-EXPLOSIVE-DIARRHEA-PARASITE_CDC_02.jpg?fit=780%2C780&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-explosive-diarrhea-cyclosporias-outbreak-contaminated-food-marion-county"
+  },
+  {
+    "id": "mirror-indy-indiana-families-dropped-from-snap-as-state-and-federal-changes-collide-2026-07-14",
+    "title": "Indiana families dropped from SNAP as state and federal changes collide",
+    "source": "Mirror Indy",
+    "date": "2026-07-14",
+    "summary": "Volunteers stack canned goods at Fountain Square Church of Christ on the Southeast side of Indianapolis during a food distribution event Saturday, Nov. 8, 2025 organized by the city’s Office of Public Health and Safety.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Fountain-Square-Church-of-Christ-volunteers_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/indiana-families-dropped-from-snap-as-state-and-federal-changes-collide"
+  },
+  {
     "id": "mirror-indy-indy-councilors-advance-data-center-moratorium-with-hogsett-s-backing-2026-07-14",
     "title": "Indy councilors advance data center moratorium with Hogsett’s backing",
     "source": "Mirror Indy",
     "date": "2026-07-14",
-    "summary": "Protestors hold signs as members of the Metropolitan Development Commission meet to consider a proposal for the DC Blox data center campus near Irvington during a public meeting on July 1, 2026, at the City-County Building in Indianapolis. The commission...",
+    "summary": "Members of the public, community advocates and local officials gather at the City-County Building as the Indianapolis City-County Council’s Metropolitan and Economic Development Committee considers a proposed moratorium on the approval of new data centers in...",
     "categories": [
       "urbanism",
       "community-action"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/260701-DC-BLOX-DATA-CENTER-MDC-HEARING_DM38.jpg?fit=780%2C365&ssl=1",
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/DAY-MORATORIUM-VOTE_TOP_DM08.jpg?fit=780%2C468&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-city-county-council-joe-hogsett-support"
   },
   {
@@ -36,31 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/HollehMoonPhoto_waiting.jpeg?fit=780%2C572&ssl=1",
     "url": "https://mirrorindy.org/eastside-queer-horror-film-tibbs-drive-in-screening-indianapolis"
-  },
-  {
-    "id": "mirror-indy-what-kind-of-spaces-do-kids-and-teens-really-want-in-indy-2026-07-13",
-    "title": "What kind of spaces do kids and teens really want in Indy?",
-    "source": "Mirror Indy",
-    "date": "2026-07-13",
-    "summary": "A student shares her group’s imagine neighborhood design and street murals July 8, 2026, during a youth civic engagement camp led by Children’s Policy and Law Initiative at Polk Stables in Indianapolis.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-YOUTH-CIVIC-ENGAGEMENT-CAMP_JRW11.jpg?fit=780%2C509&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-teens-center-policy-law-civic-engagement-camp-summer-2026"
-  },
-  {
-    "id": "mirror-indy-what-do-you-want-to-see-at-this-contaminated-site-in-riverside-2026-07-13",
-    "title": "What do you want to see at this contaminated site in Riverside?",
-    "source": "Mirror Indy",
-    "date": "2026-07-13",
-    "summary": "A draft plan for redevelopment of the Carrier Bryant site calls for a mix of housing, commercial, light industrial and public spaces. The roughly 19-acre site is a brownfield, meaning the land is contaminated .",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260708_carrier-bryant_tf2-scaled.jpg?fit=780%2C557&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-brownfield-development-riverside-public-comment"
   },
   {
     "id": "wfyi-indianapolis-council-president-to-ask-for-data-center-moratorium-2026-07-10",
