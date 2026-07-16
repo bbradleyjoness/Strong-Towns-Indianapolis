@@ -1,5 +1,43 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-east-side-data-center-wins-approval-despite-community-opposition-2026-07-15",
+    "title": "East side data center wins approval, despite community opposition",
+    "source": "WFYI",
+    "date": "2026-07-15",
+    "summary": "The Metropolitan Development Commission voted 6-1 Wednesday to approve a scaled-back data center campus on Indianapolis' east side in Warren Township.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/66/ba/47590708479c91404348b5388a1c/data-center-protesters-farrah-anderson-wfyi-1.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-15/east-side-data-center-wins-approval-despite-community-opposition"
+  },
+  {
+    "id": "mirror-indy-dc-blox-data-center-ok-d-by-city-officials-2026-07-15",
+    "title": "DC Blox data center OK’d by city officials",
+    "source": "Mirror Indy",
+    "date": "2026-07-15",
+    "summary": "(From left to right) Jen Wiley, Beth Terlizzi, Karen Sherman and Victor Sherman, 7, listen to speakers on July 15, 2026, during a public hearing and meeting of the Metropolitan Development Commission at the City-County Building in Indianapolis. The commission...",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/07152026_DataCenterHearing0533.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-irvington-east-side-indianapolis-metropolitan-development-commission"
+  },
+  {
+    "id": "mirror-indy-10-indianapolis-sounds-to-get-in-your-head-2026-07-15",
+    "title": "10 Indianapolis sounds to get in your head",
+    "source": "Mirror Indy",
+    "date": "2026-07-15",
+    "summary": "Summertime is a great season for listening with intention. While the sun is shining, we are all busy making hay. A few moments of deep listening can re-center our minds, regulate our hearts and help us grab a little free and sneaky joy where we can.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Sounds-of-Summer.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/summer-sounds-clockwork-presents-indianapolis-lawnmowers-bowling-fridge-noise"
+  },
+  {
     "id": "mirror-indy-public-editor-women-journalists-worldwide-and-here-at-home-face-outsized-online--2026-07-15",
     "title": "Public Editor: Women journalists – worldwide and here at home – face outsized online attacks",
     "source": "Mirror Indy",
@@ -48,56 +86,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/260726_LILLE_BONNE_COMMUNITY_SPACE_TS_56-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/donate-water-bottles-indianapolis-food-not-bombs"
-  },
-  {
-    "id": "mirror-indy-cyclosporiasis-outbreak-28-cases-of-explosive-diarrhea-in-indianapolis-2026-07-14",
-    "title": "Cyclosporiasis outbreak: 28 cases of ‘explosive diarrhea’ in Indianapolis",
-    "source": "Mirror Indy",
-    "date": "2026-07-14",
-    "summary": "Compared to wet mount preparations, the oocysts are less perfectly round and have a wrinkled appearance due to this method of fixation. Most importantly, the staining is variable among the four oocysts.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-EXPLOSIVE-DIARRHEA-PARASITE_CDC_02.jpg?fit=780%2C780&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-explosive-diarrhea-cyclosporias-outbreak-contaminated-food-marion-county"
-  },
-  {
-    "id": "mirror-indy-indiana-families-dropped-from-snap-as-state-and-federal-changes-collide-2026-07-14",
-    "title": "Indiana families dropped from SNAP as state and federal changes collide",
-    "source": "Mirror Indy",
-    "date": "2026-07-14",
-    "summary": "Volunteers stack canned goods at Fountain Square Church of Christ on the Southeast side of Indianapolis during a food distribution event Saturday, Nov. 8, 2025 organized by the city’s Office of Public Health and Safety.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Fountain-Square-Church-of-Christ-volunteers_WFYI.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/indiana-families-dropped-from-snap-as-state-and-federal-changes-collide"
-  },
-  {
-    "id": "mirror-indy-indy-councilors-advance-data-center-moratorium-with-hogsett-s-backing-2026-07-14",
-    "title": "Indy councilors advance data center moratorium with Hogsett’s backing",
-    "source": "Mirror Indy",
-    "date": "2026-07-14",
-    "summary": "Members of the public, community advocates and local officials gather at the City-County Building as the Indianapolis City-County Council’s Metropolitan and Economic Development Committee considers a proposed moratorium on the approval of new data centers in...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/DAY-MORATORIUM-VOTE_TOP_DM08.jpg?fit=780%2C468&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-city-county-council-joe-hogsett-support"
-  },
-  {
-    "id": "mirror-indy-local-queer-horror-film-jodi-to-premiere-at-tibbs-drive-in-2026-07-13",
-    "title": "Local queer horror film ‘Jodi’ to premiere at Tibbs Drive-In",
-    "source": "Mirror Indy",
-    "date": "2026-07-13",
-    "summary": "“Jodi” follows a video vixen, played by PEACH, who loves rock ’n’ roll, her rockstar girlfriend TJ, played by Jessie Phelps, and locking men in her torture shed. The year is 1989, a year after a trainwreck spilled toxic waste into the water supply resulting...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/HollehMoonPhoto_waiting.jpeg?fit=780%2C572&ssl=1",
-    "url": "https://mirrorindy.org/eastside-queer-horror-film-tibbs-drive-in-screening-indianapolis"
   },
   {
     "id": "wfyi-indianapolis-council-president-to-ask-for-data-center-moratorium-2026-07-10",
