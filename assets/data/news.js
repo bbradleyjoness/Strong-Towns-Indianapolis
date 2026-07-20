@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-these-wrestlers-want-kids-build-a-strong-love-for-reading-2026-07-20",
+    "title": "These wrestlers want kids build a strong love for reading",
+    "source": "Mirror Indy",
+    "date": "2026-07-20",
+    "summary": "WrestleARTS , a nonprofit professional wrestling company, is hosting a free storytime July 25 at the Irvington library branch.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Irvington-Pride-Kavron-Kanyon-kicking-Anthony-Lee.png?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/free-reading-event-local-wrestlers-irvington"
+  },
+  {
     "id": "wfyi-homelessness-initiative-finds-housing-for-200-people-in-indianapolis-2026-07-17",
     "title": "Homelessness initiative finds housing for 200 people in Indianapolis",
     "source": "WFYI",
@@ -87,32 +99,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/012826_MRiggOpens_ES16-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/donate-grocery-bags-mary-rigg-neighborhood-center"
-  },
-  {
-    "id": "mirror-indy-former-employees-say-indy-parks-has-a-broken-system-2026-07-16",
-    "title": "Former Employees Say Indy Parks Has a ‘Broken System’",
-    "source": "Mirror Indy",
-    "date": "2026-07-16",
-    "summary": "A new playground and multiuse, synthetic sports fields are also being constructed at the 43-acre Frederick Douglass Park. Picture taken Dec. 15, 2023.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/IMG_0653-scaled-1546084510-e1703080989130.jpg?fit=780%2C485&ssl=1",
-    "url": "https://mirrorindy.org/former-employees-says-indy-parks-has-a-broken-system"
-  },
-  {
-    "id": "mirror-indy-10-ways-your-indy-arts-experience-is-going-to-change-2026-07-16",
-    "title": "10 ways your Indy arts experience is going to change",
-    "source": "Mirror Indy",
-    "date": "2026-07-16",
-    "summary": "Al-generated rendering for illustrative purposes only. The final appearance, materials, furnishings, and details may vary.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/HI-FI-Expansion-Exterior-Murphy-Arts-Center-Rending.png?fit=780%2C435&ssl=1",
-    "url": "https://mirrorindy.org/arts-organizations-grants-state-funding-live-music-arts-and-culture"
   },
   {
     "id": "wfyi-east-side-data-center-wins-approval-despite-community-opposition-2026-07-15",
