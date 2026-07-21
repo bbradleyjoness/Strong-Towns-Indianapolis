@@ -1,7 +1,20 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-these-wrestlers-want-kids-build-a-strong-love-for-reading-2026-07-20",
-    "title": "These wrestlers want kids build a strong love for reading",
+    "id": "mirror-indy-cuts-to-snap-medicaid-could-impact-free-school-meals-at-high-poverty-schools-2026-07-20",
+    "title": "Cuts to SNAP, Medicaid could impact free school meals at high-poverty schools",
+    "source": "Mirror Indy",
+    "date": "2026-07-20",
+    "summary": "Original caption: The Patachou Foundation has expanded its school partnerships with a kitchen renovation at Adelante Schools&#8217; cafeteria. The fresh-made meals give students at the school scratch-made meal choices throughout the week. On Oct. 10, 2024, at...",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/adalante-schools-pataschool-lunch_DM06.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/cuts-to-snap-medicaid-could-impact-free-school-meals-at-high-poverty-schools"
+  },
+  {
+    "id": "mirror-indy-these-wrestlers-want-kids-to-build-a-strong-love-for-reading-2026-07-20",
+    "title": "These wrestlers want kids to build a strong love for reading",
     "source": "Mirror Indy",
     "date": "2026-07-20",
     "summary": "WrestleARTS , a nonprofit professional wrestling company, is hosting a free storytime July 25 at the Irvington library branch.",
@@ -74,31 +87,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/School-bus_WFYI.webp?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/6-finalists-named-to-run-new-agency-overseeing-ips-and-indy-charter-schools"
-  },
-  {
-    "id": "mirror-indy-5-takeaways-from-chalkbeat-s-panel-on-indiana-s-changes-to-school-board-election-2026-07-17",
-    "title": "5 takeaways from Chalkbeat’s panel on Indiana’s changes to school board elections and referendums",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "To explain changes that could affect the makeup of school boards and future funding for Indiana schools, Chalkbeat hosted a panel at the Eugene and Marilyn Glick Indiana History Center in Indianapolis.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Chalkbeat-Indiana-panel-school-boards.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/5-takeaways-from-chalkbeats-panel-on-indianas-changes-to-school-board-elections-and-referendums"
-  },
-  {
-    "id": "mirror-indy-donate-those-extra-tote-bags-to-a-westside-food-pantry-2026-07-17",
-    "title": "Donate those extra tote bags to a westside food pantry",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "Mary Rigg Neighborhood Center employment support specialist Johnene Marble helps Jose Ochoa select a food item at the Mary Rigg Food Pantry Jan. 28, 2026.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/012826_MRiggOpens_ES16-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/donate-grocery-bags-mary-rigg-neighborhood-center"
   },
   {
     "id": "wfyi-east-side-data-center-wins-approval-despite-community-opposition-2026-07-15",
