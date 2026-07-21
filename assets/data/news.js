@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-southeast-side-community-center-to-giveaway-school-supplies-2026-07-21",
+    "title": "Southeast side community center to giveaway school supplies",
+    "source": "Mirror Indy",
+    "date": "2026-07-21",
+    "summary": "Classroom supplies on Aug. 4, 2025, at William Penn School 49 in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/20250804_IPS-FIRST-DAY-OF-SCHOOL_BP_06-scaled.jpg?fit=780%2C512&ssl=1",
+    "url": "https://mirrorindy.org/fletcher-place-community-center-southeast-indianapolis-back-to-school-supplies-hygiene-product-donations-summer-2026"
+  },
+  {
     "id": "mirror-indy-cuts-to-snap-medicaid-could-impact-free-school-meals-at-high-poverty-schools-2026-07-20",
     "title": "Cuts to SNAP, Medicaid could impact free school meals at high-poverty schools",
     "source": "Mirror Indy",
@@ -49,44 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260121_STOCK-PHOTOS-OF-DOWNTOWN-BEECH-GROVE_BP_04.jpg?fit=780%2C521&ssl=1",
     "url": "https://mirrorindy.org/beech-grove-indianapolis-city-government-wheel-vehicle-tax-road-funding"
-  },
-  {
-    "id": "mirror-indy-learn-how-to-lead-in-your-neighborhood-at-a-july-25-conference-2026-07-17",
-    "title": "Learn how to lead in your neighborhood at a July 25 conference",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "If you want to make your neighborhood safer for pedestrians, fundraise for an event or learn more about why housing in Indy is so expensive, you can start at Neighbor Power Indy .",
-    "categories": [
-      "mobility",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/54960145746_29e4b60082_c.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/neighbor-power-indy-conference-community-leaders"
-  },
-  {
-    "id": "mirror-indy-with-no-city-plan-for-extreme-heat-indy-s-homeless-find-a-patch-of-shade-2026-07-17",
-    "title": "With no city plan for extreme heat, Indy’s homeless ‘find a patch of shade’",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "Kiera Johnson (left), 37, walks with her boyfriend, Jeff Harris, 30, near their encampment July 15, 2026, in Indianapolis.",
-    "categories": [
-      "housing-care",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260715_weather-contingency_tf-3-scaled.jpg?fit=780%2C599&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-extreme-heat-shelther-ophs-andrew-merkley"
-  },
-  {
-    "id": "mirror-indy-6-finalists-named-to-run-new-agency-overseeing-ips-and-indy-charter-schools-2026-07-17",
-    "title": "6 finalists named to run new agency overseeing IPS and Indy charter schools",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "The executive director of the Indianapolis Public Education Corporation will oversee major changes for the city’s education sectors, including the creation of a unified transportation system and potential school closures.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/School-bus_WFYI.webp?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/6-finalists-named-to-run-new-agency-overseeing-ips-and-indy-charter-schools"
   },
   {
     "id": "wfyi-east-side-data-center-wins-approval-despite-community-opposition-2026-07-15",
