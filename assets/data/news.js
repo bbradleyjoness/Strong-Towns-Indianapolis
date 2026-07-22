@@ -1,5 +1,31 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-city-county-council-renews-safe-syringe-access-and-support-program-2026-07-21",
+    "title": "City-County Council renews Safe Syringe Access and Support Program",
+    "source": "Mirror Indy",
+    "date": "2026-07-21",
+    "summary": "Shelves are stocked with syringes in various sizes, seen Jan. 13, 2026, at Damien Center’s syringe exchange program in Indianapolis.",
+    "categories": [
+      "community-action",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/ENT-SYRINGE-EXCHANGES_JRW03.jpg?fit=780%2C523&ssl=1",
+    "url": "https://mirrorindy.org/city-county-council-renews-safe-syringe-access-and-support-program"
+  },
+  {
+    "id": "mirror-indy-how-16-tech-is-reinventing-the-summer-internship-2026-07-21",
+    "title": "How 16 Tech is reinventing the summer internship",
+    "source": "Mirror Indy",
+    "date": "2026-07-21",
+    "summary": "David Graeser mentors Daniel Ogunrinde while welding materials at Plastic Recycling Inc., on July 14, 2026. Ogunrinde is an intern through a 16 Tech program that provides a housing allowance and mental health support.",
+    "categories": [
+      "urbanism",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/07142026_16TechInterns417.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/16-tech-indianapolis-summer-internship-talent-access-support-college"
+  },
+  {
     "id": "mirror-indy-southeast-side-community-center-to-giveaway-school-supplies-2026-07-21",
     "title": "Southeast side community center to giveaway school supplies",
     "source": "Mirror Indy",
@@ -25,18 +51,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/cuts-to-snap-medicaid-could-impact-free-school-meals-at-high-poverty-schools"
   },
   {
-    "id": "mirror-indy-these-wrestlers-want-kids-to-build-a-strong-love-for-reading-2026-07-20",
-    "title": "These wrestlers want kids to build a strong love for reading",
-    "source": "Mirror Indy",
-    "date": "2026-07-20",
-    "summary": "WrestleARTS , a nonprofit professional wrestling company, is hosting a free storytime July 25 at the Irvington library branch.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Irvington-Pride-Kavron-Kanyon-kicking-Anthony-Lee.png?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/free-reading-event-local-wrestlers-irvington"
-  },
-  {
     "id": "wfyi-homelessness-initiative-finds-housing-for-200-people-in-indianapolis-2026-07-17",
     "title": "Homelessness initiative finds housing for 200 people in Indianapolis",
     "source": "WFYI",
@@ -48,19 +62,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/legacy/2b/5c/72915cb24e578d4151f8c364601d/img-1111.JPG",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-17/indianapolis-initiative-finds-housing-for-200-people"
-  },
-  {
-    "id": "mirror-indy-indy-s-vehicle-tax-stalled-what-about-beech-grove-lawrence-southport-and-speedwa-2026-07-17",
-    "title": "Indy’s vehicle tax stalled. What about Beech Grove, Lawrence, Southport and Speedway?",
-    "source": "Mirror Indy",
-    "date": "2026-07-17",
-    "summary": "Main Street in downtown Beech Grove is pictured on the evening of Jan. 21, 2026.",
-    "categories": [
-      "community-action",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260121_STOCK-PHOTOS-OF-DOWNTOWN-BEECH-GROVE_BP_04.jpg?fit=780%2C521&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-indianapolis-city-government-wheel-vehicle-tax-road-funding"
   },
   {
     "id": "wfyi-east-side-data-center-wins-approval-despite-community-opposition-2026-07-15",
