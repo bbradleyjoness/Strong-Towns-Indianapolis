@@ -163,17 +163,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-highlights-chapel-hill-park-improvements"
-  },
-  {
-    "id": "indy-parks-indy-parks-announces-youth-summer-meals-schedule-2026-06-08",
-    "title": "Indy Parks Announces Youth Summer Meals Schedule",
-    "source": "Indy Parks",
-    "date": "2026-06-08",
-    "summary": "INDIANAPOLIS – Today, Indy Parks is announcing the schedule for the Summer Servings Meal Program. The Summer Servings program is part of the Summer Food Service Program, which helps fill the summer meal gap for children who rely on the school-year meals...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/indy-parks-announces-youth-summer-meals-schedule"
   }
 ];
