@@ -1,5 +1,44 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
+    "title": "Feds kick off youth sports initiative in Indy",
+    "source": "WFYI",
+    "date": "2026-07-22",
+    "summary": "U.S. Housing and Urban Development Secretary Scott Turner spoke to some of Warren Central High School’s girls flag football team at the Tuesday announcement.",
+    "categories": [
+      "community-action",
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/f8/cd/7e99c74244ab864b513a71fa8f1c/scott-turner-hud-samantha-horton-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-22/feds-kick-off-youth-sports-initiative-in-indy"
+  },
+  {
+    "id": "mirror-indy-zoonieville-reunion-honors-a-demolished-southside-community-2026-07-22",
+    "title": "‘ZoonieVille’ reunion honors a demolished southside community",
+    "source": "Mirror Indy",
+    "date": "2026-07-22",
+    "summary": "A display of historic photographs from the former ZoonieVille neighborhood is featured during the annual ZoonieVille Reunion on July 18, 2026, at Washington Park in Indianapolis. Former residents and their families gathered to celebrate the history,...",
+    "categories": [
+      "public-space",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-ZOONIEVILLE-REUNION_DM10.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/zoonieville-clearstream-gardens-apartments-southeast-side-indy-neighborhood-history-indianapolis-housing-authority"
+  },
+  {
+    "id": "mirror-indy-workforce-groups-get-10-2m-in-federal-grants-for-reentry-employment-2026-07-22",
+    "title": "Workforce groups get $10.2M in federal grants for reentry employment",
+    "source": "Mirror Indy",
+    "date": "2026-07-22",
+    "summary": "Employees work at RecycleForce in Indianapolis on Tuesday, Sept. 22, 2020. Gregg Keesling, president of RecycleForce, employs a few people who were released from jail to COVID-19.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/DAY-RESTART-GRANT-2-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/restart-federal-grant-department-corrections-skilled-trades-jobs-indianapolis-2"
+  },
+  {
     "id": "mirror-indy-the-history-of-indianapolis-lives-in-old-newspaper-archives-can-we-get-to-it-2026-07-22",
     "title": "The history of Indianapolis lives in old newspaper archives. Can we get to it?",
     "source": "Mirror Indy",
@@ -35,31 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/ENT-SYRINGE-EXCHANGES_JRW03.jpg?fit=780%2C523&ssl=1",
     "url": "https://mirrorindy.org/city-county-council-renews-safe-syringe-access-and-support-program"
-  },
-  {
-    "id": "mirror-indy-how-16-tech-is-reinventing-the-summer-internship-2026-07-21",
-    "title": "How 16 Tech is reinventing the summer internship",
-    "source": "Mirror Indy",
-    "date": "2026-07-21",
-    "summary": "David Graeser mentors Daniel Ogunrinde while welding materials at Plastic Recycling Inc., on July 14, 2026. Ogunrinde is an intern through a 16 Tech program that provides a housing allowance and mental health support.",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/07142026_16TechInterns417.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/16-tech-indianapolis-summer-internship-talent-access-support-college"
-  },
-  {
-    "id": "mirror-indy-southeast-side-community-center-to-giveaway-school-supplies-2026-07-21",
-    "title": "Southeast side community center to giveaway school supplies",
-    "source": "Mirror Indy",
-    "date": "2026-07-21",
-    "summary": "Classroom supplies on Aug. 4, 2025, at William Penn School 49 in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/20250804_IPS-FIRST-DAY-OF-SCHOOL_BP_06-scaled.jpg?fit=780%2C512&ssl=1",
-    "url": "https://mirrorindy.org/fletcher-place-community-center-southeast-indianapolis-back-to-school-supplies-hygiene-product-donations-summer-2026"
   },
   {
     "id": "wfyi-homelessness-initiative-finds-housing-for-200-people-in-indianapolis-2026-07-17",
@@ -125,18 +139,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/62/49/ba0ad26640c99d5a67903623b9bf/no-data-center-sign-july26-fa.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-09/dc-blox-shrinks-indianapolis-east-side-data-center-proposal"
-  },
-  {
-    "id": "wfyi-city-announces-10m-investment-in-haughville-park-through-bezos-earth-fund-2026-07-09",
-    "title": "City announces $10M investment in Haughville park through Bezos Earth Fund",
-    "source": "WFYI",
-    "date": "2026-07-09",
-    "summary": "The Bezos Earth Fund is investing $10 million to pay for big changes at Reverend Mozel Sanders Park on Indianapolis' west side.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/59/4f/3451fdbe4140aaec766d1a07ef2e/reverend-mozel-sanders-park-rendering-courtesy-of-indy-parks.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-09/city-announces-10m-investment-in-haughville-park-through-bezos-earth-fund"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
