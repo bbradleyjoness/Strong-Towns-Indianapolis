@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-eastsiders-can-get-free-backpacks-and-vaccines-at-this-back-to-school-fair-2026-07-27",
+    "title": "Eastsiders can get free backpacks and vaccines at this back-to-school fair",
+    "source": "Mirror Indy",
+    "date": "2026-07-27",
+    "summary": "John Boner Neighborhood Centers, photographed on Friday, Feb. 2, 2024, offers services including housing assistance, free tax preparation and career coaching.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/john_boner_neighborhood_centers-2-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-eastside-john-boner-center-back-to-school-resource-fair-summer-2026"
+  },
+  {
     "id": "mirror-indy-for-young-lgbtq-adults-with-nowhere-to-go-trinity-haven-is-home-2026-07-24",
     "title": "For young LGBTQ+ adults with nowhere to go, Trinity Haven is home",
     "source": "Mirror Indy",
@@ -59,44 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/pexels-photo-4508751.jpeg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/indiana-governor-signs-trump-data-center-ratepayer-protection-pledge"
-  },
-  {
-    "id": "mirror-indy-haughville-families-can-find-free-backpacks-at-this-resource-fair-2026-07-24",
-    "title": "Haughville families can find free backpacks at this resource fair",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "Indianapolis Public Library Haughville branch Nov. 8, 2024.",
-    "categories": [
-      "public-space",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/HaughvilleBranch1-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-near-westside-back-to-school-fair-haughville-branch-library-hawthorne-community-center-summer-2026"
-  },
-  {
-    "id": "mirror-indy-pedal-through-bean-creek-during-this-upcoming-bike-rally-2026-07-24",
-    "title": "Pedal through Bean Creek during this upcoming bike rally",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "Freewheelin&#8217; Community Bikes program director Noah Norris (left), 23, signals a right turn as he and students go for a group ride before their graduation ceremony May 23, 2025, in Indianapolis.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/05/FREEHWEEELIN-BIKES_RS10.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/bean-creek-indianapolis-neighborhood-association-bike-safety-rally"
-  },
-  {
-    "id": "mirror-indy-indiana-colleges-inch-closer-to-offering-workforce-pell-grants-2026-07-23",
-    "title": "Indiana colleges inch closer to offering Workforce Pell Grants",
-    "source": "Mirror Indy",
-    "date": "2026-07-23",
-    "summary": "But though Workforce Pell Grants went into effect July 1, the rollout has been slow across the country . That’s in large part due to a strict set of eligibility requirements designed to hold colleges accountable for student success.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-PELL-GRANT-UPDATES-01-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/workforce-pell-grants-vincennes-ivy-tech-medical-assisting-electrical-maintenance"
   },
   {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
