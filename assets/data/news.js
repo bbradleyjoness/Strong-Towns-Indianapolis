@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-city-leaders-spar-over-56m-in-tax-breaks-for-data-center-2026-07-27",
+    "title": "City leaders spar over $56M in tax breaks for data center",
+    "source": "Mirror Indy",
+    "date": "2026-07-27",
+    "summary": "An unusual political situation is playing out in Indianapolis over $56 million in tax breaks for a proposed data center.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/DAY-IEDI-featured-image-2.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-economic-development-iedi-joe-hogsett"
+  },
+  {
+    "id": "mirror-indy-fam-fest-celebrates-indy-with-a-clean-up-day-free-school-supplies-2026-07-27",
+    "title": "Fam Fest celebrates Indy with a clean up day, free school supplies",
+    "source": "Mirror Indy",
+    "date": "2026-07-27",
+    "summary": "The Frederick Douglass Park Family Center on Oct. 16, 2025, in the Martindale Brightwood community of Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251016_MARTINDALE-HISTORIC-DISTRICT_BP_05-scaled.jpg?fit=780%2C511&ssl=1",
+    "url": "https://mirrorindy.org/slum-baby-family-fam-fest-eastside-indianapolis-cleanup-free-school-supplies-community-events"
+  },
+  {
+    "id": "mirror-indy-mom-sues-alleges-dangerous-intersection-contributed-to-fianc-s-death-2026-07-27",
+    "title": "Mom sues, alleges ‘dangerous intersection’ contributed to fiancé’s death",
+    "source": "Mirror Indy",
+    "date": "2026-07-27",
+    "summary": "Billie Jean Peterson’s fiancé, Dillan Lee Rogers, was hit and killed on February 13, 2025, while crossing the Raymond Street I-65 off-ramp crosswalk.",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Billie-Jean-Peterson_WISH-TV.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/mom-sues-alleges-dangerous-intersection-contributed-to-fiances-death"
+  },
+  {
     "id": "mirror-indy-eastsiders-can-get-free-backpacks-and-vaccines-at-this-back-to-school-fair-2026-07-27",
     "title": "Eastsiders can get free backpacks and vaccines at this back-to-school fair",
     "source": "Mirror Indy",
@@ -12,6 +49,18 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-eastside-john-boner-center-back-to-school-resource-fair-summer-2026"
   },
   {
+    "id": "indy-parks-mayor-hogsett-indy-parks-unveil-the-new-mlk-gateway-project-2026-07-27",
+    "title": "Mayor Hogsett, Indy Parks Unveil the New MLK Gateway Project",
+    "source": "Indy Parks",
+    "date": "2026-07-27",
+    "summary": "INDIANAPOLIS – Today, Mayor Joe Hogsett, Indy Parks, and community partners unveiled the new MLK Gateway section of Dr. Martin Luther King Jr. Park. The $6.8 million city funded project includes a new plaza, walkways, landscaping, and expansion of the...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/mayor-hogsett-indy-parks-unveil-the-new-mlk-gateway-project"
+  },
+  {
     "id": "mirror-indy-for-young-lgbtq-adults-with-nowhere-to-go-trinity-haven-is-home-2026-07-24",
     "title": "For young LGBTQ+ adults with nowhere to go, Trinity Haven is home",
     "source": "Mirror Indy",
@@ -22,55 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Trinity-Haven-Profile-13-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/young-lgbt-homeless-housing-help-trinity-haven"
-  },
-  {
-    "id": "mirror-indy-metrobloks-wants-a-56-million-tax-break-what-does-that-mean-2026-07-24",
-    "title": "Metrobloks wants a $56 million tax break. What does that mean?",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "The Metropolitan Development Commission’s Hearing Examiner meeting on Feb. 12, 2026, at the City-County Building in Indianapolis. During the meeting, hearing examiner Judy Weerts Hall voted in favor of the Metrobloks data center in the Martindale-Brightwood...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260212_HEARING-EXAMINER-VOTE-FOR-MBW-DATA-CENTER_BP_07.jpg?fit=780%2C493&ssl=1",
-    "url": "https://mirrorindy.org/metrobloks-indianapolis-metropolitan-development-commission-martindale-brightwood-data-center-tax-abatements"
-  },
-  {
-    "id": "mirror-indy-indy-s-global-village-museum-facing-funding-trouble-2026-07-24",
-    "title": "Indy’s Global Village Museum facing funding trouble",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "With dozens of restaurants that serve cuisine from around the world and markets that specialize in imported products, the International Marketplace neighborhood in northwest Indianapolis is one of the city’s major multicultural hubs.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/072426_GlobalVillage_ES02-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/westside-international-marketplace-indy-global-village-museum-funding"
-  },
-  {
-    "id": "mirror-indy-tea-s-me-cafe-to-close-tarkington-park-location-2026-07-24",
-    "title": "Tea’s Me Cafe to close Tarkington Park location",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "“We have been here for five years, which is insane to think about. I thank you for being a part of this journey. It’s never easy to say goodbye,” the WNBA Hall of Famer and former Indiana Fever star said in a video .",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/IMG_1258-scaled.jpeg?fit=780%2C568&ssl=1",
-    "url": "https://mirrorindy.org/teas-me-cafe-tarkington-park-closing-midtown"
-  },
-  {
-    "id": "mirror-indy-indiana-governor-signs-trump-data-center-ratepayer-protection-pledge-2026-07-24",
-    "title": "Indiana governor signs Trump data center ratepayer protection pledge",
-    "source": "Mirror Indy",
-    "date": "2026-07-24",
-    "summary": "Data centers have been flocking to Indiana — largely driven by the need for large plots of land and generous tax abatements passed by the state legislature in 2019.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/pexels-photo-4508751.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-governor-signs-trump-data-center-ratepayer-protection-pledge"
   },
   {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
