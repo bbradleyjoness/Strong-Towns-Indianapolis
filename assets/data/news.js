@@ -37,19 +37,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indiana-historical-society-layoffs-exhibits-education-mike-braun"
   },
   {
-    "id": "mirror-indy-city-leaders-spar-over-56m-in-tax-breaks-for-data-center-2026-07-27",
-    "title": "City leaders spar over $56M in tax breaks for data center",
-    "source": "Mirror Indy",
-    "date": "2026-07-27",
-    "summary": "An unusual political situation is playing out in Indianapolis over $56 million in tax breaks for a proposed data center.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/DAY-IEDI-featured-image-2.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-economic-development-iedi-joe-hogsett"
-  },
-  {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
     "title": "Feds kick off youth sports initiative in Indy",
     "source": "WFYI",
