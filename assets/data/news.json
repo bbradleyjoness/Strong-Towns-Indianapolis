@@ -1,5 +1,56 @@
 [
   {
+    "id": "wfyi-indianapolis-homelessness-stays-flat-as-unsheltered-population-falls-2026-07-29",
+    "title": "Indianapolis homelessness stays flat as unsheltered population falls",
+    "source": "WFYI",
+    "date": "2026-07-29",
+    "summary": "The city's annual homelessness count remained steady. It highlights gains in reducing street homelessness but continued shortages in long-term housing.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0a/56/f09a125e4df090d6a0937b1dc841/chip-caroline-beck-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-29/indianapolis-homelessness-stays-flat-as-unsheltered-population-falls"
+  },
+  {
+    "id": "wfyi-guns-to-gardens-initiative-comes-to-indianapolis-church-2026-07-29",
+    "title": "Guns to Gardens initiative comes to Indianapolis church",
+    "source": "WFYI",
+    "date": "2026-07-29",
+    "summary": "Allisonville Christian Church is hosting its first Guns to Gardens event on September 9.",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/53/8a/a7f37c904f73a3dd6563ac292b90/guns-to-gardens-provided-by-rev-kris-eggert.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-29/guns-to-gardens-initiative-comes-to-indianapolis-church"
+  },
+  {
+    "id": "mirror-indy-indy-s-2026-homeless-count-stays-flat-2026-07-29",
+    "title": "Indy’s 2026 homeless count stays flat",
+    "source": "Mirror Indy",
+    "date": "2026-07-29",
+    "summary": "Chelsea Haring-Cozzi, CEO of the Coalition for Homelessness Intervention and Prevention, speaks during the State of Homelessness event July 28, 2026, at Gainbridge Fieldhouse in Indianapolis.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260728_state-of-homelessness_tf-80-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-homeless-population-2026-pit-count-streets-home"
+  },
+  {
+    "id": "mirror-indy-who-controls-indy-s-economic-development-organization-2026-07-29",
+    "title": "Who controls Indy’s economic development organization?",
+    "source": "Mirror Indy",
+    "date": "2026-07-29",
+    "summary": "The offices of Indy Economic Development, Inc. are located at 147 E. Maryland St.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-IEDI_PB1-scaled.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-economic-development-inc-mayor-joe-hogsett"
+  },
+  {
     "id": "mirror-indy-what-s-next-for-washington-square-mall-2026-07-28",
     "title": "What’s next for Washington Square mall?",
     "source": "Mirror Indy",
@@ -10,31 +61,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_07.jpg?fit=780%2C511&ssl=1",
     "url": "https://mirrorindy.org/washington-square-mall-east-side-indianapolis-michael-paul-hart"
-  },
-  {
-    "id": "mirror-indy-40-things-to-do-in-august-in-indy-2026-07-28",
-    "title": "40 things to do in August in Indy",
-    "source": "Mirror Indy",
-    "date": "2026-07-28",
-    "summary": "Kick off with First Friday, Aug. 7, at The Athenaeum for the “Art Saves Lives” community show exploring mental health, suicide prevention and survivorship.",
-    "categories": [
-      "public-space",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/Vertical-scaled.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/things-to-do-indianapolis-summer-events-august-2026"
-  },
-  {
-    "id": "mirror-indy-indiana-historical-society-layoffs-hit-education-exhibits-teams-2026-07-28",
-    "title": "Indiana Historical Society layoffs hit education, exhibits teams",
-    "source": "Mirror Indy",
-    "date": "2026-07-28",
-    "summary": "The Indiana Historical Society laid off 11 workers July 24 from departments that oversee exhibits, education and library services.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260727_historical-society-layoffs_tf-2-scaled.jpg?fit=780%2C493&ssl=1",
-    "url": "https://mirrorindy.org/indiana-historical-society-layoffs-exhibits-education-mike-braun"
   },
   {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
@@ -87,32 +113,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/a0/bc/4c58fd084d0ca7169a18ea3c916d/data-center-moratorium-protest-farrah-anderson-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis"
-  },
-  {
-    "id": "wfyi-indianapolis-council-president-to-ask-for-data-center-moratorium-2026-07-10",
-    "title": "Indianapolis council president to ask for data center moratorium",
-    "source": "WFYI",
-    "date": "2026-07-10",
-    "summary": "The announcement from Indianapolis City-County Council President Maggie Lewis comes after months of protests at city meetings over data centers and calls from residents to pause approvals.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/62/7d/0ffa38654a76ad6334cbd4eb260f/maggie-lewis-jill-sheridan-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-10/indianapolis-council-president-to-ask-for-data-center-moratorium"
-  },
-  {
-    "id": "wfyi-data-center-developer-shrinks-east-side-project-days-before-final-vote-2026-07-09",
-    "title": "Data center developer shrinks east side project days before final vote",
-    "source": "WFYI",
-    "date": "2026-07-09",
-    "summary": "DC Blox is scaling back its proposed east side data center campus — fewer buildings and generators, a bigger buffer — just before the Metropolitan Development Commission's July 15 vote.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/62/49/ba0ad26640c99d5a67903623b9bf/no-data-center-sign-july26-fa.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-09/dc-blox-shrinks-indianapolis-east-side-data-center-proposal"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
