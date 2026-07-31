@@ -1,5 +1,29 @@
 [
   {
+    "id": "wfyi-a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year-2026-07-30",
+    "title": "A sold-out Gen Con returns to Indianapolis after 'record-breaking' year",
+    "source": "WFYI",
+    "date": "2026-07-30",
+    "summary": "The annual gaming convention runs from July 30 through Aug. 2 and will feature events in Lucas Oil Stadium and Victory Field, and a 1,000-drone light show over downtown Indianapolis.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/7c/0b/e7f406564a5d84854b0c111bba43/gen-con-kyle-travers-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-07-30/a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year"
+  },
+  {
+    "id": "mirror-indy-what-i-learned-about-use-of-force-after-2-hours-as-an-impd-officer-2026-07-30",
+    "title": "What I learned about use of force after 2 hours as an IMPD officer",
+    "source": "Mirror Indy",
+    "date": "2026-07-30",
+    "summary": "A participant assesses a scenario where a bike thief started firing a gun in their direction during an IMPD lead training July 29, 2026, at the Hershyville Scenario Training Village in Indianapolis. The training took participants through various scenarios...",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260729_IMPD-Training-at-Hershyville-Scenario-Village_BP_07.jpg?fit=780%2C529&ssl=1",
+    "url": "https://mirrorindy.org/what-i-learned-about-use-of-force-after-2-hours-as-an-impd-officer"
+  },
+  {
     "id": "wfyi-indianapolis-homelessness-stays-flat-as-unsheltered-population-falls-2026-07-29",
     "title": "Indianapolis homelessness stays flat as unsheltered population falls",
     "source": "WFYI",
@@ -51,18 +75,6 @@
     "url": "https://mirrorindy.org/indianapolis-economic-development-inc-mayor-joe-hogsett"
   },
   {
-    "id": "mirror-indy-what-s-next-for-washington-square-mall-2026-07-28",
-    "title": "What’s next for Washington Square mall?",
-    "source": "Mirror Indy",
-    "date": "2026-07-28",
-    "summary": "The Washington Square Mall area is pictured Jan. 7, 2026, in Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_07.jpg?fit=780%2C511&ssl=1",
-    "url": "https://mirrorindy.org/washington-square-mall-east-side-indianapolis-michael-paul-hart"
-  },
-  {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
     "title": "Feds kick off youth sports initiative in Indy",
     "source": "WFYI",
@@ -100,19 +112,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/66/ba/47590708479c91404348b5388a1c/data-center-protesters-farrah-anderson-wfyi-1.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-15/east-side-data-center-wins-approval-despite-community-opposition"
-  },
-  {
-    "id": "wfyi-data-center-moratorium-advances-for-indianapolis-2026-07-14",
-    "title": "Data center moratorium advances for Indianapolis",
-    "source": "WFYI",
-    "date": "2026-07-14",
-    "summary": "An Indianapolis City-County Council committee advanced a data center moratorium through 2027 after months of community pressure, sending the measure to the full council for an Aug. 10 vote.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/a0/bc/4c58fd084d0ca7169a18ea3c916d/data-center-moratorium-protest-farrah-anderson-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-13/data-center-moratorium-advances-for-indianapolis"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
