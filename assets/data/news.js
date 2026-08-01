@@ -110,17 +110,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://parks.indy.gov/wp-content/uploads/2026/07/BEF-Announcement.png",
     "url": "https://parks.indy.gov/bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-sanders-park"
-  },
-  {
-    "id": "indy-parks-indy-parks-highlights-chapel-hill-park-improvements-2026-06-17",
-    "title": "Indy Parks Highlights Chapel Hill Park Improvements",
-    "source": "Indy Parks",
-    "date": "2026-06-17",
-    "summary": "INDIANAPOLIS – Today, Indy Parks joined City-County Councilor Jessica McCormick and community leaders to unveil the newly renovated Chapel Hill Park on the city’s west side. The $2.6 million project fully renovated the park with a new playground, splash pad,...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "",
-    "url": "https://parks.indy.gov/indy-parks-highlights-chapel-hill-park-improvements"
   }
 ];
