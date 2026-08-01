@@ -1,5 +1,30 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-hogsett-administration-signals-support-for-data-center-tax-breaks-2026-07-31",
+    "title": "Hogsett administration signals support for data center tax breaks",
+    "source": "Mirror Indy",
+    "date": "2026-07-31",
+    "summary": "IPEC is a new board created this spring under state law to oversee transportation and facilities management for IPS and charter schools.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/20260414_IPEC-MEMBER-PROFILES_BP_27.jpg?fit=780%2C537&ssl=1",
+    "url": "https://mirrorindy.org/joe-hogsett-supports-data-center-incentives-indianapolis"
+  },
+  {
+    "id": "mirror-indy-can-beech-grove-afford-more-schools-and-churches-2026-07-31",
+    "title": "Can Beech Grove afford more schools and churches?",
+    "source": "Mirror Indy",
+    "date": "2026-07-31",
+    "summary": "The issue has come up during the approval process for both a school and a church, which don’t pay taxes. In both cases, city councilors openly wondered whether they should approve land zoning changes to allow for the projects or instead wait for a tax-paying...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-ANTI-BEECH-GROVE-CHURCH_JRW06.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/beech-grove-indiana-southside-council-budget-property-taxes-apostolics-church"
+  },
+  {
     "id": "wfyi-a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year-2026-07-30",
     "title": "A sold-out Gen Con returns to Indianapolis after 'record-breaking' year",
     "source": "WFYI",
@@ -47,32 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/53/8a/a7f37c904f73a3dd6563ac292b90/guns-to-gardens-provided-by-rev-kris-eggert.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-29/guns-to-gardens-initiative-comes-to-indianapolis-church"
-  },
-  {
-    "id": "mirror-indy-indy-s-2026-homeless-count-stays-flat-2026-07-29",
-    "title": "Indy’s 2026 homeless count stays flat",
-    "source": "Mirror Indy",
-    "date": "2026-07-29",
-    "summary": "Chelsea Haring-Cozzi, CEO of the Coalition for Homelessness Intervention and Prevention, speaks during the State of Homelessness event July 28, 2026, at Gainbridge Fieldhouse in Indianapolis.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260728_state-of-homelessness_tf-80-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-population-2026-pit-count-streets-home"
-  },
-  {
-    "id": "mirror-indy-who-controls-indy-s-economic-development-organization-2026-07-29",
-    "title": "Who controls Indy’s economic development organization?",
-    "source": "Mirror Indy",
-    "date": "2026-07-29",
-    "summary": "The offices of Indy Economic Development, Inc. are located at 147 E. Maryland St.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/EXP-IEDI_PB1-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-economic-development-inc-mayor-joe-hogsett"
   },
   {
     "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
