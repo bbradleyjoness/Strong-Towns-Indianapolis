@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-what-are-parking-minimums-indy-weighs-getting-rid-of-them-2026-07-31",
+    "title": "What are parking minimums? Indy weighs getting rid of them.",
+    "source": "Mirror Indy",
+    "date": "2026-07-31",
+    "summary": "Original caption: The site of a future 12-story development is seen July 10, 2024, at 501 Indiana Ave. The new building is proposed to include a parking garage, apartments, office and retail space.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/501_Indiana_Ave_AW-7-e1736801197405.jpg?fit=780%2C508&ssl=1",
+    "url": "https://mirrorindy.org/documenters-downtown-parking-minimum-indianapolis"
+  },
+  {
     "id": "mirror-indy-hogsett-administration-signals-support-for-data-center-tax-breaks-2026-07-31",
     "title": "Hogsett administration signals support for data center tax breaks",
     "source": "Mirror Indy",
