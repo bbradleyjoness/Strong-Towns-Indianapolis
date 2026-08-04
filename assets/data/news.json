@@ -1,5 +1,41 @@
 [
   {
+    "id": "wfyi-as-flooding-clears-from-weekend-storms-more-rain-expected-this-week-in-central-i-2026-08-03",
+    "title": "As flooding clears from weekend storms, more rain expected this week in Central Indiana",
+    "source": "WFYI",
+    "date": "2026-08-03",
+    "summary": "The National Weather Service says major flooding hit Hendricks and Shelby Counties, as well as downtown Indianapolis. They also confirmed a tornado briefly touched down near Garfield Park.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/55/7b/bde75a7b4c23a95e7b0e526c284a/rain-alejandro-jv-pexels.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-03/as-flooding-clears-from-weekend-storms-more-rain-expected-this-week-in-central-indiana"
+  },
+  {
+    "id": "mirror-indy-eastsiders-can-get-backpacks-school-supplies-at-this-event-2026-08-03",
+    "title": "Eastsiders can get backpacks, school supplies at this event",
+    "source": "Mirror Indy",
+    "date": "2026-08-03",
+    "summary": "Markers, colored pencils and crayons sit on a supply shelf on July 22, 2024, at Little Blessings of Solid Rock Preschool.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/07/OntheRoadtoReading12-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-eastside-skilled-us-back-school-backpack-giveaway-summer-2026"
+  },
+  {
+    "id": "mirror-indy-how-to-borrow-a-laptop-at-the-library-2026-08-03",
+    "title": "How to borrow a laptop at the library",
+    "source": "Mirror Indy",
+    "date": "2026-08-03",
+    "summary": "Mike Biro of McCordsville uses artificial intelligence tools on a computer during a public class February 10, 2026, at the Nora Branch of the Indianapolis Public Library. The library recently introduced a series of community-requested classes focused on...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/260210_DAY-SENIOR-AI-LITERACY_DM013-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/borrow-laptop-indianapolis-public-library"
+  },
+  {
     "id": "mirror-indy-what-are-parking-minimums-indy-weighs-getting-rid-of-them-2026-07-31",
     "title": "What are parking minimums? Indy weighs getting rid of them.",
     "source": "Mirror Indy",
@@ -98,19 +134,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/f8/cd/7e99c74244ab864b513a71fa8f1c/scott-turner-hud-samantha-horton-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-22/feds-kick-off-youth-sports-initiative-in-indy"
-  },
-  {
-    "id": "wfyi-homelessness-initiative-finds-housing-for-200-people-in-indianapolis-2026-07-17",
-    "title": "Homelessness initiative finds housing for 200 people in Indianapolis",
-    "source": "WFYI",
-    "date": "2026-07-17",
-    "summary": "A year into Indianapolis' homelessness initiative, more than 200 people have been housed, with 95% remaining in stable housing.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/legacy/2b/5c/72915cb24e578d4151f8c364601d/img-1111.JPG",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-17/indianapolis-initiative-finds-housing-for-200-people"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
