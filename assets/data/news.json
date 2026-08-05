@@ -1,5 +1,54 @@
 [
   {
+    "id": "mirror-indy-what-is-in-the-vision-plan-for-washington-square-mall-2026-08-04",
+    "title": "What is in the vision plan for Washington Square mall?",
+    "source": "Mirror Indy",
+    "date": "2026-08-04",
+    "summary": "The Washington Square Mall area is pictured Jan. 7, 2026, in Indianapolis.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_09.jpg?fit=780%2C491&ssl=1",
+    "url": "https://mirrorindy.org/washington-square-mall-east-side-indianapolis-michael-paul-hart-2"
+  },
+  {
+    "id": "mirror-indy-indiana-veterans-who-are-blind-can-get-a-free-pair-of-ai-glasses-2026-08-04",
+    "title": "Indiana veterans who are blind can get a free pair of AI glasses",
+    "source": "Mirror Indy",
+    "date": "2026-08-04",
+    "summary": "An attendee tries a pair of Ray-Ban Meta smart glasses at Meta&#8217;s Connect developer conference Sept. 27, 2023, in Menlo Park, Calif.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/BRF-VETERANS-META-GLASSES-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-blind-veterans-meta-ai-glasses-training-bosma-enterprises"
+  },
+  {
+    "id": "mirror-indy-renovations-are-coming-to-the-irvington-library-2026-08-04",
+    "title": "Renovations are coming to the Irvington library",
+    "source": "Mirror Indy",
+    "date": "2026-08-04",
+    "summary": "The Indianapolis Public Library opened the 16,000 square foot branch in 2001. Improvements to the building will include updated carpet, lighting, plumbing and a new roof. The library will be seeking community feedback for other improvements through surveys...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06092026_Library143-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-irvington-branch-east-side"
+  },
+  {
+    "id": "mirror-indy-help-recognize-indy-neighbors-who-put-in-the-work-2026-08-04",
+    "title": "Help recognize Indy neighbors who put in the work",
+    "source": "Mirror Indy",
+    "date": "2026-08-04",
+    "summary": "Kids fill buckets with soil at Mother Loves Garden, a summer camp where kids are paid to learn how to garden, on June 23, 2026, in Indianapolis.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06232026_MotherLovesGarden260-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-good-neighbor-awards-inrc-spirit-award-health-design-weaver-awards-2026"
+  },
+  {
     "id": "wfyi-as-flooding-clears-from-weekend-storms-more-rain-expected-this-week-in-central-i-2026-08-03",
     "title": "As flooding clears from weekend storms, more rain expected this week in Central Indiana",
     "source": "WFYI",
@@ -62,18 +111,6 @@
     "url": "https://mirrorindy.org/joe-hogsett-supports-data-center-incentives-indianapolis"
   },
   {
-    "id": "mirror-indy-can-beech-grove-afford-more-schools-and-churches-2026-07-31",
-    "title": "Can Beech Grove afford more schools and churches?",
-    "source": "Mirror Indy",
-    "date": "2026-07-31",
-    "summary": "The issue has come up during the approval process for both a school and a church, which don’t pay taxes. In both cases, city councilors openly wondered whether they should approve land zoning changes to allow for the projects or instead wait for a tax-paying...",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/ENT-ANTI-BEECH-GROVE-CHURCH_JRW06.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-indiana-southside-council-budget-property-taxes-apostolics-church"
-  },
-  {
     "id": "wfyi-a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year-2026-07-30",
     "title": "A sold-out Gen Con returns to Indianapolis after 'record-breaking' year",
     "source": "WFYI",
@@ -84,18 +121,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/7c/0b/e7f406564a5d84854b0c111bba43/gen-con-kyle-travers-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-30/a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year"
-  },
-  {
-    "id": "mirror-indy-what-i-learned-about-use-of-force-after-2-hours-as-an-impd-officer-2026-07-30",
-    "title": "What I learned about use of force after 2 hours as an IMPD officer",
-    "source": "Mirror Indy",
-    "date": "2026-07-30",
-    "summary": "A participant assesses a scenario where a bike thief started firing a gun in their direction during an IMPD lead training July 29, 2026, at the Hershyville Scenario Training Village in Indianapolis. The training took participants through various scenarios...",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260729_IMPD-Training-at-Hershyville-Scenario-Village_BP_07.jpg?fit=780%2C529&ssl=1",
-    "url": "https://mirrorindy.org/what-i-learned-about-use-of-force-after-2-hours-as-an-impd-officer"
   },
   {
     "id": "wfyi-indianapolis-homelessness-stays-flat-as-unsheltered-population-falls-2026-07-29",
