@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-the-only-place-we-could-play-douglass-park-golf-course-celebrates-100-years-of-l-2026-08-06",
+    "title": "‘The only place we could play’: Douglass Park Golf Course celebrates 100 years of legacy and community",
+    "source": "Mirror Indy",
+    "date": "2026-08-06",
+    "summary": "A century ago, as racial segregation strictly barred Black golfers from setting foot on public and private fairways across Central Indiana, a modest five-hole dirt layout on the city’s east side emerged as a sanctuary of access, community and athletic...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Playing-Golf_IR.webp?fit=780%2C504&ssl=1",
+    "url": "https://mirrorindy.org/douglass-park-golf-course-100-years"
+  },
+  {
     "id": "mirror-indy-grab-a-free-lead-testing-kit-from-any-library-2026-08-05",
     "title": "Grab a free lead testing kit from any library",
     "source": "Mirror Indy",
@@ -82,19 +94,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06092026_Library143-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-public-library-irvington-branch-east-side"
-  },
-  {
-    "id": "mirror-indy-help-recognize-indy-neighbors-who-put-in-the-work-2026-08-04",
-    "title": "Help recognize Indy neighbors who put in the work",
-    "source": "Mirror Indy",
-    "date": "2026-08-04",
-    "summary": "Kids fill buckets with soil at Mother Loves Garden, a summer camp where kids are paid to learn how to garden, on June 23, 2026, in Indianapolis.",
-    "categories": [
-      "community-action",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06232026_MotherLovesGarden260-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-good-neighbor-awards-inrc-spirit-award-health-design-weaver-awards-2026"
   },
   {
     "id": "wfyi-as-flooding-clears-from-weekend-storms-more-rain-expected-this-week-in-central-i-2026-08-03",
