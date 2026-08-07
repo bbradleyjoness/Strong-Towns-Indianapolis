@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-a-truck-crashed-into-her-daycare-she-s-ready-to-leave-2026-08-06",
+    "title": "A truck crashed into her daycare. She’s ready to leave.",
+    "source": "Mirror Indy",
+    "date": "2026-08-06",
+    "summary": "“This is sad,” Rochelle Dickerson said. Dickerson is the owner of PoohBear&#8217;s House of Hugs. In April, a truck crashed into her daycare. No children were in the building at the time of the crash, but the center was severely damaged. “All my stuff got...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260803_POO-BEARS-HOUSE-OF-HUGS_BP_02.jpg?fit=780%2C497&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-daycare-crash-move-poohbears-house-hugs"
+  },
+  {
+    "id": "mirror-indy-indygo-offers-park-and-ride-service-to-indiana-state-fair-2026-08-06",
+    "title": "IndyGo offers park-and-ride service to Indiana State Fair",
+    "source": "Mirror Indy",
+    "date": "2026-08-06",
+    "summary": "A Purple Line stop at the intersection of East 38th Street and North Franklin Road is photographed Oct. 1, 2024, in Indianapolis.",
+    "categories": [
+      "mobility",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/Purple-line-Oct-2024.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indygo-purple-line-lawrence-indiana-state-fair-free-parking"
+  },
+  {
+    "id": "mirror-indy-why-indiana-homeowners-insurance-may-pay-less-for-roof-fixes-2026-08-06",
+    "title": "Why Indiana homeowners insurance may pay less for roof fixes",
+    "source": "Mirror Indy",
+    "date": "2026-08-06",
+    "summary": "Thunderstorms, hail and tornadoes are part of summertime in Indiana. They’re also one of the big reasons why homeowners have seen jumps in their insurance bills.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Homeowners-insurance-explainer_1.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indiana-homeowners-insurance-roof-coverage"
+  },
+  {
     "id": "mirror-indy-the-only-place-we-could-play-douglass-park-golf-course-celebrates-100-years-of-l-2026-08-06",
     "title": "‘The only place we could play’: Douglass Park Golf Course celebrates 100 years of legacy and community",
     "source": "Mirror Indy",
@@ -12,42 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/douglass-park-golf-course-100-years"
   },
   {
-    "id": "mirror-indy-grab-a-free-lead-testing-kit-from-any-library-2026-08-05",
-    "title": "Grab a free lead testing kit from any library",
-    "source": "Mirror Indy",
-    "date": "2026-08-05",
-    "summary": "The Indianapolis Public Library offers free lead testing kits you can use to collect samples and learn about levels of lead around your home.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/lead-testing-SY-3-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/free-lead-testing-indianapolis-public-library-iu-indianapolis"
-  },
-  {
-    "id": "mirror-indy-see-inside-the-renovated-housing-facility-for-homeless-vets-2026-08-05",
-    "title": "See inside the renovated housing facility for homeless vets",
-    "source": "Mirror Indy",
-    "date": "2026-08-05",
-    "summary": "A room compliant with the Americans with Disabilities Act is seen at Helping Hoosiers and Families of Indiana&#8217;s renovated Manchester Apartments on Aug. 4, 2026, in Indianapolis.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/08042026_HVAF_ApartmentTour020.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-veterans-facility-manchester-apartments-hvaf"
-  },
-  {
-    "id": "mirror-indy-city-officials-delay-metrobloks-tax-break-vote-2026-08-05",
-    "title": "City officials delay Metrobloks tax break vote",
-    "source": "Mirror Indy",
-    "date": "2026-08-05",
-    "summary": "Los Angeles-based company Metrobloks has proposed putting a data center at 2505 N. Sherman Drive, the site of the former Sherman Drive-In Theater. The area is seen Jan. 14, 2026, in Martindale Brightwood.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/MB-DATA-CENTER-CLERGY_RS07.jpg?fit=780%2C531&ssl=1",
-    "url": "https://mirrorindy.org/metrobloks-data-center-tax-abatments-metropolitan-development-commission-indianapolis-east-side-joe-hogsett-martindale-brightwood"
-  },
-  {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
     "title": "Indy Parks & City Leaders Unveil New Signature Playground at Garfield Park",
     "source": "Indy Parks",
@@ -58,42 +59,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park"
-  },
-  {
-    "id": "mirror-indy-what-is-in-the-vision-plan-for-washington-square-mall-2026-08-04",
-    "title": "What is in the vision plan for Washington Square mall?",
-    "source": "Mirror Indy",
-    "date": "2026-08-04",
-    "summary": "The Washington Square Mall area is pictured Jan. 7, 2026, in Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_09.jpg?fit=780%2C491&ssl=1",
-    "url": "https://mirrorindy.org/washington-square-mall-east-side-indianapolis-michael-paul-hart-2"
-  },
-  {
-    "id": "mirror-indy-indiana-veterans-who-are-blind-can-get-a-free-pair-of-ai-glasses-2026-08-04",
-    "title": "Indiana veterans who are blind can get a free pair of AI glasses",
-    "source": "Mirror Indy",
-    "date": "2026-08-04",
-    "summary": "An attendee tries a pair of Ray-Ban Meta smart glasses at Meta&#8217;s Connect developer conference Sept. 27, 2023, in Menlo Park, Calif.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/BRF-VETERANS-META-GLASSES-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-blind-veterans-meta-ai-glasses-training-bosma-enterprises"
-  },
-  {
-    "id": "mirror-indy-renovations-are-coming-to-the-irvington-library-2026-08-04",
-    "title": "Renovations are coming to the Irvington library",
-    "source": "Mirror Indy",
-    "date": "2026-08-04",
-    "summary": "The Indianapolis Public Library opened the 16,000 square foot branch in 2001. Improvements to the building will include updated carpet, lighting, plumbing and a new roof. The library will be seeking community feedback for other improvements through surveys...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06092026_Library143-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-irvington-branch-east-side"
   },
   {
     "id": "wfyi-as-flooding-clears-from-weekend-storms-more-rain-expected-this-week-in-central-i-2026-08-03",
