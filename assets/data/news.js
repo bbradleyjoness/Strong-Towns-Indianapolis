@@ -1,5 +1,30 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-want-to-build-a-garden-or-paint-a-mural-in-your-neighborhood-apply-for-a-grant-2026-08-07",
+    "title": "Want to build a garden or paint a mural in your neighborhood? Apply for a grant.",
+    "source": "Mirror Indy",
+    "date": "2026-08-07",
+    "summary": "Farm volunteers transport and drop mulch at an urban farm run by Bodi Buzz and Rooted Legacy on May 11, 2026, on the Far Eastside of Indianapolis.",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-EASTSIDE-FARM_TS15.jpg?fit=780%2C546&ssl=1",
+    "url": "https://mirrorindy.org/apply-neighborhood-grants-indianapolis-public-art-garden"
+  },
+  {
+    "id": "mirror-indy-thousands-of-indiana-families-got-childcare-help-but-the-waitlist-still-tops-29--2026-08-07",
+    "title": "Thousands of Indiana families got childcare help, but the waitlist still tops 29,000",
+    "source": "Mirror Indy",
+    "date": "2026-08-07",
+    "summary": "A child colors in the care and learning center at Martin University on Monday, Feb. 26, 2024, in Indianapolis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Martin-U-childcare_JRW006-1.jpg?fit=780%2C462&ssl=1",
+    "url": "https://mirrorindy.org/thousands-of-indiana-families-got-childcare-help-but-the-waitlist-still-tops-29000"
+  },
+  {
     "id": "mirror-indy-take-your-kids-to-garfield-park-s-new-sensory-inclusive-playground-2026-08-07",
     "title": "Take your kids to Garfield Park’s new sensory-inclusive playground",
     "source": "Mirror Indy",
@@ -22,43 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260803_POO-BEARS-HOUSE-OF-HUGS_BP_02.jpg?fit=780%2C497&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-daycare-crash-move-poohbears-house-hugs"
-  },
-  {
-    "id": "mirror-indy-indygo-offers-park-and-ride-service-to-indiana-state-fair-2026-08-06",
-    "title": "IndyGo offers park-and-ride service to Indiana State Fair",
-    "source": "Mirror Indy",
-    "date": "2026-08-06",
-    "summary": "A Purple Line stop at the intersection of East 38th Street and North Franklin Road is photographed Oct. 1, 2024, in Indianapolis.",
-    "categories": [
-      "mobility",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/Purple-line-Oct-2024.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indygo-purple-line-lawrence-indiana-state-fair-free-parking"
-  },
-  {
-    "id": "mirror-indy-why-indiana-homeowners-insurance-may-pay-less-for-roof-fixes-2026-08-06",
-    "title": "Why Indiana homeowners insurance may pay less for roof fixes",
-    "source": "Mirror Indy",
-    "date": "2026-08-06",
-    "summary": "Thunderstorms, hail and tornadoes are part of summertime in Indiana. They’re also one of the big reasons why homeowners have seen jumps in their insurance bills.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Homeowners-insurance-explainer_1.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indiana-homeowners-insurance-roof-coverage"
-  },
-  {
-    "id": "mirror-indy-the-only-place-we-could-play-douglass-park-golf-course-celebrates-100-years-of-l-2026-08-06",
-    "title": "‘The only place we could play’: Douglass Park Golf Course celebrates 100 years of legacy and community",
-    "source": "Mirror Indy",
-    "date": "2026-08-06",
-    "summary": "A century ago, as racial segregation strictly barred Black golfers from setting foot on public and private fairways across Central Indiana, a modest five-hole dirt layout on the city’s east side emerged as a sanctuary of access, community and athletic...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Playing-Golf_IR.webp?fit=780%2C504&ssl=1",
-    "url": "https://mirrorindy.org/douglass-park-golf-course-100-years"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
