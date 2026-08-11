@@ -1,5 +1,31 @@
 [
   {
+    "id": "wfyi-indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approv-2026-08-11",
+    "title": "Indy council advances pause on data centers, sends to commission for final approval",
+    "source": "WFYI",
+    "date": "2026-08-11",
+    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for final approval.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/6d/3d/7f6c217d4d5da9549d5f0d238b37/data-center-protesters-farrah-anderson-wfyi-3.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-10/indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approval"
+  },
+  {
+    "id": "mirror-indy-indy-councilors-hit-pause-button-on-data-centers-2026-08-11",
+    "title": "Indy councilors hit pause button on data centers",
+    "source": "Mirror Indy",
+    "date": "2026-08-11",
+    "summary": "Councilor Jesse Brown reacts to comments from Councilor Michael-Paul Hart during a City-County Council meeting Aug. 10, 2026, at the City-County Building in Indianapolis.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260810_CITY-COUNTY-COUNCIL-MEETING_BP_05.jpg?fit=780%2C550&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-city-county-council-data-center-moratorium-approval"
+  },
+  {
     "id": "mirror-indy-want-to-build-a-garden-or-paint-a-mural-in-your-neighborhood-apply-for-a-grant-2026-08-07",
     "title": "Want to build a garden or paint a mural in your neighborhood? Apply for a grant.",
     "source": "Mirror Indy",
@@ -23,30 +49,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Martin-U-childcare_JRW006-1.jpg?fit=780%2C462&ssl=1",
     "url": "https://mirrorindy.org/thousands-of-indiana-families-got-childcare-help-but-the-waitlist-still-tops-29000"
-  },
-  {
-    "id": "mirror-indy-take-your-kids-to-garfield-park-s-new-sensory-inclusive-playground-2026-08-07",
-    "title": "Take your kids to Garfield Park’s new sensory-inclusive playground",
-    "source": "Mirror Indy",
-    "date": "2026-08-07",
-    "summary": "Kids play on a new playground that was unveiled at Garfield Park Aug. 5, 2026.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/GARFIELD-PARK-PLAYGROUND_7-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/garfield-park-playground-south-side-indianapolis-indy-parks-lilly-endowment"
-  },
-  {
-    "id": "mirror-indy-a-truck-crashed-into-her-daycare-she-s-ready-to-leave-2026-08-06",
-    "title": "A truck crashed into her daycare. She’s ready to leave.",
-    "source": "Mirror Indy",
-    "date": "2026-08-06",
-    "summary": "“This is sad,” Rochelle Dickerson said. Dickerson is the owner of PoohBear&#8217;s House of Hugs. In April, a truck crashed into her daycare. No children were in the building at the time of the crash, but the center was severely damaged. “All my stuff got...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260803_POO-BEARS-HOUSE-OF-HUGS_BP_02.jpg?fit=780%2C497&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-daycare-crash-move-poohbears-house-hugs"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
@@ -108,19 +110,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/53/8a/a7f37c904f73a3dd6563ac292b90/guns-to-gardens-provided-by-rev-kris-eggert.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-29/guns-to-gardens-initiative-comes-to-indianapolis-church"
-  },
-  {
-    "id": "wfyi-feds-kick-off-youth-sports-initiative-in-indy-2026-07-22",
-    "title": "Feds kick off youth sports initiative in Indy",
-    "source": "WFYI",
-    "date": "2026-07-22",
-    "summary": "U.S. Housing and Urban Development Secretary Scott Turner spoke to some of Warren Central High School’s girls flag football team at the Tuesday announcement.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/f8/cd/7e99c74244ab864b513a71fa8f1c/scott-turner-hud-samantha-horton-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-22/feds-kick-off-youth-sports-initiative-in-indy"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
