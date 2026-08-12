@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
+    "title": "Purdue buys Kurt Vonnegut Museum in latest move to expand Indianapolis presence",
+    "source": "WFYI",
+    "date": "2026-08-11",
+    "summary": "Purdue said it plans to use the museum to help enrich its museum studies program.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/fa/35/a2327a5744fc82b838da86bcd37b/kurt-vonnegut-museum-courtesy-of-purdue-university.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-11/purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence"
+  },
+  {
     "id": "wfyi-indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approv-2026-08-11",
     "title": "Indy council advances pause on data centers, sends to commission for final approval",
     "source": "WFYI",
@@ -13,6 +25,31 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-08-10/indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approval"
   },
   {
+    "id": "mirror-indy-did-you-find-a-lost-pet-this-microchip-scanner-is-open-24-7-2026-08-11",
+    "title": "Did you find a lost pet? This microchip scanner is open 24/7.",
+    "source": "Mirror Indy",
+    "date": "2026-08-11",
+    "summary": "As part of a project from two Girl Scouts, FACE Low Cost Animal Clinic put up a microchip scanner people can use to reunite lost pets with their owners.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/FACE-MICROCHIP-SCANNER-SY-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/microchip-scanner-face-low-cost-animal-clinic-lost-pets"
+  },
+  {
+    "id": "mirror-indy-purdue-to-purchase-vonnegut-museum-building-on-indiana-avenue-2026-08-11",
+    "title": "Purdue to purchase Vonnegut museum building on Indiana Avenue",
+    "source": "Mirror Indy",
+    "date": "2026-08-11",
+    "summary": "Purdue University announced Aug. 10 it will purchase the Kurt Vonnegut Museum and Library building on Indiana Avenue.",
+    "categories": [
+      "urbanism",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Kurt-Vonnegut-Museum-and-Library_JRW009.jpg?fit=780%2C503&ssl=1",
+    "url": "https://mirrorindy.org/purdue-university-kurt-vonnegut-museum-library-indiana-avenue-indianapolis"
+  },
+  {
     "id": "mirror-indy-indy-councilors-hit-pause-button-on-data-centers-2026-08-11",
     "title": "Indy councilors hit pause button on data centers",
     "source": "Mirror Indy",
@@ -24,31 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260810_CITY-COUNTY-COUNCIL-MEETING_BP_05.jpg?fit=780%2C550&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-city-county-council-data-center-moratorium-approval"
-  },
-  {
-    "id": "mirror-indy-want-to-build-a-garden-or-paint-a-mural-in-your-neighborhood-apply-for-a-grant-2026-08-07",
-    "title": "Want to build a garden or paint a mural in your neighborhood? Apply for a grant.",
-    "source": "Mirror Indy",
-    "date": "2026-08-07",
-    "summary": "Farm volunteers transport and drop mulch at an urban farm run by Bodi Buzz and Rooted Legacy on May 11, 2026, on the Far Eastside of Indianapolis.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-EASTSIDE-FARM_TS15.jpg?fit=780%2C546&ssl=1",
-    "url": "https://mirrorindy.org/apply-neighborhood-grants-indianapolis-public-art-garden"
-  },
-  {
-    "id": "mirror-indy-thousands-of-indiana-families-got-childcare-help-but-the-waitlist-still-tops-29--2026-08-07",
-    "title": "Thousands of Indiana families got childcare help, but the waitlist still tops 29,000",
-    "source": "Mirror Indy",
-    "date": "2026-08-07",
-    "summary": "A child colors in the care and learning center at Martin University on Monday, Feb. 26, 2024, in Indianapolis.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Martin-U-childcare_JRW006-1.jpg?fit=780%2C462&ssl=1",
-    "url": "https://mirrorindy.org/thousands-of-indiana-families-got-childcare-help-but-the-waitlist-still-tops-29000"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
@@ -97,19 +109,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0a/56/f09a125e4df090d6a0937b1dc841/chip-caroline-beck-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-07-29/indianapolis-homelessness-stays-flat-as-unsheltered-population-falls"
-  },
-  {
-    "id": "wfyi-guns-to-gardens-initiative-comes-to-indianapolis-church-2026-07-29",
-    "title": "Guns to Gardens initiative comes to Indianapolis church",
-    "source": "WFYI",
-    "date": "2026-07-29",
-    "summary": "Allisonville Christian Church is hosting its first Guns to Gardens event on September 9.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/53/8a/a7f37c904f73a3dd6563ac292b90/guns-to-gardens-provided-by-rev-kris-eggert.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-29/guns-to-gardens-initiative-comes-to-indianapolis-church"
   },
   {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
