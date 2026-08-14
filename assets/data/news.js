@@ -1,52 +1,54 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-city-commission-halts-demolition-of-historic-church-on-martin-s-campus-2026-08-12",
-    "title": "City commission halts demolition of historic church on Martin’s campus",
+    "id": "mirror-indy-southsiders-revive-community-garden-in-fountain-square-2026-08-13",
+    "title": "Southsiders revive community garden in Fountain Square",
     "source": "Mirror Indy",
-    "date": "2026-08-12",
-    "summary": "Members of the Indianapolis Historic Preservation Commission discuss the former St. Francis de Sales Church on the Martin University campus Aug. 12, 2026.",
+    "date": "2026-08-13",
+    "summary": "Fountain Square Neighborhood Association volunteers works to revitalize the pocket park on Virginia Avenue in Fountain Square on July 25, 2026, in Indianapolis. Residents volunteered to clean up the space, create benches, paint and plant.",
     "categories": [
-      "urbanism",
+      "public-space",
       "community-action"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/IMG_5963-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/martin-university-indianapolis-historic-preservation-commission-august-meeting"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/ENT-FOUNTAIN-SQUARE-POCKET-PARK_JRW08.jpg?fit=780%2C558&ssl=1",
+    "url": "https://mirrorindy.org/fountain-square-neighborhood-association-indianapolis-pocket-park-garden"
   },
   {
-    "id": "mirror-indy-emergency-meeting-scheduled-on-demolition-of-martin-building-2026-08-12",
-    "title": "Emergency meeting scheduled on demolition of Martin building",
+    "id": "mirror-indy-stuck-on-a-homework-problem-check-out-these-free-resources-2026-08-13",
+    "title": "Stuck on a homework problem? Check out these free resources.",
     "source": "Mirror Indy",
-    "date": "2026-08-12",
-    "summary": "Caution tape blows in the wind outside Martin University&#8217;s Performing Arts Center on Dec. 16, 2025, in Indianapolis. The university will close at the end of the current semester, as announced in a release on Dec. 9, 2025.",
+    "date": "2026-08-13",
+    "summary": "A student works alongside a volunteer tutor at LYN House on Sept. 4, 2024, in Indianapolis. The eastside community center collaborates with approximately 12 to 15 IPS students annually as part of a volunteer tutoring program aimed at improving reading scores.",
     "categories": [
-      "urbanism"
+      "public-space",
+      "community-action"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/12/20251216_MARTIN-UNIVERSITY_BP_05.jpg?fit=780%2C525&ssl=1",
-    "url": "https://mirrorindy.org/martin-university-demolition-eastern-star-church-indianapolis-historic-preservation-commission"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/09/Lyn-House_LK01.jpg?fit=780%2C557&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-free-homework-help-live-tutoring-library-rose-hulman-2026-school-year"
   },
   {
-    "id": "mirror-indy-where-to-find-free-grief-support-in-indianapolis-2026-08-12",
-    "title": "Where to find free grief support in Indianapolis",
+    "id": "mirror-indy-up-to-300-000-hoosiers-could-face-medicaid-work-mandate-2026-08-13",
+    "title": "Up to 300,000 Hoosiers could face Medicaid work mandate",
     "source": "Mirror Indy",
-    "date": "2026-08-12",
-    "summary": "Social workers talk to kids during Camp Good Grief, a one-day camp Riley Children&#8217;s Health hosts each year for kids dealing with loss.",
+    "date": "2026-08-13",
+    "summary": "Sen. Mike Bohacek, R-Michiana Shores, speaks on a bill to establish Medicaid work requirements on April 17, 2025.",
     "categories": [
       "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Grief-support-group-camp-good-grief-2-scaled.jpg?fit=780%2C531&ssl=1",
-    "url": "https://mirrorindy.org/grief-support-groups-indianapolis"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Indiana-Senate-Medicaid-work-requirements_ICC.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/up-to-300000-hoosiers-could-face-medicaid-work-mandate"
   },
   {
-    "id": "mirror-indy-mass-ave-district-to-hold-first-workshop-to-plan-for-future-growth-2026-08-12",
-    "title": "Mass Ave district to hold first workshop to plan for future growth",
+    "id": "mirror-indy-developer-makes-concessions-in-fletcher-place-townhome-proposal-2026-08-13",
+    "title": "Developer makes concessions in Fletcher Place townhome proposal",
     "source": "Mirror Indy",
-    "date": "2026-08-12",
-    "summary": "The Mass Ave Cultural Arts District in downtown Indianapolis will have its first land-use workshop Thursday to preserve the area’s history while planning for its future.",
+    "date": "2026-08-13",
+    "summary": "The Fletcher Place Historic District became listed on the National Register of Historic Places in 1982. That same year, with the support of the neighborhood association, the Indianapolis Historic Preservation Commission began working on the preparation to...",
     "categories": [
-      "urbanism"
+      "community-action",
+      "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/MASS-AVE-DEVELOPMENT_WISH.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/mass-ave-district-to-hold-first-workshop-to-plan-for-future-growth"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/260520_DAY_Fletcher-Place-Townhomes-RRS_11-scaled.jpg?fit=780%2C521&ssl=1",
+    "url": "https://mirrorindy.org/fletcher-place-indiana-farm-bureau-buckingham-townhome-proposal-south-side-indianapolis"
   },
   {
     "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
