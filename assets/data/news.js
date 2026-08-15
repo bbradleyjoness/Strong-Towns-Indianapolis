@@ -87,18 +87,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-07-30/a-sold-out-gen-con-returns-to-indianapolis-after-record-breaking-year"
   },
   {
-    "id": "wfyi-indianapolis-homelessness-stays-flat-as-unsheltered-population-falls-2026-07-29",
-    "title": "Indianapolis homelessness stays flat as unsheltered population falls",
-    "source": "WFYI",
-    "date": "2026-07-29",
-    "summary": "The city's annual homelessness count remained steady. It highlights gains in reducing street homelessness but continued shortages in long-term housing.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/0a/56/f09a125e4df090d6a0937b1dc841/chip-caroline-beck-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-07-29/indianapolis-homelessness-stays-flat-as-unsheltered-population-falls"
-  },
-  {
     "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
     "title": "Bezos Earth Fund commits $10 million to transform Indianapolis’ Reverend Mozel Sanders Park",
     "source": "Indy Parks",
