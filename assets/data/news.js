@@ -1,29 +1,15 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-southsiders-revive-community-garden-in-fountain-square-2026-08-13",
-    "title": "Southsiders revive community garden in Fountain Square",
+    "id": "mirror-indy-flooding-displaced-residents-and-damaged-property-photos-tell-the-story-2026-08-17",
+    "title": "Flooding displaced residents and damaged property. Photos tell the story.",
     "source": "Mirror Indy",
-    "date": "2026-08-13",
-    "summary": "Fountain Square Neighborhood Association volunteers works to revitalize the pocket park on Virginia Avenue in Fountain Square on July 25, 2026, in Indianapolis. Residents volunteered to clean up the space, create benches, paint and plant.",
+    "date": "2026-08-17",
+    "summary": "Wayne Township Fire Department’s special operations team uses rescue boats to help residents evacuated flooded homes Aug. 15, 2026, in the Ravenswood neighborhood on the north side Indianapolis.",
     "categories": [
-      "public-space",
-      "community-action"
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/ENT-FOUNTAIN-SQUARE-POCKET-PARK_JRW08.jpg?fit=780%2C558&ssl=1",
-    "url": "https://mirrorindy.org/fountain-square-neighborhood-association-indianapolis-pocket-park-garden"
-  },
-  {
-    "id": "mirror-indy-stuck-on-a-homework-problem-check-out-these-free-resources-2026-08-13",
-    "title": "Stuck on a homework problem? Check out these free resources.",
-    "source": "Mirror Indy",
-    "date": "2026-08-13",
-    "summary": "A student works alongside a volunteer tutor at LYN House on Sept. 4, 2024, in Indianapolis. The eastside community center collaborates with approximately 12 to 15 IPS students annually as part of a volunteer tutoring program aimed at improving reading scores.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/09/Lyn-House_LK01.jpg?fit=780%2C557&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-free-homework-help-live-tutoring-library-rose-hulman-2026-school-year"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-evacuation-ravenswood_jrw10.jpg?fit=780%2C510&ssl=1",
+    "url": "https://mirrorindy.org/flooding-photos-indianapolis-august-15"
   },
   {
     "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
