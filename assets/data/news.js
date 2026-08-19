@@ -1,15 +1,28 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-flooding-displaced-residents-and-damaged-property-photos-tell-the-story-2026-08-17",
-    "title": "Flooding displaced residents and damaged property. Photos tell the story.",
+    "id": "mirror-indy-warning-that-flooded-vehicles-could-soon-be-for-sale-to-unsuspecting-consumers-2026-08-18",
+    "title": "Warning that flooded vehicles could soon be for sale to unsuspecting consumers",
     "source": "Mirror Indy",
-    "date": "2026-08-17",
-    "summary": "Wayne Township Fire Department’s special operations team uses rescue boats to help residents evacuated flooded homes Aug. 15, 2026, in the Ravenswood neighborhood on the north side Indianapolis.",
+    "date": "2026-08-18",
+    "summary": "The Indiana Attorney General’s Office and Carfax are warning Indiana consumers that flooded vehicles may soon be for sale.",
     "categories": [
       "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-evacuation-ravenswood_jrw10.jpg?fit=780%2C510&ssl=1",
-    "url": "https://mirrorindy.org/flooding-photos-indianapolis-august-15"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Flooding_WRTV.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/warning-that-flooded-vehicles-could-soon-be-for-sale-to-unsuspecting-consumers"
+  },
+  {
+    "id": "mirror-indy-indiana-school-district-referendum-guide-2026-2026-08-18",
+    "title": "Indiana school district referendum guide 2026",
+    "source": "Mirror Indy",
+    "date": "2026-08-18",
+    "summary": "Arsenal Technical High School band students practice in April 2026. A record number of districts are seeking property tax increases at the polls in November to help fund operating expenses, such as academic programs and teacher salaries.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Arsenal-Tech-band-class_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indiana-school-district-referendum-guide-2026"
   },
   {
     "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
@@ -28,7 +41,7 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "title": "Indy council advances pause on data centers, sends to commission for final approval",
     "source": "WFYI",
     "date": "2026-08-11",
-    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for final approval.",
+    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for approval.",
     "categories": [
       "community-action",
       "urbanism"
