@@ -1,16 +1,16 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
-    "title": "New data centers temporarily banned in Marion County",
-    "source": "WFYI",
-    "date": "2026-08-19",
-    "summary": "New data center developments cannot be approved in Marion County until 2028 The Metropolitan Development Commission approved the pause Wednesday.",
+    "id": "mirror-indy-ivy-tech-program-approved-for-workforce-pell-grant-funding-2026-08-20",
+    "title": "Ivy Tech program approved for Workforce Pell Grant funding",
+    "source": "Mirror Indy",
+    "date": "2026-08-20",
+    "summary": "As early as October, students in an Ivy Tech medical assisting program will be able to receive Workforce Pell Grant money.",
     "categories": [
-      "urbanism",
-      "community-action"
+      "community-action",
+      "urbanism"
     ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/78/ce/934d745e4640bc45af820dfbf76e/moratorium-vote-zak-cassel-wfyi.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-08-19/new-data-centers-temporarily-banned-in-marion-county"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/IVY-TECH_CN01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/workforce-pell-grant-ivy-tech-indianapolis"
   },
   {
     "id": "mirror-indy-indy-to-offer-southside-data-center-242m-in-tax-breaks-2026-08-19",
@@ -49,56 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260717_RavenswoodFlood_CP_587TONED-scaled.jpg?fit=780%2C492&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-floods-recovery-legal-clinic-insurance"
-  },
-  {
-    "id": "mirror-indy-indiana-charter-schools-could-receive-over-49-million-in-new-revenue-from-propos-2026-08-19",
-    "title": "Indiana charter schools could receive over $49 million in new revenue from proposed tax increases",
-    "source": "Mirror Indy",
-    "date": "2026-08-19",
-    "summary": "Kindergartners in class at Herron Prep Academy in Indianapolis in September 2023. The school is one of about 60 schools statewide that could receive funding from ballot questions if voters pass them in November.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Herron-Prep-kindergarten_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-charter-schools-could-receive-over-49-million-in-new-revenue-from-proposed-tax-increases"
-  },
-  {
-    "id": "mirror-indy-local-pie-company-buys-former-black-acre-beer-garden-in-irvington-2026-08-19",
-    "title": "Local pie company buys former Black Acre beer garden in Irvington",
-    "source": "Mirror Indy",
-    "date": "2026-08-19",
-    "summary": "The former Black Acre Brewing Co. production facility August 19, 2026 in Indianapolis. Pots and Pans Pie Co. will transform the 2.9-acre site into a 17,000 square foot commercial kitchen, neighborhood retail and garden.",
-    "categories": [
-      "public-space",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/IMG_2018-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/pots-and-pans-pie-buys-former-black-acre-beer-garden-irvington"
-  },
-  {
-    "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
-    "title": "Purdue buys Kurt Vonnegut Museum in latest move to expand Indianapolis presence",
-    "source": "WFYI",
-    "date": "2026-08-11",
-    "summary": "Purdue said it plans to use the museum to help enrich its museum studies program.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/fa/35/a2327a5744fc82b838da86bcd37b/kurt-vonnegut-museum-courtesy-of-purdue-university.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-08-11/purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence"
-  },
-  {
-    "id": "wfyi-indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approv-2026-08-11",
-    "title": "Indy council advances pause on data centers, sends to commission for final approval",
-    "source": "WFYI",
-    "date": "2026-08-11",
-    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for approval.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/6d/3d/7f6c217d4d5da9549d5f0d238b37/data-center-protesters-farrah-anderson-wfyi-3.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-08-10/indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approval"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
