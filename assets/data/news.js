@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-thousands-of-hoosiers-not-enrolling-in-federal-safety-net-programs-2026-08-21",
+    "title": "Thousands of Hoosiers not enrolling in federal safety net programs",
+    "source": "Mirror Indy",
+    "date": "2026-08-21",
+    "summary": "Food is distributed at Mary Rigg Neighborhood Center in Indianapolis, while people collect food items before SNAP benefits are temporarily stopped due to the government shutdown Oct. 29, 2025.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/HOOSIER-SAFETY-NET-STUDY_02.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indiana-safety-net-programs"
+  },
+  {
     "id": "mirror-indy-ivy-tech-program-approved-for-workforce-pell-grant-funding-2026-08-20",
     "title": "Ivy Tech program approved for Workforce Pell Grant funding",
     "source": "Mirror Indy",
@@ -11,6 +24,19 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/IVY-TECH_CN01.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/workforce-pell-grant-ivy-tech-indianapolis"
+  },
+  {
+    "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
+    "title": "New data centers temporarily banned in Marion County",
+    "source": "WFYI",
+    "date": "2026-08-19",
+    "summary": "New data center developments cannot be approved in Marion County until 2028 The Metropolitan Development Commission approved the pause Wednesday.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/78/ce/934d745e4640bc45af820dfbf76e/moratorium-vote-zak-cassel-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-19/new-data-centers-temporarily-banned-in-marion-county"
   },
   {
     "id": "mirror-indy-indy-to-offer-southside-data-center-242m-in-tax-breaks-2026-08-19",
@@ -39,16 +65,29 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-passes-metropolitan-development-commission"
   },
   {
-    "id": "mirror-indy-hoosiers-affected-by-floods-can-get-free-legal-help-at-this-clinic-2026-08-19",
-    "title": "Hoosiers affected by floods can get free legal help at this clinic",
-    "source": "Mirror Indy",
-    "date": "2026-08-19",
-    "summary": "Floodwater remains on Aug. 17, 2026, on North Temple Avenue in an area north of the Ravenswood Neighborhood in Indianapolis.",
+    "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
+    "title": "Purdue buys Kurt Vonnegut Museum in latest move to expand Indianapolis presence",
+    "source": "WFYI",
+    "date": "2026-08-11",
+    "summary": "Purdue said it plans to use the museum to help enrich its museum studies program.",
     "categories": [
-      "housing-care"
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260717_RavenswoodFlood_CP_587TONED-scaled.jpg?fit=780%2C492&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-floods-recovery-legal-clinic-insurance"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/fa/35/a2327a5744fc82b838da86bcd37b/kurt-vonnegut-museum-courtesy-of-purdue-university.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-11/purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence"
+  },
+  {
+    "id": "wfyi-indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approv-2026-08-11",
+    "title": "Indy council advances pause on data centers, sends to commission for final approval",
+    "source": "WFYI",
+    "date": "2026-08-11",
+    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for approval.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/6d/3d/7f6c217d4d5da9549d5f0d238b37/data-center-protesters-farrah-anderson-wfyi-3.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-10/indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approval"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
@@ -61,17 +100,5 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park"
-  },
-  {
-    "id": "indy-parks-bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-san-2026-07-07",
-    "title": "Bezos Earth Fund commits $10 million to transform Indianapolis’ Reverend Mozel Sanders Park",
-    "source": "Indy Parks",
-    "date": "2026-07-07",
-    "summary": "Transformational investment in the Haughville Riverfront Vision Plan will reimagine 25 riverfront acres with new trails, wetlands, a community farm, and recreation amenities designed by neighborhood residents",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://parks.indy.gov/wp-content/uploads/2026/07/BEF-Announcement.png",
-    "url": "https://parks.indy.gov/bezos-earth-fund-commits-10-million-to-transform-indianapolis-reverend-mozel-sanders-park"
   }
 ];
