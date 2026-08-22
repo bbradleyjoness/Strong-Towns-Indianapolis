@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-how-to-clean-up-safely-after-indiana-s-historic-floods-2026-08-21",
+    "title": "How to clean up safely after Indiana’s historic floods",
+    "source": "Mirror Indy",
+    "date": "2026-08-21",
+    "summary": "A person walks through floodwaters in Broad Ripple on Aug. 15, 2026.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS04.jpg?fit=780%2C780&ssl=1",
+    "url": "https://mirrorindy.org/indiana-flooding-cleanup-efforts-safety-mosquitos-west-nile-virus-generators-food"
+  },
+  {
+    "id": "mirror-indy-community-members-file-for-legal-review-of-eastside-data-center-2026-08-21",
+    "title": "Community members file for legal review of eastside data center",
+    "source": "Mirror Indy",
+    "date": "2026-08-21",
+    "summary": "Protestors cheer in support of Andy Nielsen’s comments against data centers on July 15, 2026, before a public hearing and meeting of the Metropolitan Development Commission at the City-County Building in Indianapolis.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/07152026_DataCenterHearing0569.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-irvington-east-side-indianapolis-judicial-review"
+  },
+  {
+    "id": "mirror-indy-this-construction-program-is-helping-grads-level-up-in-their-careers-2026-08-21",
+    "title": "This construction program is helping grads level up in their careers",
+    "source": "Mirror Indy",
+    "date": "2026-08-21",
+    "summary": "Graduates of the BY (Build Yourself) Construction training program meet with construction industry employers during a job fair, Aug. 13, 2026, at the Hawthorne Community Center in Indianapolis. The BY Construction training program was recently upgraded to a...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260813_ENT-BY-CONSTRUCTION_DM015.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/by-construction-program-indianapolis-apprenticeship"
+  },
+  {
     "id": "mirror-indy-thousands-of-hoosiers-not-enrolling-in-federal-safety-net-programs-2026-08-21",
     "title": "Thousands of Hoosiers not enrolling in federal safety net programs",
     "source": "Mirror Indy",
@@ -37,32 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/78/ce/934d745e4640bc45af820dfbf76e/moratorium-vote-zak-cassel-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-08-19/new-data-centers-temporarily-banned-in-marion-county"
-  },
-  {
-    "id": "mirror-indy-indy-to-offer-southside-data-center-242m-in-tax-breaks-2026-08-19",
-    "title": "Indy to offer southside data center $242M in tax breaks",
-    "source": "Mirror Indy",
-    "date": "2026-08-19",
-    "summary": "Mindy Westrick Brown, a lawyer with Faegre Drinker Biddle and Reath LLP, who represents Sabey Data Centers, speaks during the Metropolitan Development Commission meeting on March 18, 2026, at the City-County Building in Indianapolis. The majority of...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/20260318_SABEY-MDC-DECISION_BP_17.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-sabey-data-centers-tax-abatement-aquatic-center-indy-economic-development"
-  },
-  {
-    "id": "mirror-indy-indy-data-center-moratorium-clears-final-hurdle-2026-08-19",
-    "title": "Indy data center moratorium clears final hurdle",
-    "source": "Mirror Indy",
-    "date": "2026-08-19",
-    "summary": "Mandi McIntosh (left) and others cheer after members of the Metropolitan Development Commission voted to put a moratorium on data centers in place, Aug. 19, 2026, at the City-County Building in Indianapolis.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/DAY-DATA-CENTER-MORATORIUM_JRW02.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-data-center-moratorium-passes-metropolitan-development-commission"
   },
   {
     "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
