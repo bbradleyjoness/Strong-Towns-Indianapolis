@@ -50,19 +50,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indiana-safety-net-programs"
   },
   {
-    "id": "mirror-indy-ivy-tech-program-approved-for-workforce-pell-grant-funding-2026-08-20",
-    "title": "Ivy Tech program approved for Workforce Pell Grant funding",
-    "source": "Mirror Indy",
-    "date": "2026-08-20",
-    "summary": "As early as October, students in an Ivy Tech medical assisting program will be able to receive Workforce Pell Grant money.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/IVY-TECH_CN01.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/workforce-pell-grant-ivy-tech-indianapolis"
-  },
-  {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
     "title": "New data centers temporarily banned in Marion County",
     "source": "WFYI",
