@@ -1,5 +1,30 @@
 [
   {
+    "id": "mirror-indy-as-indy-marks-america-s-250th-a-museum-remembers-past-epidemics-2026-08-24",
+    "title": "As Indy marks America’s 250th, a museum remembers past epidemics",
+    "source": "Mirror Indy",
+    "date": "2026-08-24",
+    "summary": "Executive Director Sarah Halter explains the history of the building and exhibits at the Indiana Medical History Museum on Aug. 11, 2026 in Indianapolis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/0812026_250Pandemic072.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-medical-history-museum-polio-measles-vaccines-trump-administration"
+  },
+  {
+    "id": "mirror-indy-2-indy-data-centers-are-being-developed-on-brownfields-are-there-risks-2026-08-24",
+    "title": "2 Indy data centers are being developed on brownfields. Are there risks?",
+    "source": "Mirror Indy",
+    "date": "2026-08-24",
+    "summary": "A cyclist rides the Pennsy Trail on May 28, 2026, on the east side of Indianapolis. In the background, mounds of dirt and gravel sit on the grounds of Thunderbird Commerce Center near the trail’s intersection with Kitley Avenue. Atlanta-based DC Blox has...",
+    "categories": [
+      "urbanism",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW13.jpg?fit=780%2C514&ssl=1",
+    "url": "https://mirrorindy.org/brownfields-data-centers-east-side-indianapolis-environment-health-risks"
+  },
+  {
     "id": "mirror-indy-how-to-clean-up-safely-after-indiana-s-historic-floods-2026-08-21",
     "title": "How to clean up safely after Indiana’s historic floods",
     "source": "Mirror Indy",
@@ -61,31 +86,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/78/ce/934d745e4640bc45af820dfbf76e/moratorium-vote-zak-cassel-wfyi.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-08-19/new-data-centers-temporarily-banned-in-marion-county"
-  },
-  {
-    "id": "wfyi-purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence-2026-08-11",
-    "title": "Purdue buys Kurt Vonnegut Museum in latest move to expand Indianapolis presence",
-    "source": "WFYI",
-    "date": "2026-08-11",
-    "summary": "Purdue said it plans to use the museum to help enrich its museum studies program.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/fa/35/a2327a5744fc82b838da86bcd37b/kurt-vonnegut-museum-courtesy-of-purdue-university.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-08-11/purdue-buys-kurt-vonnegut-museum-in-latest-move-to-expand-indianapolis-presence"
-  },
-  {
-    "id": "wfyi-indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approv-2026-08-11",
-    "title": "Indy council advances pause on data centers, sends to commission for final approval",
-    "source": "WFYI",
-    "date": "2026-08-11",
-    "summary": "The moratorium on new data center projects in Marion County now heads to the Metropolitan Development Commission for approval.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/6d/3d/7f6c217d4d5da9549d5f0d238b37/data-center-protesters-farrah-anderson-wfyi-3.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-08-10/indy-council-advances-pause-on-data-centers-sends-to-commission-for-final-approval"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
