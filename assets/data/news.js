@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-lebanon-jeffersonville-expected-to-receive-part-of-1b-meta-campaign-2026-08-25",
+    "title": "Lebanon, Jeffersonville expected to receive part of $1B Meta campaign",
+    "source": "Mirror Indy",
+    "date": "2026-08-25",
+    "summary": "A rendering of Meta’s data center campus in Lebanon. Construction started earlier this year on the project.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Meta.jpg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/meta-funding-pledge-lebanon-jeffersonville"
+  },
+  {
     "id": "mirror-indy-as-indy-marks-america-s-250th-a-museum-remembers-past-epidemics-2026-08-24",
     "title": "As Indy marks America’s 250th, a museum remembers past epidemics",
     "source": "Mirror Indy",
@@ -60,19 +73,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260813_ENT-BY-CONSTRUCTION_DM015.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/by-construction-program-indianapolis-apprenticeship"
-  },
-  {
-    "id": "mirror-indy-thousands-of-hoosiers-not-enrolling-in-federal-safety-net-programs-2026-08-21",
-    "title": "Thousands of Hoosiers not enrolling in federal safety net programs",
-    "source": "Mirror Indy",
-    "date": "2026-08-21",
-    "summary": "Food is distributed at Mary Rigg Neighborhood Center in Indianapolis, while people collect food items before SNAP benefits are temporarily stopped due to the government shutdown Oct. 29, 2025.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/HOOSIER-SAFETY-NET-STUDY_02.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-safety-net-programs"
   },
   {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
