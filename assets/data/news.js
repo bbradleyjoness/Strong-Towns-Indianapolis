@@ -1,5 +1,43 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-streets-to-home-has-housed-231-people-some-may-become-homeless-again-2026-08-25",
+    "title": "Streets to Home has housed 231 people. Some may become homeless again.",
+    "source": "Mirror Indy",
+    "date": "2026-08-25",
+    "summary": "Vickie Tyner (left), executive director of Food 4 Souls, and Shellina Willoughby hug goodbye July 23, 2026, outside The Harrison apartments in Indianapolis.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260723_STREETS-TO-HOME-1-YEAR_BP_11.jpg?fit=780%2C535&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-homeless-program-year-one-streets-home-indy"
+  },
+  {
+    "id": "mirror-indy-southsiders-say-goodbye-to-long-time-grocery-store-2026-08-25",
+    "title": "Southsiders say goodbye to long-time grocery store",
+    "source": "Mirror Indy",
+    "date": "2026-08-25",
+    "summary": "The Garfield Park Safeway store along Shelby Street on Aug. 16, 2026.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/DAY-GARFIELD-PARK-SAFEWAY-CLOSING_02-scaled.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/garfield-park-safeway-neighborhood-grocery-store-closure-food-desert-southside-indy"
+  },
+  {
+    "id": "mirror-indy-free-vaccines-at-westside-school-s-cultural-carnival-family-night-2026-08-25",
+    "title": "Free vaccines at westside school’s Cultural Carnival family night",
+    "source": "Mirror Indy",
+    "date": "2026-08-25",
+    "summary": "original caption: Sixth grader Rome Shanks gets his meningococcal vaccine at a clinic put on by the Indiana Immunization Coalition on July 19, 2025, as part of a wellness fair at Children&#8217;s Village Childcare Center in Indianapolis. Shanks’ grandmother...",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/FOREIGN-VACCINATION-RECORDS_NP02.jpg?fit=780%2C457&ssl=1",
+    "url": "https://mirrorindy.org/wayne-township-family-night-free-vaccines-fall-2026"
+  },
+  {
     "id": "mirror-indy-lebanon-jeffersonville-expected-to-receive-part-of-1b-meta-campaign-2026-08-25",
     "title": "Lebanon, Jeffersonville expected to receive part of $1B Meta campaign",
     "source": "Mirror Indy",
@@ -36,43 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW13.jpg?fit=780%2C514&ssl=1",
     "url": "https://mirrorindy.org/brownfields-data-centers-east-side-indianapolis-environment-health-risks"
-  },
-  {
-    "id": "mirror-indy-how-to-clean-up-safely-after-indiana-s-historic-floods-2026-08-21",
-    "title": "How to clean up safely after Indiana’s historic floods",
-    "source": "Mirror Indy",
-    "date": "2026-08-21",
-    "summary": "A person walks through floodwaters in Broad Ripple on Aug. 15, 2026.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS04.jpg?fit=780%2C780&ssl=1",
-    "url": "https://mirrorindy.org/indiana-flooding-cleanup-efforts-safety-mosquitos-west-nile-virus-generators-food"
-  },
-  {
-    "id": "mirror-indy-community-members-file-for-legal-review-of-eastside-data-center-2026-08-21",
-    "title": "Community members file for legal review of eastside data center",
-    "source": "Mirror Indy",
-    "date": "2026-08-21",
-    "summary": "Protestors cheer in support of Andy Nielsen’s comments against data centers on July 15, 2026, before a public hearing and meeting of the Metropolitan Development Commission at the City-County Building in Indianapolis.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/07152026_DataCenterHearing0569.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/dc-blox-data-center-irvington-east-side-indianapolis-judicial-review"
-  },
-  {
-    "id": "mirror-indy-this-construction-program-is-helping-grads-level-up-in-their-careers-2026-08-21",
-    "title": "This construction program is helping grads level up in their careers",
-    "source": "Mirror Indy",
-    "date": "2026-08-21",
-    "summary": "Graduates of the BY (Build Yourself) Construction training program meet with construction industry employers during a job fair, Aug. 13, 2026, at the Hawthorne Community Center in Indianapolis. The BY Construction training program was recently upgraded to a...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260813_ENT-BY-CONSTRUCTION_DM015.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/by-construction-program-indianapolis-apprenticeship"
   },
   {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
