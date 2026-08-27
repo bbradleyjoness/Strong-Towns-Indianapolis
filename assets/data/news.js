@@ -1,5 +1,67 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
+    "title": "New park designed to teach kids how to ride bikes in the city",
+    "source": "WFYI",
+    "date": "2026-08-27",
+    "summary": "A new park coming this fall is designed to teach young people how to use bicycles around Indianapolis.",
+    "categories": [
+      "mobility",
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/b0/5a/8b2850dc4dfa878059b54ba71c1f/skills-and-safety-park-render-courtesy-of-nine13-inc.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-08-27/new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city"
+  },
+  {
+    "id": "mirror-indy-city-punts-decision-to-rezone-southside-wetlands-for-an-auto-shop-2026-08-27",
+    "title": "City punts decision to rezone southside wetlands for an auto shop",
+    "source": "Mirror Indy",
+    "date": "2026-08-27",
+    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_10.jpg?fit=780%2C530&ssl=1",
+    "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-southside-metropolitan-development-commission"
+  },
+  {
+    "id": "mirror-indy-how-to-vote-early-in-indiana-s-2026-general-election-2026-08-27",
+    "title": "How to vote early in Indiana’s 2026 general election",
+    "source": "Mirror Indy",
+    "date": "2026-08-27",
+    "summary": "A sign sits outside the early voting site at the MSD Lawrence Education &#038; Community Center on Oct. 29, 2024, in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/early-voting-polling-sites-2024_NP04.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/2026-indiana-general-election-midterms-early-voting"
+  },
+  {
+    "id": "mirror-indy-get-help-applying-for-fema-assistance-for-flood-recovery-2026-08-27",
+    "title": "Get help applying for FEMA assistance for flood recovery",
+    "source": "Mirror Indy",
+    "date": "2026-08-27",
+    "summary": "An aerial view of the height of the White River and Monon Trail bridge just north of Broad Ripple on Aug. 15, 2026.",
+    "categories": [
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS14.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/flooding-federal-assistance-fema-registration"
+  },
+  {
+    "id": "mirror-indy-indiana-s-abortion-ban-has-a-chilling-effect-on-er-pregnancy-care-2026-08-27",
+    "title": "Indiana’s abortion ban has a ‘chilling effect’ on ER pregnancy care",
+    "source": "Mirror Indy",
+    "date": "2026-08-27",
+    "summary": "Following Indiana’s near-total abortion ban, a new study shows emergency room doctors are less likely to treat pregnant women who are bleeding. Doctors often send them to overworked OB-GYNs instead.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/ENT-ABORTION-STUDY_Adobe-Stock-scaled.jpeg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-abortion-ban-pregnancy-ob-gyn-shortage-emergency-room-er-care"
+  },
+  {
     "id": "mirror-indy-trump-approves-major-disaster-declaration-for-21-indiana-counties-after-deadly-s-2026-08-26",
     "title": "Trump approves major disaster declaration for 21 Indiana counties after deadly storms",
     "source": "Mirror Indy",
@@ -10,56 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-evacuation-ravenswood_jrw02.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/trump-approves-major-disaster-declaration-for-21-indiana-counties-after-deadly-storms"
-  },
-  {
-    "id": "mirror-indy-why-this-indianapolis-agency-is-paying-people-to-become-emts-2026-08-26",
-    "title": "Why this Indianapolis agency is paying people to become EMTs",
-    "source": "Mirror Indy",
-    "date": "2026-08-26",
-    "summary": "Aaron Akers (left) practices checking blood pressure on Debra Brech (right) on August 13, 2026 at the Indianapolis EMS Training Center.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/08132026_EMTTraining167.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-emergency-medical-services-emt-paramedic-training"
-  },
-  {
-    "id": "mirror-indy-forever-chemicals-microplastics-and-data-centers-what-you-need-to-know-2026-08-26",
-    "title": "‘Forever chemicals,’ microplastics and data centers. What you need to know.",
-    "source": "Mirror Indy",
-    "date": "2026-08-26",
-    "summary": "An aerial view of the swollen White River passing through the Arden and Warfleigh neighborhoods Aug. 15, 2026 on the north side of Indy.",
-    "categories": [
-      "urbanism",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS13.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-data-center-pfas-microplastics-indiana-water-summit-2026"
-  },
-  {
-    "id": "mirror-indy-streets-to-home-has-housed-231-people-some-may-become-homeless-again-2026-08-25",
-    "title": "Streets to Home has housed 231 people. Some may become homeless again.",
-    "source": "Mirror Indy",
-    "date": "2026-08-25",
-    "summary": "Vickie Tyner (left), executive director of Food 4 Souls, and Shellina Willoughby hug goodbye July 23, 2026, outside The Harrison apartments in Indianapolis.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/20260723_STREETS-TO-HOME-1-YEAR_BP_11.jpg?fit=780%2C535&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-program-year-one-streets-home-indy"
-  },
-  {
-    "id": "mirror-indy-southsiders-say-goodbye-to-long-time-grocery-store-2026-08-25",
-    "title": "Southsiders say goodbye to long-time grocery store",
-    "source": "Mirror Indy",
-    "date": "2026-08-25",
-    "summary": "The Garfield Park Safeway store along Shelby Street on Aug. 16, 2026.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/DAY-GARFIELD-PARK-SAFEWAY-CLOSING_02-scaled.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/garfield-park-safeway-neighborhood-grocery-store-closure-food-desert-southside-indy"
   },
   {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
