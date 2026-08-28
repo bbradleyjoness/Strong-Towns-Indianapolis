@@ -1,5 +1,42 @@
 [
   {
+    "id": "mirror-indy-we-read-books-from-indy-s-little-free-libraries-here-are-our-reviews-2026-08-28",
+    "title": "We read books from Indy’s Little Free Libraries. Here are our reviews.",
+    "source": "Mirror Indy",
+    "date": "2026-08-28",
+    "summary": "Mirror Indy staff members read books from Little Free Libraries and reviewed them. Higher education reporter Claire Rafford read &#8220;The Naked Roommate: And 107 Other Issues You Might Run Into in College&#8221; by Harlan Cohen.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Little-free-library-reviews.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/little-free-library-indianapolis-book-reviews"
+  },
+  {
+    "id": "mirror-indy-the-keepers-of-indy-s-little-free-libraries-2026-08-28",
+    "title": "The keepers of Indy’s Little Free Libraries",
+    "source": "Mirror Indy",
+    "date": "2026-08-28",
+    "summary": "Stephen Lane, Abby Maci Reckard, Chris Smith, Nicole Keller and John Essex show off the Little Free Libraries they started.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Little-free-library-1.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-little-free-libraries-tips"
+  },
+  {
+    "id": "mirror-indy-lawmakers-study-indiana-s-sexual-assault-response-2026-08-28",
+    "title": "Lawmakers study Indiana’s sexual assault response",
+    "source": "Mirror Indy",
+    "date": "2026-08-28",
+    "summary": "Beth White, president and CEO of the Indiana Coalition to End Sexual Assault, speaks to the Interim Study Committee on Public Health, Behavioral Health and Human Services on Aug. 25, 2026.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/Beth-White_ICC.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/lawmakers-study-indianas-sexual-assault-response"
+  },
+  {
     "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
     "title": "New park designed to teach kids how to ride bikes in the city",
     "source": "WFYI",
@@ -48,30 +85,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS14.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/flooding-federal-assistance-fema-registration"
-  },
-  {
-    "id": "mirror-indy-indiana-s-abortion-ban-has-a-chilling-effect-on-er-pregnancy-care-2026-08-27",
-    "title": "Indiana’s abortion ban has a ‘chilling effect’ on ER pregnancy care",
-    "source": "Mirror Indy",
-    "date": "2026-08-27",
-    "summary": "Following Indiana’s near-total abortion ban, a new study shows emergency room doctors are less likely to treat pregnant women who are bleeding. Doctors often send them to overworked OB-GYNs instead.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/ENT-ABORTION-STUDY_Adobe-Stock-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indiana-abortion-ban-pregnancy-ob-gyn-shortage-emergency-room-er-care"
-  },
-  {
-    "id": "mirror-indy-trump-approves-major-disaster-declaration-for-21-indiana-counties-after-deadly-s-2026-08-26",
-    "title": "Trump approves major disaster declaration for 21 Indiana counties after deadly storms",
-    "source": "Mirror Indy",
-    "date": "2026-08-26",
-    "summary": "A home is surrounded by floodwaters on Aug. 15, 2026, in the Ravenswood neighborhood on the north side Indianapolis.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-evacuation-ravenswood_jrw02.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/trump-approves-major-disaster-declaration-for-21-indiana-counties-after-deadly-storms"
   },
   {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
