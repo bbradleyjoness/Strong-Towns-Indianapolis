@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-how-two-social-workers-helped-2-063-library-patrons-2026-08-31",
+    "title": "How two social workers helped 2,063 library patrons",
+    "source": "Mirror Indy",
+    "date": "2026-08-31",
+    "summary": "Social worker Jayme Murphy (right) talks with someone who stopped by her resource table Aug. 13, 2026, at the Franklin Road branch of the Indianapolis Public Library.",
+    "categories": [
+      "public-space",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/EXP-LIBRARY-SOCIAL-WORK_JRW09.jpg?fit=780%2C523&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-social-work-services"
+  },
+  {
     "id": "mirror-indy-we-read-books-from-indy-s-little-free-libraries-here-are-our-reviews-2026-08-28",
     "title": "We read books from Indy’s Little Free Libraries. Here are our reviews.",
     "source": "Mirror Indy",
@@ -48,43 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/b0/5a/8b2850dc4dfa878059b54ba71c1f/skills-and-safety-park-render-courtesy-of-nine13-inc.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-08-27/new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city"
-  },
-  {
-    "id": "mirror-indy-city-punts-decision-to-rezone-southside-wetlands-for-an-auto-shop-2026-08-27",
-    "title": "City punts decision to rezone southside wetlands for an auto shop",
-    "source": "Mirror Indy",
-    "date": "2026-08-27",
-    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_10.jpg?fit=780%2C530&ssl=1",
-    "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-southside-metropolitan-development-commission"
-  },
-  {
-    "id": "mirror-indy-how-to-vote-early-in-indiana-s-2026-general-election-2026-08-27",
-    "title": "How to vote early in Indiana’s 2026 general election",
-    "source": "Mirror Indy",
-    "date": "2026-08-27",
-    "summary": "A sign sits outside the early voting site at the MSD Lawrence Education &#038; Community Center on Oct. 29, 2024, in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/early-voting-polling-sites-2024_NP04.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/2026-indiana-general-election-midterms-early-voting"
-  },
-  {
-    "id": "mirror-indy-get-help-applying-for-fema-assistance-for-flood-recovery-2026-08-27",
-    "title": "Get help applying for FEMA assistance for flood recovery",
-    "source": "Mirror Indy",
-    "date": "2026-08-27",
-    "summary": "An aerial view of the height of the White River and Monon Trail bridge just north of Broad Ripple on Aug. 15, 2026.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/260815_flooding-broad-ripple-and-west-side_TS14.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/flooding-federal-assistance-fema-registration"
   },
   {
     "id": "wfyi-new-data-centers-temporarily-banned-in-marion-county-2026-08-19",
