@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-eastsiders-have-a-hard-time-stopping-new-gas-stations-another-is-on-the-way-2026-09-02",
+    "title": "Eastsiders have ‘a hard time stopping’ new gas stations. Another is on the way.",
+    "source": "Mirror Indy",
+    "date": "2026-09-02",
+    "summary": "A public hearing sign near the intersection of Emerson Avenue and 16th Street on Aug. 26, 2026, in Indianapolis. New development coming to the southwest corner of the intersection could include a gas station, convenience store and bar and grill.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ENT-16TH-EMERSON-PLANS_JRW01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/gas-station-planned-indianapolis-east-side-shy-kay-lounge"
+  },
+  {
+    "id": "mirror-indy-aes-rate-increase-case-will-get-a-rehearing-2026-09-02",
+    "title": "AES rate increase case will get a rehearing",
+    "source": "Mirror Indy",
+    "date": "2026-09-02",
+    "summary": "Update: Sept. 2, 2026: This article was updated with new information from the Indiana Utility Regulatory Commission.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/06/040625_AES-RATE-INCREASE_tf-scaled.jpeg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/aes-indiana-rate-increase-rehearing-iurc-electric-bill"
+  },
+  {
+    "id": "mirror-indy-get-free-food-and-learn-about-resources-at-this-westside-event-2026-09-02",
+    "title": "Get free food and learn about resources at this westside event",
+    "source": "Mirror Indy",
+    "date": "2026-09-02",
+    "summary": "The township board is considering resolutions that would merge the township EMS and fire department with the Indianapolis Fire Department.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/twpfire2-scaled.jpg?fit=780%2C454&ssl=1",
+    "url": "https://mirrorindy.org/free-food-housing-resources-westside-wayne-township-government-center-indianapolis"
+  },
+  {
     "id": "mirror-indy-mirror-indy-investigation-sparks-action-to-keep-hospital-patients-out-of-jail-2026-09-01",
     "title": "Mirror Indy investigation sparks action to keep hospital patients out of jail",
     "source": "Mirror Indy",
@@ -10,43 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/IU-HEALTH-METHODIST-CAMPUS_JRW04.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-hospital-arrests-diversion-program-marion-county-public-defenders-prosecutors"
-  },
-  {
-    "id": "mirror-indy-want-to-fund-a-community-project-on-the-far-eastside-2026-09-01",
-    "title": "Want to fund a community project on the Far Eastside?",
-    "source": "Mirror Indy",
-    "date": "2026-09-01",
-    "summary": "The exterior of P30 coworking and event space on Sept. 2, 2025, on the Far Eastside of Indianapolis.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/P30_BP004.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/far-eastside-indianapolis-quality-life-plan-neighborhood-grants"
-  },
-  {
-    "id": "mirror-indy-instead-of-throwing-out-your-clothes-furniture-or-bikes-donate-to-these-local-no-2026-09-01",
-    "title": "Instead of throwing out your clothes, furniture or bikes, donate to these local nonprofits",
-    "source": "Mirror Indy",
-    "date": "2026-09-01",
-    "summary": "Sarah Fitzpatrick volunteers at the Little Timmy Project Aug. 12, 2026, at Cornerstone Lutheran Church in Indianapolis.",
-    "categories": [
-      "mobility",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260812_LITTLE-TIMMY-PROJECT-DROPOFF_BP_08.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/where-to-donate-indianapolis-nonprofit-charity"
-  },
-  {
-    "id": "mirror-indy-why-the-indianapolis-teachers-union-opposes-a-proposed-tax-increase-for-city-pub-2026-09-01",
-    "title": "Why the Indianapolis teachers union opposes a proposed tax increase for city public schools",
-    "source": "Mirror Indy",
-    "date": "2026-09-01",
-    "summary": "Indianapolis Public Education Corporation Executive Director Karega Rausch speaks at an event on Tuesday, Aug. 25, in support of a property tax referendum that would benefit both IPS and charter schools.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/Karega-Rausch_Chalkbeat.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/why-the-indianapolis-teachers-union-opposes-a-proposed-tax-increase-for-city-public-schools"
   },
   {
     "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
