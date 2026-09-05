@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-indianapolis-community-walk-brings-awareness-to-infant-mortality-2026-09-04",
+    "title": "Indianapolis community walk brings awareness to infant mortality",
+    "source": "Mirror Indy",
+    "date": "2026-09-04",
+    "summary": "Community members can attend a Sept. 19 walk bringing awareness to infant mortality.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/07/AdobeStock_453585491-scaled.jpeg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-infant-mortality-walk-healthy-start-pregnancy-marion-county-public-health-department"
+  },
+  {
     "id": "mirror-indy-guide-what-to-know-about-the-public-schools-tax-referendum-in-indianapolis-2026-09-04",
     "title": "Guide: What to know about the public schools tax referendum in Indianapolis",
     "source": "Mirror Indy",
@@ -35,31 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Warren-Township-Trustee_JRW018.jpg?fit=780%2C514&ssl=1",
     "url": "https://mirrorindy.org/east-side-indianapolis-food-pantry-warren-township-old-bethel"
-  },
-  {
-    "id": "mirror-indy-eastsiders-have-a-hard-time-stopping-new-gas-stations-another-is-on-the-way-2026-09-02",
-    "title": "Eastsiders have ‘a hard time stopping’ new gas stations. Another is on the way.",
-    "source": "Mirror Indy",
-    "date": "2026-09-02",
-    "summary": "A public hearing sign near the intersection of Emerson Avenue and 16th Street on Aug. 26, 2026, in Indianapolis. New development coming to the southwest corner of the intersection could include a gas station, convenience store and bar and grill.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ENT-16TH-EMERSON-PLANS_JRW01.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/gas-station-planned-indianapolis-east-side-shy-kay-lounge"
-  },
-  {
-    "id": "mirror-indy-aes-rate-increase-case-will-get-a-rehearing-2026-09-02",
-    "title": "AES rate increase case will get a rehearing",
-    "source": "Mirror Indy",
-    "date": "2026-09-02",
-    "summary": "Update: Sept. 2, 2026: This article was updated with new information from the Indiana Utility Regulatory Commission.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/06/040625_AES-RATE-INCREASE_tf-scaled.jpeg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/aes-indiana-rate-increase-rehearing-iurc-electric-bill"
   },
   {
     "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
