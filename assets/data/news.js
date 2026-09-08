@@ -1,5 +1,31 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-you-can-vote-in-indiana-if-you-re-homeless-here-s-how-2026-09-08",
+    "title": "You can vote in Indiana if you’re homeless. Here’s how.",
+    "source": "Mirror Indy",
+    "date": "2026-09-08",
+    "summary": "A voting sign at the Rhodius Park Family Center Nov. 5, 2024.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/IndyVotes-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-voting-guide-homeless-general-election-indianapolis-2026"
+  },
+  {
+    "id": "mirror-indy-indy-s-free-city-planning-course-is-open-for-applications-2026-09-08",
+    "title": "Indy’s free city planning course is open for applications",
+    "source": "Mirror Indy",
+    "date": "2026-09-08",
+    "summary": "Bridges Townhomes are pictured Feb. 26, 2026, located in the near east side of Indianapolis. The townhomes are part of a housing project by Englewood Community Development Corporation, in partnership with Wheeler Mission&#8217;s women and children&#8217;s...",
+    "categories": [
+      "housing-care",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260226_BRIDGES-TOWNHOMES_BP_01.jpg?fit=780%2C493&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-city-planning-course-applications-open"
+  },
+  {
     "id": "mirror-indy-indiana-bmv-plans-mobile-driver-s-license-2026-09-07",
     "title": "Indiana BMV plans mobile driver’s license",
     "source": "Mirror Indy",
@@ -34,31 +60,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/IPS-referendum-09042026_Chalkbeat.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/guide-what-to-know-about-the-public-schools-tax-referendum-in-indianapolis"
-  },
-  {
-    "id": "mirror-indy-check-out-these-major-road-trail-projects-set-for-2027-2026-09-03",
-    "title": "Check out these major road, trail projects set for 2027",
-    "source": "Mirror Indy",
-    "date": "2026-09-03",
-    "summary": "The Indianapolis Department of Public Works has an ambitious list of projects it hopes to complete or get underway in 2027.",
-    "categories": [
-      "mobility",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/042226_lynhurst_ES01-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-road-projects-2027-keystone-avenue-nickel-plate-trail-pedestrian-bridge"
-  },
-  {
-    "id": "mirror-indy-old-bethel-food-pantry-makes-temporary-changes-ahead-of-move-2026-09-03",
-    "title": "Old Bethel food pantry makes temporary changes ahead of move",
-    "source": "Mirror Indy",
-    "date": "2026-09-03",
-    "summary": "The Old Bethel and Partners and Food Pantry will soon move to a new space at Common Ground at Fatih , 9031 E. 16th St.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Warren-Township-Trustee_JRW018.jpg?fit=780%2C514&ssl=1",
-    "url": "https://mirrorindy.org/east-side-indianapolis-food-pantry-warren-township-old-bethel"
   },
   {
     "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
