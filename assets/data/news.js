@@ -1,41 +1,15 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-you-can-vote-in-indiana-if-you-re-homeless-here-s-how-2026-09-08",
-    "title": "You can vote in Indiana if you’re homeless. Here’s how.",
+    "id": "mirror-indy-veterans-can-get-help-with-housing-job-training-at-this-free-event-2026-09-09",
+    "title": "Veterans can get help with housing, job training at this free event",
     "source": "Mirror Indy",
-    "date": "2026-09-08",
-    "summary": "A voting sign at the Rhodius Park Family Center Nov. 5, 2024.",
+    "date": "2026-09-09",
+    "summary": "Bill Taber has been cutting hair and preparing tax returns on the west side of Indianapolis since 1959. During one of the final days of operation before retirement, Friday, April 12, 2024, business continues as usual.",
     "categories": [
-      "housing-care",
-      "public-space"
+      "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/IndyVotes-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indiana-voting-guide-homeless-general-election-indianapolis-2026"
-  },
-  {
-    "id": "mirror-indy-indy-s-free-city-planning-course-is-open-for-applications-2026-09-08",
-    "title": "Indy’s free city planning course is open for applications",
-    "source": "Mirror Indy",
-    "date": "2026-09-08",
-    "summary": "Bridges Townhomes are pictured Feb. 26, 2026, located in the near east side of Indianapolis. The townhomes are part of a housing project by Englewood Community Development Corporation, in partnership with Wheeler Mission&#8217;s women and children&#8217;s...",
-    "categories": [
-      "housing-care",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260226_BRIDGES-TOWNHOMES_BP_01.jpg?fit=780%2C493&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-city-planning-course-applications-open"
-  },
-  {
-    "id": "mirror-indy-indiana-bmv-plans-mobile-driver-s-license-2026-09-07",
-    "title": "Indiana BMV plans mobile driver’s license",
-    "source": "Mirror Indy",
-    "date": "2026-09-07",
-    "summary": "Matt Kestian, general counsel for the Indiana Bureau of Motor Vehicles, addresses the Interim Study Committee on Roads and Transportation Sept. 2, 2026.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/Matt-Kestian-Indiana-Bureau-of-Motor-Vehicles-09042026_IndianaCapitalChronicle.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indiana-bmv-plans-mobile-drivers-license"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Oak-Park-Barber-Shop-Bill-Taber_DM007.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-housing-event-veterans-bros-foundation-broadway-united-methodist-church-2026"
   },
   {
     "id": "wfyi-new-park-designed-to-teach-kids-how-to-ride-bikes-in-the-city-2026-08-27",
