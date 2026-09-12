@@ -1,5 +1,30 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-hoosiers-use-an-abortion-fund-to-bypass-the-state-s-ban-2026-09-11",
+    "title": "Hoosiers use an abortion fund to bypass the state’s ban",
+    "source": "Mirror Indy",
+    "date": "2026-09-11",
+    "summary": "Due to Indiana’s near-total ban , people are leaving the state to get abortions. Most often, they go to Illinois, where abortion is legal until fetal viability, which is usually around 24 to 26 weeks of pregnancy.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/EXP-ABORTION-FUND_AP1-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-hoosier-abortion-fund-state-ban-legal-risks-lawmakers"
+  },
+  {
+    "id": "mirror-indy-how-will-indy-parks-use-nearly-54-million-in-2027-2026-09-11",
+    "title": "How will Indy Parks use nearly $54 million in 2027?",
+    "source": "Mirror Indy",
+    "date": "2026-09-11",
+    "summary": "An Indy Parks sign at Riverside Park Feb. 4, 2025.",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/Indyparks2-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-city-budget-parks-2027"
+  },
+  {
     "id": "mirror-indy-here-s-who-s-running-for-school-board-in-beech-grove-2026-09-11",
     "title": "Here’s who’s running for school board in Beech Grove",
     "source": "Mirror Indy",
