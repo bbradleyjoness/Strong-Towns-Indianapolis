@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-how-to-meet-candidates-running-for-warren-township-school-board-2026-09-14",
+    "title": "How to meet candidates running for Warren Township school board",
+    "source": "Mirror Indy",
+    "date": "2026-09-14",
+    "summary": "The Warren Township Schools district office is pictured Jan. 9, 2026, in Indianapolis.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ELX-WARREN-SCHOOL-BOARD-CANDIDATES-2.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/warren-township-school-board-candidate-forum-september-2026"
+  },
+  {
     "id": "mirror-indy-hoosiers-use-an-abortion-fund-to-bypass-the-state-s-ban-2026-09-11",
     "title": "Hoosiers use an abortion fund to bypass the state’s ban",
     "source": "Mirror Indy",
@@ -23,19 +35,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/Indyparks2-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-city-budget-parks-2027"
-  },
-  {
-    "id": "mirror-indy-here-s-who-s-running-for-school-board-in-beech-grove-2026-09-11",
-    "title": "Here’s who’s running for school board in Beech Grove",
-    "source": "Mirror Indy",
-    "date": "2026-09-11",
-    "summary": "This year, Beech Grove administrators are pursuing a tax referendum that would replace the district’s existing referendum tax rate. Candidates reached by Mirror Indy say they support continuing the referendum which provides funding for bus services, building...",
-    "categories": [
-      "community-action",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ELX-BEECH-GROVE-SCHOOL-BOARD-CANDIDATES-1.jpeg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/2026-midterm-election-beech-grove-indianapolis-school-board-races"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
