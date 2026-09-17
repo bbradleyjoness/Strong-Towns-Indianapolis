@@ -1,5 +1,31 @@
 [
   {
+    "id": "wfyi-city-approves-240-million-tax-break-for-data-center-developer-s-decatur-township-2026-09-16",
+    "title": "City approves $240 million tax break for data center developer's Decatur Township project",
+    "source": "WFYI",
+    "date": "2026-09-16",
+    "summary": "The Metropolitan Development Commission approved more than $240 million in tax breaks for a $4.3 billion data center set to be built in Decatur Township.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/de/53/d68b382448d488c6e2e5ef5028e7/mdc-2-sept-2026-zak-cassel-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-09-16/city-approves-240-million-tax-break-for-data-center-developers-decatur-township-project"
+  },
+  {
+    "id": "mirror-indy-indy-officials-greenlight-240m-in-tax-breaks-for-southside-data-center-2026-09-16",
+    "title": "Indy officials greenlight $240M in tax breaks for southside data center",
+    "source": "Mirror Indy",
+    "date": "2026-09-16",
+    "summary": "Remonstrators hold signs opposing tax abatements for Sabey Data Center Properties for members of the Metropolitan Development Commission to see before the commission voted to approve two resolutions extending the abatements, Sept. 16, 2026, at the City-County...",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/260916_MDC-DATA-CENTER-TAX-ABATEMENTS_DM037.JPG_Yes_05.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/decatur-township-sabey-data-center-tax-abatement-incentives-southside-indianapolis-marion-county-economic-development"
+  },
+  {
     "id": "mirror-indy-hogsett-pushed-tough-lobbyist-penalties-now-he-won-t-say-if-he-ll-enforce-them-2026-09-16",
     "title": "Hogsett pushed tough lobbyist penalties. Now he won’t say if he’ll enforce them.",
     "source": "Mirror Indy",
@@ -24,44 +50,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260831_housing-delivery-system_tf-1-scaled.jpg?fit=780%2C550&ssl=1",
     "url": "https://mirrorindy.org/eastside-indianapolis-housing-plan-includes-feedback-dmd-indiana-womens-prison"
-  },
-  {
-    "id": "mirror-indy-keep-indianapolis-beautiful-plans-westside-workforce-center-2026-09-15",
-    "title": "Keep Indianapolis Beautiful plans westside workforce center",
-    "source": "Mirror Indy",
-    "date": "2026-09-15",
-    "summary": "Riverside residents look at renderings of the future Jim Douglas Skills and Safety Bicycle Park at West 29th Street and Elmira Street Sept. 15, 2026.",
-    "categories": [
-      "mobility",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/091526_KIBWestIndy_ES09.jpg?fit=780%2C450&ssl=1",
-    "url": "https://mirrorindy.org/westside-keep-indianapolis-beautiful-workforce-center-green-spaces"
-  },
-  {
-    "id": "mirror-indy-beech-grove-officials-talk-2027-budget-uncertain-financial-future-2026-09-14",
-    "title": "Beech Grove officials talk 2027 budget, uncertain financial future",
-    "source": "Mirror Indy",
-    "date": "2026-09-14",
-    "summary": "From left, Beech Grove clerk-treasurer Samantha S. Stratton, councilor Ryan Matkins and city attorney Craig Wiley listen as Mayor James W. Coffman speaks during a council meeting on Sept. 8, 2026.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ENT-BEECH-GROVE-BUDGET_EH05.jpg?fit=780%2C525&ssl=1",
-    "url": "https://mirrorindy.org/beech-grove-indianapolis-budget-2027-south-side-city-tax-reform"
-  },
-  {
-    "id": "mirror-indy-irvington-data-center-poses-health-concerns-for-school-community-and-could-also--2026-09-14",
-    "title": "Irvington data center poses health concerns for school community — and could also impact enrollment",
-    "source": "Mirror Indy",
-    "date": "2026-09-14",
-    "summary": "Irvington Community Elementary Principal Katie Welch, left, and Irvington Community Schools CEO Rachel Maldonado stand behind Irvington Community Elementary and look at the land that&#8217;s the site for a proposed data center on Monday, Aug. 31, 2026.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/JTMBIDMXV5HZLABJZSKUIE5GRU.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/irvington-data-center-poses-health-concerns-for-school-community-and-could-also-impact-enrollment"
   },
   {
     "id": "indy-parks-indy-parks-city-leaders-unveil-new-signature-playground-at-garfield-park-2026-08-05",
