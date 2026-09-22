@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-how-a-library-card-unlocks-free-resources-2026-09-21",
+    "title": "How a library card unlocks free resources",
+    "source": "Mirror Indy",
+    "date": "2026-09-21",
+    "summary": "The Indianapolis Public Library will host Library Card Days Sept. 26-28 at all locations to encourage library card sign-ups.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/Library-Card-Days-1-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-events-library-card-days"
+  },
+  {
+    "id": "mirror-indy-indy-coach-aims-to-change-communities-through-sports-2026-09-21",
+    "title": "Indy coach aims to change communities through sports",
+    "source": "Mirror Indy",
+    "date": "2026-09-21",
+    "summary": "The sun shines on the Frederick Douglass Park basketball court Oct. 16, 2025, in the Martindale Brightwood community of Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251016_MARTINDALE-HISTORIC-DISTRICT_BP_04-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indy-coach-aims-to-change-communities-through-sports"
+  },
+  {
     "id": "mirror-indy-lawrence-proposes-nearly-56-million-budget-for-2027-2026-09-18",
     "title": "Lawrence proposes nearly $56 million budget for 2027",
     "source": "Mirror Indy",
@@ -22,18 +46,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/01/curbside-trash-bins-pickup_JRW02.jpg?fit=780%2C517&ssl=1",
     "url": "https://mirrorindy.org/near-east-side-indianapolis-nesco-environmental-issues"
-  },
-  {
-    "id": "mirror-indy-state-s-unhoused-number-increases-but-fewer-are-living-outside-2026-09-18",
-    "title": "State’s unhoused number increases, but fewer are living outside",
-    "source": "Mirror Indy",
-    "date": "2026-09-18",
-    "summary": "Indiana’s most recent count of the state’s unhoused population showed an increase in the number of individuals experiencing homelessness, but a decrease in how many are living outside.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/rural-homelessness_JH09.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/state-homeless-population"
   },
   {
     "id": "wfyi-city-approves-240-million-tax-break-for-data-center-developer-s-decatur-township-2026-09-16",
