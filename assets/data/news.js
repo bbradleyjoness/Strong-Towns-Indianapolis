@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-an-indianapolis-church-turned-an-ar-15-into-a-garden-tool-2026-09-23",
+    "title": "An Indianapolis church turned an AR-15 into a garden tool",
+    "source": "Mirror Indy",
+    "date": "2026-09-23",
+    "summary": "Beau Underwood, senior pastor at Allisonville Christian Church, holds pieces of a destroyed firearm while speaking to attendees at the church on Sept. 20, 2026, in Indianapolis. The firearm was among 24 guns collected anonymously by volunteers the previous...",
+    "categories": [
+      "public-space",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ENT-GUNS-TO-GARDENS_DM01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-guns-gardens-allionsville-christian-church-violence-shootings-ar15"
+  },
+  {
     "id": "mirror-indy-how-a-library-card-unlocks-free-resources-2026-09-21",
     "title": "How a library card unlocks free resources",
     "source": "Mirror Indy",
