@@ -1,5 +1,18 @@
 [
   {
+    "id": "mirror-indy-east-10th-street-traffic-calming-project-underway-2026-09-23",
+    "title": "East 10th Street traffic calming project underway",
+    "source": "Mirror Indy",
+    "date": "2026-09-23",
+    "summary": "Volunteers paint temporary traffic barriers near the intersection of East 10th Street and North Bosart Avenue in Indianapolis.",
+    "categories": [
+      "mobility",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260922_10th-st-traffic-calming1-e1790183020148.jpeg?fit=780%2C935&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-traffic-calming-project-underway-east-side-little-flower-neighborhood-association"
+  },
+  {
     "id": "mirror-indy-an-indianapolis-church-turned-an-ar-15-into-a-garden-tool-2026-09-23",
     "title": "An Indianapolis church turned an AR-15 into a garden tool",
     "source": "Mirror Indy",
@@ -13,28 +26,17 @@
     "url": "https://mirrorindy.org/indianapolis-guns-gardens-allionsville-christian-church-violence-shootings-ar15"
   },
   {
-    "id": "mirror-indy-how-a-library-card-unlocks-free-resources-2026-09-21",
-    "title": "How a library card unlocks free resources",
-    "source": "Mirror Indy",
-    "date": "2026-09-21",
-    "summary": "The Indianapolis Public Library will host Library Card Days Sept. 26-28 at all locations to encourage library card sign-ups.",
+    "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
+    "title": "Mayor Hogsett and City Leaders Highlight Doris Cowherd Park Renovation and Budget Investments",
+    "source": "Indy Parks",
+    "date": "2026-09-23",
+    "summary": "INDIANAPOLIS – Today, Mayor Joe Hogsett, City-County Councilor Keith Graves, Indy Parks, and the Department of Metropolitan Development (DMD) highlighted the completion of new amenities at Doris Cowherd Park on the city’s northeast side. The $800,000 project...",
     "categories": [
-      "public-space"
+      "public-space",
+      "community-action"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/Library-Card-Days-1-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-events-library-card-days"
-  },
-  {
-    "id": "mirror-indy-indy-coach-aims-to-change-communities-through-sports-2026-09-21",
-    "title": "Indy coach aims to change communities through sports",
-    "source": "Mirror Indy",
-    "date": "2026-09-21",
-    "summary": "The sun shines on the Frederick Douglass Park basketball court Oct. 16, 2025, in the Martindale Brightwood community of Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251016_MARTINDALE-HISTORIC-DISTRICT_BP_04-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indy-coach-aims-to-change-communities-through-sports"
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budget-investments"
   },
   {
     "id": "wfyi-city-approves-240-million-tax-break-for-data-center-developer-s-decatur-township-2026-09-16",
