@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-learn-how-to-support-students-facing-housing-insecurity-2026-09-28",
+    "title": "Learn how to support students facing housing insecurity",
+    "source": "Mirror Indy",
+    "date": "2026-09-28",
+    "summary": "A student works on math problems during a tutoring session on Jan. 29, 2025, at Wheeler Mission in Indianapolis.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/02/Brightlane-learning_RC06-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/learn-how-to-support-students-facing-housing-insecurity"
+  },
+  {
     "id": "mirror-indy-speedway-garden-club-to-give-away-100-trees-for-town-s-centennial-2026-09-28",
     "title": "Speedway Garden Club to give away 100 trees for town’s centennial",
     "source": "Mirror Indy",
