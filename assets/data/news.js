@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-have-you-been-evicted-see-if-you-can-get-it-sealed-from-public-view-2026-10-01",
+    "title": "Have you been evicted? See if you can get it sealed from public view.",
+    "source": "Mirror Indy",
+    "date": "2026-10-01",
+    "summary": "Marion County eviction court Oct. 2, 2024, at Marion County Community Justice Campus.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/10022024_Eviction-Court_DM10.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-eviction-sealing-clinic-planned-2026-indiana-legal-services"
+  },
+  {
     "id": "mirror-indy-feeling-trapped-by-roadwork-on-the-west-side-you-re-not-alone-2026-09-30",
     "title": "Feeling trapped by roadwork on the west side? You’re not alone.",
     "source": "Mirror Indy",
@@ -12,11 +24,11 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/west-side-indianapolis-residents-losing-patience-roadwork-riverside-hawthorne-stout-field"
   },
   {
-    "id": "mirror-indy-could-you-go-a-week-without-driving-test-it-out-through-oct-9-2026-09-30",
-    "title": "Could you go a week without driving? Test it out through Oct. 9",
+    "id": "mirror-indy-could-you-go-a-week-without-driving-test-it-out-through-oct-8-2026-09-30",
+    "title": "Could you go a week without driving? Test it out through Oct. 8",
     "source": "Mirror Indy",
     "date": "2026-09-30",
-    "summary": "Could you get around Indy for a week without using a vehicle? Local organizations are encouraging folks to leave their car keys at home Oct. 1-9.",
+    "summary": "Could you get around Indy for a week without using a vehicle? Local organizations are encouraging folks to leave their car keys at home Oct. 1-8.",
     "categories": [
       "mobility"
     ],
@@ -35,18 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/EXP-VIOLENCE-REDUCTION-COUNCIL_usa-today-scaled.jpg?fit=780%2C554&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-violence-reduction-council-guns-shootings-indy-public-safety-foundation-johns-hopkins"
-  },
-  {
-    "id": "mirror-indy-gun-violence-drops-except-in-domestic-violence-cases-2026-09-29",
-    "title": "Gun violence drops — except in domestic violence cases",
-    "source": "Mirror Indy",
-    "date": "2026-09-29",
-    "summary": "Marcya Hill-Brown, 34, looks out the window at Coburn Place, a domestic violence shelter where she worked and took refuge from an abusive partner, July 9, 2026.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/DOMESTIC-GUN-VIOLENCE-1-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-domestic-gun-violence-rising-constitutional-carry-covid19-coburn-place"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
