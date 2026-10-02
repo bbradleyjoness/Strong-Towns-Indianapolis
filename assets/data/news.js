@@ -48,31 +48,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/west-side-indianapolis-residents-losing-patience-roadwork-riverside-hawthorne-stout-field"
   },
   {
-    "id": "mirror-indy-could-you-go-a-week-without-driving-test-it-out-through-oct-8-2026-09-30",
-    "title": "Could you go a week without driving? Test it out through Oct. 8",
-    "source": "Mirror Indy",
-    "date": "2026-09-30",
-    "summary": "Could you get around Indy for a week without using a vehicle? Local organizations are encouraging folks to leave their car keys at home Oct. 1-8.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/indygo_bus-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/ride-indygo-bus-bike-week-without-driving-2026-marion-county-indianapolis-free-events"
-  },
-  {
-    "id": "mirror-indy-why-indianapolis-wants-to-create-a-violence-reduction-council-2026-09-30",
-    "title": "Why Indianapolis wants to create a violence reduction council",
-    "source": "Mirror Indy",
-    "date": "2026-09-30",
-    "summary": "Officers work the scene where a person was injured in a shooting involving law enforcement April 8, 2026, in Indianapolis.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/EXP-VIOLENCE-REDUCTION-COUNCIL_usa-today-scaled.jpg?fit=780%2C554&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-violence-reduction-council-guns-shootings-indy-public-safety-foundation-johns-hopkins"
-  },
-  {
     "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
     "title": "Mayor Hogsett and City Leaders Highlight Doris Cowherd Park Renovation and Budget Investments",
     "source": "Indy Parks",
