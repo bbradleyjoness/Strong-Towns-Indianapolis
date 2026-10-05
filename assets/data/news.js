@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-a-place-to-flourish-on-the-southeast-side-2026-10-05",
+    "title": "A place to flourish on the southeast side",
+    "source": "Mirror Indy",
+    "date": "2026-10-05",
+    "summary": "Isaias Haug (left) and Michael Watkins (right) shovel dirt at the new Palmer Street Community Garden, Oct. 1, 2026.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/DAY-SEND-REGROWTH-PROGRAM_02-scaled.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/regrowth-southeast-neighborhood-development-southside-palmer-street-community-garden-justice-involved-youth"
+  },
+  {
+    "id": "mirror-indy-indiana-has-a-transitional-housing-gap-for-women-these-groups-are-trying-to-fill-2026-10-05",
+    "title": "Indiana has a transitional housing gap for women. These groups are trying to fill it",
+    "source": "Mirror Indy",
+    "date": "2026-10-05",
+    "summary": "Valerie Lakes packs up her belongings to move to another room on Sept. 29, 2026, at Dove Recovery House for Women in Columbus, Ind.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20260929_TRANSITIONAL-HOUSING-FOR-WOMEN_CP_0008.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/transitional-housing-gap-women-indiana"
+  },
+  {
     "id": "mirror-indy-what-s-up-with-everything-being-a-cultural-campus-now-2026-10-02",
     "title": "What’s up with everything being a ‘cultural campus’ now?",
     "source": "Mirror Indy",
@@ -11,42 +35,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/04/EXP-5-things-to-see-at-CAMi_MG08.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-arts-cultural-campus-neighborhoods-community-nature"
-  },
-  {
-    "id": "mirror-indy-township-judges-slated-to-appear-in-forum-2026-10-01",
-    "title": "Township judges slated to appear in forum",
-    "source": "Mirror Indy",
-    "date": "2026-10-01",
-    "summary": "Wayne Township Small Claims Court Judge Gerald Coleman meets with housing advocates Oct. 24, 2025, in his courtroom to talk about eviction cases.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251024_wayne-evictions_tf-scaled.jpg?fit=780%2C468&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-township-small-claims-court-judges-election-2026"
-  },
-  {
-    "id": "mirror-indy-have-questions-about-what-s-next-for-the-metrobloks-data-center-2026-10-01",
-    "title": "Have questions about what’s next for the Metrobloks data center?",
-    "source": "Mirror Indy",
-    "date": "2026-10-01",
-    "summary": "Los Angeles-based company Metrobloks has proposed putting a data center at 2505 N. Sherman Drive, the site of the former Sherman Drive-In Theater. The area is seen Jan. 14, 2026, in Martindale Brightwood.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/MB-DATA-CENTER-CLERGY_RS07.jpg?fit=780%2C531&ssl=1",
-    "url": "https://mirrorindy.org/martindale-brightwood-metrobloks-data-center-tax-abatments-east-side-indianapolis"
-  },
-  {
-    "id": "mirror-indy-have-you-been-evicted-see-if-you-can-get-it-sealed-from-public-view-2026-10-01",
-    "title": "Have you been evicted? See if you can get it sealed from public view.",
-    "source": "Mirror Indy",
-    "date": "2026-10-01",
-    "summary": "Marion County eviction court Oct. 2, 2024, at Marion County Community Justice Campus.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/10/10022024_Eviction-Court_DM10.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-eviction-sealing-clinic-planned-2026-indiana-legal-services"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
