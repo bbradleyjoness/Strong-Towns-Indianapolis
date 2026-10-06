@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-coalition-of-ai-giants-labor-unions-proposes-uniform-guardrails-for-indiana-data-2026-10-05",
+    "title": "Coalition of AI giants, labor unions proposes uniform guardrails for Indiana data centers",
+    "source": "Mirror Indy",
+    "date": "2026-10-05",
+    "summary": "A national coalition of AI companies, labor unions and investors is launching a campaign in Indiana calling for tighter guardrails on new data centers while pushing back against local moratoriums.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/EXP-WHAT-IS-A-DATA-CENTER_MC-scaled-1.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/data-center-coalition-guardrails"
+  },
+  {
+    "id": "mirror-indy-written-in-the-stars-indy-s-mystical-scene-is-growing-2026-10-05",
+    "title": "Written in the stars: Indy’s mystical scene is growing",
+    "source": "Mirror Indy",
+    "date": "2026-10-05",
+    "summary": "The astro girlies asking for a prospective date’s birth time or swapping their “big 3” with a stranger are subtle cues that what was once considered fringe has reached the mainstream.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/DSC09735-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/witchy-woo-woo-community-stores-practices-popups-indianapolis-tarot-healing"
+  },
+  {
+    "id": "mirror-indy-indiana-58-000-could-lose-medicaid-coverage-for-healthy-indiana-plan-2026-10-05",
+    "title": "Indiana: 58,000 could lose Medicaid coverage for Healthy Indiana Plan",
+    "source": "Mirror Indy",
+    "date": "2026-10-05",
+    "summary": "Indiana officials in a news release said more than 58,000 people could lose insurance through the Healthy Indiana Plan in 2027 because they are not meeting the state’s new Medicaid work requirements .",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/EXP-MEDICAID-AND-SNAP-CHANGES_JZ01-FEATURED-IMAGE_.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-medicaid-healthy-indiana-plan-hip-work-requirements-fssa-trump"
+  },
+  {
     "id": "mirror-indy-a-place-to-flourish-on-the-southeast-side-2026-10-05",
     "title": "A place to flourish on the southeast side",
     "source": "Mirror Indy",
