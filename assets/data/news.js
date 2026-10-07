@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-kids-learn-empathy-for-those-who-struggle-to-read-2026-10-07",
+    "title": "Kids learn empathy for those who struggle to read",
+    "source": "Mirror Indy",
+    "date": "2026-10-07",
+    "summary": "From left, Amanda Kingsbury, Mirror Indy’s managing editor of innovation, sits next to the youth reporters, Caden Falls, 11, and Evie Falls, 10, with Reynolds Journalism Institute innovation fellow, Elizaveta Orlova. The group interviews a family...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/260801_Reading-is-for-Everyone_SA01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/kid-correspondents-literacy-event"
+  },
+  {
+    "id": "mirror-indy-elanco-purdue-announce-westside-research-institute-2026-10-07",
+    "title": "Elanco, Purdue announce westside research institute",
+    "source": "Mirror Indy",
+    "date": "2026-10-07",
+    "summary": "The west side will be home to a research building that will turn pure science into products that help people and animals — the One Health Research Institute .",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/100626_OneHealth_ES10.jpg?fit=780%2C441&ssl=1",
+    "url": "https://mirrorindy.org/west-indianapolis-purdue-elanco-one-health-research-institute"
+  },
+  {
     "id": "mirror-indy-learn-about-private-equity-s-role-in-housing-at-this-free-event-2026-10-06",
     "title": "Learn about private equity’s role in housing at this free event",
     "source": "Mirror Indy",
@@ -22,56 +46,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260918_ELX_REFERENDUM_CLASSROOM_CP_0034_tonedWP.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/ben-davis-high-school-homecoming-alumni-experience-football-october-2026"
-  },
-  {
-    "id": "mirror-indy-a-100k-city-budget-cut-is-making-it-harder-to-get-food-2026-10-06",
-    "title": "A $100K city budget cut is making it harder to get food",
-    "source": "Mirror Indy",
-    "date": "2026-10-06",
-    "summary": "A shopping cart holds food near the end of a shopping trip on Oct. 1, 2026, at Westminster Neighborhood Services in Indianapolis.",
-    "categories": [
-      "mobility",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/FEED-INDY_FOOD-PANTRY_LK02.jpg?fit=780%2C558&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-food-access-funding-program-cut-feedindy-lyft"
-  },
-  {
-    "id": "mirror-indy-coalition-of-ai-giants-labor-unions-proposes-uniform-guardrails-for-indiana-data-2026-10-05",
-    "title": "Coalition of AI giants, labor unions proposes uniform guardrails for Indiana data centers",
-    "source": "Mirror Indy",
-    "date": "2026-10-05",
-    "summary": "A national coalition of AI companies, labor unions and investors is launching a campaign in Indiana calling for tighter guardrails on new data centers while pushing back against local moratoriums.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/EXP-WHAT-IS-A-DATA-CENTER_MC-scaled-1.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/data-center-coalition-guardrails"
-  },
-  {
-    "id": "mirror-indy-written-in-the-stars-indy-s-mystical-scene-is-growing-2026-10-05",
-    "title": "Written in the stars: Indy’s mystical scene is growing",
-    "source": "Mirror Indy",
-    "date": "2026-10-05",
-    "summary": "The astro girlies asking for a prospective date’s birth time or swapping their “big 3” with a stranger are subtle cues that what was once considered fringe has reached the mainstream.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/DSC09735-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/witchy-woo-woo-community-stores-practices-popups-indianapolis-tarot-healing"
-  },
-  {
-    "id": "mirror-indy-indiana-58-000-could-lose-medicaid-coverage-for-healthy-indiana-plan-2026-10-05",
-    "title": "Indiana: 58,000 could lose Medicaid coverage for Healthy Indiana Plan",
-    "source": "Mirror Indy",
-    "date": "2026-10-05",
-    "summary": "Indiana officials in a news release said more than 58,000 people could lose insurance through the Healthy Indiana Plan in 2027 because they are not meeting the state’s new Medicaid work requirements .",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/EXP-MEDICAID-AND-SNAP-CHANGES_JZ01-FEATURED-IMAGE_.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-medicaid-healthy-indiana-plan-hip-work-requirements-fssa-trump"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
