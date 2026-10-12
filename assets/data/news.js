@@ -1,15 +1,15 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-things-aren-t-getting-better-for-people-latest-report-on-indianapolis-eviction-c-2026-10-09",
-    "title": "‘Things aren’t getting better for people.’ Latest report on Indianapolis’ eviction crisis",
+    "id": "mirror-indy-purdue-will-no-longer-use-lux-on-capitol-for-student-housing-2026-10-12",
+    "title": "Purdue will no longer use LUX on Capitol for student housing",
     "source": "Mirror Indy",
-    "date": "2026-10-09",
-    "summary": "A House committee approved an amended bill that seeks to “streamline” the legal process for tenants to have certain evictions sealed from their record.",
+    "date": "2026-10-12",
+    "summary": "Construction of new infrastructure, Aug. 28, 2025, at Purdue University Indianapolis.",
     "categories": [
       "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/eviction_file_wfyi.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/things-arent-getting-better-for-people-latest-report-on-indianapolis-eviction-crisis"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/08/SPLIT-ONE-YEAR-LATER_DM01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/purdue-indianapolis-lux-capitol-student-housing-apartments"
   },
   {
     "id": "mirror-indy-state-audit-dings-pike-township-over-pay-mileage-logs-2026-10-09",
@@ -37,42 +37,16 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-playground-project-planned-tarkington-park"
   },
   {
-    "id": "mirror-indy-residents-leave-data-center-meeting-with-more-questions-than-answers-2026-10-08",
-    "title": "Residents leave data center meeting with more questions than answers",
-    "source": "Mirror Indy",
+    "id": "wfyi-things-aren-t-getting-better-for-people-latest-report-on-indianapolis-eviction-c-2026-10-08",
+    "title": "'Things aren't getting better for people.' Latest report on Indianapolis' eviction crisis",
+    "source": "WFYI",
     "date": "2026-10-08",
-    "summary": "Audience members hold signs in opposition to the Metrobloks data center during the Metropolitan Development Commission’s Hearing Examiner meeting on Feb. 12, 2026, at the City-County Building in Indianapolis. During the meeting, hearing examiner Judy Weerts...",
-    "categories": [
-      "urbanism",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260212_HEARING-EXAMINER-VOTE-FOR-MBW-DATA-CENTER_BP_01.jpg?fit=780%2C450&ssl=1",
-    "url": "https://mirrorindy.org/martindale-brightwood-metrobloks-data-center-east-side-indianapolis-indy-economic-development"
-  },
-  {
-    "id": "mirror-indy-check-out-indy-s-second-annual-black-health-fair-2026-10-08",
-    "title": "Check out Indy’s second annual Black Health Fair",
-    "source": "Mirror Indy",
-    "date": "2026-10-08",
-    "summary": "The Indianapolis Public Library will host its second annual Black Health Fair on Oct. 13.",
-    "categories": [
-      "housing-care",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/cafe-womens-health-fair_004-scaled.jpg?fit=780%2C526&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-library-black-health-fair-second-annual-free-event-screenings"
-  },
-  {
-    "id": "mirror-indy-get-help-with-driver-s-license-reinstatement-at-resource-fair-2026-10-08",
-    "title": "Get help with driver’s license reinstatement at resource fair",
-    "source": "Mirror Indy",
-    "date": "2026-10-08",
-    "summary": "A document about Indiana renter rights was provided by Indiana Legal Services during an eviction sealing clinic Aug. 26, 2024, at Eskenazi Health Thomas and Arlene Grande Campus on the east side of Indianapolis.",
+    "summary": "A report from the Fair Housing Center of Central Indiana shows high numbers of people were evicted after financial hits, including job loss, an unexpected expense, paying another debt and rent increases.",
     "categories": [
       "housing-care"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/eviction-sealing-clinic_TS03.jpg?fit=780%2C526&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-urban-league-drivers-license-reinstatement-expungement-evictions"
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/2c/c4/b036e9774c539e58e06d835076ae/eviction-notice-wfyi-file-photo.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-10-08/things-arent-getting-better-for-people-latest-report-on-indianapolis-eviction-crisis"
   },
   {
     "id": "wfyi-new-construction-project-will-remake-medians-close-lanes-along-86th-street-2026-10-07",
