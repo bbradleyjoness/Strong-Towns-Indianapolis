@@ -24,19 +24,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/pike-township-audit-pay-increases-trustee-annette-johnson-indianapolis"
   },
   {
-    "id": "mirror-indy-a-playground-faces-replacement-a-nature-advocate-says-keep-it-2026-10-09",
-    "title": "A playground faces replacement. A nature advocate says keep it.",
-    "source": "Mirror Indy",
-    "date": "2026-10-09",
-    "summary": "Nancy Stockton, 84, pushes her great-grandson on a swing on the south playground at Tarkington Park in Indianapolis on Oct. 7, 2026.",
-    "categories": [
-      "public-space",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261007_tarkington-park_tf2-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-playground-project-planned-tarkington-park"
-  },
-  {
     "id": "wfyi-things-aren-t-getting-better-for-people-latest-report-on-indianapolis-eviction-c-2026-10-08",
     "title": "'Things aren't getting better for people.' Latest report on Indianapolis' eviction crisis",
     "source": "WFYI",
