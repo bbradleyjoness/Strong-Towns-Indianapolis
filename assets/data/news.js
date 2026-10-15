@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-1-in-4-indiana-voters-say-government-corruption-is-top-concern-2026-10-15",
+    "title": "1 in 4 Indiana voters say ‘government corruption’ is top concern",
+    "source": "Mirror Indy",
+    "date": "2026-10-15",
+    "summary": "Constituents cast their ballots Nov. 5, 2024, at Chin Christian Church in Indianapolis. Voters cast ballots at polling stations in the Indianapolis area, selecting candidates for various offices, including the U.S. presidency.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/Election-poll-voter-concern_4.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indiana-poll-corruption-inflation"
+  },
+  {
     "id": "wfyi-new-indianapolis-plan-would-more-than-triple-the-size-of-the-city-s-trail-networ-2026-10-14",
     "title": "New Indianapolis plan would more than triple the size of the city's trail network",
     "source": "WFYI",
