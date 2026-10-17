@@ -1,5 +1,29 @@
 [
   {
+    "id": "wfyi-tarkington-park-will-get-a-playground-update-2026-10-16",
+    "title": "Tarkington Park will get a playground update",
+    "source": "WFYI",
+    "date": "2026-10-16",
+    "summary": "A new playground will replace an older one at the northside Tarkington Park in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/eb/22/ed7662524fcd9484a10a57ff78ee/park-1.png",
+    "url": "https://www.wfyi.org/wfyi-news/2026-10-16/tarkington-park-will-get-a-playground-update"
+  },
+  {
+    "id": "mirror-indy-a-higher-calling-at-indianapolis-first-church-of-cannabis-2026-10-16",
+    "title": "A higher calling at Indianapolis’ First Church of Cannabis",
+    "source": "Mirror Indy",
+    "date": "2026-10-16",
+    "summary": "Bill Levin greets a congregant with an ‘I love you’ before service starts on Feb. 18, 2026, at the First Church of Cannabis in Indianapolis. &#8220;It breaks down walls when you walk into a room,” Levin’s wife, Roo (pictured, background) said. “You know,...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/BP_Faith-Project_Cannabis_02.jpg?fit=780%2C499&ssl=1",
+    "url": "https://mirrorindy.org/a-higher-calling-at-indianapolis-first-church-of-cannabis"
+  },
+  {
     "id": "mirror-indy-lawmakers-at-odds-over-childcare-funding-and-capacity-2026-10-16",
     "title": "Lawmakers at odds over childcare funding and capacity",
     "source": "Mirror Indy",
@@ -26,31 +50,6 @@
     "url": "https://mirrorindy.org/bike-buddies-central-indiana-cycling"
   },
   {
-    "id": "mirror-indy-decoding-the-ballot-how-to-read-a-school-referendum-question-2026-10-15",
-    "title": "Decoding the ballot: How to read a school referendum question",
-    "source": "Mirror Indy",
-    "date": "2026-10-15",
-    "summary": "Kids wait for the buses to leave after dismissal on Sept. 17, 2026, at Ben Davis High School in Indianapolis.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260918_ELX_REFERENDUM_CLASSROOM_CP_0389_tonedWP.jpg?fit=780%2C526&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-school-referendum-explaining-the-ballot-question-fall-2026-midterm-elections"
-  },
-  {
-    "id": "mirror-indy-1-in-4-indiana-voters-say-government-corruption-is-top-concern-2026-10-15",
-    "title": "1 in 4 Indiana voters say ‘government corruption’ is top concern",
-    "source": "Mirror Indy",
-    "date": "2026-10-15",
-    "summary": "Constituents cast their ballots Nov. 5, 2024, at Chin Christian Church in Indianapolis. Voters cast ballots at polling stations in the Indianapolis area, selecting candidates for various offices, including the U.S. presidency.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/Election-poll-voter-concern_4.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indiana-poll-corruption-inflation"
-  },
-  {
     "id": "wfyi-new-indianapolis-plan-would-more-than-triple-the-size-of-the-city-s-trail-networ-2026-10-14",
     "title": "New Indianapolis plan would more than triple the size of the city's trail network",
     "source": "WFYI",
@@ -62,18 +61,6 @@
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/legacy/files/wfyi/articles/original/cultural-trail_XdCo6o17.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-10-14/new-indianapolis-plan-would-more-than-triple-the-size-of-the-citys-trail-network"
-  },
-  {
-    "id": "mirror-indy-indy-healthcare-workers-balance-safety-patient-care-amid-hospital-arrests-2026-10-14",
-    "title": "Indy healthcare workers balance safety, patient care amid hospital arrests",
-    "source": "Mirror Indy",
-    "date": "2026-10-14",
-    "summary": "From left, Jassenia Wood, Janet Vondersaar and Genevieve George. The three medical workers shared their experiences with hospital police and patient violence in Indianapolis.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ENT-NURSES-POV-TOP_FEATURED.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-hospital-arrests-eskenazi-health-healthcare-workers-nurses-paramedics-mental-illness"
   },
   {
     "id": "wfyi-things-aren-t-getting-better-for-people-latest-report-on-indianapolis-eviction-c-2026-10-08",
