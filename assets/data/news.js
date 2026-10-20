@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-here-are-the-winners-and-losers-in-indy-s-1-9b-budget-2026-10-19",
+    "title": "Here are the winners and losers in Indy’s $1.9B budget",
+    "source": "Mirror Indy",
+    "date": "2026-10-19",
+    "summary": "Mayor Joe Hogsett delivers the proposed city budget during a council meeting on Aug. 10, 2026, at the City-County Building in Indianapolis.",
+    "categories": [
+      "community-action",
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260810_CITY-COUNTY-COUNCIL-MEETING_BP_35.jpg?fit=780%2C525&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-2027-budget-approved-city-county-council-joe-hogsett-impd"
+  },
+  {
     "id": "mirror-indy-here-s-what-you-need-to-know-about-the-24m-ballot-question-for-washington-townsh-2026-10-19",
     "title": "Here’s what you need to know about the $24M ballot question for Washington Township schools",
     "source": "Mirror Indy",
@@ -36,18 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-10-16/tarkington-park-will-get-a-playground-update"
   },
   {
-    "id": "mirror-indy-a-higher-calling-at-indianapolis-first-church-of-cannabis-2026-10-16",
-    "title": "A higher calling at Indianapolis’ First Church of Cannabis",
-    "source": "Mirror Indy",
-    "date": "2026-10-16",
-    "summary": "Bill Levin greets a congregant with an ‘I love you’ before service starts on Feb. 18, 2026, at the First Church of Cannabis in Indianapolis. &#8220;It breaks down walls when you walk into a room,” Levin’s wife, Roo (pictured, background) said. “You know,...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/BP_Faith-Project_Cannabis_02.jpg?fit=780%2C499&ssl=1",
-    "url": "https://mirrorindy.org/a-higher-calling-at-indianapolis-first-church-of-cannabis"
-  },
-  {
     "id": "wfyi-new-indianapolis-plan-would-more-than-triple-the-size-of-the-city-s-trail-networ-2026-10-14",
     "title": "New Indianapolis plan would more than triple the size of the city's trail network",
     "source": "WFYI",
@@ -71,18 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/2c/c4/b036e9774c539e58e06d835076ae/eviction-notice-wfyi-file-photo.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-10-08/things-arent-getting-better-for-people-latest-report-on-indianapolis-eviction-crisis"
-  },
-  {
-    "id": "wfyi-new-construction-project-will-remake-medians-close-lanes-along-86th-street-2026-10-07",
-    "title": "New construction project will remake medians, close lanes along 86th Street",
-    "source": "WFYI",
-    "date": "2026-10-07",
-    "summary": "The Indianapolis Department of Public Works is tearing up medians along 86th Street — from Meridian Street to Allisonville Road — to add pedestrian islands to medians and make curbs ADA-compliant.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/b8/e5/559b55cb4bf0b49cd6c69381b87a/monon-trail-86th-street-consturction-jeremy-reuben.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-10-07/new-construction-project-will-remake-medians-close-lanes-along-86th-street"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-city-leaders-highlight-doris-cowherd-park-renovation-and-budge-2026-09-23",
