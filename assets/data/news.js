@@ -1,5 +1,56 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-in-indianapolis-interrupting-gun-violence-starts-at-the-bedside-2026-10-20",
+    "title": "In Indianapolis, interrupting gun violence starts at the bedside",
+    "source": "Mirror Indy",
+    "date": "2026-10-20",
+    "summary": "“I was just lucky to be alive,” said Nate Boggs in response to being shot nine times in a gun swap gone wrong. After he was transported to the hospital, a life coach from the Indianapolis Hospital-linked Violence Intervention Program came to help walk him...",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261006_HOSPITAL-INTERVENTION-PROGRAM_BP_05.jpg?fit=780%2C526&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-shootings-hospital-linked-gun-violence-intervention-program-indy-peace-crime"
+  },
+  {
+    "id": "mirror-indy-indianapolis-public-education-corporation-to-consider-3-2-million-budget-for-202-2026-10-20",
+    "title": "Indianapolis Public Education Corporation to consider $3.2 million budget for 2027",
+    "source": "Mirror Indy",
+    "date": "2026-10-20",
+    "summary": "The newly created Indianapolis Public Education Corporation is proposing a $3.2 million budget for 2027 as it prepares to carry out a state-mandated charge to oversee transportation and buildings for Indianapolis Public Schools and charter schools .",
+    "categories": [
+      "community-action",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ipec-budget-1_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-education-corporation-to-consider-3-2-million-budget-for-2027"
+  },
+  {
+    "id": "mirror-indy-beech-grove-passes-19-6m-budget-for-2027-amid-uncertainty-2026-10-20",
+    "title": "Beech Grove passes $19.6M budget for 2027 amid uncertainty",
+    "source": "Mirror Indy",
+    "date": "2026-10-20",
+    "summary": "James W. Coffman, mayor of Beech Grove, attends a budget workshop during the Beech Grove City Council meeting on Sept. 8, 2026.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/ENT-BEECH-GROVE-BUDGET_EH06.jpg?fit=780%2C525&ssl=1",
+    "url": "https://mirrorindy.org/beech-grove-indianapolis-budget-approved-2027-south-side-city"
+  },
+  {
+    "id": "mirror-indy-ips-board-candidates-discuss-school-closures-ai-and-legislative-funding-at-forum-2026-10-20",
+    "title": "IPS board candidates discuss school closures, AI and legislative funding at forum",
+    "source": "Mirror Indy",
+    "date": "2026-10-20",
+    "summary": "Candidates for the at-large and District 3 seats on the Indianapolis Public Schools board at the WFYI and Chalkbeat Indiana forum on Monday, Oct. 19, 2026 at Indianapolis Public Library&#8217;s Central Library",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ips-school-board-ai-1_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/ips-board-candidates-discuss-school-closures-ai-and-legislative-funding-at-forum"
+  },
+  {
     "id": "mirror-indy-here-are-the-winners-and-losers-in-indy-s-1-9b-budget-2026-10-19",
     "title": "Here are the winners and losers in Indy’s $1.9B budget",
     "source": "Mirror Indy",
@@ -23,18 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/washington-twp-ballot-1_WFYI.jpeg?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/heres-what-you-need-to-know-about-the-24m-ballot-question-for-washington-township-schools"
-  },
-  {
-    "id": "mirror-indy-lawrence-north-runner-up-in-state-flag-football-tournament-2026-10-19",
-    "title": "Lawrence North runner-up in state flag football tournament",
-    "source": "Mirror Indy",
-    "date": "2026-10-19",
-    "summary": "Lawrence North wide receiver and defensive back Aeryn Cannon (10) receives a hug after the team lost to the Penn Kingsmen on Oct. 17, 2026, at the Grand Park Sports Campus in Westfield, Ind. The Penn Kingsmen defeated the Lawrence North Wildcats 34-28....",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261017_StateFlag_BP_03_SIZED.jpg?fit=780%2C548&ssl=1",
-    "url": "https://mirrorindy.org/lawrence-north-wildcats-girls-flag-football-competes-state-tournament-2026"
   },
   {
     "id": "wfyi-tarkington-park-will-get-a-playground-update-2026-10-16",
