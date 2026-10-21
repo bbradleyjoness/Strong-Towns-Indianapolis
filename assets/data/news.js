@@ -64,18 +64,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-2027-budget-approved-city-county-council-joe-hogsett-impd"
   },
   {
-    "id": "mirror-indy-here-s-what-you-need-to-know-about-the-24m-ballot-question-for-washington-townsh-2026-10-19",
-    "title": "Here’s what you need to know about the $24M ballot question for Washington Township schools",
-    "source": "Mirror Indy",
-    "date": "2026-10-19",
-    "summary": "The Metropolitan School District of Washington is asking voters to renew a tax increase that they first approved in 2020.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/washington-twp-ballot-1_WFYI.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/heres-what-you-need-to-know-about-the-24m-ballot-question-for-washington-township-schools"
-  },
-  {
     "id": "wfyi-tarkington-park-will-get-a-playground-update-2026-10-16",
     "title": "Tarkington Park will get a playground update",
     "source": "WFYI",
