@@ -1,5 +1,31 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-city-says-it-will-clean-not-close-fall-creek-trail-homeless-camp-2026-10-22",
+    "title": "City says it will clean — not close — Fall Creek Trail homeless camp",
+    "source": "Mirror Indy",
+    "date": "2026-10-22",
+    "summary": "A homeless encampment along Fall Creek Trail is seen from above on the Monon Bridge on Oct. 21, 2026, in Indianapolis.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261021_fall-creak-trail-homeless-camp_tf-2-scaled.jpg?fit=780%2C546&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-homeless-camp-cleaned-fall-creek-trail-monon-ophs"
+  },
+  {
+    "id": "mirror-indy-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
+    "title": "Problem-solving courts are a lifeline. Now they’re being cut.",
+    "source": "Mirror Indy",
+    "date": "2026-10-22",
+    "summary": "Aprili, who uses Marion County’s problem-solving courts, poses for a portrait Sept. 22, 2026, at the Indianapolis Central Library.",
+    "categories": [
+      "community-action",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260922_ENT-COURT-FUNDING-CUTS_CP_0002.jpg?fit=780%2C596&ssl=1",
+    "url": "https://mirrorindy.org/problem-solving-drug-reenty-court-marion-county-jail-indiana-department-corrections-budget"
+  },
+  {
     "id": "mirror-indy-in-indianapolis-interrupting-gun-violence-starts-at-the-bedside-2026-10-20",
     "title": "In Indianapolis, interrupting gun violence starts at the bedside",
     "source": "Mirror Indy",
@@ -49,19 +75,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ips-school-board-ai-1_WFYI.jpeg?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/ips-board-candidates-discuss-school-closures-ai-and-legislative-funding-at-forum"
-  },
-  {
-    "id": "mirror-indy-here-are-the-winners-and-losers-in-indy-s-1-9b-budget-2026-10-19",
-    "title": "Here are the winners and losers in Indy’s $1.9B budget",
-    "source": "Mirror Indy",
-    "date": "2026-10-19",
-    "summary": "Mayor Joe Hogsett delivers the proposed city budget during a council meeting on Aug. 10, 2026, at the City-County Building in Indianapolis.",
-    "categories": [
-      "community-action",
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260810_CITY-COUNTY-COUNCIL-MEETING_BP_35.jpg?fit=780%2C525&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-2027-budget-approved-city-county-council-joe-hogsett-impd"
   },
   {
     "id": "wfyi-tarkington-park-will-get-a-playground-update-2026-10-16",
