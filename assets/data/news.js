@@ -1,16 +1,53 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
-    "title": "Problem-solving courts are a lifeline. Now they’re being cut.",
+    "id": "mirror-indy-what-party-are-you-indiana-law-transformed-school-board-races-2026-10-23",
+    "title": "“What party are you?” Indiana law transformed school board races",
     "source": "Mirror Indy",
-    "date": "2026-10-22",
-    "summary": "Aprili, who uses Marion County’s problem-solving courts, poses for a portrait Sept. 22, 2026, at the Indianapolis Central Library.",
+    "date": "2026-10-23",
+    "summary": "Rick Yoder, a Republican candidate for Goshen school board, places a sign on a street corner Oct. 13, 2026, in Goshen, Ind.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/PARTISAN-SCHOOL-BOARD-RACES_NL04.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/school-board-indiana-goshen"
+  },
+  {
+    "id": "mirror-indy-the-amish-have-historically-never-voted-that-s-changing-in-indiana-2026-10-23",
+    "title": "The Amish have historically never voted. That’s changing in Indiana",
+    "source": "Mirror Indy",
+    "date": "2026-10-23",
+    "summary": "Members of the Amish community, Samuel Stoltzfus and his wife Lillian Stoltzfus, vote at a polling center at the Garden Spot Village retirement community on Nov. 4, 2024, in New Holland, Pa.",
     "categories": [
       "community-action",
       "public-space"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260922_ENT-COURT-FUNDING-CUTS_CP_0002.jpg?fit=780%2C596&ssl=1",
-    "url": "https://mirrorindy.org/problem-solving-drug-reenty-court-marion-county-jail-indiana-department-corrections-budget"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/Effort-to-get-Amish-to-vote_03-scaled-1.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/amish-voting-indiana-midterms"
+  },
+  {
+    "id": "mirror-indy-auto-repair-shop-withdraws-proposal-to-develop-southside-wetland-2026-10-23",
+    "title": "Auto repair shop withdraws proposal to develop southside wetland",
+    "source": "Mirror Indy",
+    "date": "2026-10-23",
+    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_05.jpg?fit=780%2C478&ssl=1",
+    "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-rezone-petition-withdrawn-southside-metropolitan-development-commission"
+  },
+  {
+    "id": "wfyi-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
+    "title": "Problem-solving courts are a lifeline. Now they're being cut",
+    "source": "WFYI",
+    "date": "2026-10-22",
+    "summary": "Marion County is winding down courts that support people with mental health and substance-use.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/de/78/c2b6ccf049c7828c82a35372d5f4/april-cara-penquite-mirror-indy.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-10-22/problem-solving-courts-are-a-lifeline-now-theyre-being-cut"
   },
   {
     "id": "wfyi-new-signs-along-indianapolis-cultural-trail-aim-to-help-people-find-nearby-attra-2026-10-22",
@@ -74,31 +111,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/mayor-hogsett-and-indy-parks-announce-the-reopening-of-sahm-park-and-upcoming-completion-of-remaining-lilly-endowment-grant-projects"
-  },
-  {
-    "id": "mirror-indy-in-indianapolis-interrupting-gun-violence-starts-at-the-bedside-2026-10-20",
-    "title": "In Indianapolis, interrupting gun violence starts at the bedside",
-    "source": "Mirror Indy",
-    "date": "2026-10-20",
-    "summary": "“I was just lucky to be alive,” said Nate Boggs in response to being shot nine times in a gun swap gone wrong. After he was transported to the hospital, a life coach from the Indianapolis Hospital-linked Violence Intervention Program came to help walk him...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261006_HOSPITAL-INTERVENTION-PROGRAM_BP_05.jpg?fit=780%2C526&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-shootings-hospital-linked-gun-violence-intervention-program-indy-peace-crime"
-  },
-  {
-    "id": "mirror-indy-indianapolis-public-education-corporation-to-consider-3-2-million-budget-for-202-2026-10-20",
-    "title": "Indianapolis Public Education Corporation to consider $3.2 million budget for 2027",
-    "source": "Mirror Indy",
-    "date": "2026-10-20",
-    "summary": "The newly created Indianapolis Public Education Corporation is proposing a $3.2 million budget for 2027 as it prepares to carry out a state-mandated charge to oversee transportation and buildings for Indianapolis Public Schools and charter schools .",
-    "categories": [
-      "community-action",
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ipec-budget-1_WFYI.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-public-education-corporation-to-consider-3-2-million-budget-for-2027"
   },
   {
     "id": "wfyi-tarkington-park-will-get-a-playground-update-2026-10-16",
