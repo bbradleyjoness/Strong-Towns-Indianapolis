@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-help-find-the-missing-librarian-at-library-of-legends-2026-10-23",
+    "title": "Help find the missing librarian at ‘Library of Legends’",
+    "source": "Mirror Indy",
+    "date": "2026-10-23",
+    "summary": "The four local creatives of the 3D storybook “The Witches Cauldron: Library of Legends,” at the Backlot in Irvington: From left, Chris Ozminkowski, Amber Houston, Karma Hamm and Marc Ebtinger.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/EXP-LIBRARY-OF-LEGENDS_MG02.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/backlot-irvington-halloween-festival"
+  },
+  {
+    "id": "mirror-indy-developer-proposes-turning-washington-square-into-a-luxury-resort-2026-10-23",
+    "title": "Developer proposes turning Washington Square into a luxury resort",
+    "source": "Mirror Indy",
+    "date": "2026-10-23",
+    "summary": "The Washington Square Mall area is pictured Jan. 7, 2026, in Indianapolis.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_09.jpg?fit=780%2C491&ssl=1",
+    "url": "https://mirrorindy.org/developer-plan-resort-washington-square-mall-far-eastside-indianapolis"
+  },
+  {
     "id": "mirror-indy-what-party-are-you-indiana-law-transformed-school-board-races-2026-10-23",
     "title": "“What party are you?” Indiana law transformed school board races",
     "source": "Mirror Indy",
@@ -61,43 +85,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/bf/de/6efff3d944d6bd6ec1ac02ec0515/cultural-trail-signage-1.png",
     "url": "https://www.wfyi.org/wfyi-news/2026-10-22/new-signs-along-indianapolis-cultural-trail-aim-to-help-people-find-nearby-attractions"
-  },
-  {
-    "id": "mirror-indy-learn-about-indiana-s-new-medicaid-work-requirements-2026-10-22",
-    "title": "Learn about Indiana’s new Medicaid work requirements",
-    "source": "Mirror Indy",
-    "date": "2026-10-22",
-    "summary": "Shepherd Community Center will host information sessions about Indiana’s new Medicaid work requirements on Oct. 28 and Nov. 7.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/ENT-HHC-BUDGET.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-medicaid-healthy-indiana-plan-work-requirements-shepherd-community-center-information-sessions"
-  },
-  {
-    "id": "mirror-indy-how-much-money-will-charters-get-in-the-indy-schools-referendum-2026-10-22",
-    "title": "How much money will charters get in the Indy schools referendum?",
-    "source": "Mirror Indy",
-    "date": "2026-10-22",
-    "summary": "The kindergarten class of Elizabeth Volz perform classwork on their computers during class. Paramount Cottage Home, Wednesday, Jan. 17, 2024, in Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/01172024_Paramount-Cottage-Home_01-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/ips-referendum-indianapolis-schools-november-2026-election-your-questions-answered"
-  },
-  {
-    "id": "mirror-indy-city-says-it-will-clean-not-close-fall-creek-trail-homeless-camp-2026-10-22",
-    "title": "City says it will clean — not close — Fall Creek Trail homeless camp",
-    "source": "Mirror Indy",
-    "date": "2026-10-22",
-    "summary": "A homeless encampment along Fall Creek Trail is seen from above on the Monon Bridge on Oct. 21, 2026, in Indianapolis.",
-    "categories": [
-      "housing-care",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261021_fall-creak-trail-homeless-camp_tf-2-scaled.jpg?fit=780%2C546&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-homeless-camp-cleaned-fall-creek-trail-monon-ophs"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-indy-parks-announce-the-reopening-of-sahm-park-and-upcoming-co-2026-10-22",
