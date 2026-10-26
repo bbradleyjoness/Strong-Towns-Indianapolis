@@ -1,5 +1,53 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-mirror-indy-s-guide-for-job-hunting-in-indianapolis-2026-10-26",
+    "title": "Mirror Indy’s guide for job hunting in Indianapolis",
+    "source": "Mirror Indy",
+    "date": "2026-10-26",
+    "summary": "There’s so much to consider. How do you figure out which companies in Indianapolis are hiring? What’s the best way to format a resume these days? How do I prepare for an interview?",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/JOB-FAIR_BE1.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/jobs-guide-resources-mirror-indy-employment-2026"
+  },
+  {
+    "id": "mirror-indy-there-s-tons-of-events-at-spirit-place-don-t-miss-these-7-2026-10-26",
+    "title": "There’s tons of events at Spirit & Place. Don’t miss these 7.",
+    "source": "Mirror Indy",
+    "date": "2026-10-26",
+    "summary": "An attendee examines students’ pieces after creating her own Nov. 1, 2024, during a kickoff event for Spirit &#038; Place Festival at Garfield Park Arts Center in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2024/11/spirit-and-place_IWH007.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/spirit-and-place-festival-november-events"
+  },
+  {
+    "id": "mirror-indy-will-local-online-backlash-stop-the-rise-of-ai-flyers-2026-10-26",
+    "title": "Will local online backlash stop the rise of AI flyers?",
+    "source": "Mirror Indy",
+    "date": "2026-10-26",
+    "summary": "Irvington is home to two landmarks — the 450-year-old Kile Oak tree and the 153-year-old Benton House. Maintaining the two is an all-hands-on-deck job.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ENT-AI-FLIERS_AB04-v3.png?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/ai-flyers-backlash-artists-neighbors-irvington-indianapolis"
+  },
+  {
+    "id": "indy-parks-wish-park-reopens-following-total-renovation-2026-10-26",
+    "title": "WISH Park Reopens Following Total Renovation",
+    "source": "Indy Parks",
+    "date": "2026-10-26",
+    "summary": "INDIANAPOLIS – Today marked the completion of enhancements to WISH Park on the city’s north side. The park was fully renovated this year with funding from the Lilly Endowment and Councilor Directed funding secured by Councilor Robinson. The neighborhood park...",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/wish-park-reopens-following-total-renovation"
+  },
+  {
     "id": "mirror-indy-help-find-the-missing-librarian-at-library-of-legends-2026-10-23",
     "title": "Help find the missing librarian at ‘Library of Legends’",
     "source": "Mirror Indy",
@@ -22,44 +70,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_09.jpg?fit=780%2C491&ssl=1",
     "url": "https://mirrorindy.org/developer-plan-resort-washington-square-mall-far-eastside-indianapolis"
-  },
-  {
-    "id": "mirror-indy-what-party-are-you-indiana-law-transformed-school-board-races-2026-10-23",
-    "title": "“What party are you?” Indiana law transformed school board races",
-    "source": "Mirror Indy",
-    "date": "2026-10-23",
-    "summary": "Rick Yoder, a Republican candidate for Goshen school board, places a sign on a street corner Oct. 13, 2026, in Goshen, Ind.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/PARTISAN-SCHOOL-BOARD-RACES_NL04.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/school-board-indiana-goshen"
-  },
-  {
-    "id": "mirror-indy-the-amish-have-historically-never-voted-that-s-changing-in-indiana-2026-10-23",
-    "title": "The Amish have historically never voted. That’s changing in Indiana",
-    "source": "Mirror Indy",
-    "date": "2026-10-23",
-    "summary": "Members of the Amish community, Samuel Stoltzfus and his wife Lillian Stoltzfus, vote at a polling center at the Garden Spot Village retirement community on Nov. 4, 2024, in New Holland, Pa.",
-    "categories": [
-      "community-action",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/Effort-to-get-Amish-to-vote_03-scaled-1.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/amish-voting-indiana-midterms"
-  },
-  {
-    "id": "mirror-indy-auto-repair-shop-withdraws-proposal-to-develop-southside-wetland-2026-10-23",
-    "title": "Auto repair shop withdraws proposal to develop southside wetland",
-    "source": "Mirror Indy",
-    "date": "2026-10-23",
-    "summary": "The Pleasant Run Creek Watershed is pictured on May 19, 2026, on the south side of Indianapolis. Southsiders are working to protect the land from a proposed development.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/20260519_FRANKLIN-TOWNSHIP-WETLANDS_BP_05.jpg?fit=780%2C478&ssl=1",
-    "url": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-rezone-petition-withdrawn-southside-metropolitan-development-commission"
   },
   {
     "id": "wfyi-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
