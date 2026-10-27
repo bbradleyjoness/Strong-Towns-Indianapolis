@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-ips-school-board-candidates-raise-over-150-000-from-political-action-groups-2026-10-26",
+    "title": "IPS school board candidates raise over $150,000 from political action groups",
+    "source": "Mirror Indy",
+    "date": "2026-10-26",
+    "summary": "Political action committees have given over $150,000 to candidates in the race for five seats on the Indianapolis Public Schools board — despite a change in Indiana law that will significantly dilute the board’s powers.",
+    "categories": [
+      "community-action",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ips-pac-funds-1_wfyi.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/ips-school-board-candidates-raise-over-150000-from-political-action-groups"
+  },
+  {
     "id": "mirror-indy-mirror-indy-s-guide-for-job-hunting-in-indianapolis-2026-10-26",
     "title": "Mirror Indy’s guide for job hunting in Indianapolis",
     "source": "Mirror Indy",
@@ -58,18 +71,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/EXP-LIBRARY-OF-LEGENDS_MG02.jpg?fit=780%2C519&ssl=1",
     "url": "https://mirrorindy.org/backlot-irvington-halloween-festival"
-  },
-  {
-    "id": "mirror-indy-developer-proposes-turning-washington-square-into-a-luxury-resort-2026-10-23",
-    "title": "Developer proposes turning Washington Square into a luxury resort",
-    "source": "Mirror Indy",
-    "date": "2026-10-23",
-    "summary": "The Washington Square Mall area is pictured Jan. 7, 2026, in Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20260107_FAR-EAST-DEVELOPMENTS_BP_09.jpg?fit=780%2C491&ssl=1",
-    "url": "https://mirrorindy.org/developer-plan-resort-washington-square-mall-far-eastside-indianapolis"
   },
   {
     "id": "wfyi-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
