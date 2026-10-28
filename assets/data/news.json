@@ -1,5 +1,31 @@
 [
   {
+    "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
+    "title": "An overnight parking program for people living in their cars is back. The need has not gone away",
+    "source": "WFYI",
+    "date": "2026-10-28",
+    "summary": "Not all people experiencing homelessness sleep outdoors or in shelters, many live in their cars. The goal of Safe Park Indy is to connect some of those people with a safe place to park at night.",
+    "categories": [
+      "housing-care",
+      "public-space"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ab/4a/0a33effe41068d60544a3e229860/safe-park-indy-restocking.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-10-28/indianapolis-safe-park-indy-unhoused-program-returns"
+  },
+  {
+    "id": "mirror-indy-indianapolis-to-build-nickel-plate-trail-bridge-over-82nd-street-2026-10-28",
+    "title": "Indianapolis to build Nickel Plate Trail Bridge over 82nd Street",
+    "source": "Mirror Indy",
+    "date": "2026-10-28",
+    "summary": "The city of Indianapolis is building a bridge extension of the Nickel Plate Trail in Castleton. The city said the proposed bridge project would carry the trail over 82nd Street.",
+    "categories": [
+      "mobility",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/nickel-plate-trail-bridge_DPW.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-to-build-nickel-plate-trail-bridge-over-82nd-street"
+  },
+  {
     "id": "mirror-indy-lawrence-passes-56m-budget-with-more-cash-for-roadwork-2026-10-27",
     "title": "Lawrence passes $56M budget with more cash for roadwork",
     "source": "Mirror Indy",
@@ -34,31 +60,6 @@
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/261023_Data-center-impact-on-elections_KLG002-scaled-1.jpg?fit=780%2C511&ssl=1",
     "url": "https://mirrorindy.org/data-centers-indiana-elections-miami-elkhart-counties"
-  },
-  {
-    "id": "mirror-indy-ips-school-board-candidates-raise-over-150-000-from-political-action-groups-2026-10-26",
-    "title": "IPS school board candidates raise over $150,000 from political action groups",
-    "source": "Mirror Indy",
-    "date": "2026-10-26",
-    "summary": "Political action committees have given over $150,000 to candidates in the race for five seats on the Indianapolis Public Schools board — despite a change in Indiana law that will significantly dilute the board’s powers.",
-    "categories": [
-      "community-action",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/ips-pac-funds-1_wfyi.jpeg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/ips-school-board-candidates-raise-over-150000-from-political-action-groups"
-  },
-  {
-    "id": "mirror-indy-mirror-indy-s-guide-for-job-hunting-in-indianapolis-2026-10-26",
-    "title": "Mirror Indy’s guide for job hunting in Indianapolis",
-    "source": "Mirror Indy",
-    "date": "2026-10-26",
-    "summary": "There’s so much to consider. How do you figure out which companies in Indianapolis are hiring? What’s the best way to format a resume these days? How do I prepare for an interview?",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/07/JOB-FAIR_BE1.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/jobs-guide-resources-mirror-indy-employment-2026"
   },
   {
     "id": "indy-parks-wish-park-reopens-following-total-renovation-2026-10-26",
