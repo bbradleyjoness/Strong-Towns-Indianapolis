@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-a-push-to-improve-indy-s-911-answering-times-2026-10-29",
+    "title": "A push to improve Indy’s 911 answering times",
+    "source": "Mirror Indy",
+    "date": "2026-10-29",
+    "summary": "Morgan McCarty, fire and EMS control operator, answers calls Oct. 28, 2026 at Metropolitan Emergency Services Agency in Indianapolis. McCarty has been an operator for nine years.",
+    "categories": [
+      "housing-care",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261028_DAY-911-DELAYS_CP_0254_WP.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-911-call-delays-2026-budget-emergency-services-mayor-joe-hogsett-jesse-brown"
+  },
+  {
     "id": "mirror-indy-check-out-13-free-creative-writing-classes-2026-10-29",
     "title": "Check out 13 free creative writing classes",
     "source": "Mirror Indy",
@@ -36,19 +49,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ab/4a/0a33effe41068d60544a3e229860/safe-park-indy-restocking.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-10-28/indianapolis-safe-park-indy-unhoused-program-returns"
-  },
-  {
-    "id": "mirror-indy-indianapolis-to-build-nickel-plate-trail-bridge-over-82nd-street-2026-10-28",
-    "title": "Indianapolis to build Nickel Plate Trail Bridge over 82nd Street",
-    "source": "Mirror Indy",
-    "date": "2026-10-28",
-    "summary": "The city of Indianapolis is building a bridge extension of the Nickel Plate Trail in Castleton. The city said the proposed bridge project would carry the trail over 82nd Street.",
-    "categories": [
-      "mobility",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/nickel-plate-trail-bridge_DPW.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-to-build-nickel-plate-trail-bridge-over-82nd-street"
   },
   {
     "id": "indy-parks-wish-park-reopens-following-total-renovation-2026-10-26",
