@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-tickets-on-sale-for-elevance-health-rink-public-skating-holiday-events-2026-10-30",
+    "title": "Tickets on sale for Elevance Health Rink public skating, holiday events",
+    "source": "Mirror Indy",
+    "date": "2026-10-30",
+    "summary": "The Elevance Health Rink at Morris Bicentennial Plaza will open for its fourth season Nov. 18 in downtown Indianapolis, bringing back public skating, special events and holiday activities.",
+    "categories": [
+      "urbanism",
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/elevance-health-ice-rink_WISHTV.jpg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/tickets-on-sale-for-elevance-health-rink-public-skating-holiday-events"
+  },
+  {
+    "id": "mirror-indy-ice-detainees-sue-over-alleged-abuse-inhumane-conditions-at-indiana-prison-2026-10-30",
+    "title": "ICE detainees sue over alleged abuse, inhumane conditions at Indiana prison",
+    "source": "Mirror Indy",
+    "date": "2026-10-30",
+    "summary": "Indiana began housing Immigration and Customs Enforcement detainees at Miami Correctional in Bunker Hill in October 2025 through a two-year contract with the U.S. Department of Homeland Security.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/miami-correctional-1_WFYI.jpeg?fit=780%2C439&ssl=1",
+    "url": "https://mirrorindy.org/ice-detainees-sue-over-alleged-abuse-inhumane-conditions-at-indiana-prison"
+  },
+  {
+    "id": "mirror-indy-3-historic-indy-churches-granted-350k-for-repairs-2026-10-30",
+    "title": "3 historic Indy churches granted $350K for repairs",
+    "source": "Mirror Indy",
+    "date": "2026-10-30",
+    "summary": "Three Indianapolis churches received grants Oct. 27 from Indiana Landmarks’ Sacred Places Indiana Fund . The awards are part of a more than $2.5 million grant to support historic congregations with significant building needs throughout the state.",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/BRF-INDY-CHURCH-AWARDS-.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/ebenezer-baptist-irvington-united-methodist-st-timothy-episcopal-church-indianapolis-indiana-landmarks-sacred-places-fund"
+  },
+  {
     "id": "mirror-indy-a-push-to-improve-indy-s-911-answering-times-2026-10-29",
     "title": "A push to improve Indy’s 911 answering times",
     "source": "Mirror Indy",
@@ -23,19 +60,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/260210_DAY-SENIOR-AI-LITERACY_DM014-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/free-community-creative-writing-workshops-indianapolis-public-library"
-  },
-  {
-    "id": "mirror-indy-nuisance-or-historic-landmark-former-ips-school-18-eyed-for-demolition-2026-10-29",
-    "title": "Nuisance or historic landmark? Former IPS School 18 eyed for demolition",
-    "source": "Mirror Indy",
-    "date": "2026-10-29",
-    "summary": "City-County Archivist Deedee Davis, left, and Nathaniel Scroggins, a Bates-Hendricks neighborhood board member who lives down the street from the former Abraham Lincoln Public School #18, inspect a land acknowledgment sign on the front of the 120-year-old...",
-    "categories": [
-      "housing-care",
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/20261014_ENT-BATES-HENDRICKS-SCHOOL-DEMOLITION_CP_0018.jpg?fit=780%2C582&ssl=1",
-    "url": "https://mirrorindy.org/abraham-lincoln-public-school-18-demolish-southside-bates-hendricks-indianapolis-neighborhood-housing-partnership-marion-county"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
