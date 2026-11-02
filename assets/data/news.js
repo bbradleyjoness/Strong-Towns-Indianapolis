@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-former-eastside-ymca-is-for-sale-residents-say-they-feel-abandoned-2026-11-02",
+    "title": "Former eastside YMCA is for sale. Residents say they feel abandoned.",
+    "source": "Mirror Indy",
+    "date": "2026-11-02",
+    "summary": "Supporters gather during a rally organized by the group Save Ransburg YMCA outside the City-County Building on March 12, 2026, in Indianapolis. Community members and advocates called on city leaders to intervene as the Ransburg YMCA is scheduled to close at...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/03/260312_YMCA-Rally_DM003-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/ymca-indianapolis-east-side-ransburg-for-sale-irvington"
+  },
+  {
     "id": "mirror-indy-dc-blox-is-offering-15m-in-community-investment-with-eastside-data-center-2026-10-30",
     "title": "DC Blox is offering $15M in community investment with eastside data center",
     "source": "Mirror Indy",
@@ -49,18 +61,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/miami-correctional-1_WFYI.jpeg?fit=780%2C439&ssl=1",
     "url": "https://mirrorindy.org/ice-detainees-sue-over-alleged-abuse-inhumane-conditions-at-indiana-prison"
-  },
-  {
-    "id": "mirror-indy-3-historic-indy-churches-granted-350k-for-repairs-2026-10-30",
-    "title": "3 historic Indy churches granted $350K for repairs",
-    "source": "Mirror Indy",
-    "date": "2026-10-30",
-    "summary": "Three Indianapolis churches received grants Oct. 27 from Indiana Landmarks’ Sacred Places Indiana Fund . The awards are part of a more than $2.5 million grant to support historic congregations with significant building needs throughout the state.",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/10/BRF-INDY-CHURCH-AWARDS-.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/ebenezer-baptist-irvington-united-methodist-st-timothy-episcopal-church-indianapolis-indiana-landmarks-sacred-places-fund"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
