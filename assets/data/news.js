@@ -1,15 +1,15 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-indy-school-advocates-celebrate-referendum-win-2026-11-03",
-    "title": "Indy school advocates celebrate referendum win",
+    "id": "mirror-indy-walk-through-kurt-vonnegut-s-slaughterhouse-five-in-new-exhibition-2026-11-04",
+    "title": "Walk through Kurt Vonnegut’s ‘Slaughterhouse-Five’ in new exhibition",
     "source": "Mirror Indy",
-    "date": "2026-11-03",
-    "summary": "Students walk to buses after dismissal on Sept. 17, 2026, at Ben Davis High School in Indianapolis.",
+    "date": "2026-11-04",
+    "summary": "Julia Withead, founder and CEO of the Kurt Vonnegut Museum &#038; Library, worked with students from Purdue University’s engineering program for the “Tralfamadore: An Immersive Slaughterhouse-Five Experience” exhibition.",
     "categories": [
-      "mobility"
+      "public-space"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/09/20260918_ELX_REFERENDUM_CLASSROOM_CP_0083_tonedWP.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/marion-county-school-referendum-results-2026-election"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/1000010126-scaled-e1793621918548.jpg?fit=780%2C552&ssl=1",
+    "url": "https://mirrorindy.org/slaughterhouse-five-kurt-vonnegut-museum-library-exhibition"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
