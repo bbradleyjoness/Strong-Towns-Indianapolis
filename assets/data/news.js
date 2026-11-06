@@ -1,5 +1,18 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-indy-to-consider-113m-in-tax-incentives-for-dc-blox-2026-11-05",
+    "title": "Indy to consider $113M in tax incentives for DC Blox",
+    "source": "Mirror Indy",
+    "date": "2026-11-05",
+    "summary": "The west-facing view of a 150-acre industrial park near the intersection of the Pennsy Trail and South Kitley Avenue in Irvington on May 31, 2026. Georgia-based developer DC Blox wants to build a data center at the site.",
+    "categories": [
+      "urbanism",
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV01.jpg?fit=780%2C507&ssl=1",
+    "url": "https://mirrorindy.org/dc-blox-data-center-indy-economic-development-east-side-tax-breaks"
+  },
+  {
     "id": "mirror-indy-say-goodbye-to-parkside-public-house-with-a-meal-2026-11-04",
     "title": "Say goodbye to Parkside Public House with a meal",
     "source": "Mirror Indy",
@@ -10,18 +23,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/image-2.png?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/parkside-public-house-closeout-sale-event-garfield-park-indianapolis"
-  },
-  {
-    "id": "mirror-indy-hogsett-waives-permit-fees-indefinitely-for-flood-damaged-properties-2026-11-04",
-    "title": "Hogsett waives permit fees indefinitely for flood-damaged properties",
-    "source": "Mirror Indy",
-    "date": "2026-11-04",
-    "summary": "Although floodwaters are receding, some homes remain flooded on Aug. 17, 2026, in the Ravenswood neighborhood of Indianapolis.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/08/20260717_RavenswoodFlood_CP_202TONED-scaled.jpg?fit=780%2C504&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-flood-building-permit-fees-waived-indefinitely-joe-hogsett"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
