@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-the-new-it-girl-of-the-marathon-2026-11-06",
+    "title": "The new ‘It Girl’ of the marathon",
+    "source": "Mirror Indy",
+    "date": "2026-11-06",
+    "summary": "Emma Grace Hurley competes in the Chicago Marathon on Oct. 11, 2026.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/ENT-DISTANCE-RUNNER_08.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/emma-grace-hurley-los-angeles-track-olympics-indianapolis-broad-ripple-monon-trail"
+  },
+  {
     "id": "mirror-indy-indy-to-consider-113m-in-tax-incentives-for-dc-blox-2026-11-05",
     "title": "Indy to consider $113M in tax incentives for DC Blox",
     "source": "Mirror Indy",
@@ -11,18 +23,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV01.jpg?fit=780%2C507&ssl=1",
     "url": "https://mirrorindy.org/dc-blox-data-center-indy-economic-development-east-side-tax-breaks"
-  },
-  {
-    "id": "mirror-indy-say-goodbye-to-parkside-public-house-with-a-meal-2026-11-04",
-    "title": "Say goodbye to Parkside Public House with a meal",
-    "source": "Mirror Indy",
-    "date": "2026-11-04",
-    "summary": "A photo of the outside of Parkside Public House. The restaurant is closing after two years at its location in Garfield Park.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/image-2.png?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/parkside-public-house-closeout-sale-event-garfield-park-indianapolis"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
