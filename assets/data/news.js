@@ -1,28 +1,40 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-the-new-it-girl-of-the-marathon-2026-11-06",
-    "title": "The new ‘It Girl’ of the marathon",
+    "id": "mirror-indy-learn-what-s-next-for-indiana-avenue-at-this-nov-17-event-2026-11-09",
+    "title": "Learn what’s next for Indiana Avenue at this Nov. 17 event",
     "source": "Mirror Indy",
-    "date": "2026-11-06",
-    "summary": "Emma Grace Hurley competes in the Chicago Marathon on Oct. 11, 2026.",
+    "date": "2026-11-09",
+    "summary": "The Madam C. J. Walker Building is home to the Madam Walker Legacy Center and the last surviving building of the Indiana Avenue entertainment and business hub of Black people during the 1920s to 1950s in Indianapolis. The building received National Historic...",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Walker_1-scaled.jpg?fit=780%2C532&ssl=1",
+    "url": "https://mirrorindy.org/indiana-avenue-strategic-plan-city-indianapolis-2026"
+  },
+  {
+    "id": "mirror-indy-meet-astronaut-mae-jemison-and-hear-kids-rhyme-at-this-festival-2026-11-09",
+    "title": "Meet astronaut Mae Jemison and hear kids rhyme at this festival",
+    "source": "Mirror Indy",
+    "date": "2026-11-09",
+    "summary": "Tell them they can dream even larger and meet real-life astronaut Mae Jemison at the 2026 Fall Fest and Slammin’ Rhymes Challenge XX .",
     "categories": [
       "public-space"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/ENT-DISTANCE-RUNNER_08.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/emma-grace-hurley-los-angeles-track-olympics-indianapolis-broad-ripple-monon-trail"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/Mae_Jemison_-_Flickr_-_NASA_on_The_Commons-scaled.jpg?fit=780%2C516&ssl=1",
+    "url": "https://mirrorindy.org/2026-fall-fest-slammin-rhymes-challenge-xx-mae-jemison-astronaut"
   },
   {
-    "id": "mirror-indy-indy-to-consider-113m-in-tax-incentives-for-dc-blox-2026-11-05",
-    "title": "Indy to consider $113M in tax incentives for DC Blox",
+    "id": "mirror-indy-neighborhood-leaders-devington-plaza-redevelopment-takes-time-2026-11-09",
+    "title": "Neighborhood leaders: Devington Plaza redevelopment takes time",
     "source": "Mirror Indy",
-    "date": "2026-11-05",
-    "summary": "The west-facing view of a 150-acre industrial park near the intersection of the Pennsy Trail and South Kitley Avenue in Irvington on May 31, 2026. Georgia-based developer DC Blox wants to build a data center at the site.",
+    "date": "2026-11-09",
+    "summary": "Devington Plaza on March 14, 2025, near the intersection of East 46th Street and North Arlington Avenue on the east side of Indianapolis.",
     "categories": [
-      "urbanism",
-      "community-action"
+      "public-space",
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/DAY-DC-BLOX-DISTRICTS_IDV01.jpg?fit=780%2C507&ssl=1",
-    "url": "https://mirrorindy.org/dc-blox-data-center-indy-economic-development-east-side-tax-breaks"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/03/0314-devington-plaza_JRW06.jpg?fit=780%2C527&ssl=1",
+    "url": "https://mirrorindy.org/east-side-indianapolis-devington-plaza-development-vacant-property"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
