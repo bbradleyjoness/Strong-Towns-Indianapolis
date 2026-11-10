@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-committee-recommends-no-tax-break-for-controversial-indianapolis-data-center-2026-11-10",
+    "title": "Committee recommends no tax break for controversial Indianapolis data center",
+    "source": "WFYI",
+    "date": "2026-11-10",
+    "summary": "The data center developer DC Blox is seeking roughly $113 million in tax abatements for its $1.8 billion data campus planned for the city's east side near Irvington.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/66/ba/47590708479c91404348b5388a1c/data-center-protesters-farrah-anderson-wfyi-1.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-11-09/committee-recommends-no-tax-break-for-controversial-indianapolis-data-center"
+  },
+  {
     "id": "mirror-indy-learn-what-s-next-for-indiana-avenue-at-this-nov-17-event-2026-11-09",
     "title": "Learn what’s next for Indiana Avenue at this Nov. 17 event",
     "source": "Mirror Indy",
@@ -60,18 +72,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/wish-park-reopens-following-total-renovation"
-  },
-  {
-    "id": "wfyi-problem-solving-courts-are-a-lifeline-now-they-re-being-cut-2026-10-22",
-    "title": "Problem-solving courts are a lifeline. Now they're being cut",
-    "source": "WFYI",
-    "date": "2026-10-22",
-    "summary": "Marion County is winding down courts that support people with mental health and substance-use.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/de/78/c2b6ccf049c7828c82a35372d5f4/april-cara-penquite-mirror-indy.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-10-22/problem-solving-courts-are-a-lifeline-now-theyre-being-cut"
   },
   {
     "id": "indy-parks-mayor-hogsett-and-indy-parks-announce-the-reopening-of-sahm-park-and-upcoming-co-2026-10-22",
