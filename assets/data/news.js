@@ -1,5 +1,17 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-impd-officers-to-distribute-emergency-food-bags-to-residents-in-crisis-2026-11-11",
+    "title": "IMPD officers to distribute emergency food bags to residents in crisis",
+    "source": "Mirror Indy",
+    "date": "2026-11-11",
+    "summary": "Officers with the Indianapolis Metropolitan Police Department will soon carry emergency food bags to help those facing hunger during crisis calls.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/impd-food-handout_WISHTV.jpg?fit=780%2C573&ssl=1",
+    "url": "https://mirrorindy.org/impd-officers-to-distribute-emergency-food-bags-to-residents-in-crisis"
+  },
+  {
     "id": "mirror-indy-ips-will-close-schools-in-the-summer-but-it-s-unclear-which-ones-2026-11-11",
     "title": "IPS will close schools in the summer — but it’s unclear which ones",
     "source": "Mirror Indy",
