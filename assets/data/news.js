@@ -1,5 +1,31 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-community-heights-paved-the-way-for-permanent-road-safety-changes-2026-11-12",
+    "title": "Community Heights paved the way for permanent road safety changes",
+    "source": "Mirror Indy",
+    "date": "2026-11-12",
+    "summary": "A crosswalk sign at the intersection of 10th Street and Emerson Avenue on Nov. 12, 2026, on the east side of Indianapolis.",
+    "categories": [
+      "mobility",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/DAY-COMMUNITY-HEIGHTS-PROJECT_JRW06.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/community-heights-east-side-indianapolis-safety-10th-street-tactical-urbanism"
+  },
+  {
+    "id": "mirror-indy-what-should-indy-do-to-fix-limited-housing-options-share-your-input-2026-11-12",
+    "title": "What should Indy do to fix limited housing options? Share your input.",
+    "source": "Mirror Indy",
+    "date": "2026-11-12",
+    "summary": "Bridges Townhomes are pictured Feb. 26, 2026, located in the near east side of Indianapolis. The new townhomes are part of a housing project by Englewood Community Development Corporation, in partnership with Wheeler Mission&#8217;s women and children&#8217;s...",
+    "categories": [
+      "housing-care",
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/20260226_BRIDGES-TOWNHOMES_BP_15.jpg?fit=780%2C498&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-proposed-housing-ordinance-amendment-duplex-affordability-department-metropolitan-development-community-meeting"
+  },
+  {
     "id": "mirror-indy-impd-officers-to-distribute-emergency-food-bags-to-residents-in-crisis-2026-11-11",
     "title": "IMPD officers to distribute emergency food bags to residents in crisis",
     "source": "Mirror Indy",
@@ -48,18 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://npr-brightspot.s3.amazonaws.com/66/ba/47590708479c91404348b5388a1c/data-center-protesters-farrah-anderson-wfyi-1.jpg",
     "url": "https://www.wfyi.org/wfyi-news/2026-11-09/committee-recommends-no-tax-break-for-controversial-indianapolis-data-center"
-  },
-  {
-    "id": "mirror-indy-madison-avenue-road-diet-delayed-after-crack-found-in-retaining-wall-workers-dis-2026-11-10",
-    "title": "Madison Avenue road diet delayed after crack found in retaining wall, ‘workers disappeared’",
-    "source": "Mirror Indy",
-    "date": "2026-11-10",
-    "summary": "In September 2024, the City of Indianapolis announced a “road diet” project for Madison Avenue, which will shrink the number of lanes and add new curbs and sidewalks.",
-    "categories": [
-      "mobility"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/madison-ave-diet-2_WRTV.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/madison-avenue-road-diet-delayed-after-crack-found-in-retaining-wall-workers-disappeared"
   },
   {
     "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
