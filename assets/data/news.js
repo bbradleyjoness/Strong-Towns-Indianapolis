@@ -74,19 +74,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://www.wfyi.org/wfyi-news/2026-11-09/committee-recommends-no-tax-break-for-controversial-indianapolis-data-center"
   },
   {
-    "id": "wfyi-an-overnight-parking-program-for-people-living-in-their-cars-is-back-the-need-ha-2026-10-28",
-    "title": "An overnight parking program for people living in their cars is back. The need has not gone away",
-    "source": "WFYI",
-    "date": "2026-10-28",
-    "summary": "Not all people experiencing homelessness sleep outdoors or in shelters, many live in their cars. The goal of Safe Park Indy is to connect some of those people with a safe place to park at night.",
-    "categories": [
-      "housing-care",
-      "public-space"
-    ],
-    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/ab/4a/0a33effe41068d60544a3e229860/safe-park-indy-restocking.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-10-28/indianapolis-safe-park-indy-unhoused-program-returns"
-  },
-  {
     "id": "indy-parks-wish-park-reopens-following-total-renovation-2026-10-26",
     "title": "WISH Park Reopens Following Total Renovation",
     "source": "Indy Parks",
