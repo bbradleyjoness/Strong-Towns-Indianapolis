@@ -1,5 +1,41 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-attend-a-free-grief-scream-session-in-indianapolis-2026-11-16",
+    "title": "Attend a free grief scream session in Indianapolis",
+    "source": "Mirror Indy",
+    "date": "2026-11-16",
+    "summary": "You can attend a free scream release session in Indianapolis on Nov. 30.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/BRF-grief-group-scream-release-scaled.jpeg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-grief-group-scream-release-broad-ripple-events-madabolic-gym"
+  },
+  {
+    "id": "mirror-indy-a-love-story-with-christ-southside-nuns-grateful-for-monastery-2026-11-16",
+    "title": "‘A love story with Christ:’ Southside nuns grateful for monastery",
+    "source": "Mirror Indy",
+    "date": "2026-11-16",
+    "summary": "Sister Mary Luke Jones stands during midday prayer along with the other sisters Nov. 4, 2026, at Our Lady of Grace Monastery in Beech Grove, Ind.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/261104_BEECHGROVEMONASTERY_06.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/south-side-catholic-nun-lady-grace-monastery-beech-grove-sisters-new-building-indianapolis"
+  },
+  {
+    "id": "indy-parks-discover-your-thing-five-ways-to-get-involved-with-indy-parks-2026-11-16",
+    "title": "Discover Your Thing: Five Ways to Get Involved with Indy Parks",
+    "source": "Indy Parks",
+    "date": "2026-11-16",
+    "summary": "Looking for a new hobby, a fun way to spend your free time, or an opportunity to learn something new? Indy Parks offers programs for all ages and interests, making it easier than ever to get out, get creative, and discover something you love.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/discover-your-thing-five-ways-to-get-involved-with-indy-parks"
+  },
+  {
     "id": "mirror-indy-indiana-to-hold-key-financial-aid-award-at-current-rates-2026-11-13",
     "title": "Indiana to hold key financial aid award at current rates",
     "source": "Mirror Indy",
@@ -48,18 +84,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/LAWRENCE-BUDGET_COMMON-COUNCIL_SA011-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/lawrence-youth-student-leadership-program-deb-whitfield-east-side-indianapolis"
-  },
-  {
-    "id": "mirror-indy-how-the-data-center-debate-impacted-indiana-s-election-2026-11-12",
-    "title": "How the data center debate impacted Indiana’s election",
-    "source": "Mirror Indy",
-    "date": "2026-11-12",
-    "summary": "The site of a mid-redevelopment Google data center on Oct. 30, 2026, at 402 Royal Road in Michigan City, Ind.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/Data-center-politics-follow-up_BDS004.jpg?fit=780%2C439&ssl=1",
-    "url": "https://mirrorindy.org/data-center-election-results"
   },
   {
     "id": "wfyi-committee-recommends-no-tax-break-for-controversial-indianapolis-data-center-2026-11-10",
