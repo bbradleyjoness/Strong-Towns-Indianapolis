@@ -1,5 +1,42 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-popular-library-of-things-program-expanding-in-2027-2026-11-17",
+    "title": "Popular ‘Library of Things’ program expanding in 2027",
+    "source": "Mirror Indy",
+    "date": "2026-11-17",
+    "summary": "Next year, that will be easier than ever. The Indianapolis Public Library is expanding the Library of Things , a lending program where library cardholders can borrow items such as crafts, tools and toys for free using their library cards.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06092026_Library008-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-public-library-things-lending-program-2027"
+  },
+  {
+    "id": "mirror-indy-indiana-health-commissioner-says-public-health-is-generating-return-on-investmen-2026-11-17",
+    "title": "Indiana health commissioner says public health is generating return on investment",
+    "source": "Mirror Indy",
+    "date": "2026-11-17",
+    "summary": "Indiana Health Commissioner Dr. Lindsay Weaver, right, presents a public health report on Monday, Nov. 16, 2026.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/public-health-1_ICC.jpg?fit=780%2C381&ssl=1",
+    "url": "https://mirrorindy.org/indiana-health-commissioner-says-public-health-is-generating-return-on-investment"
+  },
+  {
+    "id": "indy-parks-indy-parks-announces-major-new-technology-modernization-2026-11-17",
+    "title": "Indy Parks Announces Major New Technology Modernization",
+    "source": "Indy Parks",
+    "date": "2026-11-17",
+    "summary": "Indy Parks will be rolling out a new program registration and rental platform in 2027 along with new tap to pay technology",
+    "categories": [
+      "public-space",
+      "housing-care"
+    ],
+    "thumbnail": "",
+    "url": "https://parks.indy.gov/indy-parks-announces-major-new-technology-modernization"
+  },
+  {
     "id": "mirror-indy-attend-a-free-grief-scream-session-in-indianapolis-2026-11-16",
     "title": "Attend a free grief scream session in Indianapolis",
     "source": "Mirror Indy",
@@ -47,43 +84,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/fin-aid-award-higher-ed_ICC.jpg?fit=780%2C433&ssl=1",
     "url": "https://mirrorindy.org/indiana-to-hold-key-financial-aid-award-at-current-rates"
-  },
-  {
-    "id": "mirror-indy-after-25-years-what-s-new-at-tonic-ball-2026-11-13",
-    "title": "After 25 years, what’s new at Tonic Ball?",
-    "source": "Mirror Indy",
-    "date": "2026-11-13",
-    "summary": "Tonic Ball brings together Indy’s best bands and musicians on the Friday before Thanksgiving for an annual music festival at venues in Indy’s Fountain Square neighborhood in support of Second Helpings, a Central Indiana nonprofit fighting hunger from all...",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/Untitled-307-scaled.jpg?fit=780%2C555&ssl=1",
-    "url": "https://mirrorindy.org/tonic-ball-25-years"
-  },
-  {
-    "id": "mirror-indy-indy-s-free-eviction-program-short-on-funding-for-2027-2026-11-13",
-    "title": "Indy’s free eviction program short on funding for 2027",
-    "source": "Mirror Indy",
-    "date": "2026-11-13",
-    "summary": "Court navigators John-Paul Cosgrove talks with people facing eviction Nov. 10, 2026, at the Wayne Township Small Claims Court in Indianapolis.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/20261110_ENT-EVICTION-NAVIGATOR-FUNDING_CP_0036_WP.jpg?fit=780%2C483&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-eviction-program-short-funding-2027-joe-hogsett-andrew-merkley-kimberly-bacon"
-  },
-  {
-    "id": "mirror-indy-lawrence-high-school-students-invited-to-participate-in-youth-council-2026-11-12",
-    "title": "Lawrence high school students invited to participate in youth council",
-    "source": "Mirror Indy",
-    "date": "2026-11-12",
-    "summary": "Mayor Deb Whitfield announced the creation of the Lawrence Mayor’s Youth Leadership Council . Members of the council will develop leadership skills, serve the community and share youth perspectives with the Mayor’s Office. Students will also participate in a...",
-    "categories": [
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/09/LAWRENCE-BUDGET_COMMON-COUNCIL_SA011-scaled.jpg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/lawrence-youth-student-leadership-program-deb-whitfield-east-side-indianapolis"
   },
   {
     "id": "wfyi-committee-recommends-no-tax-break-for-controversial-indianapolis-data-center-2026-11-10",
