@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "wfyi-indianapolis-rolls-out-winter-contingency-plans-for-people-experiencing-homeless-2026-11-18",
+    "title": "Indianapolis rolls out winter contingency plans for people experiencing homelessness",
+    "source": "WFYI",
+    "date": "2026-11-18",
+    "summary": "Indianapolis announced its Winter Contingency plan, which offers places for people who are unhoused to escape freezing temperatures and safely stay warm.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://npr-brightspot.s3.amazonaws.com/legacy/files/wfyi/articles/original/shelters-zach-bundy-wfyi.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-11-18/indianapolis-rolls-out-winter-contingency-plans-for-people-experiencing-homelessness"
+  },
+  {
+    "id": "mirror-indy-your-guide-to-vetting-indianapolis-nursing-homes-2026-11-18",
+    "title": "Your guide to vetting Indianapolis nursing homes",
+    "source": "Mirror Indy",
+    "date": "2026-11-18",
+    "summary": "If you’re considering a nursing home, there are several tools that will help you vet the facility for health and safety issues.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/EXP-NURSING-HOME-SAFETY-scaled.jpeg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/indiana-nursing-home-complaints-abuse-facility-survey-propublica-inspection-tool"
+  },
+  {
     "id": "mirror-indy-popular-library-of-things-program-expanding-in-2027-2026-11-17",
     "title": "Popular ‘Library of Things’ program expanding in 2027",
     "source": "Mirror Indy",
@@ -10,18 +34,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/06/06092026_Library008-scaled.jpg?fit=780%2C520&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-public-library-things-lending-program-2027"
-  },
-  {
-    "id": "mirror-indy-indiana-health-commissioner-says-public-health-is-generating-return-on-investmen-2026-11-17",
-    "title": "Indiana health commissioner says public health is generating return on investment",
-    "source": "Mirror Indy",
-    "date": "2026-11-17",
-    "summary": "Indiana Health Commissioner Dr. Lindsay Weaver, right, presents a public health report on Monday, Nov. 16, 2026.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/public-health-1_ICC.jpg?fit=780%2C381&ssl=1",
-    "url": "https://mirrorindy.org/indiana-health-commissioner-says-public-health-is-generating-return-on-investment"
   },
   {
     "id": "indy-parks-indy-parks-announces-major-new-technology-modernization-2026-11-17",
@@ -35,18 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "",
     "url": "https://parks.indy.gov/indy-parks-announces-major-new-technology-modernization"
-  },
-  {
-    "id": "mirror-indy-attend-a-free-grief-scream-session-in-indianapolis-2026-11-16",
-    "title": "Attend a free grief scream session in Indianapolis",
-    "source": "Mirror Indy",
-    "date": "2026-11-16",
-    "summary": "You can attend a free scream release session in Indianapolis on Nov. 30.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/BRF-grief-group-scream-release-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-grief-group-scream-release-broad-ripple-events-madabolic-gym"
   },
   {
     "id": "indy-parks-discover-your-thing-five-ways-to-get-involved-with-indy-parks-2026-11-16",
