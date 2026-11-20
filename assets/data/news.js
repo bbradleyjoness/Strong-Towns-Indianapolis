@@ -1,15 +1,28 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "wfyi-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-19",
-    "title": "Here's how to give input on data center zoning rules in Indianapolis",
-    "source": "WFYI",
-    "date": "2026-11-19",
-    "summary": "A Marion County group tasked with drafting a zoning ordinance for future data center development announced a kick-off event on Dec. 5. It wants the public to participate in the process.",
+    "id": "mirror-indy-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-20",
+    "title": "Here’s how to give input on data center zoning rules in Indianapolis",
+    "source": "Mirror Indy",
+    "date": "2026-11-20",
+    "summary": "The Thunderbird Commerce Center campus, which is on a brownfield site that used to be home to a Ford factory, sits along the Pennsy Trail near the intersection with Kitley Avenue on May 28, 2026, in Indianapolis. Atlanta-based DC Blox has proposed building a...",
     "categories": [
-      "urbanism"
+      "urbanism",
+      "mobility"
     ],
-    "thumbnail": "https://npr.brightspotcdn.com/dims4/default/b6f5a8b/2147483647/strip/false/crop/1760x920+0+0/resize/792x414!/quality/90?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F99%2F222f759240608d5ba7914e71e281%2Fdata-center-server-rack-lightsaber-collection-unsplash.jpg",
-    "url": "https://www.wfyi.org/wfyi-news/2026-11-19/marion-county-indianapolis-data-center-committee-meeting-schedule-zoning-rules"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW09.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/heres-how-to-give-input-on-data-center-zoning-rules-in-indianapolis"
+  },
+  {
+    "id": "mirror-indy-why-it-ll-be-easier-to-use-indy-parks-services-next-year-2026-11-20",
+    "title": "Why it’ll be easier to use Indy Parks services next year",
+    "source": "Mirror Indy",
+    "date": "2026-11-20",
+    "summary": "Ashley Klinesmith, 8, (left) and Jasmine Klinesmith, 15, play on the newly renovated Franklin Township Community Park on Oct. 15, 2025, in Indianapolis.",
+    "categories": [
+      "public-space"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251015_SOUTHSIDE-PARK_PLAYGROUND-RENOVATIONS_BP_11.jpg?fit=780%2C516&ssl=1",
+    "url": "https://mirrorindy.org/indy-parks-rec-programs-reservations-moving-new-system-indianapolis"
   },
   {
     "id": "mirror-indy-here-are-the-community-projects-coming-to-the-far-eastside-2026-11-19",
@@ -84,18 +97,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/Madam-Walker-Legacy-Center_roof.jpeg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/indiana-avenue-strategic-plan-city-indianapolis-dmd"
-  },
-  {
-    "id": "mirror-indy-your-guide-to-vetting-indianapolis-nursing-homes-2026-11-18",
-    "title": "Your guide to vetting Indianapolis nursing homes",
-    "source": "Mirror Indy",
-    "date": "2026-11-18",
-    "summary": "If you’re considering a nursing home, there are several tools that will help you vet the facility for health and safety issues.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/EXP-NURSING-HOME-SAFETY-scaled.jpeg?fit=780%2C520&ssl=1",
-    "url": "https://mirrorindy.org/indiana-nursing-home-complaints-abuse-facility-survey-propublica-inspection-tool"
   },
   {
     "id": "indy-parks-indy-parks-announces-major-new-technology-modernization-2026-11-17",
