@@ -13,6 +13,18 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/heres-how-to-give-input-on-data-center-zoning-rules-in-indianapolis"
   },
   {
+    "id": "mirror-indy-indy-veterans-face-barriers-to-getting-mental-healthcare-2026-11-20",
+    "title": "Indy veterans face barriers to getting mental healthcare",
+    "source": "Mirror Indy",
+    "date": "2026-11-20",
+    "summary": "John Goings sits for a portrait Nov. 9, 2026, at Easterseals Crossroads in Indianapolis, where he directs the military and veterans’ services department.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/ENT-VETERANS-HEALTH_JRW01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/indianapolis-veterans-va-healthcare-richard-roudebush-trump-staffing-cuts-wait-times-mental-health"
+  },
+  {
     "id": "mirror-indy-why-it-ll-be-easier-to-use-indy-parks-services-next-year-2026-11-20",
     "title": "Why it’ll be easier to use Indy Parks services next year",
     "source": "Mirror Indy",
@@ -84,19 +96,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/01/20251201_WINTER-CONTINGENCY_tf-4.jpg?fit=780%2C559&ssl=1",
     "url": "https://mirrorindy.org/indianapolis-homeless-shelters-open-winter-2026"
-  },
-  {
-    "id": "mirror-indy-here-s-what-the-city-envisions-for-indiana-avenue-2026-11-18",
-    "title": "Here’s what the city envisions for Indiana Avenue",
-    "source": "Mirror Indy",
-    "date": "2026-11-18",
-    "summary": "The Madam Walker Legacy Center is planning to build a rooftop venue atop the historic landmark building on Indiana Avenue.",
-    "categories": [
-      "urbanism",
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/02/Madam-Walker-Legacy-Center_roof.jpeg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/indiana-avenue-strategic-plan-city-indianapolis-dmd"
   },
   {
     "id": "indy-parks-indy-parks-announces-major-new-technology-modernization-2026-11-17",
