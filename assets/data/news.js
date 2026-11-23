@@ -1,16 +1,15 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
-    "id": "mirror-indy-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-20",
-    "title": "Here’s how to give input on data center zoning rules in Indianapolis",
+    "id": "mirror-indy-employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-fro-2026-11-23",
+    "title": "Employers can pay disabled people pennies on the hour. Indiana is moving away from the practice.",
     "source": "Mirror Indy",
-    "date": "2026-11-20",
-    "summary": "The Thunderbird Commerce Center campus, which is on a brownfield site that used to be home to a Ford factory, sits along the Pennsy Trail near the intersection with Kitley Avenue on May 28, 2026, in Indianapolis. Atlanta-based DC Blox has proposed building a...",
+    "date": "2026-11-23",
+    "summary": "Melody Cooper, a self-advocate for the Arc of Indiana, works at her desk at the Arc’s Indianapolis office on Wednesday, Nov. 18, 2026.",
     "categories": [
-      "urbanism",
-      "mobility"
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/05/DAY-DC-BLOX-DISTRICTS_JRW09.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/heres-how-to-give-input-on-data-center-zoning-rules-in-indianapolis"
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/indiana-disabled-wages_ICC.jpg?fit=780%2C585&ssl=1",
+    "url": "https://mirrorindy.org/employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-from-the-practice"
   },
   {
     "id": "mirror-indy-indy-veterans-face-barriers-to-getting-mental-healthcare-2026-11-20",
@@ -25,53 +24,16 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     "url": "https://mirrorindy.org/indianapolis-veterans-va-healthcare-richard-roudebush-trump-staffing-cuts-wait-times-mental-health"
   },
   {
-    "id": "mirror-indy-why-it-ll-be-easier-to-use-indy-parks-services-next-year-2026-11-20",
-    "title": "Why it’ll be easier to use Indy Parks services next year",
-    "source": "Mirror Indy",
-    "date": "2026-11-20",
-    "summary": "Ashley Klinesmith, 8, (left) and Jasmine Klinesmith, 15, play on the newly renovated Franklin Township Community Park on Oct. 15, 2025, in Indianapolis.",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/20251015_SOUTHSIDE-PARK_PLAYGROUND-RENOVATIONS_BP_11.jpg?fit=780%2C516&ssl=1",
-    "url": "https://mirrorindy.org/indy-parks-rec-programs-reservations-moving-new-system-indianapolis"
-  },
-  {
-    "id": "mirror-indy-here-are-the-community-projects-coming-to-the-far-eastside-2026-11-19",
-    "title": "Here are the community projects coming to the Far Eastside",
-    "source": "Mirror Indy",
+    "id": "wfyi-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-19",
+    "title": "Here's how to give input on data center zoning rules in Indianapolis",
+    "source": "WFYI",
     "date": "2026-11-19",
-    "summary": "The exterior of P30 coworking and event space on Sept. 2, 2025, on the Far Eastside of Indianapolis.",
+    "summary": "A Marion County group tasked with drafting a zoning ordinance for future data center development announced a kick-off event on Dec. 5. It wants the public to participate in the process.",
     "categories": [
-      "community-action"
+      "urbanism"
     ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/10/P30_BP004.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/far-east-side-indianapolis-community-projects-mini-grants"
-  },
-  {
-    "id": "mirror-indy-eastside-food-pantry-will-move-in-january-2026-11-19",
-    "title": "Eastside food pantry will move in January",
-    "source": "Mirror Indy",
-    "date": "2026-11-19",
-    "summary": "Volunteer Tom Hancock stocks shelves March 14, 2025, at Old Bethel and Partners Food Pantry in Indianapolis. The township trustee, Vernon Brown, says funding to community organizations like the food pantry could be cut if the township’s finances don’t improve.",
-    "categories": [
-      "housing-care",
-      "community-action"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2025/04/Warren-Township-Trustee_JRW015.jpg?fit=780%2C527&ssl=1",
-    "url": "https://mirrorindy.org/old-bethel-food-pantry-expand-moving-east-side-indianapolis"
-  },
-  {
-    "id": "mirror-indy-an-indianapolis-artist-put-up-a-sign-asking-strangers-to-sit-for-portraits-2026-11-19",
-    "title": "An Indianapolis artist put up a sign, asking strangers to sit for portraits",
-    "source": "Mirror Indy",
-    "date": "2026-11-19",
-    "summary": "Being drawn is a vulnerable thing. To put yourself in that position means you are being watched. So when I sat at Rabble Coffee on East 10th Street and the Spades Park library branch in Windsor Park to ask people to let me draw them, I wrote a sign that said:...",
-    "categories": [
-      "public-space"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/EXP-NEIGHBOR-COUNTOURS-FRL.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/ellery-diaz-participatory-art-neighbor-outlines-fall"
+    "thumbnail": "https://npr.brightspotcdn.com/dims4/default/b6f5a8b/2147483647/strip/false/crop/1760x920+0+0/resize/792x414!/quality/90?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1a%2F99%2F222f759240608d5ba7914e71e281%2Fdata-center-server-rack-lightsaber-collection-unsplash.jpg",
+    "url": "https://www.wfyi.org/wfyi-news/2026-11-19/marion-county-indianapolis-data-center-committee-meeting-schedule-zoning-rules"
   },
   {
     "id": "wfyi-indianapolis-rolls-out-winter-contingency-plans-for-people-experiencing-homeless-2026-11-18",
