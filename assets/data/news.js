@@ -1,5 +1,30 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-here-s-who-won-democrat-caucus-vote-for-westside-council-seat-2026-11-24",
+    "title": "Here’s who won Democrat caucus vote for westside council seat",
+    "source": "Mirror Indy",
+    "date": "2026-11-24",
+    "summary": "Jaclyn Fries (second from left) won a vote among Democratic Party precinct committee members Nov. 23, 2026, to fill a vacancy on the Indianapolis City-County Council. Fries posed for a photo after the vote with current Democratic council members, left to...",
+    "categories": [
+      "community-action"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/20261123_crista-wells-replacement_tf-scaled.jpg?fit=780%2C545&ssl=1",
+    "url": "https://mirrorindy.org/jaclyn-fries-wins-indianapolis-council-seat-caucus-vote-crista-wells-carla-simon"
+  },
+  {
+    "id": "mirror-indy-we-asked-ips-parents-how-they-feel-about-closing-schools-2026-11-24",
+    "title": "We asked IPS parents how they feel about closing schools",
+    "source": "Mirror Indy",
+    "date": "2026-11-24",
+    "summary": "Jess Martin’s son Julian, 8, prepares to ride his bike home after school on Nov. 20, 2026, at Benjamin Harrison Center for Inquiry 2 in Indianapolis.",
+    "categories": [
+      "community-action",
+      "mobility"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/20261120_IPS-PARENTS-REACT_BP_02.jpg?fit=780%2C510&ssl=1",
+    "url": "https://mirrorindy.org/ips-school-closure-proposal-families-feel-stuck-november-2026"
+  },
+  {
     "id": "mirror-indy-employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-fro-2026-11-23",
     "title": "Employers can pay disabled people pennies on the hour. Indiana is moving away from the practice.",
     "source": "Mirror Indy",
@@ -10,18 +35,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/indiana-disabled-wages_ICC.jpg?fit=780%2C585&ssl=1",
     "url": "https://mirrorindy.org/employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-from-the-practice"
-  },
-  {
-    "id": "mirror-indy-indy-veterans-face-barriers-to-getting-mental-healthcare-2026-11-20",
-    "title": "Indy veterans face barriers to getting mental healthcare",
-    "source": "Mirror Indy",
-    "date": "2026-11-20",
-    "summary": "John Goings sits for a portrait Nov. 9, 2026, at Easterseals Crossroads in Indianapolis, where he directs the military and veterans’ services department.",
-    "categories": [
-      "housing-care"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/ENT-VETERANS-HEALTH_JRW01.jpg?fit=780%2C519&ssl=1",
-    "url": "https://mirrorindy.org/indianapolis-veterans-va-healthcare-richard-roudebush-trump-staffing-cuts-wait-times-mental-health"
   },
   {
     "id": "wfyi-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-19",
