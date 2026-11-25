@@ -1,5 +1,29 @@
 globalThis.STRONG_TOWNS_NEWS_ITEMS = [
   {
+    "id": "mirror-indy-want-to-cook-more-nutritious-meals-learn-how-dec-1-and-15-2026-11-25",
+    "title": "Want to cook more nutritious meals? Learn how Dec. 1 and 15",
+    "source": "Mirror Indy",
+    "date": "2026-11-25",
+    "summary": "Learn healthy cooking skills for free Dec. 1 and 15.",
+    "categories": [
+      "housing-care"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2023/11/Haughville-MCHD-Nutrition-class-4-scaled.jpg?fit=780%2C520&ssl=1",
+    "url": "https://mirrorindy.org/free-nutrition-class-marion-county-public-health-department-gleaners-food-bank-decatur-township"
+  },
+  {
+    "id": "mirror-indy-how-uindy-is-helping-young-people-build-careers-in-construction-trades-2026-11-25",
+    "title": "How UIndy is helping young people build careers in construction trades",
+    "source": "Mirror Indy",
+    "date": "2026-11-25",
+    "summary": "Aunica Miller, a student in UIndy&#8217;s construction management program, listens Nov. 14, 2026, while visiting a construction site in Indianapolis. Miller is interested in getting certified to be a large crane operator in her future.",
+    "categories": [
+      "urbanism"
+    ],
+    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/ENT-UINDY-CONSTRUCTION-CLASSES_SA01.jpg?fit=780%2C519&ssl=1",
+    "url": "https://mirrorindy.org/uindy-construction-class-workforce-launchpad-onit-radiant-community-2026"
+  },
+  {
     "id": "mirror-indy-here-s-who-won-democrat-caucus-vote-for-westside-council-seat-2026-11-24",
     "title": "Here’s who won Democrat caucus vote for westside council seat",
     "source": "Mirror Indy",
@@ -23,18 +47,6 @@ globalThis.STRONG_TOWNS_NEWS_ITEMS = [
     ],
     "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/20261120_IPS-PARENTS-REACT_BP_02.jpg?fit=780%2C510&ssl=1",
     "url": "https://mirrorindy.org/ips-school-closure-proposal-families-feel-stuck-november-2026"
-  },
-  {
-    "id": "mirror-indy-employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-fro-2026-11-23",
-    "title": "Employers can pay disabled people pennies on the hour. Indiana is moving away from the practice.",
-    "source": "Mirror Indy",
-    "date": "2026-11-23",
-    "summary": "Melody Cooper, a self-advocate for the Arc of Indiana, works at her desk at the Arc’s Indianapolis office on Wednesday, Nov. 18, 2026.",
-    "categories": [
-      "urbanism"
-    ],
-    "thumbnail": "https://i0.wp.com/mirrorindy.org/wp-content/uploads/2026/11/indiana-disabled-wages_ICC.jpg?fit=780%2C585&ssl=1",
-    "url": "https://mirrorindy.org/employers-can-pay-disabled-people-pennies-on-the-hour-indiana-is-moving-away-from-the-practice"
   },
   {
     "id": "wfyi-here-s-how-to-give-input-on-data-center-zoning-rules-in-indianapolis-2026-11-19",
